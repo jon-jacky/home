@@ -1,0 +1,372 @@
+uncommon-lisps.txt - Oct 2011
++---
+
+Un-Common Lisps
+
+ http://staff.washington.edu/jon/uncommon-lisps.txt
+
+ Lisp histories
+
+ What's a Lisp?
+
+ Complaints about Common Lisp
+
+ Un-Common Lisps - 20th century
+  elisp
+  Scheme
+
+ Un-Common Lisps - 21st century
+  Arc
+  Clojure
+
+ Un-Lisps
+  Python
+  Ruby
+  Haskell, ML, F#, ...
+
+
+
+
++--
+
+Lisp histories
+
+ History of Lisp (McCarthy, 1979)
+ http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+
+ Lisp -- notes on its past and future (McCarthy, 1980)
+ http://www-formal.stanford.edu/jmc/lisp20th/node2.html
+
+ The Evolution of Lisp (Steele and Gabriel, 1992)
+ http://dreamsongs.com/Files/Hopl2.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
++--
+ 
+What's a Lisp?
+
+ Lisp -- notes on its past and future (McCarthy, 1980)
+ http://www-formal.stanford.edu/jmc/lisp20th/node2.html
+
+  As a programming language, LISP is characterized by the following ideas: 
+
+   10. The representation of LISP programs as LISP data that can be
+   manipulated by object programs. This has prevented the separation
+   between system programmers and application programmers. Everyone
+   can ``improve'' his LISP, and many of these ``improvements'' have
+   developed into improvements to the language.  ... (15 ideas in all)
+
+ Arc: An Unfinished Dialect of Lisp (Graham, 2001)
+ http://www.paulgraham.com/arcll1.html
+
+   Lisp is an unusual language because it has dialects. Lisp depends
+   on a small, definite, core of operators, and any language that has
+   these operators is a dialect of Lisp ... if you have the core
+   operators you can define all the rest. If you design a language
+   that has car, cdr, cons, quote, eq, cond, and a notation for
+   functions made of conses, then you've designed a dialect of Lisp,
+   even if you didn't mean to.
+
+
++--
+
+What's a Lisp? (2)
+
+ Parentheses
+ Programs are data
+ Abstract syntax = Concrete syntax
+ => Macros
+ ==>  It's easy to create a new Lisp *in Lisp*
+
+ comp.lang.lisp (Bradshaw, 2002)
+ http://groups.google.com/group/comp.lang.lisp/msg/b04ff2bee247fbe1
+
+   ... this is what Lisp is about.  Languages like Perl or Ruby (or C)
+   ... have a syntax which has been greatly optimized for that single
+   thing. ...
+   Lisp has decided not to decide.  Rather than provide a great mass
+   of syntactic tricks to support some particular style or programming
+   technique, Lisp provides a minimalist syntax which is just adequate
+   to express nested structures of various kinds without making any
+   commitment as to their meaning. The programmer then decides what
+   this syntax means in any instance.  ...
+   Lisp is a toolkit for language design not a toolkit for solving
+   problems in particular domain. ...
+
+
+
+
+
+
++--
+
+Complaints about Common Lisp
+
+ A Critique of Common Lisp, Brooks and Gabriel (1984)
+ http://dreamsongs.com/Files/clcrit.pdf
+
+  There was a belief (hope) ... (soon everyone would have a Lisp machine)
+
+ Common Lisp (after Dylan's Maggie's Farm), Skef Whorley (1987)
+ http://dinosaur-act.ath.cx/usenet-archive/news063f1/b83/comp/lang/lisp/00000612.html
+ 
+  The language specification is insane. ...
+
+ Fundamental problems with the Common Lisp language, Weinreb (2009)
+ http://ilc2009.scheming.org/node/7
+
+   Too many concepts; irregular
+   Hard to compile efficiently
+   Unimportant features that are hard to implement ...
+
+ These are mostly problems for compiler writers, not programmers
+
+ ".. the world is better having a Common Lisp than not."  - Brooks and Gabriel
+
++--
+
+ELisp - Emacs Lisp
+
+ EMACS: The Extensible, Customizable Display Editor (Stallman, 1981)
+ http://www.gnu.org/software/emacs/emacs-paper.html
+
+ Most widely used Lisp ?
+  Included with every Emacs install (every Mac OS X, most Linux/Unix)
+  Most of Emacs is written in ELisp
+
+ Dynamic scope
+
+  (defun foo1 (x) (foo2))
+  (defun foo2 () (+ x 5)) ; (foo1 2) returns 7, foo2 uses foo1's value of x
+
+ Guile and elisp (Hanowski and Browne, 2003)
+ http://groups.google.com/group/comp.lang.scheme/msg/1d9f8e0e337434b6   
+
+  a very archaic form of Lisp, ... predating both Scheme and Common Lisp
+  problem with dynamic scope ... wickedly difficult for the beginner to understand
+
+ We're using an elisp program to display these slides:
+  http://staff.washington.edu/jon/.emacs 
+
+
++--
+
+Scheme: design philosophy, language features
+
+ Revised^6 Report on the Algorithmic Language Scheme
+ http://www.r6rs.org/final/html/r6rs/r6rs.html
+
+  Programming languages should be designed not by piling feature on top
+  of feature, but by removing the weaknesses and restrictions that make
+  additional features appear necessary.
+
+  ... a very small number of rules for forming expressions, with no
+  restrictions on how they are composed ...
+
+ A Lisp-1: functions and values in the same namespace: no #', no funcall  
+  Common Lisp is a Lisp-2, functions and values in different namespaces
+
+ Same rules of evaluation for operators as for operands
+  ((if (foo? x) + *) 32 X 37) ; might apply + or * to 32, x, 37
+
+ Standard allows nondeterministic order of evaluation of arguments
+  Encourages pure functional programming without side effects
+
+ Continuations
+  On Lisp Ch 20: a single functional object containing the state of a computation
+
+
++--
+
+Scheme: programming language research, computer science education, embedded systems
+
+ Scheme: an interpreter for the extended lambda calculus (Steele and Sussman, 1975)
+ http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf
+
+ Lambda: The Ultimate ... (Steele and Sussman, 1975 -- 1980)
+ http://library.readscheme.org/page1.html
+
+ Structure and Interpretation of Computer Programs (Abelson and Sussman, 1984)
+ http://mitpress.mit.edu/sicp/
+
+ Simply Scheme: Introducing Computer Science (Harvey, 1999)
+ http://www.cs.berkeley.edu/~bh/ss-toc2.html
+
+ How to Design Programs (Felleisen, Findler, Flatt, Krishnamurthi, 2000)
+ http://htdp.org/
+
+ Racket (Scheme + libraries + IDE, formerly PLT Scheme)
+ http://racket-lang.org/
+
+ A Scheme Interpreter for ARM Microcontrollers (2011)
+ (with links to many other microprocessor Schemes)
+ http://armpit.sourceforge.net/
+
+
++--
+ 
+ Arc
+ http://www.paulgraham.com/arc.html
+ 
+ Arc: An Unfinished Dialect of Lisp (Graham, 2001)
+ http://www.paulgraham.com/arcll1.html
+
+   Common Lisp and Scheme date from a time when languages had to be
+   OS-neutral. A programming language couldn't have a concept of a
+   socket, for example; what if the underlying OS didn't have sockets?
+   That has changed. Now a language that won't let you open a socket
+   seems almost perversely inconvenient.
+
+   If you just made a Lisp that could talk to the OS and had powerful
+   string libraries, I think it would more than hold its own. We're
+   hoping to do more than that though. The aim with Arc is not to
+   update Common Lisp or Scheme. In Arc we're going to try to go back
+   to the origins of Lisp, in McCarthy's 1960 paper, and rebuild the
+   language from the bottom.
+
+   Arc is intended for server-based applications ...
+
+ Hacker News (Arc application)
+ http://news.ycombinator.com/
+
+
++--
+
+Clojure
+
+ http://clojure.org/
+
+  Lisp is a good thing -- Often emulated/pillaged, still not duplicated
+
+  Clojure is a dynamic programming language that targets the Java
+  Virtual Machine (and the CLR, and JavaScript). It is designed to be
+  a general-purpose language, combining the approachability and
+  interactive development of a scripting language with an efficient
+  and robust infrastructure for multithreaded programming. Clojure is
+  a compiled language - it compiles directly to JVM bytecode, yet
+  remains completely dynamic. Every feature supported by Clojure is
+  supported at runtime. Clojure provides easy access to the Java
+  frameworks, with optional type hints and type inference, to ensure
+  that calls to Java can avoid reflection.
+
+  Clojure is a dialect of Lisp, and shares with Lisp the code-as-data
+  philosophy and a powerful macro system. Clojure is predominantly a
+  functional programming language, and features a rich set of
+  immutable, persistent data structures. When mutable state is needed,
+  Clojure offers a software transactional memory system and reactive
+  Agent system that ensure clean, correct, multithreaded designs.
+
+
+
+
++---
+
+Un-Lisps: Python
+ 
+ Python for Lisp Programmers (Norvig)
+ http://www.norvig.com/python-lisp.html
+
+   Python can be seen as a dialect of Lisp with "traditional" syntax
+   (what Lisp people call "infix" or "m-lisp" syntax). ... Python
+   supports all of Lisp's essential features except macros, and you
+   don't miss macros all that much because it does have eval, and
+   operator overloading, and regular expression parsing, so some--but
+   not all--of the use cases for macros are covered.
+
+   Python can be seen as either a practical (better libraries) version
+   of Scheme, or as a cleaned-up (no $@&% characters) version of Perl.
+
+ Python has decorators, even closer to Lisp macros (compile-time transformation)
+  Python standard library provides access to compiler, abstract syntax trees
+
+ Python implementation of algorithms from 
+ Russell and Norvig's 'Artificial Intelligence: A Modern Approach'
+ http://code.google.com/p/aima-python/ 
+  compare to Lisp at http://aima.cs.berkeley.edu/lisp/doc/overview.html
+
+
++--
+
+Un-Lisps: Python (2)
+
+ Hacker News (Norvig, 2010):
+ http://news.ycombinator.com/item?id=1803815
+
+  Peter Norvig here. I came to Python not because I thought it was a
+  better/acceptable/pragmatic Lisp, but because it was better
+  pseudocode. Several students claimed that they had a hard time
+  mapping from the pseudocode in my AI textbook to the Lisp code that
+  Russell and I had online. So I looked for the language that was most
+  like our pseudocode, and found that Python was the best match. ...
+
+  I think Lisp still has an edge for larger projects and for
+  applications where the speed of the compiled code is important. But
+  Python has the edge (with a large number of students) when the main
+  goal is communication, not programming per se.
+
+  In terms of programming-in-the-large, at Google and elsewhere, I
+  think that language choice is not as important as all the other
+  choices ...
+
+
+
+
++--
+
+Un-Lisps: Ruby
+
+ Why Ruby is an acceptable LISP (Kidd, 2005)
+ http://www.randomhacks.net/articles/2005/12/03/why-ruby-is-an-acceptable-lisp
+
+  Ruby gives you about 80% of what you want from macros ... (examples)
+
+  The real test of any macro-like functionality is how often it gets
+  used to build mini-languages. And Ruby scores well here: In addition
+  to Rails, there’s Rake (for writing Makefiles), Needle (for
+  connecting components), OptionParser (for parsing command-line
+  options), DL (for talking to C APIs), and countless others. Ruby
+  programmers write everything in Ruby.
+
+
+
+
+
+
+
+
+
+
+
++--
+
+Un-Lisps: other functional programming languages
+
+  ML, F#, ...
+
+    Syntax (no S-expressions, no macros)
+
+    Static type checking, type inference (declarations mostly optional)
+
+
+  Haskell (replaces Miranda, Orwell, Gofer, ...)
+
+    Syntax and static type checking (like ML etc.)
+
+    Purity (no assignment, no side effects, except in special context: monads)
+
+    Lazy evaluation (evaluate arguments only on demand, no need for special forms)
+
+  A critique of Abelson and Sussman -or- Why calculating is better than scheming
+  (Miranda vs. Scheme, Wadler, 1987)
+  http://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf 

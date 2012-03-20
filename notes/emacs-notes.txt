@@ -1,0 +1,141 @@
+
+Notes on Emacs
+
+ Elisp programming and customization
+ Window management
+ Workflow
+ 
+There are countless books, web sites, and other sources on Emacs and
+Elisp programming.  Here are notes on a few techniques I use.
+
+
+Elisp programming and customization
+
+Emacs is mostly written in Emacs Lisp (Elisp). Emacs customization is
+coded exclusively in Elisp.  Emacs, in addition to being a text editor,
+is also an Elisp development environment.   (To run some interesting
+Elisp programs, try M-x life and M-x doctor.)  Here are some features
+that are helpful for making and testing simple customizations.
+
+Your ~/.emacs file is loaded into every Emacs session at startup.  This is
+the usual place to put Elisp code for personal customizations.  See .emacs in
+this directory for a few simple examples.
+
+To load and evaluate any Elisp source file (typically their names end in .el):
+
+ M-x load-file  then at the Load File: prompt, type (or complete) the file name
+
+then definitions in the file are available in that Emacs session.
+
+To evaluate an Elisp expression:
+
+ 1. In the minibuffer: M-:    then type expression after Eval: prompt
+ 2. In any text buffer: type expression, put cursor at the end, then C-x C-e
+ 3. In *scratch* buffer: type expression, put cursor at the end, then ^J 
+
+With 1 and 2, the result appears in the minibuffer.  With 3, it appears in
+*scratch*.  Any side effects of evaluating the expression (variable
+assigments etc.) are effective in that Emacs session from then on.  These are
+convenient ways to try out code before putting it in .emacs.
+
+To set variable values - alternatives to (setq variable value) :
+
+ M-x set-variable  then follow prompts
+
+ M-x set<tab>      use tab completion to see many set- options
+
+To see variable values:
+
+ M-x describe-variable - then type variable name after prompt
+
+ C-h v - shortcut for M-x describe-variable
+
+Some useful help commands, remember tab completion is often helpful:
+
+ M-x describe-key - then press key or type key sequence
+  names and describes Elisp function it invokes
+
+ M-x apropos - then type string or regexp 
+  names and briefy describes all matching variables, commands, functions 
+
+ C-h - help, menu of options appears, or C-h v for variable f for function etc.
+
+ M-x describe<tab> - use tab completion to see many options
+
+Help text and descriptive text often contains underlined links. Put the
+cursor over the link and press RET to see more information.  Some links
+go to Elisp source files, select the link to load the file into a buffer.
+
+
+Window management
+
+It is typical to edit many files, each loaded into a separate buffer, in a
+single Emacs session.  Several buffers can be viewed at once in different
+Emacs windows.  Emacs provides a tiling window manager, all in a single
+desktop window (or "frame" as Emacs calls it).  In full-screen mode, emacs
+can comfortably display several windows.  Here are some commands for working
+with windows:
+
+ C-x 2  Split window vertically (one above the other)
+ C-x 3  Split window horizontally (side by side)
+ C-u 60 C-x 3  Split window horizontally, first window is 60 col. wide (etc.)
+
+ C-x 0  Delete current window (without killing buffer)
+ C-x 1  Maximize current window to fill frame (without killing buffers)
+
+ C-x ^  Expand window vertically 1 line
+ C-u C-x ^  Expand window vertically 4 lines (C-u C-u ^ for 8 etc.)
+
+ C-x +  Vertically balance windows (make them all the same height)
+
+ C-x }  Expand window horizontally 1 column
+ C-u C-x }  Expand window horizontally 4 columns (C-u C-u } for 8 etc.)
+ C-x {  Shrink window horizontally 1 column (etc. with C-u ...)
+
+ C-x o        Move to other window (tedious when more than two)
+ C-c <arrow>  Move to adjacent window in arrow direction
+               (requires code in .emacs, may use prefix other than C-c)
+
+ C-a  Show left side of (wide) text buffer in (narrow) window
+ C-e  Show right side of (wide) text buffer in (narrow) window
+
+Recall that C-u <integer> <command> provides optional <integer> argument for
+<command>, C-u <command> implicitly provides argument 4, C-u C-u ...
+provides 8 etc.
+
+
+Workflow
+
+It is easy to populate and use many Emacs buffers without much typing.  Emacs
+provides tab completion for all kinds of identifiers: names of files,
+buffers, variables, functions, etc.  If the completion is ambiguous, Emacs
+displays a list to select from.  Or, you can easily lists files or buffers in
+a buffer and select one.  Of course, when you know exactly what you are
+looking for, sometimes it can be faster to just type it.
+
+Files and directories: C-x C-f then at the Find file: prompt, type the file
+name you want, or press RET to list the current directory. Then select the
+file you want, or select another directory (and so on), to navigate to
+any file without typing its path.  This is particularly useful when
+navigating to some file with a humungous long path under /usr or /opt or
+/Library (select the directory .. to get started).
+
+Switching buffers: It is typical to have more buffers than windows.  To
+switch to another buffer: C-x b, then at the Switch to buffer ... : prompt,
+accept the default, type a buffer name, or press return for a list, then
+select the buffer you want.
+
+Command output: Sometimes it is useful to view or edit the output of a shell
+command.  It is not necessary to open a terminal window for this.  M-! then
+at the Shell command: prompt, type the command.  Emacs opens a buffer named
+*Shell Command Output* to hold the command output.  Invoking another shell
+command will replace the buffer contents.  To keep them and open a new
+buffer, first rename the first buffer with M-x rename-buffer.
+
+Shell interaction: Sometimes it is useful to type shell commands ad lib and
+collect their output.  M-x shell opens a buffer *shell* with an interactive
+session similar to a terminal window.  Invoking M-x shell again returns to
+that buffer. To open another shell session, rename the first shell buffer and
+then M-x shell.
+
+Jon Jacky
