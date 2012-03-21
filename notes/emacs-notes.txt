@@ -55,16 +55,18 @@ Some useful help commands, remember tab completion is often helpful:
  M-x describe-key - then press key or type key sequence
   names and describes Elisp function it invokes
 
- M-x apropos - then type string or regexp 
-  names and briefy describes all matching variables, commands, functions 
-
- C-h - help, menu of options appears, or C-h v for variable f for function etc.
+ M-x describe-bindings - shows all key bindings and their commands
 
  M-x describe<tab> - use tab completion to see many options
 
-Help text and descriptive text often contains underlined links. Put the
-cursor over the link and press RET to see more information.  Some links
-go to Elisp source files, select the link to load the file into a buffer.
+ M-x apropos - then type string or regexp 
+  names and briefy describes all matching variables, commands, functions 
+
+ C-h - help, menu appears, C-h v for variables, C-h f for functionss, etc. 
+
+Help text and descriptive text often contains underlined links. Select the
+link to open more information in a buffer.  Some links go to Elisp source
+files, select the link to load the file into a buffer.
 
 
 Window management
@@ -118,7 +120,7 @@ name you want, or press RET to list the current directory. Then select the
 file you want, or select another directory (and so on), to navigate to
 any file without typing its path.  This is particularly useful when
 navigating to some file with a humungous long path under /usr or /opt or
-/Library (select the directory .. to get started).
+/Library: just select .. (the directory above) to get started.
 
 Switching buffers: It is typical to have more buffers than windows.  To
 switch to another buffer: C-x b, then at the Switch to buffer ... : prompt,
@@ -130,7 +132,7 @@ command.  It is not necessary to open a terminal window for this.  M-! then
 at the Shell command: prompt, type the command.  Emacs opens a buffer named
 *Shell Command Output* to hold the command output.  Invoking another shell
 command will replace the buffer contents.  To keep them and open a new
-buffer, first rename the first buffer with M-x rename-buffer.
+buffer, ename the first buffer with M-x rename-buffer.
 
 Shell interaction: Sometimes it is useful to type shell commands ad lib and
 collect their output.  M-x shell opens a buffer *shell* with an interactive
