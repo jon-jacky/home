@@ -1,0 +1,1742 @@
+------------------------------------------------------------------------
+r1341 | jon | 2012-02-05 19:49:16 -0800 (Sun, 05 Feb 2012) | 1 line
+
+wmii window manager influenced by Plan 9/Acme in programming/design examples
+------------------------------------------------------------------------
+r1340 | jon | 2012-02-05 17:36:59 -0800 (Sun, 05 Feb 2012) | 1 line
+
+recent HN post on Plan 9/Acme in programming/design examples
+------------------------------------------------------------------------
+r1337 | jon | 2012-02-02 21:04:40 -0800 (Thu, 02 Feb 2012) | 1 line
+
+Plan 9 in programming/design examples, Matt Might's Unix tutorials in great faiths/unix
+------------------------------------------------------------------------
+r1332 | jon | 2012-01-26 21:36:41 -0800 (Thu, 26 Jan 2012) | 2 lines
+
+package manager command summary and rosetta in Great Faiths/Linux/Package Managers
+Long Quora post on understanding mathematics in Math/Teaching and Education/College
+------------------------------------------------------------------------
+r1325 | jon | 2012-01-21 19:20:51 -0800 (Sat, 21 Jan 2012) | 3 lines
+
+Berkeley SICP in Python in Programming/Language Arcana/Courses and Books,
+more about SICP at Berkeley and MIT in Programming/University Courses
+Rutgers 12 in cyclotron and hobbyist SEM in Science/DIY
+------------------------------------------------------------------------
+r1322 | jon | 2012-01-16 21:44:02 -0800 (Mon, 16 Jan 2012) | 1 line
+
+NYT story about Wordnik (formerly Wordie) after Wordie links in Words and Internet/Projects
+------------------------------------------------------------------------
+r1321 | jon | 2012-01-16 21:37:54 -0800 (Mon, 16 Jan 2012) | 1 line
+
+'How Google Translate Works' from The Indpendent (UK) in Words and Internet/Search
+------------------------------------------------------------------------
+r1308 | jon | 2011-12-24 12:31:35 -0800 (Sat, 24 Dec 2011) | 2 lines
+
+Ellen Ullmann's eulogy for Dennis Ritchie in NYT year-end tributes in programming/history/fallen heroes
+Kaashoek and Zeldovich computer systems course at MIT in programming/systems and programming/university courses (with Lampson and Jackson' 2004 course)
+------------------------------------------------------------------------
+r1307 | jon | 2011-12-23 21:36:35 -0800 (Fri, 23 Dec 2011) | 1 line
+
+fix broken link for git/svn equivalencies in programming/tools/version/distributed version control
+------------------------------------------------------------------------
+r1306 | jon | 2011-12-23 21:12:42 -0800 (Fri, 23 Dec 2011) | 1 line
+
+point teaching link to github pages
+------------------------------------------------------------------------
+r1302 | jon | 2011-12-22 10:17:31 -0800 (Thu, 22 Dec 2011) | 1 line
+
+Add link to Programming with Nothing in math+logic/foundations
+------------------------------------------------------------------------
+r1301 | jon | 2011-12-21 09:04:28 -0800 (Wed, 21 Dec 2011) | 1 line
+
+add Programming With Nothing, explanation of lambda calculus, Church encoding, etc. in programming/languages/arcana/Ruby
+------------------------------------------------------------------------
+r1292 | jon | 2011-12-16 10:33:06 -0800 (Fri, 16 Dec 2011) | 1 line
+
+add Boston workshop (for women) and San Francisco Noisebridge (hacker space) in programming/languages/arcana/python courses
+------------------------------------------------------------------------
+r1278 | jon | 2011-12-13 10:26:37 -0800 (Tue, 13 Dec 2011) | 3 lines
+
+Fix broken link to Osterhout's course on web applications at Stanford in Internet/new technologies
+Add Osterhout's course on web programming and security in Security/Web
+Add Brief History of the Internet by its inventors in Internet/History
+------------------------------------------------------------------------
+r1205 | jon | 2011-11-21 14:17:58 -0800 (Mon, 21 Nov 2011) | 1 line
+
+mefi posts on elegant experiments, also research that looked good but were later shown wrong in science/history
+------------------------------------------------------------------------
+r1186 | jon | 2011-11-15 09:22:12 -0800 (Tue, 15 Nov 2011) | 1 line
+
+How to read Haskell... in programming/language arcana/haskell, Jesse Noller's Good to Great Python reads in programming/language arcana/Python reference
+------------------------------------------------------------------------
+r1173 | jon | 2011-11-11 10:23:50 -0800 (Fri, 11 Nov 2011) | 1 line
+
+Edmund Jorgensen's Sonnet for Dennis Ritchie in programming/history/fallen heroes
+------------------------------------------------------------------------
+r1163 | jon | 2011-11-07 11:07:20 -0800 (Mon, 07 Nov 2011) | 1 line
+
+add Dennis Ritchie to header, restore date for AOSA link in header
+------------------------------------------------------------------------
+r1155 | jon | 2011-11-06 14:23:36 -0800 (Sun, 06 Nov 2011) | 1 line
+
+add Ritchie/McCarthy dual obitiuary in The Economist in programming/history/fallen heroes
+------------------------------------------------------------------------
+r1151 | jon | 2011-11-04 16:55:29 -0700 (Fri, 04 Nov 2011) | 1 line
+
+In Revised... near top, add links to John McCarthy in programming/fallen heroes, design examples, and history
+------------------------------------------------------------------------
+r1146 | jon | 2011-11-04 09:56:57 -0700 (Fri, 04 Nov 2011) | 2 lines
+
+more Common Lisp links in programming/arcana, more Lisp history in programming/history, 
+more memories of McCarthy in programming/fallen heroes
+------------------------------------------------------------------------
+r1124 | jon | 2011-10-27 20:12:34 -0700 (Thu, 27 Oct 2011) | 1 line
+
+Norvig and McCarthy anecdote in programming/language arcana/python assessment
+------------------------------------------------------------------------
+r1122 | jon | 2011-10-27 15:35:07 -0700 (Thu, 27 Oct 2011) | 2 lines
+
+add John McCarthy obit, home page, AAAI magazine bio in programming/history/fallen heroes.
+Also add Dennis Ritchie home page below his obit in fallen heroes
+------------------------------------------------------------------------
+r1121 | jon | 2011-10-27 09:37:12 -0700 (Thu, 27 Oct 2011) | 2 lines
+
+John McCarthy's essentials of Lisp in programming/languages, design examples, language arcana/Lisp
+Reorganize programming/language arcana/Lisp - separate CL from generic Lisps
+------------------------------------------------------------------------
+r1084 | jon | 2011-10-14 15:27:04 -0700 (Fri, 14 Oct 2011) | 1 line
+
+links: Rob Pike and many others on Dennis Ritchie
+------------------------------------------------------------------------
+r1083 | jon | 2011-10-14 14:30:37 -0700 (Fri, 14 Oct 2011) | 1 line
+
+links: Dennis Ritchie obit in programming/history/fallen heroes, his 1972 Unix notes in programming/design examples
+------------------------------------------------------------------------
+r1057 | jon | 2011-10-05 09:23:12 -0700 (Wed, 05 Oct 2011) | 1 line
+
+links: xkcd Lisp cartoon in programming/language arcana/lisp, mefi post on engineering vs. science in engineering/problem solving
+------------------------------------------------------------------------
+r1051 | jon | 2011-10-03 16:55:27 -0700 (Mon, 03 Oct 2011) | 1 line
+
+links: tweak broken link to MIT Python class
+------------------------------------------------------------------------
+r1049 | jon | 2011-10-03 16:20:18 -0700 (Mon, 03 Oct 2011) | 1 line
+
+links: fix broken/old links to three MIT Python course pages, add Mandlebrot set in SQL, all in programming/language arcana
+------------------------------------------------------------------------
+r1024 | jon | 2011-09-08 08:50:32 -0700 (Thu, 08 Sep 2011) | 2 lines
+
+links.html: Simon Peyton Jones' Haskell tutorial and history (two links) in programming/language arcana
+Jaron Lanier's memoir about California hacking scene in the 70's in programming/history
+------------------------------------------------------------------------
+r1022 | jon | 2011-09-07 09:27:42 -0700 (Wed, 07 Sep 2011) | 3 lines
+
+links.html: tweak formatting in header
+Point 'my teaching' link at Fall 2011 Python course
+Philosophy and Theoretical CS, MIT course in math+logic/foundations
+------------------------------------------------------------------------
+r1016 | jon | 2011-09-03 20:10:09 -0700 (Sat, 03 Sep 2011) | 1 line
+
+links.html: add help.github.com in programming/tools/dvcs/git reference
+------------------------------------------------------------------------
+r1011 | jon | 2011-08-17 09:19:30 -0700 (Wed, 17 Aug 2011) | 1 line
+
+links.html: How Browsers Work on gecko and webkit etc. in internet/new technologies
+------------------------------------------------------------------------
+r1009 | jon | 2011-08-16 08:45:43 -0700 (Tue, 16 Aug 2011) | 1 line
+
+hn post on how politics ruined conversation in current events/topical/weblog disenchantment
+------------------------------------------------------------------------
+r1006 | jon | 2011-08-12 17:10:48 -0700 (Fri, 12 Aug 2011) | 1 line
+
+links.html: scientist seeks shrink in education/teaching/too much work
+------------------------------------------------------------------------
+r1004 | jon | 2011-08-12 12:05:01 -0700 (Fri, 12 Aug 2011) | 5 lines
+
+links.html, more backlog:
+bookworship.com in design/unusual media/books
+Joe Armstrong in Erlang forum on working without an IDE in software/tools/IDEs
+AOSA book chapter on Mercurial in software/tools/dvcs/hg
+Fabrice Belard's Javascript PC Emulator in programming/careers/superprogramers and geek culture/neat hacks
+------------------------------------------------------------------------
+r1003 | jon | 2011-08-12 09:44:29 -0700 (Fri, 12 Aug 2011) | 1 line
+
+links.html: TECO in programming/language arcana/emacs
+------------------------------------------------------------------------
+r1002 | jon | 2011-08-12 09:26:19 -0700 (Fri, 12 Aug 2011) | 2 lines
+
+links.html: commandlinefu.com etc. in programming/language arcana/unix shells
+also add shellin20 in great faiths/linux/shell guru
+------------------------------------------------------------------------
+r1000 | jon | 2011-08-10 21:50:19 -0700 (Wed, 10 Aug 2011) | 2 lines
+
+links.html: HN post on confronting and overcoming discouragment in education/lifelong, programming/teaching+learning, and programming/careers
+
+------------------------------------------------------------------------
+r999 | jon | 2011-08-10 21:29:05 -0700 (Wed, 10 Aug 2011) | 6 lines
+
+links.html: continue working through backlog:
+Penguin book covers in graphic design/unusual media
+Learn Python the Hard Way in programming/language arcana/Python/books
+MIT CS intro with Python in programming/.../python/coures and .../university courses
+superprogammers in programming/careers
+signifcant computing inventions since 1980 in programming/history
+------------------------------------------------------------------------
+r997 | jon | 2011-08-10 09:22:57 -0700 (Wed, 10 Aug 2011) | 3 lines
+
+links.html: rapid application developement for Windows in great faiths/windows,
+Citizen Science Quarterly in science/diy,
+Michael Nielsen blog, bookmarks in science/milieu
+------------------------------------------------------------------------
+r992 | jon | 2011-08-09 09:18:21 -0700 (Tue, 09 Aug 2011) | 5 lines
+
+links.html: continue working through backlog
+Wadler's critique of SICP in programming/language arcana/Haskell,Scheme also programming/courses/SICP
+MeFi post on getting help in education/college
+blog post on logic and madness in math-logic/fountweak formatting error, font selection
+
+------------------------------------------------------------------------
+r990 | jon | 2011-08-06 11:50:18 -0700 (Sat, 06 Aug 2011) | 3 lines
+
+links.html: continue working through backlog
+git in programming/tools/dvcs: add several links, retire others, reorganize
+Big-O analysis in web applications in programming/design principles
+------------------------------------------------------------------------
+r989 | jon | 2011-08-05 22:05:47 -0700 (Fri, 05 Aug 2011) | 8 lines
+
+links.html: start catching up on backlog:
+D.D. McCracken and Tom West obituaries in programming/history/fallen heroes
+Phil Agre found in current events/topical
+quicklisp in programming/languages/arcana/lisp/cl
+HN post on Lisp niche in programming/languages/arcana and also /ecology
+SICP at MIT and Berkeley in programming/university courses
+Perl in about 2 hours in programming/languages/arcana
+tweak broken <html> tag in header
+------------------------------------------------------------------------
+r975 | jon | 2011-06-27 17:01:51 -0700 (Mon, 27 Jun 2011) | 1 line
+
+links: remove links to searchyc.com, now defunct, add note about search box at bottom of HN page
+------------------------------------------------------------------------
+r973 | jon | 2011-06-22 14:56:21 -0700 (Wed, 22 Jun 2011) | 1 line
+
+links: stackoverflow post on different Haskell styles with links, in programming/language arcana
+------------------------------------------------------------------------
+r965 | jon | 2011-05-26 22:19:05 -0700 (Thu, 26 May 2011) | 1 line
+
+fix broken geocities URL for Jon Bentley bumper sticker computer science (proverbs) in programming/design and projects
+------------------------------------------------------------------------
+r963 | jon | 2011-05-25 17:21:04 -0700 (Wed, 25 May 2011) | 1 line
+
+links: The Architecture of Open Source Systems, book online, in software design examples and software open source
+------------------------------------------------------------------------
+r953 | jon | 2011-04-26 09:15:02 -0700 (Tue, 26 Apr 2011) | 1 line
+
+links: visual git guides in programming/tools/distributed version control
+------------------------------------------------------------------------
+r938 | jon | 2011-04-04 08:35:21 -0700 (Mon, 04 Apr 2011) | 1 line
+
+links: Bob Floyd eulogy by Donald Knuth in computing/history/fallen heroes
+------------------------------------------------------------------------
+r937 | jon | 2011-04-03 17:00:47 -0700 (Sun, 03 Apr 2011) | 1 line
+
+links: www.quora.com in programming/buzz/q&a, John McCarthy's original paper on Lisp in programming/languages and /design examples
+------------------------------------------------------------------------
+r936 | jon | 2011-04-03 15:11:42 -0700 (Sun, 03 Apr 2011) | 1 line
+
+links: CMU functional programming intro to CS in programming/univeristy courses, Stackoverflow CS theory B: logic, semantics, ... in math+logic/buzz
+------------------------------------------------------------------------
+r935 | jon | 2011-04-03 14:02:45 -0700 (Sun, 03 Apr 2011) | 1 line
+
+links: Slate article on Google, Facebook, Twitter in Egypt in search/google (etc.) in the news
+------------------------------------------------------------------------
+r934 | jon | 2011-04-03 12:46:09 -0700 (Sun, 03 Apr 2011) | 1 line
+
+links: Matt Haughey on MeFi at SXSW in reference and internet projects
+------------------------------------------------------------------------
+r933 | jon | 2011-04-02 21:09:47 -0700 (Sat, 02 Apr 2011) | 1 line
+
+teaching tip from mefi: meet with every student, in education college teaching
+------------------------------------------------------------------------
+r932 | jon | 2011-04-01 21:37:36 -0700 (Fri, 01 Apr 2011) | 1 line
+
+Ken Olsen and Paul Baran in programming/fallen heroes, mefi post on conspiracy theories in science careers/crackpots, 30 minute webserver in internet/core technologies and programming/arcana/python examples
+------------------------------------------------------------------------
+r896 | jon | 2011-01-24 20:39:05 -0800 (Mon, 24 Jan 2011) | 1 line
+
+links: tweak formatting in header
+------------------------------------------------------------------------
+r895 | jon | 2011-01-24 19:58:24 -0800 (Mon, 24 Jan 2011) | 1 line
+
+links: add link to cgi script that shows svn log
+------------------------------------------------------------------------
+r887 | jon | 2011-01-13 16:24:11 -0800 (Thu, 13 Jan 2011) | 1 line
+
+links: cdsmith's article on type systems in programming/languages
+------------------------------------------------------------------------
+r886 | jon | 2011-01-13 09:20:34 -0800 (Thu, 13 Jan 2011) | 1 line
+
+links: grad school advice from YC in education/grad school, choosing a college advice from MF in education/college, SQL design/programming advice from MF in programming/design
+------------------------------------------------------------------------
+r881 | jon | 2011-01-06 20:24:12 -0800 (Thu, 06 Jan 2011) | 1 line
+
+add hginit, joel spolsky's hg tutorial, to programming/tools/dvcs
+------------------------------------------------------------------------
+r879 | jon | 2011-01-06 08:25:29 -0800 (Thu, 06 Jan 2011) | 1 line
+
+links: move 'faking latex in word' from geek culture/typography to great faiths/windows
+------------------------------------------------------------------------
+r878 | jon | 2011-01-05 16:49:16 -0800 (Wed, 05 Jan 2011) | 1 line
+
+links: add fake latex in word to geek culture/typography
+------------------------------------------------------------------------
+r877 | jon | 2011-01-05 09:30:31 -0800 (Wed, 05 Jan 2011) | 1 line
+
+links: add Fallacies of Distributed Computing by Deutsch and Tim Bray's commentary in programming/design
+------------------------------------------------------------------------
+r873 | jon | 2011-01-02 17:23:11 -0800 (Sun, 02 Jan 2011) | 1 line
+
+links: Byrne's Euclid in math/culture, Google Code course on HTML, CSS, Javascript in graphics/web design, Python paws image analysis from stackoverflow in programming/languages/python examples, PEP on python project dvcs selection in software/tools, YC post on DIY web framework in internet/new technologies, also in programming/teaching, Python DIY web framework using webob in internet/new technologies, RoR security guide in security/internet/web, phrack in security/milieu, latex coffee stains in geek culture/typography
+------------------------------------------------------------------------
+r872 | jon | 2011-01-01 17:27:51 -0800 (Sat, 01 Jan 2011) | 1 line
+
+links: mefi posts on novices in the lab and attitudes in scientific debate in science/careers+lives
+------------------------------------------------------------------------
+r871 | jon | 2011-01-01 17:10:20 -0800 (Sat, 01 Jan 2011) | 1 line
+
+links: mefi posts in education/college (on studying/writing in the humanitites, on attitudes in scientific debate)
+------------------------------------------------------------------------
+r867 | jon | 2010-12-22 17:09:59 -0800 (Wed, 22 Dec 2010) | 1 line
+
+links: add Google books ngram viewer in words
+------------------------------------------------------------------------
+r834 | jon | 2010-12-06 10:24:01 -0800 (Mon, 06 Dec 2010) | 1 line
+
+links: add mefi 'best posts' article to MetaFilter entry in Reference
+------------------------------------------------------------------------
+r819 | jon | 2010-11-30 09:01:31 -0800 (Tue, 30 Nov 2010) | 1 line
+
+links: add Dick Lipton's blog in math/buzz
+------------------------------------------------------------------------
+r816 | jon | 2010-11-29 13:14:53 -0800 (Mon, 29 Nov 2010) | 1 line
+
+xkcd topic index in geek culture/comics
+------------------------------------------------------------------------
+r761 | jon | 2010-11-13 11:26:13 -0800 (Sat, 13 Nov 2010) | 1 line
+
+links: Dead annotated lyrics in arts/music, snarXiv etc. in science/physics/humor, and  numpy intro in programming/languages/python
+------------------------------------------------------------------------
+r706 | jon | 2010-10-24 17:48:53 -0700 (Sun, 24 Oct 2010) | 1 line
+
+links: Kevin Kelly's best magazine articles in arts/writing, Terry Tao's blog in math/buzz, Terry Tao's cosmic distance ladder post and slides, also Primax Studio's scale of the universe animation
+------------------------------------------------------------------------
+r705 | jon | 2010-10-24 11:51:15 -0700 (Sun, 24 Oct 2010) | 1 line
+
+add Paris Review interviews and Longform.org in Arts/Writing, also copy a few other links into that section
+------------------------------------------------------------------------
+r680 | jon | 2010-09-29 08:28:26 -0700 (Wed, 29 Sep 2010) | 1 line
+
+links: add Questionable Content in geek culture/comics and Henry Baker's HTML Hackmem in geek culture/folklore
+------------------------------------------------------------------------
+r669 | jon | 2010-09-20 10:15:52 -0700 (Mon, 20 Sep 2010) | 1 line
+
+links: language abc in programming language arcana and humor, Haskell abc in programmming language arcana only, Ruby basic tutorial in language arcana
+------------------------------------------------------------------------
+r667 | jon | 2010-09-17 11:32:40 -0700 (Fri, 17 Sep 2010) | 1 line
+
+links: mefi post on undergraduate regrets re elite schools in education/college/getting in, lecture on the mount in education/teaching/how-to
+------------------------------------------------------------------------
+r646 | jon | 2010-09-08 14:39:31 -0700 (Wed, 08 Sep 2010) | 1 line
+
+links: Robin Milner obituary in programming/history/fallen heroes
+------------------------------------------------------------------------
+r643 | jon | 2010-08-30 10:48:06 -0700 (Mon, 30 Aug 2010) | 1 line
+
+links: several Stackoverflow articles on Python in language arcana/python/brief tutorials
+------------------------------------------------------------------------
+r639 | jon | 2010-08-13 15:40:36 -0700 (Fri, 13 Aug 2010) | 1 line
+
+links: early GNU/FSF history in programming/open source, history of graphic design in graphics/history-literature, advice and links on design in graphcs/history-literature, web page design
+------------------------------------------------------------------------
+r638 | jon | 2010-08-13 15:20:54 -0700 (Fri, 13 Aug 2010) | 1 line
+
+links: stefano's CSS advice in graphics/web page design, unusual latex fonts in geek culture/typography
+------------------------------------------------------------------------
+r636 | jon | 2010-08-09 12:17:30 -0700 (Mon, 09 Aug 2010) | 1 line
+
+links: traceroute in python in python examples and internet applications
+------------------------------------------------------------------------
+r635 | jon | 2010-07-16 17:26:10 -0700 (Fri, 16 Jul 2010) | 1 line
+
+links: stackoverflow 'hidden features' in programming language arcana, n + 1 magazine in current events
+------------------------------------------------------------------------
+r634 | jon | 2010-07-16 17:10:39 -0700 (Fri, 16 Jul 2010) | 1 line
+
+links: MIT OCW courses on Python in language arcana, on math for CS in programming/courses, on approximation in math in engineering/problem solving (also fix link to 'street fighting math')
+------------------------------------------------------------------------
+r630 | jon | 2010-07-06 08:46:53 -0700 (Tue, 06 Jul 2010) | 1 line
+
+links: 'my teaching' links to new Python course, not old TESC courses
+------------------------------------------------------------------------
+r628 | jon | 2010-06-29 21:50:28 -0700 (Tue, 29 Jun 2010) | 1 line
+
+links: Omnivore (Book Form blog, like AL Daily only hipper) in Current Events, Vows Javascript test tool in programming tools, programming language arcana Javascript, and graphics/web page design examples, Pierce's Coq class on programming language theory in math/provers
+------------------------------------------------------------------------
+r626 | jon | 2010-06-24 09:02:59 -0700 (Thu, 24 Jun 2010) | 1 line
+
+links: mefi post on reading and learning from dwm's in eduation
+------------------------------------------------------------------------
+r622 | jon | 2010-06-14 15:23:03 -0700 (Mon, 14 Jun 2010) | 1 line
+
+links: mathowie on *not* selling off metafilter in internet projects
+------------------------------------------------------------------------
+r614 | jon | 2010-06-07 08:14:51 -0700 (Mon, 07 Jun 2010) | 1 line
+
+links: add mathoverflow article on common false beliefs in math buzz
+------------------------------------------------------------------------
+r613 | jon | 2010-05-31 11:08:56 -0700 (Mon, 31 May 2010) | 1 line
+
+links: add Peter Norvig's review of SICP at Amazon in CS courses, add Perl one-liners in language arcana
+------------------------------------------------------------------------
+r604 | jon | 2010-05-04 21:03:00 -0700 (Tue, 04 May 2010) | 1 line
+
+links: add new Education/Serendipity section with link to new books in UW library, also fix broken links: Swiss Miss in design/blogs, HTTP headers in Internet/core technologies, also add protocol sequence diagrams
+------------------------------------------------------------------------
+r603 | jon | 2010-05-02 16:56:50 -0700 (Sun, 02 May 2010) | 1 line
+
+links: fix formatting error in Engineering / theory
+------------------------------------------------------------------------
+r602 | jon | 2010-05-02 11:43:35 -0700 (Sun, 02 May 2010) | 1 line
+
+links: add wikipedia on Buckingham Pi to engineering/problem solving, add new section on units and orders of magnitude to engineering/theory, add new section on logarithmic maps of the universe to science/astronomy
+------------------------------------------------------------------------
+r601 | jon | 2010-05-01 20:55:25 -0700 (Sat, 01 May 2010) | 1 line
+
+Sanjoy's Street Fighting Math in engineering/problem solving
+------------------------------------------------------------------------
+r600 | jon | 2010-05-01 20:47:01 -0700 (Sat, 01 May 2010) | 1 line
+
+detexify handwritten latex symbol clasifier and comprehensive latex symbol list in geek culture, fonts
+------------------------------------------------------------------------
+r596 | jon | 2010-04-19 09:13:28 -0700 (Mon, 19 Apr 2010) | 1 line
+
+links: RDF command line tools in Internet/new technologies, index of songs performed by Grateful Dead in arts/music
+------------------------------------------------------------------------
+r594 | jon | 2010-04-12 17:10:58 -0700 (Mon, 12 Apr 2010) | 1 line
+
+links: stackoverflow thread on Django's popularity in internet new technology, web frameworks
+------------------------------------------------------------------------
+r593 | jon | 2010-04-12 16:43:34 -0700 (Mon, 12 Apr 2010) | 1 line
+
+links: add stackoverflow pages on fundamental examples and proofs without words in math buzz
+------------------------------------------------------------------------
+r592 | jon | 2010-04-12 09:09:33 -0700 (Mon, 12 Apr 2010) | 1 line
+
+links: add link to the real Zen koans in geek culture/humor
+------------------------------------------------------------------------
+r587 | jon | 2010-03-19 11:40:57 -0700 (Fri, 19 Mar 2010) | 1 line
+
+links: add Google's Python Class in programming languages/arcana
+------------------------------------------------------------------------
+r581 | jon | 2010-02-27 11:26:38 -0800 (Sat, 27 Feb 2010) | 1 line
+
+links: point out best post in 'burn the canon' in Education, add MeFi thread on dinner party recipes in geek culture/food
+------------------------------------------------------------------------
+r580 | jon | 2010-02-22 21:56:08 -0800 (Mon, 22 Feb 2010) | 1 line
+
+links: entry for Tractatus in misc: fix main link and add joke from rec.arts.books
+------------------------------------------------------------------------
+r579 | jon | 2010-02-22 20:24:51 -0800 (Mon, 22 Feb 2010) | 1 line
+
+links: Erann Gat on koans from comp.lang.scheme in geek culture/humor, after Unix koans etc.
+------------------------------------------------------------------------
+r578 | jon | 2010-02-22 10:15:28 -0800 (Mon, 22 Feb 2010) | 1 line
+
+links: tweak link to Dao De Jing in misc.
+------------------------------------------------------------------------
+r577 | jon | 2010-02-22 10:07:59 -0800 (Mon, 22 Feb 2010) | 1 line
+
+links: Dao De Jing in misc.
+------------------------------------------------------------------------
+r576 | jon | 2010-02-22 09:54:43 -0800 (Mon, 22 Feb 2010) | 1 line
+
+links: add cross-refs between Unix and geek humor
+------------------------------------------------------------------------
+r575 | jon | 2010-02-22 09:45:55 -0800 (Mon, 22 Feb 2010) | 1 line
+
+links: Unix koans and Dao De Ching translation in geek culture/humor, search for your birthday in pi in misc, common math symbols in HTML etc. in graphic design/web pages
+------------------------------------------------------------------------
+r574 | jon | 2010-02-19 09:15:45 -0800 (Fri, 19 Feb 2010) | 1 line
+
+links: Chris Clarke's 'incendiary blog post' in current events/topical/weblog disenchantment
+------------------------------------------------------------------------
+r572 | jon | 2010-02-08 08:56:54 -0800 (Mon, 08 Feb 2010) | 1 line
+
+links: hacker news headline generator in geek culture/buzz
+------------------------------------------------------------------------
+r571 | jon | 2010-02-05 10:26:08 -0800 (Fri, 05 Feb 2010) | 1 line
+
+links: Add LtU article about Nick Benton's 'Machine Obstructed Proof' in math/provers
+------------------------------------------------------------------------
+r570 | jon | 2010-02-03 16:16:19 -0800 (Wed, 03 Feb 2010) | 1 line
+
+links: add Google Code edu Understanding Python to language arcana
+------------------------------------------------------------------------
+r569 | jon | 2010-02-01 16:33:05 -0800 (Mon, 01 Feb 2010) | 1 line
+
+links: add mefi post on cooking w/o oven in geek culture/food, fix broken link for historical anniversaries and add Letters of Note in miscellaneous
+------------------------------------------------------------------------
+r567 | jon | 2010-01-19 20:29:59 -0800 (Tue, 19 Jan 2010) | 1 line
+
+links: tweak link order in 'how to learn' in education/college
+------------------------------------------------------------------------
+r566 | jon | 2010-01-19 10:30:26 -0800 (Tue, 19 Jan 2010) | 1 line
+
+links: tweak 'How to learn...' in eduction/college
+------------------------------------------------------------------------
+r565 | jon | 2010-01-18 11:34:53 -0800 (Mon, 18 Jan 2010) | 1 line
+
+add python.org/howto/ to python reference in programming/language arcana
+------------------------------------------------------------------------
+r564 | jon | 2010-01-18 11:24:38 -0800 (Mon, 18 Jan 2010) | 1 line
+
+links: mefi post on memorization in math in learning math, reorder other posts in learning math, mefi post on science/math big picture vs small picture in learning math and education/college, HN post from college admissions staffer in education/college, blog post on database security in security/web, blog post on robot telescope in geeks/neat hacks
+------------------------------------------------------------------------
+r561 | jon | 2010-01-15 16:12:48 -0800 (Fri, 15 Jan 2010) | 1 line
+
+links: new science milieu section with Dan Gezelter's syllabus for Science 2.0
+------------------------------------------------------------------------
+r560 | jon | 2010-01-15 13:17:51 -0800 (Fri, 15 Jan 2010) | 1 line
+
+add 'a fresh start' to Software Carpentry entry in language arcana/python
+------------------------------------------------------------------------
+r559 | jon | 2010-01-13 08:42:14 -0800 (Wed, 13 Jan 2010) | 1 line
+
+links: prof responds to 'grad school is hell' in mefi, in education/grad school
+------------------------------------------------------------------------
+r558 | jon | 2010-01-07 14:14:40 -0800 (Thu, 07 Jan 2010) | 1 line
+
+links: add links to Colorado physics conceptests in education/teaching/alternatives
+------------------------------------------------------------------------
+r557 | jon | 2010-01-07 11:06:49 -0800 (Thu, 07 Jan 2010) | 1 line
+
+Chess program in 1K of assembler in geeks/neat hacks
+------------------------------------------------------------------------
+r556 | jon | 2010-01-07 10:53:07 -0800 (Thu, 07 Jan 2010) | 1 line
+
+links: mefi post on working in the lab in science careers, Eric Mazur's teaching articles and video in education/teaching and science/physics/problem solving, javascript/canvas sketching program in language arcana/javascript and internet/new technologies, sed one-liners in language arcana, SICP distilled blog post in language arcana/scheme and programming/CS courses, mefi on apache/HTTP for web designers in internet new technologies, HN urls and tips in geek culture/news
+------------------------------------------------------------------------
+r555 | jon | 2010-01-04 13:12:21 -0800 (Mon, 04 Jan 2010) | 1 line
+
+links: change gnuradio.org/trac to /redmine
+------------------------------------------------------------------------
+r552 | jon | 2009-12-23 22:59:04 -0800 (Wed, 23 Dec 2009) | 1 line
+
+links: mefi post on easy versions of complex meals in geek culture, collection of Scheme lecture videos in language arcana and CS courses, tutorial on HTML canvas and javascript in language arcana and design/web pages
+------------------------------------------------------------------------
+r549 | jon | 2009-12-11 15:58:08 -0800 (Fri, 11 Dec 2009) | 1 line
+
+links.html: tweak formatting of Charles' Eames interview link, put it first in software design
+------------------------------------------------------------------------
+r548 | jon | 2009-12-11 09:10:00 -0800 (Fri, 11 Dec 2009) | 1 line
+
+links: Charles Eames interview in software/design, mefi post on collaborative scientists vs solitary humanists in education/college
+------------------------------------------------------------------------
+r547 | jon | 2009-12-02 15:13:40 -0800 (Wed, 02 Dec 2009) | 1 line
+
+links: Dear Science again, tweak formatting
+------------------------------------------------------------------------
+r546 | jon | 2009-12-02 15:10:08 -0800 (Wed, 02 Dec 2009) | 1 line
+
+links: Dear Science column (Seattle Stranger) in science/journalism
+------------------------------------------------------------------------
+r545 | jon | 2009-12-01 20:06:10 -0800 (Tue, 01 Dec 2009) | 1 line
+
+links: xkcd 'somebody is wrong' in geek culture/comics
+------------------------------------------------------------------------
+r543 | jon | 2009-11-30 16:59:38 -0800 (Mon, 30 Nov 2009) | 1 line
+
+links: Agre's 'networking...' essay, replace dead link with link to shorter version at acm.org
+------------------------------------------------------------------------
+r542 | jon | 2009-11-30 15:36:04 -0800 (Mon, 30 Nov 2009) | 1 line
+
+links: Phil Agre is missing in current events/topical
+------------------------------------------------------------------------
+r541 | jon | 2009-11-25 16:07:50 -0800 (Wed, 25 Nov 2009) | 1 line
+
+links: remove dead link (UK national grid for learning), add Lisp manga in language arcana and geek culture/comics, papers by Googlers in CS literature and Internet search, Osterhout's Stanford course on web applications in Internet/new technology, MeFi post on MVC in software design with other mvc links
+------------------------------------------------------------------------
+r538 | jon | 2009-11-18 10:10:39 -0800 (Wed, 18 Nov 2009) | 1 line
+
+links: Forth system including x86 asm with explanation in language arcana
+------------------------------------------------------------------------
+r537 | jon | 2009-11-16 12:12:45 -0800 (Mon, 16 Nov 2009) | 2 lines
+
+links: MIT algorithms course in
+programming/CS courses
+------------------------------------------------------------------------
+r536 | jon | 2009-11-14 18:34:18 -0800 (Sat, 14 Nov 2009) | 1 line
+
+links: Python Bioinformatics course, PyCon2010 talks in language arcana/python
+------------------------------------------------------------------------
+r535 | jon | 2009-11-07 21:40:54 -0800 (Sat, 07 Nov 2009) | 1 line
+
+links: add mefi post on too much work in new job in education/teaching, left fold digest in programming buzz, python glossary in languages/arcana/python/reference, separate out new theorem prover section from foundations in math
+------------------------------------------------------------------------
+r532 | jon | 2009-10-24 14:04:41 -0700 (Sat, 24 Oct 2009) | 1 line
+
+reorganize math: add Polymath, Mathoverflow and Notices of the AMS in new Math/Buzz; add Freek Wiedijk's digimath page, Notices special issue on formal proof, HOL pages, Vdash, and FLiP in new Math/Foundations, add PyModel in Programming/Tools/MBT
+------------------------------------------------------------------------
+r531 | jon | 2009-10-23 13:08:58 -0700 (Fri, 23 Oct 2009) | 1 line
+
+links.html: good textbooks and WWI with MeFi in search, break out Math and Logic to top-level section
+------------------------------------------------------------------------
+r530 | jon | 2009-10-22 21:59:02 -0700 (Thu, 22 Oct 2009) | 1 line
+
+links: fix links to gnu emacs color thems in geek culture/screenshots
+------------------------------------------------------------------------
+r527 | jon | 2009-10-21 12:04:01 -0700 (Wed, 21 Oct 2009) | 1 line
+
+links: comment out Robot Wisdom link blog, apparently inactive since July 2009, leave one link with note at the end of current events/topical, also link to 2007 interview with RW author
+------------------------------------------------------------------------
+r526 | jon | 2009-10-14 14:17:17 -0700 (Wed, 14 Oct 2009) | 1 line
+
+links: tweak description of write,think,learn in education/college
+------------------------------------------------------------------------
+r525 | jon | 2009-10-13 10:01:29 -0700 (Tue, 13 Oct 2009) | 1 line
+
+links: Covington's write-think-learn lecture slides in education/college
+------------------------------------------------------------------------
+r524 | jon | 2009-10-10 10:48:31 -0700 (Sat, 10 Oct 2009) | 1 line
+
+links: add link to mefi dinner party post in geek culture/food
+------------------------------------------------------------------------
+r523 | jon | 2009-10-08 09:01:17 -0700 (Thu, 08 Oct 2009) | 1 line
+
+links: fix link to 99 prolog problems in language arcana
+------------------------------------------------------------------------
+r522 | jon | 2009-10-06 21:58:51 -0700 (Tue, 06 Oct 2009) | 1 line
+
+links: journalist's plea for better science reporting in science/journalism
+------------------------------------------------------------------------
+r521 | jon | 2009-10-04 16:38:35 -0700 (Sun, 04 Oct 2009) | 1 line
+
+links: mefi post on talking to reporters in science journalism, making an easy but nice dinner for company in geek culture/food
+------------------------------------------------------------------------
+r520 | jon | 2009-10-03 10:34:48 -0700 (Sat, 03 Oct 2009) | 1 line
+
+links: when to drop course in education/college, acting professional in education/after grad, haskell numbers in language arcana, clojure cheatsheet in language arcana, languages/new lisps
+------------------------------------------------------------------------
+r517 | jon | 2009-09-25 15:26:30 -0700 (Fri, 25 Sep 2009) | 1 line
+
+links: Mike Nielsen's delicious links in geek news, Matt Haughey's delicious links in internet projects
+------------------------------------------------------------------------
+r516 | jon | 2009-09-22 21:42:09 -0700 (Tue, 22 Sep 2009) | 1 line
+
+links: more Python links in reference and books/courses, in programming language arcana
+------------------------------------------------------------------------
+r508 | jon | 2009-09-10 15:44:53 -0700 (Thu, 10 Sep 2009) | 1 line
+
+links: a few pages from scipy.org in python reference
+------------------------------------------------------------------------
+r507 | jon | 2009-09-09 11:56:12 -0700 (Wed, 09 Sep 2009) | 1 line
+
+links: revise Python references: Gruet's Python 2.6 quick summary, links from docs.python.org, also docs.python.org/tutorial in courses and textbooks
+------------------------------------------------------------------------
+r506 | jon | 2009-09-05 12:04:57 -0700 (Sat, 05 Sep 2009) | 1 line
+
+links: cornell scientific python course, seattle python group page, also haskell cheatsheet in language arcana
+------------------------------------------------------------------------
+r505 | jon | 2009-09-04 08:46:43 -0700 (Fri, 04 Sep 2009) | 1 line
+
+links: giving an academic job talk in science careers, ask mefi computers and technology in programming buzz
+------------------------------------------------------------------------
+r504 | jon | 2009-09-02 15:47:56 -0700 (Wed, 02 Sep 2009) | 1 line
+
+links: add Python courses and books in language arcana
+------------------------------------------------------------------------
+r503 | jon | 2009-09-02 13:48:19 -0700 (Wed, 02 Sep 2009) | 1 line
+
+links: add stackoverflow, serverfault, superuser in programming buzz
+------------------------------------------------------------------------
+r502 | jon | 2009-09-02 09:48:19 -0700 (Wed, 02 Sep 2009) | 1 line
+
+links: article on bad nutrition research in bad medicine in science journalism
+------------------------------------------------------------------------
+r501 | jon | 2009-08-09 16:41:37 -0700 (Sun, 09 Aug 2009) | 1 line
+
+links: fix editing gaffe
+------------------------------------------------------------------------
+r500 | jon | 2009-08-09 16:15:59 -0700 (Sun, 09 Aug 2009) | 1 line
+
+links: mefi post from desperate crocodile park dev in mefi/directories and internet projects
+------------------------------------------------------------------------
+r499 | jon | 2009-08-06 20:41:33 -0700 (Thu, 06 Aug 2009) | 1 line
+
+links: signs you're a bad programmer in teaching/learning and programmer ability, tech vs. mgmt career paths in programming careers
+------------------------------------------------------------------------
+r498 | jon | 2009-08-06 20:13:58 -0700 (Thu, 06 Aug 2009) | 1 line
+
+links: 'ignoramuses like me' remark in internet new technologies and programming/teaching, songs about fonts and keys vs. mice in geek culture
+------------------------------------------------------------------------
+r492 | jon | 2009-08-04 21:40:38 -0700 (Tue, 04 Aug 2009) | 1 line
+
+links: pdp11 on an fpga in engineering and neat hacks, mefi pantry suggestions in hacker food
+------------------------------------------------------------------------
+r489 | jon | 2009-07-29 09:45:24 -0700 (Wed, 29 Jul 2009) | 1 line
+
+links: 'same way, not best way' quote from MeFi in great faiths, windows, .net and c#'
+------------------------------------------------------------------------
+r488 | jon | 2009-07-29 09:24:35 -0700 (Wed, 29 Jul 2009) | 1 line
+
+links: NYRB review of political blogs in current events, Alan Perlis' epigrams in software projects, The Jargon File in new folklore/jargon section in geek culture
+------------------------------------------------------------------------
+r487 | jon | 2009-07-27 13:30:45 -0700 (Mon, 27 Jul 2009) | 1 line
+
+links.html: add building from source article on serverfault.com to Great Faiths/Unix
+------------------------------------------------------------------------
+r486 | jon | 2009-07-27 08:32:04 -0700 (Mon, 27 Jul 2009) | 1 line
+
+links: frameworks vs DIY in web frameworks, ___ will ___ you in internet projects
+------------------------------------------------------------------------
+r483 | jon | 2009-07-21 10:28:43 -0700 (Tue, 21 Jul 2009) | 1 line
+
+emacs keys in language arcana and tools/editors, cute SICP review in cs courses, lisp machines in programming history, duplicate Matt Haughey MeFi anniversary in internet project experience, duplicate web server project in internet starter projects
+------------------------------------------------------------------------
+r482 | jon | 2009-07-19 11:26:07 -0700 (Sun, 19 Jul 2009) | 1 line
+
+links: HTTP headers and status codes in Internet core technologies, Tom DeMarco's essay on sw engineering in sw sprojects:estimating and sw history
+------------------------------------------------------------------------
+r481 | jon | 2009-07-18 10:32:59 -0700 (Sat, 18 Jul 2009) | 1 line
+
+links: one more MeFi link in programming: teaching and careers
+------------------------------------------------------------------------
+r480 | jon | 2009-07-17 20:32:57 -0700 (Fri, 17 Jul 2009) | 1 line
+
+links: MeFi founder on its 10th anniversary
+------------------------------------------------------------------------
+r479 | jon | 2009-07-15 16:52:39 -0700 (Wed, 15 Jul 2009) | 1 line
+
+links: in programming language ecology, comment out broken link and add line of links to HN thread on PHP
+------------------------------------------------------------------------
+r478 | jon | 2009-07-14 22:11:14 -0700 (Tue, 14 Jul 2009) | 1 line
+
+links: Rejecta Mathematica, 100 best first/last lines, more Python announcements/discussion
+------------------------------------------------------------------------
+r477 | jon | 2009-07-13 09:00:38 -0700 (Mon, 13 Jul 2009) | 1 line
+
+links: add Python announcements and discussion in language arcana
+------------------------------------------------------------------------
+r476 | jon | 2009-07-04 14:10:56 -0700 (Sat, 04 Jul 2009) | 1 line
+
+links: Python 2.6 vs 3 in language arcana
+------------------------------------------------------------------------
+r475 | jon | 2009-07-04 13:57:57 -0700 (Sat, 04 Jul 2009) | 1 line
+
+links: Michael Ash and dkarl in HN on asking questions, and why so many 'stupid' questions are asked
+------------------------------------------------------------------------
+r474 | jon | 2009-07-04 12:32:06 -0700 (Sat, 04 Jul 2009) | 1 line
+
+links: more links on coping with grad school
+------------------------------------------------------------------------
+r473 | jon | 2009-07-01 10:02:03 -0700 (Wed, 01 Jul 2009) | 1 line
+
+links.html: classical music and art history/criticism from mefi in arts, python hints and python vs. ruby in language arcana, microcontroller platforms in engineering, diy webserver in internet and computing/learning
+------------------------------------------------------------------------
+r472 | jon | 2009-06-25 10:01:22 -0700 (Thu, 25 Jun 2009) | 1 line
+
+links.html: more about Erik Naggum in Geek Culture/Legacies
+------------------------------------------------------------------------
+r471 | jon | 2009-06-24 17:17:02 -0700 (Wed, 24 Jun 2009) | 1 line
+
+links: Eric Naggum RIP in Legacies in Geek Culture, also posthumous author credit there and also in Math history, people, culture, humor
+------------------------------------------------------------------------
+r470 | jon | 2009-06-16 11:24:21 -0700 (Tue, 16 Jun 2009) | 1 line
+
+links: add neolography and zeboxstudio in design firms
+------------------------------------------------------------------------
+r469 | jon | 2009-06-09 09:11:54 -0700 (Tue, 09 Jun 2009) | 1 line
+
+links.html: Python decorator classes in Language Arcana, clean up Revised... at top
+------------------------------------------------------------------------
+r468 | jon | 2009-06-09 08:17:40 -0700 (Tue, 09 Jun 2009) | 1 line
+
+links.html: HN and Slashdot/Dev posts about C++ in Language Arcana
+------------------------------------------------------------------------
+r462 | jon | 2009-05-31 11:05:23 -0700 (Sun, 31 May 2009) | 1 line
+
+links.html: programming fonts in Geek Culture, commented out MeFi post on job search in College Teaching
+------------------------------------------------------------------------
+r461 | jon | 2009-05-29 21:20:05 -0700 (Fri, 29 May 2009) | 1 line
+
+links.html: MeFi on chords in pop muscin Arts/Music and also Reference, HN on developers' nostalgia and frustration in Software/Tools and Coping with Tech
+------------------------------------------------------------------------
+r456 | jon | 2009-05-06 17:10:34 -0700 (Wed, 06 May 2009) | 1 line
+
+links: link to particular Logicomix panels in Math Foundations and Math People/History
+------------------------------------------------------------------------
+r455 | jon | 2009-05-06 09:24:26 -0700 (Wed, 06 May 2009) | 1 line
+
+links: Add Logicomix in Revised: section at top of page
+------------------------------------------------------------------------
+r454 | jon | 2009-05-06 09:18:37 -0700 (Wed, 06 May 2009) | 1 line
+
+links: Logicomix in math (2x), YC post on programming experience and domain experience, alternate link for Tao of Programming
+------------------------------------------------------------------------
+r453 | jon | 2009-05-02 09:51:22 -0700 (Sat, 02 May 2009) | 1 line
+
+links.html: MeFi post and Feynman letter on coping with disappointment in both Education and Science Careers, 
+------------------------------------------------------------------------
+r452 | jon | 2009-04-29 10:40:43 -0700 (Wed, 29 Apr 2009) | 1 line
+
+links.html: MeFi reply to science student coping with required humanities courses, in Education/College
+------------------------------------------------------------------------
+r449 | jon | 2009-04-20 09:50:40 -0700 (Mon, 20 Apr 2009) | 1 line
+
+links.html: Add SICP in CS Courses, also SICP in other languages to Rosetta Stones and Python examples
+------------------------------------------------------------------------
+r448 | jon | 2009-04-19 22:17:46 -0700 (Sun, 19 Apr 2009) | 1 line
+
+links.html: add Tricki in Math
+------------------------------------------------------------------------
+r447 | jon | 2009-04-18 10:20:12 -0700 (Sat, 18 Apr 2009) | 1 line
+
+links.html: more tweaks in new Engineering and revised Geek Culture sections, especially xrefs, add O'Reilly animals page to books in Great Faiths, add Dinosaur comics and links to more in Geek Culture
+------------------------------------------------------------------------
+r446 | jon | 2009-04-17 17:14:42 -0700 (Fri, 17 Apr 2009) | 1 line
+
+links.html: tweak new engineering and revised geek culture sections, esp. xrefs
+------------------------------------------------------------------------
+r445 | jon | 2009-04-17 13:42:25 -0700 (Fri, 17 Apr 2009) | 1 line
+
+links.html: Weinreb's problems with Common Lisp, new Engineering and Technology major section separated out from Geek Culture
+------------------------------------------------------------------------
+r444 | jon | 2009-04-17 11:39:18 -0700 (Fri, 17 Apr 2009) | 1 line
+
+links.html: basement Cavendish experiment and closet bio lab in DIY science, Mark I emulator and replica in Neat Hacks
+------------------------------------------------------------------------
+r443 | jon | 2009-04-14 15:33:44 -0700 (Tue, 14 Apr 2009) | 1 line
+
+links.html: Sunday NYT story on Grateful Dead tapes, memorable concerts
+------------------------------------------------------------------------
+r439 | jon | 2009-04-03 10:43:57 -0700 (Fri, 03 Apr 2009) | 1 line
+
+links.html: HN post on going bonkers with theory in programming language humor
+------------------------------------------------------------------------
+r438 | jon | 2009-04-02 21:25:12 -0700 (Thu, 02 Apr 2009) | 1 line
+
+links.html: macros are a menace in Lisp arcana, Tao of Programming in geek humor
+------------------------------------------------------------------------
+r437 | jon | 2009-04-02 08:18:00 -0700 (Thu, 02 Apr 2009) | 1 line
+
+links.html: new Lisps: Arc, PLOT, Clojure
+------------------------------------------------------------------------
+r436 | jon | 2009-04-01 20:49:16 -0700 (Wed, 01 Apr 2009) | 1 line
+
+links.html: Richard Hamming's career advice, book design, new Lisps, making PCBs at home
+------------------------------------------------------------------------
+r434 | jon | 2009-03-26 08:42:07 -0700 (Thu, 26 Mar 2009) | 1 line
+
+links.html: mefi post on taking standardized tests in education/college, several programming text theme pages in screenshots/geek culture
+------------------------------------------------------------------------
+r432 | jon | 2009-03-20 09:21:14 -0700 (Fri, 20 Mar 2009) | 1 line
+
+links.html: deriving from first principles in physics and problem solving, standard model lagrangian in physics
+------------------------------------------------------------------------
+r431 | jon | 2009-03-13 09:45:02 -0700 (Fri, 13 Mar 2009) | 1 line
+
+links.html: add periodic table of typefaces in fonts etc, unusual media, graphics
+------------------------------------------------------------------------
+r428 | jon | 2009-03-10 09:46:09 -0700 (Tue, 10 Mar 2009) | 1 line
+
+links.html: Mike Nielsen's weblog enthusiasm in current events, MeFi advice to fresh college grad in education, Chronical warning about grad school in education
+------------------------------------------------------------------------
+r425 | jon | 2009-03-06 14:42:26 -0800 (Fri, 06 Mar 2009) | 1 line
+
+links.html: webless intiative and css rant in graphics/web page design, new version Perl periodic table in language arcana
+------------------------------------------------------------------------
+r424 | jon | 2009-03-05 12:02:55 -0800 (Thu, 05 Mar 2009) | 1 line
+
+links.html: add Scott Aaronson's blog
+------------------------------------------------------------------------
+r422 | jon | 2009-03-04 20:57:05 -0800 (Wed, 04 Mar 2009) | 1 line
+
+links.html: add links to particular Gowers blog posts in math
+------------------------------------------------------------------------
+r408 | jon | 2009-02-25 10:03:48 -0800 (Wed, 25 Feb 2009) | 1 line
+
+links.html: mefi post on standardized tests in Education/College
+------------------------------------------------------------------------
+r407 | jon | 2009-02-24 21:58:14 -0800 (Tue, 24 Feb 2009) | 1 line
+
+links.html: one more MeFi post, advice on college major, in Education
+------------------------------------------------------------------------
+r406 | jon | 2009-02-24 21:38:08 -0800 (Tue, 24 Feb 2009) | 1 line
+
+links.html: Confessions of a college counseler in Education, Harpers index in current events
+------------------------------------------------------------------------
+r405 | jon | 2009-02-22 20:55:31 -0800 (Sun, 22 Feb 2009) | 1 line
+
+links.html: Wikipedia database in design examples
+------------------------------------------------------------------------
+r404 | jon | 2009-02-22 19:32:22 -0800 (Sun, 22 Feb 2009) | 1 line
+
+links.html: proverbs and truisms in software projects, Bentley's proverbs in design principles, YC post on contrasting career paths in software careers
+------------------------------------------------------------------------
+r402 | jon | 2009-02-20 08:25:59 -0800 (Fri, 20 Feb 2009) | 1 line
+
+links.html: Very compact HN post on web technologies in Internet/New Technologies
+------------------------------------------------------------------------
+r401 | jon | 2009-02-18 16:52:00 -0800 (Wed, 18 Feb 2009) | 1 line
+
+links.html: Boston Globe big picture in Current Events/Daily
+------------------------------------------------------------------------
+r400 | jon | 2009-02-18 13:13:23 -0800 (Wed, 18 Feb 2009) | 1 line
+
+links.html: Python design philosophy/history in language arcana, gel electrophoresis in DIY science
+------------------------------------------------------------------------
+r399 | jon | 2009-02-08 19:02:40 -0800 (Sun, 08 Feb 2009) | 1 line
+
+links.html: separate Education for Science, add MeFi posts on college teaching and web site launch
+------------------------------------------------------------------------
+r398 | jon | 2009-02-06 09:04:11 -0800 (Fri, 06 Feb 2009) | 1 line
+
+links.html: songs to dissect by, with MeFi link in Search
+------------------------------------------------------------------------
+r397 | jon | 2009-02-05 19:40:48 -0800 (Thu, 05 Feb 2009) | 1 line
+
+links.html: Toys from Trash in science DIY
+------------------------------------------------------------------------
+r396 | jon | 2009-02-02 17:20:00 -0800 (Mon, 02 Feb 2009) | 1 line
+
+links.html: mefi thread on interpreting news stories about science, more php and python in arcana, update indexed (comic) url, rename High Geek Factor -> Geek Culture
+------------------------------------------------------------------------
+r393 | jon | 2009-01-30 15:25:58 -0800 (Fri, 30 Jan 2009) | 1 line
+
+links.html: laptop art in geeks
+------------------------------------------------------------------------
+r391 | jon | 2009-01-28 20:58:29 -0800 (Wed, 28 Jan 2009) | 1 line
+
+links.html: MeFi posts on music criticism and finishing projects in How to Learn
+------------------------------------------------------------------------
+r388 | jon | 2009-01-22 16:55:00 -0800 (Thu, 22 Jan 2009) | 1 line
+
+links.html: difficult profs/students in college and grad school, problem solving, python history
+------------------------------------------------------------------------
+r387 | jon | 2009-01-18 12:32:06 -0800 (Sun, 18 Jan 2009) | 1 line
+
+links.html: HN posts about PHP in language arcana
+------------------------------------------------------------------------
+r385 | jon | 2009-01-12 09:30:25 -0800 (Mon, 12 Jan 2009) | 1 line
+
+links.html: MeFi posts on what to document for web sites in documentation and sysadmin
+------------------------------------------------------------------------
+r383 | jon | 2009-01-08 20:02:12 -0800 (Thu, 08 Jan 2009) | 1 line
+
+links.html: put HN PHP link in arcana as well as web frameworks
+------------------------------------------------------------------------
+r382 | jon | 2009-01-08 17:14:40 -0800 (Thu, 08 Jan 2009) | 1 line
+
+links.html: HN comments on web frameworks, Rails, PHP
+------------------------------------------------------------------------
+r379 | jon | 2009-01-05 17:09:50 -0800 (Mon, 05 Jan 2009) | 1 line
+
+links.html: mefi post on grad school realism
+------------------------------------------------------------------------
+r378 | jon | 2009-01-03 17:22:37 -0800 (Sat, 03 Jan 2009) | 1 line
+
+links.html: better link on Monk's musical advice
+------------------------------------------------------------------------
+r377 | jon | 2008-12-26 15:51:42 -0800 (Fri, 26 Dec 2008) | 1 line
+
+links.html: Ted Nelson's curmudgeon's history
+------------------------------------------------------------------------
+r376 | jon | 2008-12-23 20:41:04 -0800 (Tue, 23 Dec 2008) | 1 line
+
+links.html: College teaching in education, HOL and Z in language arcana, cooking in geek factor
+------------------------------------------------------------------------
+r375 | jon | 2008-12-22 19:46:13 -0800 (Mon, 22 Dec 2008) | 1 line
+
+links.html: Timothy Gowers' blog in math
+------------------------------------------------------------------------
+r373 | jon | 2008-12-19 14:36:03 -0800 (Fri, 19 Dec 2008) | 1 line
+
+links.html: HN post on learning PHP
+------------------------------------------------------------------------
+r372 | jon | 2008-12-15 13:30:42 -0800 (Mon, 15 Dec 2008) | 1 line
+
+links.html: add HN links on PHP, oop
+------------------------------------------------------------------------
+r371 | jon | 2008-12-15 12:42:02 -0800 (Mon, 15 Dec 2008) | 1 line
+
+links.html: add FPGA lockin amplifier to Cornell FPGA projects, move design patterns paragraph up to other oop paragraphs
+------------------------------------------------------------------------
+r368 | jon | 2008-12-12 14:33:23 -0800 (Fri, 12 Dec 2008) | 1 line
+
+links.html: blog on outline style in Wittgenstein's Tractatus in misc., with Tractatus browser
+------------------------------------------------------------------------
+r367 | jon | 2008-12-12 08:47:45 -0800 (Fri, 12 Dec 2008) | 1 line
+
+links.html: Monk's musical advice, also noted in preview near page top
+------------------------------------------------------------------------
+r365 | jon | 2008-12-02 10:35:39 -0800 (Tue, 02 Dec 2008) | 1 line
+
+links.html: YC criticism of oop and design patterns in sw design
+------------------------------------------------------------------------
+r364 | jon | 2008-12-02 10:06:09 -0800 (Tue, 02 Dec 2008) | 1 line
+
+links.html: YC on making the most of college (why not drop out) in science/careers/college and sw/teaching
+------------------------------------------------------------------------
+r363 | jon | 2008-12-01 13:11:48 -0800 (Mon, 01 Dec 2008) | 1 line
+
+links.html: discussion of MVC on the web in sw design
+------------------------------------------------------------------------
+r361 | jon | 2008-11-24 08:13:35 -0800 (Mon, 24 Nov 2008) | 1 line
+
+links.html: Typealyzer, Myers-Briggs classification of web pages in misc.
+------------------------------------------------------------------------
+r359 | jon | 2008-11-17 08:41:33 -0800 (Mon, 17 Nov 2008) | 1 line
+
+links.html: HN post on C# vs Java
+------------------------------------------------------------------------
+r357 | jon | 2008-11-14 10:50:18 -0800 (Fri, 14 Nov 2008) | 1 line
+
+links.html: mefi post on teaching freshman comp
+------------------------------------------------------------------------
+r356 | jon | 2008-11-12 14:00:17 -0800 (Wed, 12 Nov 2008) | 1 line
+
+links.html: Shivers' dissertation advice, fix broken link (twice)
+------------------------------------------------------------------------
+r355 | jon | 2008-11-11 12:33:52 -0800 (Tue, 11 Nov 2008) | 1 line
+
+links.html: mefi post on Goedel in math foundations, illustrated Gravity's Rainbow synopsis in writing
+------------------------------------------------------------------------
+r354 | jon | 2008-11-09 18:02:12 -0800 (Sun, 09 Nov 2008) | 1 line
+
+links.html: in college, mefi post on dealing with instruction/teachers you disagree with
+------------------------------------------------------------------------
+r352 | jon | 2008-11-05 16:28:23 -0800 (Wed, 05 Nov 2008) | 1 line
+
+links.html: Dijkstra video interview in programming/fallen heroes
+------------------------------------------------------------------------
+r351 | jon | 2008-11-03 15:27:11 -0800 (Mon, 03 Nov 2008) | 1 line
+
+links.html: git/svn in tools, lisp50 in languages
+------------------------------------------------------------------------
+r347 | jon | 2008-11-02 13:32:15 -0800 (Sun, 02 Nov 2008) | 1 line
+
+links.html: add Graphviz to essentials for Windows, add captions to other entries
+------------------------------------------------------------------------
+r346 | jon | 2008-11-02 11:12:05 -0800 (Sun, 02 Nov 2008) | 1 line
+
+links.html: mefi and hn posts on college and grad school, low tech spectrometer in DIY science, rollergirls in misc
+------------------------------------------------------------------------
+r343 | jon | 2008-10-18 20:57:27 -0700 (Sat, 18 Oct 2008) | 1 line
+
+links.html: MeFi post on staying in charge in lecture
+------------------------------------------------------------------------
+r342 | jon | 2008-10-18 09:57:00 -0700 (Sat, 18 Oct 2008) | 1 line
+
+links.html: DBLP cs bib new GUI, HN comment on talented programmers, reorder sections in Research/Education
+------------------------------------------------------------------------
+r340 | jon | 2008-10-17 15:23:52 -0700 (Fri, 17 Oct 2008) | 1 line
+
+links.html: more college advice in science philosophy, careers
+------------------------------------------------------------------------
+r339 | jon | 2008-10-16 10:47:23 -0700 (Thu, 16 Oct 2008) | 1 line
+
+links.html: HTML style advice (semantics vs. display) in design
+------------------------------------------------------------------------
+r337 | jon | 2008-10-15 21:32:58 -0700 (Wed, 15 Oct 2008) | 1 line
+
+links.html: MeFi post on web development frameworks, add dates by other frameworks links
+------------------------------------------------------------------------
+r336 | jon | 2008-10-15 14:01:37 -0700 (Wed, 15 Oct 2008) | 1 line
+
+links.html: Lisp 50th birthday, Manga guide to databases
+------------------------------------------------------------------------
+r333 | jon | 2008-09-25 22:13:29 -0700 (Thu, 25 Sep 2008) | 1 line
+
+links.html: tweak MeFi post on VS
+------------------------------------------------------------------------
+r332 | jon | 2008-09-25 08:48:48 -0700 (Thu, 25 Sep 2008) | 1 line
+
+links.html: MeFi post on VS in tools and Microsoft
+------------------------------------------------------------------------
+r329 | jon | 2008-09-24 08:37:34 -0700 (Wed, 24 Sep 2008) | 1 line
+
+links.html: another cooking link in geek factor
+------------------------------------------------------------------------
+r328 | jon | 2008-09-24 08:04:24 -0700 (Wed, 24 Sep 2008) | 1 line
+
+links.html: cooking in geek factor
+------------------------------------------------------------------------
+r326 | jon | 2008-09-22 16:53:41 -0700 (Mon, 22 Sep 2008) | 1 line
+
+links.html: 'Hidden features of Python' from stackoverflow in arcana
+------------------------------------------------------------------------
+r322 | jon | 2008-09-17 21:14:22 -0700 (Wed, 17 Sep 2008) | 1 line
+
+links.html: business advice for freelancers
+------------------------------------------------------------------------
+r321 | jon | 2008-09-13 17:52:23 -0700 (Sat, 13 Sep 2008) | 1 line
+
+links.html: regex engine in python
+------------------------------------------------------------------------
+r318 | jon | 2008-09-09 10:20:52 -0700 (Tue, 09 Sep 2008) | 1 line
+
+links.html: Sam's objects in sofware design
+------------------------------------------------------------------------
+r317 | jon | 2008-09-08 16:41:32 -0700 (Mon, 08 Sep 2008) | 1 line
+
+links.html: another mefi post in program building strategies and heuristics
+------------------------------------------------------------------------
+r315 | jon | 2008-09-05 13:00:55 -0700 (Fri, 05 Sep 2008) | 1 line
+
+links.html: Chrome browser, map of musical influences, browse Wittgenstein's Tractatus
+------------------------------------------------------------------------
+r313 | jon | 2008-09-02 08:52:25 -0700 (Tue, 02 Sep 2008) | 1 line
+
+links.html: fix broken <html> tag at very top of page
+------------------------------------------------------------------------
+r312 | jon | 2008-08-30 11:42:38 -0700 (Sat, 30 Aug 2008) | 1 line
+
+links.html: new program-building heuristics section (2 posts), also QA Confidential, both in software projects
+------------------------------------------------------------------------
+r307 | jon | 2008-08-27 16:50:28 -0700 (Wed, 27 Aug 2008) | 1 line
+
+links.html: Burn the Canon from MeFi in science philosophy and college
+------------------------------------------------------------------------
+r306 | jon | 2008-08-27 16:09:18 -0700 (Wed, 27 Aug 2008) | 2 lines
+
+links.html: Goedel's completeness vs incompleteness in math/logic, Frankenmac/Hackintosh and Mac disenchantment in 3 Great Faiths/Mac:
+
+------------------------------------------------------------------------
+r305 | jon | 2008-08-27 14:18:25 -0700 (Wed, 27 Aug 2008) | 1 line
+
+links.html: python properties and decorators in language arcana
+------------------------------------------------------------------------
+r303 | jon | 2008-08-26 11:30:06 -0700 (Tue, 26 Aug 2008) | 1 line
+
+links.html: evolution of a Haskell programmer in language arcana
+------------------------------------------------------------------------
+r300 | jon | 2008-08-24 17:54:38 -0700 (Sun, 24 Aug 2008) | 1 line
+
+links.html: MeFi post on engineering education/problem solving
+------------------------------------------------------------------------
+r296 | jon | 2008-08-11 10:46:07 -0700 (Mon, 11 Aug 2008) | 1 line
+
+links.html: link to MeFi founder's talk in Internet projects, search
+------------------------------------------------------------------------
+r294 | jon | 2008-08-07 11:46:10 -0700 (Thu, 07 Aug 2008) | 1 line
+
+links.html: MeFi posts on project management and IT documentation, Postel's robustness principle in design
+------------------------------------------------------------------------
+r291 | jon | 2008-08-06 13:54:39 -0700 (Wed, 06 Aug 2008) | 1 line
+
+links.html: YC comment on Perl in language arcana
+------------------------------------------------------------------------
+r290 | jon | 2008-07-17 09:34:05 -0700 (Thu, 17 Jul 2008) | 1 line
+
+links.html: mathematical tatoos
+------------------------------------------------------------------------
+r289 | jon | 2008-07-16 16:09:20 -0700 (Wed, 16 Jul 2008) | 1 line
+
+links.html: project proposals, estimates and invoicing for freelancers in Internet project and Programming projects
+------------------------------------------------------------------------
+r288 | jon | 2008-07-14 17:11:10 -0700 (Mon, 14 Jul 2008) | 1 line
+
+links.html: GNU Radio programming in Python and DSP, map route finding in Python, emacs vs vi design philosophies and emacs in 1977 in Tools/Editors, Lisp 550th anniversary, paper prototyping for the web, nanowire radio in neat hacks, cooking in geek factor
+------------------------------------------------------------------------
+r280 | jon | 2008-06-20 11:19:50 -0700 (Fri, 20 Jun 2008) | 1 line
+
+links.html: cosmetic tweak, add line break
+------------------------------------------------------------------------
+r279 | jon | 2008-06-18 09:03:01 -0700 (Wed, 18 Jun 2008) | 1 line
+
+links.html: college teaching, classical music
+------------------------------------------------------------------------
+r278 | jon | 2008-06-16 15:16:57 -0700 (Mon, 16 Jun 2008) | 1 line
+
+links.html: post by Brian Harvey  in philosophy, by John Baez, Richard Fateman in learning/teaching math
+------------------------------------------------------------------------
+r276 | jon | 2008-06-13 16:35:25 -0700 (Fri, 13 Jun 2008) | 1 line
+
+links.html: vintage classic album art, design patterns (programming), design simplicity (graphics/information), Generator.x blog (graphics)
+------------------------------------------------------------------------
+r275 | jon | 2008-06-13 09:08:41 -0700 (Fri, 13 Jun 2008) | 1 line
+
+links.html: usenet post on poor math teaching
+------------------------------------------------------------------------
+r274 | jon | 2008-06-11 19:49:15 -0700 (Wed, 11 Jun 2008) | 1 line
+
+links.html: disagreements with the prof in math learning, critical thinking in science/careers/college
+------------------------------------------------------------------------
+r272 | jon | 2008-06-10 16:52:35 -0700 (Tue, 10 Jun 2008) | 1 line
+
+links.html: MeFi thread on Oh, so you're a <profession> smalltalk
+------------------------------------------------------------------------
+r270 | jon | 2008-06-06 16:57:34 -0700 (Fri, 06 Jun 2008) | 1 line
+
+links.html: Alan Cooper talk, right by Inmates book
+------------------------------------------------------------------------
+r269 | jon | 2008-06-06 09:28:32 -0700 (Fri, 06 Jun 2008) | 1 line
+
+links.html: post on programmer shortage and training in teaching and careers etc., interactive Linux kernel map in great faiths
+------------------------------------------------------------------------
+r268 | jon | 2008-06-04 21:57:20 -0700 (Wed, 04 Jun 2008) | 1 line
+
+links.html: post on programmer shortage in Programming ability
+------------------------------------------------------------------------
+r266 | jon | 2008-06-02 08:30:13 -0700 (Mon, 02 Jun 2008) | 1 line
+
+links.html: credit card exposure repercussions, spammers vs. Craigslist in Security milieu
+------------------------------------------------------------------------
+r261 | jon | 2008-05-26 21:25:55 -0700 (Mon, 26 May 2008) | 1 line
+
+links.html: Space Child's Mother Goose in math culture
+------------------------------------------------------------------------
+r260 | jon | 2008-05-26 20:42:09 -0700 (Mon, 26 May 2008) | 1 line
+
+links.html: This American Life, 100 Essential Jazz albums
+------------------------------------------------------------------------
+r259 | jon | 2008-05-25 12:21:59 -0700 (Sun, 25 May 2008) | 1 line
+
+links.html: MeFi and Google Doctype, web page how-tos and resources, MeFi also in teaching novices
+------------------------------------------------------------------------
+r255 | jon | 2008-05-14 20:07:48 -0700 (Wed, 14 May 2008) | 1 line
+
+links.html: MeFi post on frustrations staying current in computing/web field, other tweaks
+------------------------------------------------------------------------
+r252 | jon | 2008-05-14 09:04:11 -0700 (Wed, 14 May 2008) | 1 line
+
+links.html: Ask YC Archive
+------------------------------------------------------------------------
+r247 | jon | 2008-05-09 13:42:54 -0700 (Fri, 09 May 2008) | 1 line
+
+links.html: 't Hooft, McCarthy, Python graphics
+------------------------------------------------------------------------
+r246 | jon | 2008-05-08 21:17:45 -0700 (Thu, 08 May 2008) | 1 line
+
+links.html: MeFi thread, OP pjern, learning internet programming
+------------------------------------------------------------------------
+r243 | jon | 2008-05-07 09:02:02 -0700 (Wed, 07 May 2008) | 1 line
+
+links.html: update MVC origins links, add Ars Digita University links, add links to Wordie in Internet Projects
+------------------------------------------------------------------------
+r241 | jon | 2008-05-05 10:53:19 -0700 (Mon, 05 May 2008) | 1 line
+
+links.html: Python generators and shell session in arcana Python tutorials, put Python tutorials ahead of examples
+------------------------------------------------------------------------
+r235 | jon | 2008-04-28 10:43:04 -0700 (Mon, 28 Apr 2008) | 1 line
+
+links.html: database normalization comments from Ask Metafilter in design
+------------------------------------------------------------------------
+r234 | jon | 2008-04-27 20:42:44 -0700 (Sun, 27 Apr 2008) | 1 line
+
+links.html: sysadmin and help desk advice in Coping
+------------------------------------------------------------------------
+r233 | jon | 2008-04-26 21:07:10 -0700 (Sat, 26 Apr 2008) | 1 line
+
+links.html: more reorg in DIY comuters
+------------------------------------------------------------------------
+r232 | jon | 2008-04-26 20:44:26 -0700 (Sat, 26 Apr 2008) | 1 line
+
+links.html: Wordie and Double-tounged dictionary in words, reorg. DIY computers and add 6-boards, 24-cores in an Ikea cabinet
+------------------------------------------------------------------------
+r228 | jon | 2008-04-21 14:28:30 -0700 (Mon, 21 Apr 2008) | 1 line
+
+links.html: formatting tweaks (linebreaks, ordering of links)
+------------------------------------------------------------------------
+r226 | jon | 2008-04-19 16:45:03 -0700 (Sat, 19 Apr 2008) | 1 line
+
+links.html: mf thread on learning programming (in teaching youself and arcana/php)
+------------------------------------------------------------------------
+r224 | jon | 2008-04-15 09:43:03 -0700 (Tue, 15 Apr 2008) | 1 line
+
+links.html: new Javascript links in language arcana
+------------------------------------------------------------------------
+r220 | jon | 2008-04-09 09:52:44 -0700 (Wed, 09 Apr 2008) | 1 line
+
+links.html: reorganize Python in language arcana
+------------------------------------------------------------------------
+r219 | jon | 2008-04-08 11:01:23 -0700 (Tue, 08 Apr 2008) | 1 line
+
+links.html: PC and Mac performance, DIY, another Python post
+------------------------------------------------------------------------
+r217 | jon | 2008-04-07 09:53:52 -0700 (Mon, 07 Apr 2008) | 1 line
+
+links.html: Linux kernel 2.6 stats etc, Powerbook dissection experiences
+------------------------------------------------------------------------
+r216 | jon | 2008-04-06 14:14:40 -0700 (Sun, 06 Apr 2008) | 1 line
+
+links.html: simple PHP server-side include example in arcana
+------------------------------------------------------------------------
+r215 | jon | 2008-04-06 13:38:13 -0700 (Sun, 06 Apr 2008) | 1 line
+
+links.html: put anchor at Python in language arcana
+------------------------------------------------------------------------
+r214 | jon | 2008-04-04 16:58:09 -0700 (Fri, 04 Apr 2008) | 1 line
+
+links.html: fonts and typography, emacs artist mode
+------------------------------------------------------------------------
+r213 | jon | 2008-04-04 09:19:11 -0700 (Fri, 04 Apr 2008) | 1 line
+
+links.html: sliderules and pyroom editor in neat hacks, weizenbaum excerpt in teaching novices, more annotations
+------------------------------------------------------------------------
+r211 | jon | 2008-04-03 09:20:28 -0700 (Thu, 03 Apr 2008) | 1 line
+
+links.html: Orwell essays, links and annotations
+------------------------------------------------------------------------
+r209 | jon | 2008-04-01 09:14:25 -0700 (Tue, 01 Apr 2008) | 1 line
+
+links.html: Internet starter projects
+------------------------------------------------------------------------
+r208 | jon | 2008-03-31 21:53:36 -0700 (Mon, 31 Mar 2008) | 1 line
+
+links.html: book cover designs and Orwell writings
+------------------------------------------------------------------------
+r205 | jon | 2008-03-29 12:03:06 -0700 (Sat, 29 Mar 2008) | 1 line
+
+links.html: Python data flow with decorators in language arcana, CS paper generator in CS literature and Words
+------------------------------------------------------------------------
+r204 | jon | 2008-03-29 11:40:35 -0700 (Sat, 29 Mar 2008) | 1 line
+
+links.html: replace additions from r184, 185, 188 apparently omitted by mistake from r 192
+------------------------------------------------------------------------
+r200 | jon | 2008-03-25 09:05:18 -0700 (Tue, 25 Mar 2008) | 1 line
+
+links.html - another link for SomeBits best-of, link to Dijkstra's Discipline of Programming - already broken (404), comment out
+------------------------------------------------------------------------
+r197 | jon | 2008-03-20 14:36:13 -0700 (Thu, 20 Mar 2008) | 1 line
+
+links.html: metafilter posts on studying science and engineering in college
+------------------------------------------------------------------------
+r194 | jon | 2008-03-17 09:04:48 -0700 (Mon, 17 Mar 2008) | 1 line
+
+links.html: askmetafilter post on learning science in college, metatalk collection of del.icio.us pages, funny ada discipline usenet post
+------------------------------------------------------------------------
+r192 | jon | 2008-03-15 20:15:30 -0700 (Sat, 15 Mar 2008) | 1 line
+
+links.html: add Joseph Weizenbaum to fallen heroes, reorganize that section with most recent on top
+------------------------------------------------------------------------
+r188 | jon | 2008-03-13 09:36:31 -0700 (Thu, 13 Mar 2008) | 1 line
+
+links.html: christo's YC post on learning programming esp. Javascript, one page quick Python explanation
+------------------------------------------------------------------------
+r185 | jon | 2008-03-10 16:45:38 -0700 (Mon, 10 Mar 2008) | 1 line
+
+links.html: more links for Ask Metafilter in Search and Reference
+------------------------------------------------------------------------
+r184 | jon | 2008-03-10 10:52:23 -0700 (Mon, 10 Mar 2008) | 1 line
+
+links.html: distribute version control/git in programming tools, new yorker archive search, what python gets right in language arcana
+------------------------------------------------------------------------
+r182 | jon | 2008-03-07 15:57:08 -0800 (Fri, 07 Mar 2008) | 1 line
+
+links.html: coping with MS Word n documentation, Great Faiths/MS, Win XP slideshow timing in Windows sysadmin
+------------------------------------------------------------------------
+r180 | jon | 2008-03-07 10:55:10 -0800 (Fri, 07 Mar 2008) | 1 line
+
+links.html: examples in Ask Metafilter, fix formating glitches in neat hacks
+------------------------------------------------------------------------
+r179 | jon | 2008-03-07 09:46:46 -0800 (Fri, 07 Mar 2008) | 1 line
+
+links.html: more Python and PHP in language arcana, Search Y Combinator
+------------------------------------------------------------------------
+r178 | jon | 2008-03-07 08:45:31 -0800 (Fri, 07 Mar 2008) | 1 line
+
+links.html: James Fallows on Chinese firewall, Atlantic Monthly archives, Nicholson Baker on Wikipedia, Local Girl web comic
+------------------------------------------------------------------------
+r177 | jon | 2008-03-06 09:26:35 -0800 (Thu, 06 Mar 2008) | 1 line
+
+links.html: add Ask MetaFilter in search and geek factor
+------------------------------------------------------------------------
+r176 | jon | 2008-02-29 10:09:55 -0800 (Fri, 29 Feb 2008) | 1 line
+
+links.html: Lisp in one Python expression, relay computer
+------------------------------------------------------------------------
+r173 | jon | 2008-02-25 17:03:07 -0800 (Mon, 25 Feb 2008) | 1 line
+
+links.html: more screenshots, new fonts section in geek factor, paparazzi open source autopilot in neat hacks
+------------------------------------------------------------------------
+r166 | jon | 2008-02-04 12:48:37 -0800 (Mon, 04 Feb 2008) | 1 line
+
+links.html: PS3 + Linux in high-performance computing, more rock club posters in graphics
+------------------------------------------------------------------------
+r164 | jon | 2008-01-26 20:32:30 -0800 (Sat, 26 Jan 2008) | 1 line
+
+links.html: Stranger covers, poster of the week
+------------------------------------------------------------------------
+r162 | jon | 2008-01-07 09:06:33 -0800 (Mon, 07 Jan 2008) | 1 line
+
+links.html: anagrams in Python etc., Lisp macros, set operations in shell, all in language arcana
+------------------------------------------------------------------------
+r161 | jon | 2008-01-04 11:23:43 -0800 (Fri, 04 Jan 2008) | 1 line
+
+links.html: add transfer functions and feedback in geek factor, also fix HTML glitch in Microsoft + PIFF
+------------------------------------------------------------------------
+r160 | jon | 2008-01-02 20:39:11 -0800 (Wed, 02 Jan 2008) | 1 line
+
+links.html: PIFF+Microsoft agreement about Samba, also Slashdot thread on test suites
+------------------------------------------------------------------------
+r159 | jon | 2007-12-27 09:36:14 -0800 (Thu, 27 Dec 2007) | 1 line
+
+links.html: Brin and Page's original Google design and prototype paper in Internet Search and Design Case Studies, Brain Kernighan's intro to CS course in University CS Courses and Teaching Novices
+------------------------------------------------------------------------
+r158 | jon | 2007-12-24 11:48:01 -0800 (Mon, 24 Dec 2007) | 1 line
+
+links.html: Backus NYT obit in programming history, fallen heroes
+------------------------------------------------------------------------
+r157 | jon | 2007-12-24 10:43:42 -0800 (Mon, 24 Dec 2007) | 1 line
+
+links.htl: programmer dress code blog post part 2
+------------------------------------------------------------------------
+r156 | jon | 2007-12-24 09:19:44 -0800 (Mon, 24 Dec 2007) | 1 line
+
+links.html: blog post on Lisp libraries, stability, etc. in programming language ecology
+------------------------------------------------------------------------
+r135 | jon | 2007-12-14 17:11:56 -0800 (Fri, 14 Dec 2007) | 1 line
+
+links.html: add digital filters in geek factor
+------------------------------------------------------------------------
+r133 | jon | 2007-12-14 10:10:48 -0800 (Fri, 14 Dec 2007) | 1 line
+
+links.html: FPGA projects in geek factor
+------------------------------------------------------------------------
+r130 | jon | 2007-12-10 10:55:32 -0800 (Mon, 10 Dec 2007) | 1 line
+
+links.html: Allan Adler on teaching and grades
+------------------------------------------------------------------------
+r128 | jon | 2007-12-07 14:51:20 -0800 (Fri, 07 Dec 2007) | 1 line
+
+links.html: practical electronics cookbook
+------------------------------------------------------------------------
+r127 | jon | 2007-12-07 10:56:15 -0800 (Fri, 07 Dec 2007) | 1 line
+
+links.html: Drawn, MVC, Programmer dress code
+------------------------------------------------------------------------
+r125 | jon | 2007-12-03 20:49:44 -0800 (Mon, 03 Dec 2007) | 1 line
+
+links.html: add indexed to comics
+------------------------------------------------------------------------
+r124 | jon | 2007-12-03 20:27:20 -0800 (Mon, 03 Dec 2007) | 1 line
+
+links.html: tweak xkcd comic
+------------------------------------------------------------------------
+r123 | jon | 2007-12-03 13:15:26 -0800 (Mon, 03 Dec 2007) | 1 line
+
+links.html, fix formatting bug in geek comics
+------------------------------------------------------------------------
+r121 | jon | 2007-12-03 10:27:36 -0800 (Mon, 03 Dec 2007) | 1 line
+
+links.html: add comics section in geeks (xkcd and phd)
+------------------------------------------------------------------------
+r118 | jon | 2007-12-01 11:25:24 -0800 (Sat, 01 Dec 2007) | 1 line
+
+links.html: Symbolics history, DIY science toys, review of electronics, circuits, systems
+------------------------------------------------------------------------
+r114 | jon | 2007-11-19 20:49:07 -0800 (Mon, 19 Nov 2007) | 1 line
+
+links.html: Book Art Design in Graphics -> Unusual media
+------------------------------------------------------------------------
+r113 | jon | 2007-11-19 10:04:39 -0800 (Mon, 19 Nov 2007) | 1 line
+
+links.html: E.O. Wilson introduces Darwin in Science -> journalism, history etc.
+------------------------------------------------------------------------
+r109 | jon | 2007-11-14 09:05:48 -0800 (Wed, 14 Nov 2007) | 1 line
+
+links.html: 'Everything I learned at MIT' in education -> Courses
+------------------------------------------------------------------------
+r107 | jon | 2007-11-13 09:00:54 -0800 (Tue, 13 Nov 2007) | 2 lines
+
+links.html: robot wisdom is back, also merge
+in Alan Kay on OOP early history and other tweaks in history
+------------------------------------------------------------------------
+r103 | jon | 2007-11-08 09:00:40 -0800 (Thu, 08 Nov 2007) | 1 line
+
+links.html: Alan Kay on early history of OOP in Programming History
+------------------------------------------------------------------------
+r101 | jon | 2007-11-06 08:33:50 -0800 (Tue, 06 Nov 2007) | 1 line
+
+links.html: one more testing link in software projects
+------------------------------------------------------------------------
+r100 | jon | 2007-11-05 09:29:23 -0800 (Mon, 05 Nov 2007) | 1 line
+
+links.html: Lang's Algebra books, fad programming environments, author citations in programming/teaching and careers
+------------------------------------------------------------------------
+r99 | jon | 2007-11-01 22:08:44 -0700 (Thu, 01 Nov 2007) | 1 line
+
+links.html: wiggy package management paper, screenshots in geek factor, new unix/ubuntu how-tos, ...
+------------------------------------------------------------------------
+r98 | jon | 2007-10-25 08:53:10 -0700 (Thu, 25 Oct 2007) | 1 line
+
+links.html: more svn links in design examples
+------------------------------------------------------------------------
+r97 | jon | 2007-10-19 09:17:13 -0700 (Fri, 19 Oct 2007) | 1 line
+
+links.html: tweaks in design and documentation
+------------------------------------------------------------------------
+r96 | jon | 2007-10-18 09:42:43 -0700 (Thu, 18 Oct 2007) | 1 line
+
+links.html: Y Combinator in Internet Projects, Subversion design in design, also documentation; separate out Design examples/case studies
+------------------------------------------------------------------------
+r95 | jon | 2007-10-15 09:20:26 -0700 (Mon, 15 Oct 2007) | 1 line
+
+links.html: RISKS article on UI design details that hugely affect acceptance
+------------------------------------------------------------------------
+r94 | jon | 2007-10-14 11:18:53 -0700 (Sun, 14 Oct 2007) | 1 line
+
+links.html: a few new links in science education, journalism
+------------------------------------------------------------------------
+r93 | jon | 2007-10-13 12:57:53 -0700 (Sat, 13 Oct 2007) | 1 line
+
+links.html: many new links in software projects esp. on cost, time, staff
+------------------------------------------------------------------------
+r92 | jon | 2007-10-11 11:49:59 -0700 (Thu, 11 Oct 2007) | 1 line
+
+links.html: real engineeering vs. software, add some author credits and cross refs
+------------------------------------------------------------------------
+r91 | jon | 2007-10-07 12:03:53 -0700 (Sun, 07 Oct 2007) | 1 line
+
+links.html, first commit from ubuntu: linux package management, classic movie clips on youtube, soviet posters
+------------------------------------------------------------------------
+r90 | jon | 2007-10-04 08:31:30 -0700 (Thu, 04 Oct 2007) | 1 line
+
+links.html: fix formatting in Berkeley course videos entry, fix link to Greenspun on MIT,India
+------------------------------------------------------------------------
+r89 | jon | 2007-10-03 17:05:46 -0700 (Wed, 03 Oct 2007) | 1 line
+
+links.html: UC Berkeley video, podcasts, YouTube
+------------------------------------------------------------------------
+r88 | jon | 2007-09-29 11:48:26 -0700 (Sat, 29 Sep 2007) | 1 line
+
+links.html: software design and projects, new links and reorganization
+------------------------------------------------------------------------
+r87 | jon | 2007-09-23 12:08:42 -0700 (Sun, 23 Sep 2007) | 1 line
+
+links.html: Taube on epidemiology in NYT, more on sw projects, doc
+------------------------------------------------------------------------
+r86 | jon | 2007-09-22 12:05:04 -0700 (Sat, 22 Sep 2007) | 1 line
+
+links.html: new links in sw documentation, projects
+------------------------------------------------------------------------
+r81 | jon | 2007-09-09 14:53:27 -0700 (Sun, 09 Sep 2007) | 1 line
+
+links.html: experiments (or lack thereof)  in CS,  users and requirements
+------------------------------------------------------------------------
+r80 | jon | 2007-09-07 21:35:02 -0700 (Fri, 07 Sep 2007) | 1 line
+
+links.html: more in learning math, programming ability and experience
+------------------------------------------------------------------------
+r79 | jon | 2007-09-07 09:43:48 -0700 (Fri, 07 Sep 2007) | 1 line
+
+links.html: new devs and users subsection in projects, new + reorganized documenation section in software
+------------------------------------------------------------------------
+r78 | jon | 2007-09-06 08:52:35 -0700 (Thu, 06 Sep 2007) | 1 line
+
+links.html: start math books section with post on Church's footnotes
+------------------------------------------------------------------------
+r77 | jon | 2007-09-01 10:42:21 -0700 (Sat, 01 Sep 2007) | 1 line
+
+links.html: Add some EWD articles in math
+------------------------------------------------------------------------
+r76 | jon | 2007-08-31 22:56:06 -0700 (Fri, 31 Aug 2007) | 1 line
+
+links.html: more language arcana, especially lisp and scheme
+------------------------------------------------------------------------
+r75 | jon | 2007-08-31 12:35:46 -0700 (Fri, 31 Aug 2007) | 1 line
+
+links.html: alphabetize languages in arcana
+------------------------------------------------------------------------
+r74 | jon | 2007-08-29 21:22:33 -0700 (Wed, 29 Aug 2007) | 1 line
+
+links.html: Add TheTC on US vs. Microsoft settlement
+------------------------------------------------------------------------
+r73 | jon | 2007-08-29 21:10:44 -0700 (Wed, 29 Aug 2007) | 1 line
+
+links.html: The Nonist, also Boing Boing and Small Net Builder
+------------------------------------------------------------------------
+r70 | jon | 2007-08-06 13:12:28 -0700 (Mon, 06 Aug 2007) | 1 line
+
+labview-prog.html, add JG remark on Wait in While to release processor
+------------------------------------------------------------------------
+r69 | jon | 2007-08-04 09:44:03 -0700 (Sat, 04 Aug 2007) | 1 line
+
+links.html: add Idiomatic Python
+------------------------------------------------------------------------
+r68 | jon | 2007-08-01 13:53:25 -0700 (Wed, 01 Aug 2007) | 1 line
+
+links.html: add Nelson Minar's somebits blog (for links) to Internet buzz, adding authors to software engineering links in progress
+------------------------------------------------------------------------
+r67 | jon | 2007-07-23 20:05:03 -0700 (Mon, 23 Jul 2007) | 1 line
+
+links.html: a few more math posts: Rubin, Ron Bruck, spell Allan Adler correctly
+------------------------------------------------------------------------
+r66 | jon | 2007-07-20 22:18:49 -0700 (Fri, 20 Jul 2007) | 1 line
+
+links.html: more difficulties with math, scientific vs. artistic understanding, author credits in extreme programming
+------------------------------------------------------------------------
+r65 | jon | 2007-07-20 11:42:29 -0700 (Fri, 20 Jul 2007) | 1 line
+
+links.html: NModel, Mermin's QC intro, Tom Tomorrow QM cartoon
+------------------------------------------------------------------------
+r64 | jon | 2007-07-18 20:53:04 -0700 (Wed, 18 Jul 2007) | 1 line
+
+links.html: many links to posts about learning and teaching math
+------------------------------------------------------------------------
+r63 | jon | 2007-07-16 21:38:58 -0700 (Mon, 16 Jul 2007) | 1 line
+
+links.html: Norvig's errors in experiment design and interpretation, also many links in math history, people, culture, humor
+------------------------------------------------------------------------
+r62 | jon | 2007-07-13 16:41:03 -0700 (Fri, 13 Jul 2007) | 1 line
+
+New entries for C and Z in language arcana
+------------------------------------------------------------------------
+r61 | jon | 2007-06-15 15:05:38 -0700 (Fri, 15 Jun 2007) | 1 line
+
+links.html: add Learning math section
+------------------------------------------------------------------------
+r60 | jon | 2007-06-15 09:14:58 -0700 (Fri, 15 Jun 2007) | 1 line
+
+links.txt: placeholder for more in math history
+------------------------------------------------------------------------
+r59 | jon | 2007-06-15 09:09:05 -0700 (Fri, 15 Jun 2007) | 1 line
+
+links.txt: more links in math foundations, start math history
+------------------------------------------------------------------------
+r58 | jon | 2007-06-14 22:32:25 -0700 (Thu, 14 Jun 2007) | 1 line
+
+links.html: Foundations in Math
+------------------------------------------------------------------------
+r57 | jon | 2007-06-08 10:55:34 -0700 (Fri, 08 Jun 2007) | 1 line
+
+links.html: link to EWD essays in math
+------------------------------------------------------------------------
+r54 | jon | 2007-05-31 21:34:14 -0700 (Thu, 31 May 2007) | 1 line
+
+links.html: in physics, netnews posts on simplification in physics and interpretations of QM
+------------------------------------------------------------------------
+r52 | jon | 2007-05-30 14:14:54 -0700 (Wed, 30 May 2007) | 1 line
+
+links.html: Norvig's Python spell-checker, python pitfalls, beware of XHTML
+------------------------------------------------------------------------
+r51 | jon | 2007-05-30 13:08:25 -0700 (Wed, 30 May 2007) | 1 line
+
+links.html: add Timothy Gowers, Doron Z. in math; separate physics, math, astronomy
+------------------------------------------------------------------------
+r42 | jon | 2007-04-18 08:58:09 -0700 (Wed, 18 Apr 2007) | 1 line
+
+links.html: fix Phil Agre URLs
+------------------------------------------------------------------------
+r40 | jon | 2007-03-16 15:24:16 -0700 (Fri, 16 Mar 2007) | 1 line
+
+www/home links.html: add SciPy course notes to language arcana, Python
+------------------------------------------------------------------------
+r37 | jon | 2007-03-05 13:24:54 -0800 (Mon, 05 Mar 2007) | 1 line
+
+www\home links.html add misc recent links: Python std library, testing tools, graphics textbooks
+------------------------------------------------------------------------
+r31 | jon | 2007-01-26 11:01:09 -0800 (Fri, 26 Jan 2007) | 1 line
+
+links.html: code vs. comments, web application design (PHP example)
+------------------------------------------------------------------------
+r30 | jon | 2007-01-22 11:23:45 -0800 (Mon, 22 Jan 2007) | 1 line
+
+links.html: 99 problems in Prolog, Haskell, Lisp in language arcana, rosetta stones
+------------------------------------------------------------------------
+r29 | jon | 2007-01-12 09:59:00 -0800 (Fri, 12 Jan 2007) | 1 line
+
+links.html: PHP books, advice, criticism in Programming arcana and literature
+------------------------------------------------------------------------
+r28 | jon | 2007-01-09 22:01:52 -0800 (Tue, 09 Jan 2007) | 1 line
+
+links.html: English Lit prof's essay in Science: Journalism, Philosophy
+------------------------------------------------------------------------
+r27 | jon | 2007-01-08 17:18:07 -0800 (Mon, 08 Jan 2007) | 1 line
+
+links.html - web security etc.
+------------------------------------------------------------------------
+r26 | jon | 2007-01-08 15:04:01 -0800 (Mon, 08 Jan 2007) | 1 line
+
+links.html: javascript security model
+------------------------------------------------------------------------
+r25 | jon | 2007-01-08 13:29:55 -0800 (Mon, 08 Jan 2007) | 1 line
+
+links.html: discussion on web frameworks: 5 languages
+------------------------------------------------------------------------
+r24 | jon | 2007-01-07 14:10:25 -0800 (Sun, 07 Jan 2007) | 1 line
+
+links.html: tweak link to unix haters handbook preface in design
+------------------------------------------------------------------------
+r23 | jon | 2007-01-07 14:07:39 -0800 (Sun, 07 Jan 2007) | 1 line
+
+links.html: add unix haters handbook preface in design
+------------------------------------------------------------------------
+r22 | jon | 2007-01-05 21:58:01 -0800 (Fri, 05 Jan 2007) | 1 line
+
+links.html: strange maps, model-based testing, and much more
+------------------------------------------------------------------------
+r21 | jon | 2007-01-02 17:28:35 -0800 (Tue, 02 Jan 2007) | 1 line
+
+links.html: add link on Apple OS X development, remove broken link on OS X
+------------------------------------------------------------------------
+r20 | jon | 2006-12-27 16:26:29 -0800 (Wed, 27 Dec 2006) | 1 line
+
+links.html: move Robot Wisdom from Daily to Topical, mark defunct
+------------------------------------------------------------------------
+r19 | jon | 2006-12-26 10:41:38 -0800 (Tue, 26 Dec 2006) | 1 line
+
+links.html: fix recently-changed URL
+------------------------------------------------------------------------
+r18 | jon | 2006-11-06 10:20:22 -0800 (Mon, 06 Nov 2006) | 1 line
+
+Griffin on research languages vs. production languages
+------------------------------------------------------------------------
+r15 | jon | 2006-10-27 21:04:47 -0700 (Fri, 27 Oct 2006) | 1 line
+
+links.html: Make on PCBs, fix broken links
+------------------------------------------------------------------------
+r14 | jon | 2006-10-18 09:02:05 -0700 (Wed, 18 Oct 2006) | 1 line
+
+links.html: Wirth's Ideas Through the Looking Glass
+------------------------------------------------------------------------
+r13 | jon | 2006-10-16 15:57:00 -0700 (Mon, 16 Oct 2006) | 1 line
+
+links.html: CS origins and precursors
+------------------------------------------------------------------------
+r12 | jon | 2006-10-16 10:59:42 -0700 (Mon, 16 Oct 2006) | 1 line
+
+links.html: comment on Python pitfalls in Language Arcana
+------------------------------------------------------------------------
+r11 | jon | 2006-10-15 21:38:12 -0700 (Sun, 15 Oct 2006) | 1 line
+
+links.html: tiny web server in Make, Google code search, Primeval C from DMR, Philp Greenspun's HTML + CSS primer
+------------------------------------------------------------------------
+r10 | jon | 2006-10-02 20:50:38 -0700 (Mon, 02 Oct 2006) | 1 line
+
+links.html: change groups-beta.google... to groups.google.  groups-beta no longer works, as of *today*
+------------------------------------------------------------------------
+r9 | jon | 2006-10-01 12:18:33 -0700 (Sun, 01 Oct 2006) | 1 line
+
+links.html: more on AI winter, also on learning AI
+------------------------------------------------------------------------
+r8 | jon | 2006-10-01 11:33:33 -0700 (Sun, 01 Oct 2006) | 1 line
+
+links.html: AI winter
+------------------------------------------------------------------------
+r7 | jon | 2006-10-01 11:09:52 -0700 (Sun, 01 Oct 2006) | 1 line
+
+links.html: bad textbooks in science
+------------------------------------------------------------------------
+r6 | jon | 2006-09-25 21:27:54 -0700 (Mon, 25 Sep 2006) | 1 line
+
+links.html: cartooning, web pages
+------------------------------------------------------------------------
+r5 | jon | 2006-09-18 11:36:15 -0700 (Mon, 18 Sep 2006) | 1 line
+
+links.html Architectures of control, Linux kernel map, debuggers and IDEs, desktop evolution, other links
+------------------------------------------------------------------------
+r3 | (no author) | 2006-08-11 14:19:06 -0700 (Fri, 11 Aug 2006) | 1 line
+
+import holborne: links.html
+------------------------------------------------------------------------
