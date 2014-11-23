@@ -2713,7 +2713,7 @@ Brief descriptions of some influential architectures: PDP 8, CDC 3300 and 6000, 
 </p>
 
 <p>
-6502 microprocessor history (1975 &ndash; ), introduction, data sheet, opcode map, reference, Verilog, lore<br>
+6502 microprocessor history (1975 &ndash; ), introduction, data sheet, opcode map, reference, Verilog, C, lore.<br>
 <em>The historic, once very popular 6502 makes a simple yet practical and applicable introduction to computer architecture.</em><br>
 
 <a href="http://en.wikipedia.org/wiki/MOS_Technology_6502">
@@ -2733,51 +2733,8 @@ also <a href="http://mdfs.net/Docs/Comp/6502/Datasheet">
 <tt>http://ladybug.xs4all.nl/arlet/fpga/6502/</tt></a> 
 also at <a href="https://github.com/Arlet/verilog-6502">
 <tt>https://github.com/Arlet/verilog-6502</tt></a> (Verilog model)<br>
-</p>
-
-<p>
-Hand-assembled, handwritten 6502 machine code for KIM-1<br>
-<em>The first 6502 computer (1976): KIM-1 was very simple, very cheap yet complete and  self-contained.</em><br>
-<a href="http://blog.jgc.org/2013/04/how-i-coded-in-1985.html">
-<tt>http://blog.jgc.org/2013/04/how-i-coded-in-1985.html</tt></a><br>
-<a href="http://staff.washington.edu/jon/pubs/mixer.html">
-<tt>http://staff.washington.edu/jon/pubs/mixer.html</tt></a>
-also here <a href="http://jap.physiology.org/content/49/1/160">
-<tt>http://jap.physiology.org/content/49/1/160</tt></a><br>
-</p>
-
-<p>
-Chess in 1K for KIM-1 (1976)<br>
-<em>"If  you  are  an  above  average player, you may find that the
-MICROCHESS program is below your  level ..."</em><br>
-<a href="http://www.benlo.com/microchess/">
-<tt>http://www.benlo.com/microchess/</tt></a><br> 
-manual, source:
-<a href="http://www.benlo.com/microchess/Kim-1Microchess.html">
-<tt>Kim-1Microchess.html</tt></a>, 
-downloadable source: <a href="http://www.benlo.com/files/Microchess6502.txt">
-<tt>Microchess6502.txt</tt></a><br>
-hex machine code: <a href="http://www.benlo.com/microchess/Kim-1Microchess.html#25">
-<tt>Kim-1Microchess.html#25</tt></a><br>
-</p>
-
-
-<p>
-Micro-KIM: KIM-1 replica built with modern components (2007)<br>
-<em>(does not include the fifteen I/O ports that made KIM-1 a self-contained controller)</em><br>
-<a href="http://www.brielcomputers.com/wordpress/?cat=24">
-<tt>http://www.brielcomputers.com/wordpress/?cat=24</tt></a>, also
-<a href="http://www.brielcomputers.com/files/mkmanual.pdf">
-<tt>files/mkmanual.pdf</tt></a><br>
-different author, design only: <a href="http://www.6502.org/trainers/buildkim/buildkim.htm">
-<tt>http://www.6502.org/trainers/buildkim/buildkim.htm</tt></a> (1999)<br>
-</p>
-
-<p>
-6502: three-chip system (with dual-port RAM and video) on a solderless breadboard (2013)<br>
-<em>"I don't have any schematics ... it was all improvised on the fly ..."</em><br>
-<a href="http://www.hackaday.com/2013/10/21/the-most-minimal-homebrew-computer/">
-<tt>http://www.hackaday.com/2013/10/21/the-most-minimal-homebrew-computer/</tt></a><br>
+<a href="http://rubbermallet.org/fake6502.c">
+<tt>http://rubbermallet.org/fake6502.c</tt></a> (C simulator)<br>
 </p>
 
 <p>
@@ -2786,18 +2743,6 @@ different author, design only: <a href="http://www.6502.org/trainers/buildkim/bu
 <tt>http://www.metafilter.com/114962/jmp-TRIGSPIKES#4298388</tt></a><br>
 <a href="http://www.metafilter.com/138822/How-Steve-Wozniak-Wrote-BASIC-for-the-Original-Apple-From-Scratch#5535537">
 <tt>http://www.metafilter.com/138822/How-Steve-Wozniak-Wrote-BASIC-for-the-Original-Apple-From-Scratch#5535537</tt></a><br>
-</p>
-
-<p>
-Steve Wozniak's "brilliant and classic", "beautiful" disk controller for the Apple II<br>
-<a href="http://josephoswald.nfshost.com/circuit-sim/summary.html#wozmachine">
-<tt>http://josephoswald.nfshost.com/circuit-sim/summary.html#wozmachine</tt></a>
-also <a href="http://josephoswald.nfshost.com/circuit-sim/woz-machine-hw-sim.lisp">
-<tt>woz-machine-hw-sim.lisp</tt></a><br>
-<a href="http://www.metafilter.com/114962/jmp-TRIGSPIKES#4301468">
-<tt>http://www.metafilter.com/114962/jmp-TRIGSPIKES#4301468</tt></a>, 
-also <a href="http://www.metafilter.com/114962/jmp-TRIGSPIKES#4303936">
-<tt>#4303936</tt></a><br>
 </p>
 
 <p>
@@ -2903,10 +2848,12 @@ BrainF* machine, homebrew CPU in 17 small ICs (mostly 74HCxxx)<br>
 
 
 <a name="engr-comp">
-<h3>Computer and network hardware and systems</h3>
+<h3>Computer hardware and systems</h3>
 
 (See also <a href="#os">operating systems</a> and
 <a href="#programming">programming</a>)
+
+<h4>Retro</h4>
 
 <p>
 Archive of early microcomputers: newsletters, articles, manuals from the 1970s and early 80s<br>
@@ -2916,6 +2863,89 @@ Archive of early microcomputers: newsletters, articles, manuals from the 1970s a
 <tt>systems.htm</tt></a><br>
 </p>
 
+<h4>KIM-1</h4>
+
+<p>
+Hand-assembled, handwritten 6502 machine code for KIM-1<br>
+<em>The first 6502 computer (1976): KIM-1 was very simple, very cheap yet complete and  self-contained.</em><br>
+<a href="http://blog.jgc.org/2013/04/how-i-coded-in-1985.html">
+<tt>http://blog.jgc.org/2013/04/how-i-coded-in-1985.html</tt></a><br>
+</p>
+
+<p>
+Chess in 1K for KIM-1 (1976)<br>
+<em>"If  you  are  an  above  average player, you may find that the
+MICROCHESS program is below your  level ..."</em><br>
+<a href="http://www.benlo.com/microchess/">
+<tt>http://www.benlo.com/microchess/</tt></a><br> 
+manual, source:
+<a href="http://www.benlo.com/microchess/Kim-1Microchess.html">
+<tt>Kim-1Microchess.html</tt></a>, 
+downloadable source: <a href="http://www.benlo.com/files/Microchess6502.txt">
+<tt>Microchess6502.txt</tt></a><br>
+hex machine code: <a href="http://www.benlo.com/microchess/Kim-1Microchess.html#25">
+<tt>Kim-1Microchess.html#25</tt></a><br>
+</p>
+
+<p>
+KIM-1 laboratory control application (1977-80)<br>
+<a href="http://staff.washington.edu/jon/pubs/mixer.html">
+<tt>http://staff.washington.edu/jon/pubs/mixer.html</tt></a>
+also here <a href="http://jap.physiology.org/content/49/1/160">
+<tt>http://jap.physiology.org/content/49/1/160</tt></a><br>
+</p>
+
+<p>
+KIM-2: proposes KIM-1 replica, discusses difficulties (1999)<br>
+<a href="http://www.6502.org/trainers/buildkim/buildkim.htm">
+<tt>http://www.6502.org/trainers/buildkim/buildkim.htm</tt></a><br>
+</p>
+
+<p>
+Micro-KIM: KIM-1 replica built with modern components (2007)<br>
+<em>(does not include the fifteen I/O ports that made KIM-1 a self-contained controller)</em><br>
+<a href="http://www.brielcomputers.com/wordpress/?cat=24">
+<tt>http://www.brielcomputers.com/wordpress/?cat=24</tt></a>, also
+<a href="http://www.brielcomputers.com/files/mkmanual.pdf">
+<tt>files/mkmanual.pdf</tt></a><br>
+</p>
+
+<p>
+KIM Uno: KIM-1 replica using Arduino Uno with atMega328 emulating 6502 (2014)<br>
+<em>"will run on any Arduino ... without keyboard and LED display ... over the serial port"</em><br>
+<a href="http://obsolescence.wix.com/obsolescence#!kim-uno-summary/c1uuh">
+<tt>http://obsolescence.wix.com/obsolescence#!kim-uno-summary/c1uuh</tt></a><br>
+</p>
+
+<h4>Apple II</h4>
+
+<p>
+Steve Wozniak's "brilliant and classic", "beautiful" disk controller for the Apple II<br>
+<a href="http://josephoswald.nfshost.com/circuit-sim/summary.html#wozmachine">
+<tt>http://josephoswald.nfshost.com/circuit-sim/summary.html#wozmachine</tt></a>
+also <a href="http://josephoswald.nfshost.com/circuit-sim/woz-machine-hw-sim.lisp">
+<tt>woz-machine-hw-sim.lisp</tt></a><br>
+<a href="http://www.metafilter.com/114962/jmp-TRIGSPIKES#4301468">
+<tt>http://www.metafilter.com/114962/jmp-TRIGSPIKES#4301468</tt></a>, 
+also <a href="http://www.metafilter.com/114962/jmp-TRIGSPIKES#4303936">
+<tt>#4303936</tt></a><br>
+</p>
+
+<h4>Other 6502</h4>
+
+<p>
+6502: three-chip system (with dual-port RAM and video) on a solderless breadboard (2013)<br>
+<em>"I don't have any schematics ... it was all improvised on the fly ..."</em><br>
+<a href="http://www.hackaday.com/2013/10/21/the-most-minimal-homebrew-computer/">
+<tt>http://www.hackaday.com/2013/10/21/the-most-minimal-homebrew-computer/</tt></a><br>
+<a href="http://jmp.no/blog/3-chip-computer">
+<tt>http://jmp.no/blog/3-chip-computer</tt></a>, also
+<a href="http://jmp.no/blog/final-words-on-the-3cc">
+<tt>final-words-on-the-3cc</tt></a><br>
+</p>
+
+<h4>68000</h4>
+
 <p>
 68008 on a solderless breadboard running Linux, file system in one ROM and one RAM chip<br>
 <a href="http://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/">
@@ -2923,6 +2953,8 @@ Archive of early microcomputers: newsletters, articles, manuals from the 1970s a
 HN comments <a href="https://news.ycombinator.com/item?id=8622720">
 <tt>https://news.ycombinator.com/item?id=8622720</tt></a><br>
 </p>
+
+<h4>Recent architectures</h4>
 
 <p>
 Novena open source laptop for hardware research and development, with onboard FPGA etc.<br>
@@ -2954,6 +2986,8 @@ Supercomputing on a shoestring<br>
 <a href="http://www.primatelabs.ca/blog/2008/02/mac-performance-february-2008/">
 <tt>http://www.primatelabs.ca/blog/2008/02/mac-performance-february-2008/</tt></a><br>
 </p>
+
+<h3>Network hardware and systems</h3>
 
 <p>
 Networks, including wireless<br>
