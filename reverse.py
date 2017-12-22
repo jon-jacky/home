@@ -1,6 +1,9 @@
 """
 reverse.py - read todo.txt, write out recent.txt with same content
               but in reverse chron. order with most recent days first
+
+Handles all but the last (most recent) item in todo.txt, which you
+must edit into recent.txt by hand.
 """
 
 import re
