@@ -1,6 +1,40 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
+25 Dec 2017
+
+- http://www.nyx.net/~ewilli/edtut.pdf - A Tutorial Introduction to
+  the UNIX Text Editor by Brian W. Kernighan - "Almost all text input
+  on the UNIX operating system is done with the text-editor ed."
+
+24 Dec 2017
+
+- https://bitbucket.org/infpi/inferno-rpi - Inferno OS for Raspberry
+  Pi - via https://news.ycombinator.com/item?id=15993639: "... many
+  aren't aware of Inferno OS and always think Plan 9 was the end of
+  the line, when that status actually belongs to Inferno OS.  Which
+  implemented the original vision for Plan 9, regarding what Pike
+  wanted to do with Alef."
+
+23 Dec 2017
+
+- https://notamonadtutorial.com/harvey-an-operating-system-with-plan-9-s-shadow-3081414e5f0b
+  "Plan 9 implements true resource sharing as opposed to remote
+  access. M. A. Padlipsky succintly defines the difference in his
+  classic RFC 871 — A PERSPECTIVE ON THE ARPANET REFERENCE MODEL,
+  which is a great read.  Most Unix ­derived systems today implement
+  remote access, via tools like ssh, not resource sharing."  Also
+  briefly comments on 9front, node9, 9base, Glendix and plan9port.
+  via https://news.ycombinator.com/item?id=15989697 which discusses
+  https://harvey-os.org/ HN comment
+  https://news.ycombinator.com/item?id=15990803 says "it's a Plan9
+  fork refreshed for modern build chains plus golang support."
+
+22 Dec 2017
+
+- https://www.metafilter.com/171362/All-I-want-for-Christmas-is-a-crapton-of-jazz
+  links to jazz Christmas music
+
 20 Dec 2017
 
 - http://screenl.es/ - The Screenless Office is a system for working
