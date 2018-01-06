@@ -1,6 +1,51 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
+ 6 Jan 2018
+
+- https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
+  comments https://news.ycombinator.com/item?id=16084763 - "Bash
+  has a huge number of little shortcuts that are difficult to learn."
+  HN comment links to http://mywiki.wooledge.org/BashFAQ, 116 "How do I..?"
+  questions.
+
+- http://yeokhengmeng.com/2018/01/make-the-486-great-again/ "Modern
+  Linux in an ancient PC - What is the oldest x86 processor that is
+  still supported by a modern Linux kernel in present time?" It's 486,
+  "support for the 386 was dropped in Dec 2012."  They get Gentoo
+  running on a 1993 IBM PS/1.  "AMD 5X86 486-clone running at 133mhz
+  ... 64MB SDRAM" "It takes 11 minutes to boot up to the login prompt
+  and 5.5 mins to shutdown."  "low-level detailed instructions" at
+  https://github.com/yeokm1/gentoo-on-486/  Comments at
+  https://news.ycombinator.com/item?id=16085068 "Wow it's a lot slower
+  now than it is with 1992 Linux."
+
+ 4 Jan 2018
+
+- https://github.com/jlevy/the-art-of-command-line - "Master the
+  command line, in one page" - but it's a very long page!  Much is
+  potentially useful, not well known (by me).
+
+- https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b
+  "Learning math on your own. A guide, heartfelt and opinionated"
+  Includes some unusual suggestions.
+
+ 3 Jan 2018
+
+- http://www.hellophia.com/ web page of comic/graphic artist Sophia
+  Foster-Dimino - unusually good use of color and subtle animation, for
+  example http://www.hellophia.com/#/animation-personal/ Much more in
+  comic strip format at http://sophiafosterdimino.tumblr.com/ via
+  comment in MeFi post below.
+
+- https://www.metafilter.com/171507/2017-was-full-of-great-comics-and-heres-where-to-find-them,
+  links to
+  https://www.theverge.com/2017/12/22/16807260/best-comics-of-2017 and
+  several other best-of-2017 lists.
+
+- https://rcoh.me/posts/notes-on-cpython-list-internals/ - with links
+  to CPython source and docs
+
 25 Dec 2017
 
 - http://www.nyx.net/~ewilli/edtut.pdf - A Tutorial Introduction to
