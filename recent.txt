@@ -1,6 +1,55 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
+10 Jan 2018
+
+- https://ask.metafilter.com/317751/A-few-questions-about-the-blockchain
+  Several clear explanations with links to more.
+
+- https://github.com/tonybaloney/mocker - "A crappy imitation of
+  Docker, written in 100% Python ... I'm giving a talk ... and fancied
+  a simple implementation to show how container isolation works. ... I
+  wrote this in 2 days, don't take it seriously" Comment at
+  https://news.ycombinator.com/item?id=16114724: "This is great, and
+  the code is particularly easy to follow and quite Pythonic. Nice!"
+
+ 8 Jan 2018
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4522609/ "Fifty
+  psychological and psychiatric terms to avoid: a list of inaccurate,
+  misleading, misused, ambiguous, and logically confused words and
+  phrases" "a provisional list of 50 commonly used terms in
+  psychology, psychiatry, and allied fields that should be avoided, or
+  at most used sparingly and with explicit caveats. We provide
+  corrective information for students, instructors, and researchers"
+
+- https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb 
+  Comments https://news.ycombinator.com/item?id=16084238
+  "This notebook should be named "how to abuse decorators"..." But worth
+  looking at anyway.
+
+ 7 Jan 2018
+
+- http://xon.sh/ "the xonsh shell ...  Xonsh is a Python-powered,
+  cross-platform, Unix-gazing shell language and command prompt. The
+  language is a superset of Python 3.4+ with additional shell
+  primitives that you are used to from Bash and IPython. ..."
+
+- http://www.dougengelbart.org/firsts/1968-demo-interactive.html -
+  Doug Englebart's famous "'Mother of all demos', a chapterized version"
+
+- https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/
+  Comment at https://news.ycombinator.com/item?id=16080002 "This is a
+  good overview of modern, superscalar, out-of-order, speculative CPUs
+  that literally any programmer could easily understand. Recommended
+  reading for every single engineer in the whole world" "Finally I
+  understand how the leakage works: no actual reading of kernel memory
+  is taking place. Instead, the read-ahead/speculative logic causes
+  one of two addresses in user space to be read, and thus placed in
+  the cache. So, by reading both of them, and checking the time it
+  took, the exploit can indirectly determine one bit (0 or 1) of
+  kernel memory. Scary!"
+
  6 Jan 2018
 
 - https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
