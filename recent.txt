@@ -15,7 +15,14 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
   one of being a "luddite", or perhaps a "neckbeard" practicing some
   unexplained type of "elitism".  The uninitiated person who sees the
   results of UNIX text processing as nothing short of "magic" is rare
-  indeed. It is that person who might enjoy this book."
+  indeed. It is that person who might enjoy this book."  This was in
+  comments on https://virtuallyfun.com/2018/01/10/life-in-unix-v7-an-attempt-at-a-simple-task/ 
+  "(using) vi, staring at a blob of text with no syntax highlighting
+  and with limited space, you start appreciating troff/nroff much
+  more. ... LaTeX tends to have fairly verbose commands. ...
+  ‘‘parsing’’ troff/nroff syntax is much easier ... on your tiny 80×24
+  screen ... As for the (V7/x86) system as a whole, I was positively
+  surprised how usable it was by today’s standards."
 
 - https://ask.metafilter.com/317751/A-few-questions-about-the-blockchain
   Several clear explanations with links to more.
