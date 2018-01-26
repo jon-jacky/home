@@ -1,6 +1,59 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
+20 Jan 2018
+
+- http://mad4j.github.io/book-mdpc/ - Minimalist movie posters
+  generated using Processing programming language
+
+- http://aiju.de/code/tiny - The Tiny Unix Tools: the shortest
+  implementations of common Unix tools.  For example, "ed:
+  main(a){for(;;){read(0,&a,1);write(1,"?\n",2);}}"  Well...
+
+
+18 Jan 2018
+
+- https://www.rand.org/pubs/classics.html - Classic RAND papers including
+  Paul Baran's Distributed Communications series
+
+- https://jsandler18.github.io/ - "Building an Operating System for
+  the Raspberry Pi" and https://news.ycombinator.com/item?id=16180975
+  with "I used this tooling: https://github.com/ali1234/rpi-ramdisk to
+  build a tiny fine-tuned Raspbian for "embedded" Python 3 (a project
+  I dub PiratePython). It uses multistrap/qemu ..."
+  https://github.com/pimoroni/PiratePython "...aims to bring the
+  simplicity of MicroPython to the Pi, but all the power of the
+  full-blown Python..." (links to other minimal distros for RPi in
+  these comments)
+
+15 Jan 2018
+
+- http://tenex.opost.com/hbook.html - "Origins and Development of
+  TOPS-20 by Dan Murphy" especially sections on "User-oriented Design
+  Philosophy" "Escape Recognition, Noise Words, Help" "The COMND
+  Service".  Also pertinent:
+  http://www.math.utah.edu/~beebe/publications/1987/t20unix.pdf "Unix
+  for TOPS-20 Users", especially section 3 "Command Processors"
+  compares Unix shells to TOPS-20 EXEC: "(in Unix) No in-line help is
+  available from the shell, like it is with the Tops-20 EXEC. This is
+  a serious flaw of essentially every other operating system but
+  Tops-20, and forces a user who has partially typed a command line
+  and then forgotten the name of a switch to reach for a printed
+  manual, or abort the typein and go search for on-line
+  documentation."  Recall Hank Levy (former DEC engr, UW CSE faculty)
+  said (in 198x) that TOPS-20 had the best command line UI of any OS.
+
+14 Jan 2018
+
+- https://news.ycombinator.com/item?id=13205419 - "What sort of things
+  could/can VMS do that Unix couldn't?"
+
+12 Jan 2018
+
+- https://retrocomputing.stackexchange.com/questions/5341/how-did-people-use-ed
+  Many memoirs of programming in the 1970s and earlier, with printing
+  terminals and punched cards.
+
 10 Jan 2018
 
 - https://news.ycombinator.com/item?id=16118155 links to
