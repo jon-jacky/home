@@ -8,7 +8,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
 - http://aiju.de/code/tiny - The Tiny Unix Tools: the shortest
   implementations of common Unix tools.  For example, "ed:
-  main(a){for(;;){read(0,&a,1);write(1,"?\n",2);}}"  Well...
+  main(a){for(;;){read(0,&a,1);write(1,"?\n",2);}}" Oh, it's a joke.
 
 
 18 Jan 2018
