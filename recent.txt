@@ -1,6 +1,35 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
+
+30 Jan 2018
+
+- https://ask.metafilter.com/318420/Site-to-Read-Real-Code-Like-Python
+  Includes my first Ask Metafilter answer, after 10+ years lurking.
+
+- https://github.com/norvig/pytudes - "Python programs to practice or
+  demonstrate skills" - many IPython notebooks, cited by me in my
+  answer above.
+
+- http://www.aosabook.org/en/index.html - "500 Lines or Less" -
+  another answer (not mine) to the same AskMe.
+
+- https://news.ycombinator.com/item?id=16267202 - comments on "Xi: an
+  editor for the next 20 years [video] (recurse.com)"
+
+- https://lsub.org/who/nemo/9.intro.pdf - "Introduction to Operating
+  Systems Abstractions Using Plan 9 from Bell Labs by Francisco J
+  Ballesteros - Draft 9/28/2007" 416 page book.  
+
+- https://news.ycombinator.com/item?id=16254250 - comment on above -
+  "... There's this emphasis on simple, sane ways of fulfilling tasks
+  on plan9 that permeates the whole system. It's beautiful."
+
+- https://marc.info/?l=9fans&m=111558822710356&w=2 - "From: Russ Cox
+  Date: 2001-10-25 ... Why plan 9?"
+  https://news.ycombinator.com/item?id=11882797
+
+
 20 Jan 2018
 
 - http://mad4j.github.io/book-mdpc/ - Minimalist movie posters
