@@ -1,6 +1,28 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
 
+31 Jan 2018
+
+- https://cmcenroe.me/2018/01/30/fbclock.html - "Programming the Linux
+ Framebuffer ... to put a white pixel in the top-left corner of the
+ screen ...  echo -en '\xFF\xFF\xFF\x00' > /dev/fb0 ... In order to
+ put pixels wherever we want ... we’ll want to mmap the file instead
+ ... int fb = open("/dev/fb0", O_RDWR); ... uint32_t buf = mmap(NULL,
+ len, PROT_READ | PROT_WRITE, MAP_SHARED, fb, 0); ... Placing a pixel
+ is now as simple as assigning buf[y * info.xres + x] an RGB value ..."
+
+- https://cmcenroe.me/2017/05/05/linux-console.html - "Configuring the
+  Linux Console ... I recently dug up my HP Chromebook 11 ...I used
+  splat to install Arch Linux ARM ... I decided not to install X.Org
+  and stick to the console. ... it can actually be configured in many
+  of the same ways as graphical terminal emulators! ... (shows how)
+  ... these are the applications I use on the console: jfbview, PDF
+  viewer; fbv, image viewer; ..." (with links to their Arch packages).
+
+- https://cmcenroe.me/2015/09/27/ascii.html - "ASCII to My Heart ...
+  Values starting with 10 represent the capital letter at the position
+  in the alphabet of the last 5 bits. For example, 1000011 is the
+  character “C”. ..." (etc.)
 
 30 Jan 2018
 
