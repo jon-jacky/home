@@ -1,6 +1,23 @@
 Recent links, begun October 2016
-Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 - July 2017
+Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 2 Feb 2018
+
+- https://news.ycombinator.com/item?id=16294594 - "Plan 9 is an
+  amazing, inspirational, and futuristic operating system from the
+  past" Post in parent https://news.ycombinator.com/item?id=16292162
+  on "Plan 9 public grid (9gridchan.org)" 
+
+- https://news.ycombinator.com/item?id=16295885 "/proc came from plan9
+  and BSDs are moving away from it, why is this the case?"  (Another
+  post in thread linked above): "Exposing kernel bits via the
+  filesystem makes less sense the more you think about it:
+  ... Programs now have to deal with malicious applications capable of
+  managing mountpoints giving fake results via the filesystem. I could
+  link to /dev/random to /dev/zero ... It's definitely not a simple
+  interface for the kernel to implement ...  (also) vulnerability to
+  file descriptor exhaustion attacks. ..."
+ 
 31 Jan 2018
 
 - https://cmcenroe.me/2018/01/30/fbclock.html - "Programming the Linux
