@@ -1,6 +1,42 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 7 Feb 2018
+
+- https://news.ycombinator.com/item?id=16324458 - comment in parent
+  Python’s Weak Performance Matters, on why Python succeeded despite
+  poor performance, many reasons, for example: "The language is easy,
+  very attractive for non-CS people.  The language is consistent
+  (everything is an object, or a pointer to an object rather, you can
+  only pass by pointer, scope and namespace that make sense all the
+  time, etc...) ..."
+
+- https://news.ycombinator.com/item?id=16322599 - thread in parent
+  Python’s Weak Performance Matters.  "Where are the main blowouts in
+  python performance? ... is it compilation, evaluation overhead, or
+  memory management?"  Many detailed answers with links, for example:
+  "tl;dr: Python's dynamic features add lots of overhead to every
+  operation, and CPython's simple implementation means you pay the
+  overhead even when you don't use the dynamic features. ... The dot
+  operator (e.g. `foo.x`) hides a /very complicated/ resolution
+  process that can be /very expensive/. ..." (more explanation and
+  several other examples follow)
+
+ 4 Feb 2018
+
+- https://github.com/arogozhnikov/python3_with_pleasure - "Migrating
+  to Python 3 with pleasure, A short guide on features of Python 3 for
+  data scientists" "hacky suppressing / redirection of printing output:
+
+      _print = print # store the original print function
+     def print(*args, **kargs):
+        pass  # do something useful, e.g. store output to some file
+
+  Below. ... a context manager that temporarily overrides behavior of
+  print: ... not a recommended approach, but a small dirty hack that
+  is now possible."  Also other interesting unobvious stuff, and links
+  to other Python3 pages.
+
  2 Feb 2018
 
 - https://news.ycombinator.com/item?id=16294594 - "Plan 9 is an
