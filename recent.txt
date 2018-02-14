@@ -1,7 +1,43 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+12 Feb 2018
+
+- https://blogs.scientificamerican.com/guest-blog/the-evolution-of-the-physicists-picture-of-nature/
+  - "We are republishing this article by Paul Dirac from the May 1963 issue of Scientific American ..."
+
+- https://github.com/shreevatsa/knuth-literate-programs/tree/master/programs
+  linked from https://news.ycombinator.com/item?id=16363186 - "Who is
+  the longest-serving programmer? ... (Knuth) still writes two or
+  three programs a week ... here:
+  https://cs.stanford.edu/~knuth/programs.html — the most recent is
+  from December 2017. They are in .w format (CWEB) ... I've typeset
+  them here (at the above URL).
+
+ 9 Feb 2018
+
+- http://rosalind.info/problems/list-view/ - "Rosalind is a platform
+  for learning bioinformatics and programming through problem
+  solving."  http://rosalind.info/problems/locations/ - " If you don't
+  know anything about programming, you can start at the Python
+  Village. For a collection of exercises to accompany Bioinformatics
+  Algorithms book, go to the Textbook Track. Otherwise you can try to
+  storm the Bioinformatics Stronghold right now." Also "Bioinformatics
+  Armory: Ready-to-use software tools abound for bioinformatics
+  analysis. ..." and "Algorithmic Heights: A collection of exercises in
+  introductory algorithms to accompany "Algorithms", the popular
+  textbook by Dasgupta, Papadimitriou, and Vazirani."
+
  7 Feb 2018
+
+- https://news.ycombinator.com/item?id=16324097 - "LMARV-1: A RISC-V
+  processor you can see [video]" - link and discussion on
+  https://www.youtube.com/watch?v=yLs_NRwu1Y4 - "LMARV-1: A RISC-V
+  processor you can see. Part 1: 32-bit registers. (41:42) ... The LMARV-1
+  (Learn Me A Risc-V, version 1) is a RISC-V processor built out of
+  MSI and LSI chips. You can point to pieces of the processor and see
+  the data flow. It should be a nice way of demonstrating how RISC-V
+  works and how simple it is to implement."
 
 - https://news.ycombinator.com/item?id=16324458 - comment in parent
   Python’s Weak Performance Matters, on why Python succeeded despite
