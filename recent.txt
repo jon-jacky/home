@@ -1,6 +1,17 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+19 Feb 2018
+
+- https://www.dailycodingproblem.com/blog/archives/ - "Get
+  exceptionally good at coding interviews by solving one problem every
+  day."  Interesting nontrivial problems with Python solutions
+  and explanations:
+  blog/knights-tour/
+  blog/an-introduction-to-backtracking/
+  blog/how-to-formulaically-solve-tree-interview-questions/
+  blog/how-to-find-arbitrage-opportunities-in-python/
+
 12 Feb 2018
 
 - https://blogs.scientificamerican.com/guest-blog/the-evolution-of-the-physicists-picture-of-nature/
