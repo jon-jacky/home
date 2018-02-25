@@ -1,12 +1,38 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+24 Feb 2018
+
+- https://news.ycombinator.com/item?id=14076352 - comment in
+  https://news.ycombinator.com/item?id=14075795 "Ask HN: Has anyone
+  considered forking TempleOS and making a modern OS out of it?"
+  "Part of what makes TempleOS so powerful with so little code is that
+  everything fits together, so you can make a lot of
+  assumptions. ... Really tightly integrated designs eventually get to
+  the point where there's almost nothing to change... because each
+  design choice relies on the last. ... you eventually end up with an
+  extremely lightweight design that is very strong, but where every
+  piece of the whole is extremely important. ... It's not perfect but
+  it's pointed at perfection and it aims to get there."
+
+21 Feb 2018
+
+- https://news.ycombinator.com/item?id=16423643 about Steven Levy's
+  book Hackers: Heroes... (responding to parent post
+  https://news.ycombinator.com/item?id=16421674 about Brand's Spacewar
+  in Rolling Stone): "Reading the book now and it’s making me a little
+  sad. Where can I find today’s Tech Model Railroad Club, Homebrew
+  Computer Club, Community Memory, People’s Computer Company? Are
+  there still places left where computing is small, local,
+  non-commercial and so alive? I love programming, but I’ve never felt
+  myself to be part of any tribe like the people in Hackers clearly
+  do. It all just feels so commoditized and un-magical these days!"
+
 19 Feb 2018
 
 - https://www.dailycodingproblem.com/blog/archives/ - "Get
   exceptionally good at coding interviews by solving one problem every
-  day."  Interesting nontrivial problems with Python solutions
-  and explanations:
+  day."  Classic problems with simple Python solutions and explanations:
   blog/knights-tour/
   blog/an-introduction-to-backtracking/
   blog/how-to-formulaically-solve-tree-interview-questions/
