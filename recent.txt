@@ -12,6 +12,13 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   process on how to develop computer programs is like pair programming
   with one of the best programmers of all time. ..."
 
+- https://news.ycombinator.com/item?id=16471019 - thread in HN parent
+  above: "(Norvig writes) (Lisp) is a good assembly language because
+  it is possible to write Lisp in a style that directly reflects the
+  operations available on modern computers." (Followed by several
+  posts with examples of "this assembly style of programming in Lisp",
+  some inline, some links)
+
 - https://gist.github.com/razimantv/1b33d4a090a5bc9ed94928012b37c3f0 -
   "Stackify!  Deep recursion will give you stack errors. ... you can
   decorate the function by abusing exceptions and turn the function
