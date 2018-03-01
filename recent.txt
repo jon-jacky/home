@@ -1,6 +1,39 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+28 Feb 2018
+
+- https://github.com/norvig/paip-lisp - "Lisp code for the textbook
+  'Paradigms of Artificial Intelligence Programming (1992)' ... (also)
+  A pdf of the book ..."
+  https://news.ycombinator.com/item?id=16469167 - "This book is
+  timeless classic that is not getting old. ... learn to program after
+  you already know how to program. ..." "Following Norvig’s thought
+  process on how to develop computer programs is like pair programming
+  with one of the best programmers of all time. ..."
+
+- https://gist.github.com/razimantv/1b33d4a090a5bc9ed94928012b37c3f0 -
+  "Stackify!  Deep recursion will give you stack errors. ... you can
+  decorate the function by abusing exceptions and turn the function
+  iterative ... (defines function named stackify, demonstrates
+  @stackify def ackermann(M,N): ...)"
+  https://news.ycombinator.com/item?id=16478534 - "Abusing python can
+  really save your life sometimes." "I love how everything is
+  available at runtime. ... super useful in a pinch." "Nothing is more
+  permanent than a temporary solution." (Many posts show, or link to,
+  unobvious uses/abuses of Python)
+
+25 Feb 2018
+
+- http://lispm.de/springer-lisp-books - Lisp/AI books from Springer, free
+  for download, including:
+  LISP Lore: A Guide to Programming the LISP Machine, Second edition, 1987 
+  LISP, Lore, and Logic, An Algebraic View of LISP Programming,
+   Foundations, and Applications, 1990
+  Computer-Aided Reasoning, An Approach, 2000 - About ACL2
+  Computer-Aided Reasoning, ACL2 Case Studies, 2000
+  many more ...
+
 24 Feb 2018
 
 - https://news.ycombinator.com/item?id=14076352 - comment in
