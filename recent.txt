@@ -1,6 +1,39 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 4 Mar 2018
+
+- https://ask.metafilter.com/319733/Classical-Music-looking-for-contrasting-performances-of-the-same-piece
+  "recommendations from some classical music heads of two or more
+  performances of the same piece, both which differ from each other
+  and are good (or great) versions of the composition they're
+  representing."  Soon followed by this, "inspired by a Mefi comment":
+  https://ask.metafilter.com/319738/Music-that-gives-you-chills
+  "... music that has a real emotional and physiological effect like
+  this, that makes your heart go faster and catches your breath. ...
+  music that give you chills down your spine and bring tears to your
+  eyes. Music that leaves you breathless."
+
+ 3 Mar 2018
+
+- https://sortix.org/ - "a small self-hosting operating-system aiming
+  to be a clean and modern POSIX implementation. It is a hobbyist
+  operating system written from scratch with its own base system,
+  including kernel and standard library. It has been in development
+  since February 08 2011 by a single developer ... C with a C++ kernel
+  ... The lack of compatibility constraints compared to other
+  operating systems makes it possible to make a cleaner
+  implementation. ... 1.0 release has 169k lines of source code ..."
+  https://news.ycombinator.com/item?id=16500705 - discussion of Sortix
+  with several contributions by the author on motivation, design
+  decisions, and comparison to other projects.
+
+ 2 Mar 2018
+
+- http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ed.html 
+  POSIX specification for ed, from IEEE Std 1003.1-2008, 2016 Edition
+  "The input files shall be text files. ..."
+
 28 Feb 2018
 
 - https://github.com/norvig/paip-lisp - "Lisp code for the textbook
