@@ -1,6 +1,14 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 7 Mar 2018
+
+- https://ask.metafilter.com/319841/Classical-music-desert-island-playlistfor-the-Isle-of-the-Dead
+  "I am on a hunt for little or lesser-known classical music that
+  invokes disquiet or suspense in the listener."  Many many responses.
+  "These are fabulous suggestions! I have slowly been working my way
+  through this list..."
+
  4 Mar 2018
 
 - https://ask.metafilter.com/319733/Classical-Music-looking-for-contrasting-performances-of-the-same-piece
@@ -18,18 +26,18 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   "This is a brief introduction to X86-64 assembly language for novice
   compiler writers using the GNU software tools. ... not exhaustive
   ... but ... enough to ... write most of the backend of a C compiler
-  for an undergraduate class.
+  for an undergraduate class."
 
 - http://xxyxyz.org/line-breaking/ - "Line breaking, also known as
   word wrapping or paragraph formation, is the problem of dividing a
   text into a sequence of lines so that every line spans at most some
-  fixed width. ...  greedy algorithm ... may leave too much whitespace
-  at the end of a line ... wildly different line lengths ... The idea
-  then is to come up with a configuration of line breaks which
-  minimizes the total sum of such penalties, a strategy know as
-  'minimum raggedness'. "  Presents several algorithms in Python, with
-  explanations and references.  Interesting page design and
-  typography.  Links to other pages by same author with more algorithms.
+  fixed width. ...  (The obvious) greedy algorithm ... may leave too
+  much whitespace at the end of a line ... wildly different line
+  lengths ... The idea then is to come up with a configuration of line
+  breaks which minimizes the total sum of such penalties, a strategy
+  know as 'minimum raggedness'. "  Presents several algorithms in
+  Python, with explanations and references.  Interesting page design
+  and typography.  Links to other pages by same author.
   https://news.ycombinator.com/item?id=16511900 explains the graphs.
 
  3 Mar 2018
