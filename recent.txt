@@ -1,6 +1,41 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+12 Mar 2018
+
+- https://news.ycombinator.com/item?id=16562173 - "How to self-learn
+  math?"  Many book suggestions.
+
+- https://news.ycombinator.com/item?id=16562956 - comment in parent
+  https://news.ycombinator.com/item?id=16562694 "Were we more
+  productive ... years ago?" "No, absolutely not. ... in web dev
+  ... rails was the big revolution. ... wasn’t so much techical as
+  social: ... an extremely well-curated set of best practices
+  ... under the guise of a framework. ... you could join any team and
+  know your way around the codebase on the second day."
+
+- https://news.ycombinator.com/item?id=16563507 - comment in parent
+  https://news.ycombinator.com/item?id=16562694 "Were we more
+  productive ... years ago?" "I definitely have to put up with more
+  distraction ... but I also know and learn more. It's hard to tame
+  internet to not be invasive ... given most actors are actively
+  trying to be invasive. ...  given the utility of internet, one has
+  to learn to put up with it, and that's not all that easy. ...  I do
+  not enable notifications from anything ... I decide when I want to
+  know about the outer world: check feeds or mail manually, when I
+  want.  I use no social media.  ... The biggest distraction with
+  computers is internet. And one needs to learn how to use it
+  defensively. Maybe we need a "Defensive Internet Users" wiki thing?"
+
+10 Mar 2018
+
+- https://n-o-d-e.net/ubuntu_laptop_overview.html and
+  https://n-o-d-e.net/ubuntu_laptop_how.html. "THE DIY $100 MINI
+  UBUNTU LAPTOP ... Nexus 7 tablet and keyboard ... fits in one
+  hand, and weighs about 900g ... an official Ubuntu ARM port made by
+  Canonical which is specifically for the 2012 Nexus 7 ... low power
+  ... can easily charge it through a USB charger."
+
  7 Mar 2018
 
 - https://ask.metafilter.com/319841/Classical-music-desert-island-playlistfor-the-Isle-of-the-Dead
