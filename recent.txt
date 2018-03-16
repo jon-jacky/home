@@ -1,6 +1,40 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+16 Mar 2018
+
+- https://standardebooks.org/about/ - "The Standard Ebooks project
+  differs from those etext projects (Gutenberg, Archive) in that we
+  aim to make free public domain ebooks that are carefully typeset,
+  cleaned of ancient and irrelevant ephemera, take full advantage of
+  modern ereading technology, are formatted according to a detailed
+  style guide, and that are each held to a standard of quality and
+  internal consistency."
+
+- https://github.com/thoughtbot/write-yourself-a-roguelike - "Write
+  Yourself A Roguelike: Ruby Edition ... compile the contents of the
+  book directory into an EPUB-formatted e-book." (contents are .md
+  files)
+
+15 Mar 2018
+
+- https://news.ycombinator.com/item?id=16591918 - "“Write your own” or
+  “Build your own” software projects. ... writings/tutorials/videos
+  which describe a specific technology or feature by implementing them
+  ..."  Many links to pertinent projects.  Added 16 Mar:
+  https://github.com/tuvtran/project-based-learning "Curated list of
+  project-based tutorials",
+  https://github.com/cweagans/awesome-diy-software "list inspired by
+  this HN post" (above), apparently mostly just links from that post.
+
+- http://nsl.com/ - "no stinking loops ..." APL/J/K/Q etc. Many many
+  links, including lots of code at http://nsl.com/k/ and
+  https://a.kx.com/a/k/examples/  Linked from
+  https://news.ycombinator.com/item?id=16584139 "after K ... the whole
+  software engineering world starts to look like a ridiculous house of
+  cards.  (K can do) fast and efficient in memory databases in ~20
+  lines, or an npm-style package manger[1] in less than ~400 lines"
+
 12 Mar 2018
 
 - https://news.ycombinator.com/item?id=16562173 - "How to self-learn
@@ -31,10 +65,11 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
 - https://n-o-d-e.net/ubuntu_laptop_overview.html and
   https://n-o-d-e.net/ubuntu_laptop_how.html. "THE DIY $100 MINI
-  UBUNTU LAPTOP ... Nexus 7 tablet and keyboard ... fits in one
-  hand, and weighs about 900g ... an official Ubuntu ARM port made by
+  UBUNTU LAPTOP ... Nexus 7 tablet and keyboard ... fits in one hand,
+  and weighs about 900g ... an official Ubuntu ARM port made by
   Canonical which is specifically for the 2012 Nexus 7 ... low power
-  ... can easily charge it through a USB charger."
+  ... can easily charge it through a USB charger."  Interesting page
+  design and typography.
 
  7 Mar 2018
 
@@ -2463,5 +2498,3 @@ X lptrace , function tracer using language injection
   one running interpreter and nothing else in all Piety.
 
 - BBC micro:bit MicroPython documentation
-
-
