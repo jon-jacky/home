@@ -1,6 +1,18 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+28 Mar 2018
+
+- https://www.moma.org/calendar/exhibitions/3863?locale=en - "Thinking
+  Machines: Art and Design in the Computer Age, 1959–1989, The Museum
+  of Modern Art." Comments at https://news.ycombinator.com/item?id=16694759
+
+- https://try-mts.com/why-try-mts/ - "Try MTS. Exploring the Michigan
+  Terminal System. ...  an operating system running on IBM System/360
+  compatible mainframes dating from the 1960s. ... back in the 60s and
+  70s there was an explosion of new operating systems and ideas and
+  it's important to get a flavour of what was going on then."
+
 22 Mar 2018
 
 - http://invislib.blogspot.com/2008/08/t.html - "The Invisible Library
