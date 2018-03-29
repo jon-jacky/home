@@ -7,6 +7,11 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   Machines: Art and Design in the Computer Age, 1959–1989, The Museum
   of Modern Art." Comments at https://news.ycombinator.com/item?id=16694759
 
+- https://1403.slantedhall.com/ - "1403 Vintage Mono Pro ... typeface
+  inspired by the IBM 1403 mainframe line printer from the 1960s"
+  via https://news.ycombinator.com/item?id=16701009 responding to 
+  https://www.ibm.com/plex/ - "IBM Plex™ is our new typeface."
+
 - https://try-mts.com/why-try-mts/ - "Try MTS. Exploring the Michigan
   Terminal System. ...  an operating system running on IBM System/360
   compatible mainframes dating from the 1960s. ... back in the 60s and
