@@ -1,6 +1,26 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+31 Mar 2018
+
+- https://www.moma.org/interactives/exhibitions/2011/AccesstoTools/ -
+  "Publications from the Whole Earth Catalog, 1968-1974" with
+  nostalgia-inducing content, typography, and design, via
+  https://news.ycombinator.com/item?id=16720764 which also links to a
+  page by yellowed page scan of the classic Last Whole Earth Catalog:
+  https://archive.org/details/B-001-013-719
+
+30 Mar 2018
+
+- https://github.com/ShivamSarodia/ShivyC - "ShivyC is a hobby C
+  compiler written in Python that supports a subset of the C11
+  standard ...  has a very limited preprocessor that parses out
+  comments and expands #include directives."  Not small, looks like
+  thousands of lines.  Comments in
+  https://news.ycombinator.com/item?id=16719648 - "... The parser has
+  a somewhat unusual structure ... "exception-oriented programming"
+  ... fits that code well."
+
 28 Mar 2018
 
 - https://www.moma.org/calendar/exhibitions/3863?locale=en - "Thinking
