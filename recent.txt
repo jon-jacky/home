@@ -3,6 +3,18 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
  5 Apr 2018
 
+- http://cs107e.github.io/ - "CS107e Spring 2018 ... third course in
+  Stanford’s introductory programming sequence. ... bare metal
+  programming on the Raspberry Pi. ... uses no operating system and
+  few external libraries." ... resource page links to Raspberry Pi
+  Bare Metal Forum at 
+  https://www.raspberrypi.org/forums/viewforum.php?f=72.   Possibly
+  pertinent: https://web.stanford.edu/class/cs140e/ - "CS140e (Winter
+  2018) An Experimental Course on Operating Systems ... students
+  implement a simple, clean operating system (virtual memory,
+  processes, file system) on a Raspberry Pi 3 in the Rust programming
+  language".  Comments: https://news.ycombinator.com/item?id=16134618
+
 - http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/
   "... /dev/fb0 acts like any other memory device in /dev and we can
   write to it like a file. ...", several examples using cat and simple
@@ -12,7 +24,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   the kernel console ("fbcon") working. ... there's compatibility code
   which sets up a user-space buffer in the KMS subsystem [0] which is
   swapped to when fbcon happens through a large chain of strange
-  events that are hard to describe. ..."
+  events that are hard to describe. ..."   See also 31 Jan 2018.
 
  2 Apr 2018
 
