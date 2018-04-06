@@ -1,6 +1,17 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 6 Apr 2018
+
+- https://news.ycombinator.com/item?id=16773824 - comments on NixOS
+  18.03 Released.  "It makes all packages immutable by giving them
+  their own directory identified by a hash that is derived from ALL of
+  that package's dependencies. ... all changes you make to your system
+  are non-destructive. ... you can always roll back to a previous OS
+  state ... If you want to reproduce your system, you can copy the
+  whole content and "checkout" the relevant revision on the new
+  system. ..."
+
  5 Apr 2018
 
 - http://cs107e.github.io/ - "CS107e Spring 2018 ... third course in
@@ -14,6 +25,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   implement a simple, clean operating system (virtual memory,
   processes, file system) on a Raspberry Pi 3 in the Rust programming
   language".  Comments: https://news.ycombinator.com/item?id=16134618
+  See also 18 Jan 2018.
 
 - http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/
   "... /dev/fb0 acts like any other memory device in /dev and we can
