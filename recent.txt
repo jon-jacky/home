@@ -1,7 +1,28 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 7 Apr 2018
+
+- https://news.ycombinator.com/item?id=16775768 - "Raspberry Pi
+  microSD card performance comparison" "I've tested the (several RPi
+  rivals) and all of these boards are leagues beyond the Pi in terms
+  of I/O performance (both networking and local storage). The problem
+  is ...  these boards ... have a much worse initial onboarding
+  experience (grabbing a disk image, flashing the card or onboard
+  memory, first boot, then figuring out where to go next) than what
+  you get with the Pi and it's handy, well-written tutorials."  That
+  is the only reason that the Raspberry Pi maintains its position of
+  where it is. It isn't a great computer, it is a great ecosystem.
+  ... "... would just be happy if my rpi would not randomly corrupt
+  the memory card for no reason all the time. ..."  Many comments on 
+  reliability (or not) of various brands/kinds of SD cards, and how
+  to boot from server as alternative to SD cards etc.
+
  6 Apr 2018
+
+- https://news.ycombinator.com/item?id=16775744 - "Ask HN: How to
+  self-learn electronics?"  Many many detailed responses with advice
+  on books, videos, equipment, and methods.
 
 - https://news.ycombinator.com/item?id=16773824 - comments on NixOS
   18.03 Released.  "It makes all packages immutable by giving them
