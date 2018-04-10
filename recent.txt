@@ -1,6 +1,25 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+10 Apr 2018 
+
+- https://github.com/adamisntdead/QuSimPy - "a toy multi-qubit quantum
+  computer simulator, written in 150 lines of python", uses numpy and
+  functools reduce, nice concise examples of complex matrices
+  etc. https://news.ycombinator.com/item?id=16797193 - "... to
+  simulate a basic quantum computer, all you need is the following: A
+  product state vector, ... A set of common quantum logic gates, which
+  are matrices you multiply against the product state vector ... The
+  measurement logic, where you calculate how the product state
+  collapses ... This project is an implementation of those three
+  things in Python. There is nothing special about the above
+  mathematical constructs save that they match the observed semantics
+  of a quantum system." ... "Quantum Computation and Quantum
+  Information, a.k.a "Mike and Ike" is the authoritative textbook
+  ... very readable and beginner friendly. It's well worth reading the
+  introduction to QC in the first twelve pages and skimming the first
+  sixty."
+
  7 Apr 2018
 
 - https://news.ycombinator.com/item?id=16775768 - "Raspberry Pi
