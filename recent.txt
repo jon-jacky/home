@@ -1,6 +1,20 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+15 Apr 2018
+
+- http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html
+  - "To understand what went wrong — how the Silicon Valley dream of
+  building a networked utopia turned into a globalized strip-mall
+  casino overrun by pop-up ads and cyberbullies and Vladimir Putin — we
+  spoke to more than a dozen architects of our digital present."
+
+- https://www.metafilter.com/173509/Take-me-for-a-walk-in-the-morning-dew-my-honey
+  - "Morning Dew is a post-nuclear protest song, written in 1961 by
+  Canadian Bonnie Dobson ... the power of the song is evidenced by
+  the vast number of covers over the years."  History,
+  recollections, links to many versions.
+
 10 Apr 2018 
 
 - https://github.com/adamisntdead/QuSimPy - "a toy multi-qubit quantum
