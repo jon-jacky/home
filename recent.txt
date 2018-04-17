@@ -1,13 +1,41 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
-
 16 Apr 2018
 
 - http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html
   - "We have set out to trace the evolution of American comics by
   looking at 100 pages that altered the course of the field’s
   history." From 1929 to 2014.
+
+-
+  https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now
+  "... the XO-1: a toylike green-and-white laptop with rounded edges,
+  a swiveling “neck” instead of a standard hinge ...  Its screen
+  folded into the keyboard to create a tablet ... Ear-like antennas
+  flipped up to extend its Wi-Fi range ... hundreds of color
+  permutations, so kids could tell their laptops apart. And a
+  dustproof one-piece rubber keyboard made it easy to print any key
+  layout." (Many photos with the article show all this.)
+
+  Comments at https://news.ycombinator.com/item?id=16849374 - "The
+  actual industrial design was fantastic I would love the same housing
+  to turn my pi into a little laptop." "... there still isn't a laptop
+  that I've seen that is a durable as the XO. ... It came with a
+  complete repair manual and you could use standard tools to take it
+  apart and put it back together ..."
+
+  Earlier at https://news.ycombinator.com/item?id=13258261 -
+  "... meant to come with ... a "View Source" button to let you
+  inspect and edit the code to all your apps; UI making it easy to set
+  up ad hoc networks to share/collaborate with anyone around you ..."
+
+  See also http://wiki.laptop.org/go/OLPCorps_Technical_Manual
+  "... whereas most graphical user interfaces for computers use a
+  tree-like "filesystem" metaphor, Sugar (the XO-1 GUI) has the
+  Journal, which is a portfolio of what the user has done ... Sugar is
+  written in python and C, most activities (applications) are written
+  in Python. ... running on top of Fedora Linux..."
 
 15 Apr 2018
 
