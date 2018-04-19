@@ -30,12 +30,12 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   inspect and edit the code to all your apps; UI making it easy to set
   up ad hoc networks to share/collaborate with anyone around you ..."
 
-  See also http://wiki.laptop.org/go/OLPCorps_Technical_Manual
-  "... whereas most graphical user interfaces for computers use a
-  tree-like "filesystem" metaphor, Sugar (the XO-1 GUI) has the
-  Journal, which is a portfolio of what the user has done ... Sugar is
-  written in python and C, most activities (applications) are written
-  in Python. ... running on top of Fedora Linux..."
+  See also http://laptop.org/8.2.0/manual/ - "There are no files,
+  folders, or applications. ... Activities include an application,
+  data, and history of the interaction that can be used to
+  resume. ... Everything is saved automatically ... A Journal is used
+  for accessing data. ... Some Activities allow users to work and learn
+  cooperatively. For example ... to collaboratively create a document.
 
 15 Apr 2018
 
