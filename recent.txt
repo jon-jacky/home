@@ -1,6 +1,19 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+25 Apr 2018
+
+- https://jeffreykegler.github.io/personal/timeline_v3 - "Parsing: a
+  timeline", actually a short but dense review article from Panini in
+  4th BCE skipping to Markov in 1906, then Post 1943, Turing 1945,
+  Shannon 1948, many many more through 2012.  Extensive bibliography
+  with links.  Samples:  "1991 ... On the written record, the discontent with
+  LALR and yacc is hard to find. ...  But, by 1991, a movement away
+  from LALR has already begun. Parsing practice falls back on
+  recursive descent ..."  "2004: ... PEG takes the old joke that "the code
+  is the documentation" one step further -- with PEG it is often the
+  case that nothing documents the grammar, not even the code."
+
 16 Apr 2018
 
 - http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html
