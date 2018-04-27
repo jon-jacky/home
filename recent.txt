@@ -1,18 +1,34 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+26 Apr 2018
+
+- https://www.popsci.com/quantum-computer-photos - "Yale University
+  applied physicists Robert Schoelkopf and Michel Devoret pioneered a
+  way to stabilize (qubits). By building qubits out of superconductors
+  ... As a look inside their lab reveals, it takes a huge
+  operation—and a very cold fridge."  Fascinating photos of cryogenics
+  and microwave electronics.
+
+- https://www.gnu.org/software/guix/blog/2018/guix-on-android/ - Not
+  really practical but provides a description of how Android is
+  configured on top of the Linux kernel, with a photo of terminal
+  running on a tiny phone.  "Android's root filesystem is actually the
+  initramfs so any modification to its content will be lost after a
+  reboot."
+
 25 Apr 2018
 
 - https://jeffreykegler.github.io/personal/timeline_v3 - "Parsing: a
   timeline", actually a short but dense review article from Panini in
-  4th BCE skipping to Markov in 1906, then Post 1943, Turing 1945,
-  Shannon 1948, many many more through 2012.  Extensive bibliography
-  with links.  Samples:  "1991 ... On the written record, the discontent with
-  LALR and yacc is hard to find. ...  But, by 1991, a movement away
-  from LALR has already begun. Parsing practice falls back on
-  recursive descent ..."  "2004: ... PEG takes the old joke that "the code
-  is the documentation" one step further -- with PEG it is often the
-  case that nothing documents the grammar, not even the code."
+  4th BCE then skipping to the early 20th century and on through 2012.
+  Extensive bibliography with links.  Samples: "1991 ... On the
+  written record, the discontent with LALR and yacc is hard to
+  find. ...  But, by 1991, a movement away from LALR has already
+  begun. Parsing practice falls back on recursive descent ..."  "2004:
+  ... PEG takes the old joke that "the code is the documentation" one
+  step further -- with PEG it is often the case that nothing documents
+  the grammar, not even the code."
 
 16 Apr 2018
 
