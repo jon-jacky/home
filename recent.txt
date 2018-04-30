@@ -1,13 +1,23 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+30 Apr 2018
+
+-
+  https://ericphanson.com/posts/2016/the-traveling-salesman-and-10-lines-of-python/
+  Traveling Salesman solved by simulated annealing.  The ten lines of
+  Python include two lines to draw a graph of the route.  Demonstrates
+  matplotlib, numpy, random, math, and several comprehension and
+  slicing idioms.  Nice page design: "This site created with the Tufte
+  theme for Jekyll."
+
 26 Apr 2018
 
 - https://www.popsci.com/quantum-computer-photos - "Yale University
   applied physicists Robert Schoelkopf and Michel Devoret pioneered a
   way to stabilize (qubits). By building qubits out of superconductors
   ... As a look inside their lab reveals, it takes a huge
-  operation—and a very cold fridge."  Fascinating photos of cryogenics
+  operation—and a very cold fridge."  Impressive photos of cryogenics
   and microwave electronics.
 
 - https://www.gnu.org/software/guix/blog/2018/guix-on-android/ - Not
