@@ -3,13 +3,22 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
 30 Apr 2018
 
--
-  https://ericphanson.com/posts/2016/the-traveling-salesman-and-10-lines-of-python/
+- https://ericphanson.com/posts/2016/the-traveling-salesman-and-10-lines-of-python/
   Traveling Salesman solved by simulated annealing.  The ten lines of
   Python include two lines to draw a graph of the route.  Demonstrates
   matplotlib, numpy, random, math, and several comprehension and
   slicing idioms.  Nice page design: "This site created with the Tufte
   theme for Jekyll."
+
+- https://www.pagetable.com/?p=774 - "Microsoft BASIC for 6502
+  Original Source Code [1978] ... currently the oldest publicly
+  available piece of source written by Bill Gates. ... developed on a
+  PDP-10, using the MACRO-10 assembler. A set of macros developed by
+  Paul Allen allowed MACRO-10 to understand and translate 6502
+  assembly, albeit in a modified format to fit the syntax of macros.
+  ... with all original comments, documentation and easter eggs ...
+  6955 lines."  Via https://news.ycombinator.com/item?id=16938934,
+  "What are some examples of beautiful x86 assembly code?"
 
 26 Apr 2018
 
