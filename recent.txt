@@ -1,6 +1,25 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 9 May 2018
+
+- https://www.metafilter.com/174029/Sextets-septets-octets-nonets
+  "Stepping beyond the more familiar three-, four- and five-piece
+  line-ups, there is a wealth of classical music out there composed
+  for slightly bigger bands. ... a small selection of which can be
+  found via the links within..."  Also links to:
+  https://www.metafilter.com/166863/Piano-violin-and-cello
+  https://www.metafilter.com/163338/String-Quartets
+  https://www.metafilter.com/170478/Piano-Quintets
+
+- https://news.ycombinator.com/item?id=17028491 - "Emacs. It's the
+  "best of both worlds" combination of text-based interfaces and
+  GUIs. It supports software that can be interactive, and yet also as
+  interoperable as CLI applications ...", cites
+  https://ambrevar.bitbucket.io/emacs-everywhere/ Via
+  https://news.ycombinator.com/item?id=17026490, comments on
+  https://ambrevar.bitbucket.io/emacs-eshell/
+
 30 Apr 2018
 
 - https://ericphanson.com/posts/2016/the-traveling-salesman-and-10-lines-of-python/
