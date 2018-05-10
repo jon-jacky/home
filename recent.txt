@@ -1,6 +1,21 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+10 May 2017
+
+- https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda
+  Hyperlinks_in_Terminal_Emulators.md, "Hyperlinks (a.k.a. HTML-like
+  anchors) in terminal emulators. Most of the terminal emulators
+  auto-detect when a URL appears onscreen and allow to conveniently
+  open them. ... It was, however, not possible until now for arbitrary
+  text to point to URLs, just as on webpages. ..."
+
+- https://github.com/junegunn/fzf - A command-line fuzzy finder -
+  "It's an interactive Unix filter for command-line that can be used
+  with any list; files, command history, processes, hostnames,
+  bookmarks, git commits, etc. ..."  See also
+  https://github.com/bling/fzf.el, "an Emacs front-end for fzf".
+
  9 May 2018
 
 - https://www.metafilter.com/174029/Sextets-septets-octets-nonets
