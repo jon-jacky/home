@@ -16,7 +16,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   "best of both worlds" combination of text-based interfaces and
   GUIs. It supports software that can be interactive, and yet also as
   interoperable as CLI applications ...", cites
-  https://ambrevar.bitbucket.io/emacs-everywhere/ Via
+  https://ambrevar.bitbucket.io/emacs-everywhere/ - "... any
+  structure, interface element and even code can be passed around and
+  combined between the different interfaces to various programs."  Via
   https://news.ycombinator.com/item?id=17026490, comments on
   https://ambrevar.bitbucket.io/emacs-eshell/
 
