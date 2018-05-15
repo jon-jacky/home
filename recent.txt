@@ -1,7 +1,34 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
-10 May 2017
+14 May 2018
+
+- http://www.tnhh.net/posts/bked-gui-as-tui.html - "BKED - The
+  Poly-edit program that rendered text the hard way ... BKED
+  (pronounced buh-ked, e as in kept) was the de-facto text editor in
+  Vietnam in the 80s-90s. ... BKED runs on MS-DOS and looks just like
+  Microsft Editor aka edit.com, except for it displays and allows the
+  user to input text in Vietnamese. ... it is a full-blown GUI that
+  runs in Hercules/CGA/EGA/VGA graphics .... It draws every single
+  pixel in its GUI with no acceleration ... It had to do it very
+  quickly and economically – computers in Vietnam at the time were all
+  old secondhand ones imported from the US recycling centers and
+  such. ... it could also do quite sophisticated mathematical formulas
+  and chart drawing. ... the editor was used to typeset the whole
+  suite of national textbooks on every subject in the 90s."  Several
+  screenshots in the article.
+
+13 May 2018
+
+- https://bertfreudenberg.github.io/Smalltalk78/ - Smalltalk78 desktop
+  running in the browser.  Looks very accurate but not clear how to
+  work it on a mouse-less Macbook with a touchpad.  Via
+  https://github.com/bertfreudenberg/Smalltalk78 "...  a Virtual
+  Machine written in JavaScript to run a Smalltalk-78 snapshot in the
+  web browser. To learn more, please read our paper ... (at)
+  http://freudenbergs.de/bert/publications/Ingalls-2014-Smalltalk78.pdf"
+
+10 May 2018
 
 - https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda
   Hyperlinks_in_Terminal_Emulators.md, "Hyperlinks (a.k.a. HTML-like
