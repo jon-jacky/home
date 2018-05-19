@@ -11,17 +11,25 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   peaked in the 1960s, and has steadily declined ever since, except
   for a bump in the 1990s coinciding with the Internet boom.  ..."
 
+- http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html
+  "...  start thinking about the Internet ...  as a very large mesh of
+  independent connected organizations instead of an abstract cloud
+  ... Almost no one needs to consider the Internet at this
+  level. ... you can probably pay someone else to provide it and don't
+  need to sit down and learn how BGP works and what an Autonomous
+  System is. But let's ignore that for one second, and talk about how
+  to become your own ISP. ..."
+
 - http://www.donationcoder.com/forum/index.php?topic=45547 - "The Acme
   editor on Debian on Windows ... Windows 10 has got support for being
   used as a host system for Linux applications ... this is the least
   inconvenient way to use Acme on Windows.  What we need is both an X
   server ... and a Linux distribution running on the Windows NT
-  subsystem. I chose to install the "nightly" version of plan9port via
-  Debian. Here's how to install it. ... Try something new? Dive into
-  history? Show off your weirdness to your friends? Do nerdy things
-  with nerdy software? Acme has it."
+  subsystem. ...  Here's how to install it. ... Try something new?
+  Dive into history? Show off your weirdness to your friends? Do nerdy
+  things with nerdy software? Acme has it."
 
-14 May 2018 
+14 May 2018
 
 - http://www.tnhh.net/posts/bked-gui-as-tui.html - "BKED (pronounced
   buh-ked, e as in kept) was the de-facto text editor in Vietnam in
