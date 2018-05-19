@@ -1,18 +1,37 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
-14 May 2018
+18 May 2018
 
-- http://www.tnhh.net/posts/bked-gui-as-tui.html - "BKED - The
-  Poly-edit program that rendered text the hard way ... BKED
-  (pronounced buh-ked, e as in kept) was the de-facto text editor in
-  Vietnam in the 80s-90s. ... BKED runs on MS-DOS and looks just like
-  Microsft Editor aka edit.com, except for it displays and allows the
-  user to input text in Vietnamese. ... it is a full-blown GUI that
-  runs in Hercules/CGA/EGA/VGA graphics .... It draws every single
-  pixel in its GUI with no acceleration ... It had to do it very
-  quickly and economically – computers in Vietnam at the time were all
-  old secondhand ones imported from the US recycling centers and
+- https://www.scottaaronson.com/blog/?p=524 - "Timeline of computer
+  science ... I somehow got roped into creating a timeline of “150
+  major events in computer science history" ... I’m including my
+  current draft list of 152 events below ... From the data, it would
+  appear that the level of intellectual excitement in computer science
+  peaked in the 1960s, and has steadily declined ever since, except
+  for a bump in the 1990s coinciding with the Internet boom.  ..."
+
+- http://www.donationcoder.com/forum/index.php?topic=45547 - "The Acme
+  editor on Debian on Windows ... Windows 10 has got support for being
+  used as a host system for Linux applications ... this is the least
+  inconvenient way to use Acme on Windows.  What we need is both an X
+  server ... and a Linux distribution running on the Windows NT
+  subsystem. I chose to install the "nightly" version of plan9port via
+  Debian. Here's how to install it. ... Try something new? Dive into
+  history? Show off your weirdness to your friends? Do nerdy things
+  with nerdy software? Acme has it."
+
+14 May 2018 
+
+- http://www.tnhh.net/posts/bked-gui-as-tui.html - "BKED (pronounced
+  buh-ked, e as in kept) was the de-facto text editor in Vietnam in
+  the 80s-90s. ... BKED runs on MS-DOS and looks just like Microsft
+  Editor aka edit.com, except for it displays and allows the user to
+  input text in Vietnamese. ... it is a full-blown GUI that runs in
+  Hercules/CGA/EGA/VGA graphics .... It draws every single pixel in
+  its GUI with no acceleration ... It had to do it very quickly and
+  economically – computers in Vietnam at the time were all old
+  secondhand ones imported from the US recycling centers and
   such. ... it could also do quite sophisticated mathematical formulas
   and chart drawing. ... the editor was used to typeset the whole
   suite of national textbooks on every subject in the 90s."  Several
