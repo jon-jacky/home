@@ -1,5 +1,25 @@
-Recent links, begun October 2016
+9Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
+
+21 May 2018
+
+- https://www.pocketputer.com/ Pocket Puter - via
+  https://news.ycombinator.com/item?id=17114515, "I want to create the
+  information piece to make it possible for homeless individuals and
+  others at risk of homelessness to use minimal tech, like a
+  smartphone or tablet, to start addressing some of their problems. As
+  one element of that, I explicitly want to support the ability to
+  earn an online income, even with very minimal tech. ... I was able
+  to earn money online while homeless and eventually get off the
+  street."
+
+- https://tools.ietf.org/html/rfc1, RFC1: Host Software by Steve
+  Crocker, 7 Apr 1969.  "The software for the ARPA Network exists
+  partly in the IMPs and partly in the respective HOSTs.  BB&N has
+  specified the software of the IMPs and it is the responsibility of
+  the HOST groups to agree on HOST software. ... I present here some
+  of the tentative agreements reached and some of the open questions
+  encountered."
 
 20 May 2018
 
