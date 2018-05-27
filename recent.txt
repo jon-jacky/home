@@ -1,6 +1,19 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+24 May 2018
+
+- http://uzebox.org/wiki/index.php?title=Main_Page - Uzebox -
+  "retro-minimalist homebrew game console. ... video sync generation,
+  tile rendering and music mixing is done realtime by a background
+  task ... easy and fun to assemble and program ... contains only two
+  chips: an ATmega644 and an AD725 RGB-to-NTSC converter." Links to
+  http://uzebox.org/files/wiki/uzebox_how_it_works_v10.pdf, 21 pages:
+  "... ATMega644 ... 20Mhz ... 64K of flash and 4K of RAM. ... I
+  couldn't get around insane cycle-counting for the kernel ...  Each
+  and every (scan)line, including the sync code must take exactly 1820 clock
+  cycles. ..."
+
 22 May 2018
 
 - https://www.metafilter.com/174248/A-plethora-of-Sun-Ras-four-decades-of-baffling-dazzling-mystical-jazz
