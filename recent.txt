@@ -1,6 +1,17 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 2 Jun 2018
+
+- https://news.ycombinator.com/item?id=17194456 - comments on 'A few
+  words on Doug Engelbart' by Bret Victor.  One comment: "The failure
+  to replicate Engelbart's vision of collaborative UI plagues me every
+  day. ...  we have ubiquitous cameras, microphones, bandwidth, input
+  devices and compute power, but can't even achieve the level of
+  integration they had back in the 60s. ..."  Many other comments
+  considering why Engelbart's prototype from fifty years ago remains a
+  mostly unrealized curiosity.
+
  1 Jun 2018
 
 - http://obsolescence.wixsite.com/obsolescence/how-to-use-the-pidp-8 -
