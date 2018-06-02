@@ -23,6 +23,14 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   based systems. ... "  Many many links on capabilities and operating
   systems research crammed into a no-frills single page.
 
+- https://github.com/nebulet/nebulet - "Nebulet is a microkernel that
+  executes WebAssembly modules instead of ELF binaries. Furthermore,
+  it does so in ring 0 and in the same address space as the kernel,
+  instead of in ring 3." Also http://lsneff.me/why-nebulet/ "Operating
+  system design has been somewhat stagnant since, well, ever.
+  ... Nebulet lets us try ideas that have been left dormant again."
+  via https://news.ycombinator.com/item?id=17187384
+
 31 May 2018
 
 - http://www.bldgblog.com/2018/05/journey-of-a-single-line/ -
