@@ -1,6 +1,28 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+ 1 Jun 2018
+
+- http://obsolescence.wixsite.com/obsolescence/how-to-use-the-pidp-8 -
+  Obsolescence Guaranteed - "The PiDP-8/I is a modern replica of the
+  1968 PDP-8/I computer. ... behind the blinking lights sits a
+  Raspberry Pi, running a modified version of SimH ... the idea was to
+  illustrate how utterly unique the PDP-8 was in the evolution of
+  computing. ... it was pretty much *the* prototype of a personal
+  computer."
+
+- http://computermuseum.informatik.uni-stuttgart.de/cm003_en.html -
+  Computermuseum der Fakultat Informatik - photos and descriptions of
+  scores of calculators, computers, peripherals, and associated test
+  instruments from the 1950s - 1980s. "not all pages have been
+  translated yet", use the deutsch page to see those pictures.  Uses
+  typewriter font throughout - for that historical flavor?
+
+- http://www.cap-lore.com/CapTheory/ - "Capability Theory by Sound
+  Bytes ... This is a collection of insights for designing capability
+  based systems. ... "  Many many links on capabilities and operating
+  systems research crammed into a no-frills single page.
+
 31 May 2018
 
 - http://www.bldgblog.com/2018/05/journey-of-a-single-line/ -
