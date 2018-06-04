@@ -10,11 +10,13 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
   Stallman's 1979 AI Memo 519 on Emacs,
   https://ia601004.us.archive.org/32/items/MITAIMemo519/MIT-AIMemo519.pdf).
   "This memo is aimed at users unfamiliar not only with the Emacs
-  editor, but also with the ITS operating system. ... Log into ITS ...
-  If you don't have a regular username there, ... (use) the WHOIS
-  program: :WHOIS XYZ.  If WHOIS didn't find any regular user XYZ, you
-  can use that name.  :LOGIN XYZ.  You are now talking to DDT, the
-  top-level, monitor program ..."
+  editor, but also with the ITS operating system. ...  Emacs runs on
+  the ITS machines, AI, ML, MC, and DM.  For people coming from an
+  Arpanet TIP, the host numbers are: 134 (AI), 198 (ML), 236 (MC), and
+  70 (DM).  If you don't have a regular username there, ... (use) the
+  WHOIS program: :WHOIS XYZ.  If WHOIS didn't find any regular user
+  XYZ, you can use that name.  :LOGIN XYZ.  You are now talking to
+  DDT, the top-level, monitor program ..."
 
  2 Jun 2018
 
