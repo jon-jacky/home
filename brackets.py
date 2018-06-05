@@ -4,7 +4,7 @@ brackets.py - put <...> around each URL for markdown previewer
 
 import sys, re
 
-url_regex = re.compile('^(.*)(https?://[\w./%~?=\-]+)(.*)$')
+url_regex = re.compile('^(.*)(https?://[\w./%~?=@+\-]+)(.*)$')
 
 for line in sys.stdin:
     m = url_regex.match(line)
