@@ -954,7 +954,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001- July 201
   command line, in one page" - but it's a very long page!  Much is
   potentially useful, not well known (by me).
 
-- <https://medium.com/>@amathstudent/learning-math-on-your-own-39fe90c3536b
+- <https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b>
   "Learning math on your own. A guide, heartfelt and opinionated"
   Includes some unusual suggestions.
 
@@ -2403,7 +2403,7 @@ X <https://github.com/PDP-10/its> - Incompatible Timesharing System, code and do
   and writing, append only files (AOF) and how they relate do database
   snapshots .rdb files in Redis.
 
-- <http://everything2.com/title/Fast>+6502+multiplication
+- <http://everything2.com/title/Fast+6502+multiplication>
 
 - <http://azer.bike/happy-hacking-linux/> - Arch-based distribution with tiling window
     manager (which one? - looks like xmonad) - this home page has window manager
@@ -2540,7 +2540,7 @@ X 9Fans post on Facebook done right, in Plan 9 style.
 
 - Summary of RISC-V assembly programming <https://www.imperialviolet.org/2016/12/31/riscv.html>
 
-- RISC-V programming card <http://www.cl.cam.ac.uk/teaching/1617/ECAD>+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
+- RISC-V programming card <http://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf>
 
 X vi-style editor in picolisp <http://picolisp.com/wiki/?vip>
   (17 Jan 2017)
