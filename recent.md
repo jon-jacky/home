@@ -1,6 +1,22 @@
 Recent links, begun October 2016
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001- July 2017
 
+11 Jun 2018
+
+- <https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/>
+  Many beautiful pictures and links to more of his work.  More Haeckel
+  drawings at 2 Nov 2017 below.
+
+- <http://www.pong-story.com/LAWN_TENNIS.pdf> - Atari Pong Circuit
+  Analysis - Awesomely detailed, 106 pages. "Atari’s Arcade Pong PCB
+  contained 66 IC’s. ... It was simply hard wired TTL logic and
+  predates microprocessor and software controlled video games ... the
+  game has also been emulated in software to play on computers. ... in
+  most cases it is a poor facsimile of the real thing."  via
+  <https://news.ycombinator.com/item?id=17200163> "... an insanely
+  clever masterpiece of digital design. ... It’s mindbendingly
+  brilliant."  Contrast to Uzebox with 2 ICs, 24 May 2018 below.
+
  3 Jun 2018
 
 - <https://web.archive.org/web/20110723033542/http%3A//www.burlingtontelecom.net/~ashawley/gnu/emacs/doc/emacs-1978.html>
