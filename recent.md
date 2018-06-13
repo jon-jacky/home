@@ -1,6 +1,50 @@
 Recent links, begun October 2016
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001- July 2017
 
+12 Jun 2018
+
+- <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/> -
+  What is code? by Paul Ford, 38,000 word essay with web animations
+  etc. comprises entire June 11, 2015 issue of Bloomberg Business
+  Week.  Also
+  <https://medium.com/interactive-mind/so-you-don-t-have-time-to-read-what-is-code-1da0e4529896>
+  "Here are some main takeaways, and then a full outline is below."
+  <https://news.ycombinator.com/item?id=17259483> - reviewed on HN three
+  years later - "I don't think this really achieves what it sets out
+  to do ... This seems more like "What is tech culture?" for people
+  who are already a part of tech culture."
+  <https://www.theframeworkproject.com/interviews/paul-ford> - author
+  interview - "... should everyone learn to code? Everyone should seek
+  to empower themselves to understand more about the world that
+  they're in. Coding is not communicated as a path to that. It's
+  communicated as a way to riches or a socioeconomic ladder. There's a
+  way to look at it where you can be like, 'This is a way to explore
+  and understand the world.'" "... once things scale and lots and lots
+  of human beings get involved, the fundamental crappy parts of human
+  culture sort of start to permeate back through. Twitter's a great
+  example. You couldn't have a more annoying bunch of do-gooders
+  trying to create Twitter, and then the platform they create ends up
+  having enormous issues, to the point that it's one of the mode of
+  engines of electing a terrible, racist president of the United
+  States."  "The tweets don't add up to a corpus. I miss
+  that. ... When I was writing every day or blogging or doing weird
+  code stuff, I could point back to months before when I had just not
+  known something and now I knew something new and I created something
+  new. And I don't feel that the platforms that we have today
+  encourage people to create at that level."
+  <http://gawker.com/what-is-code-a-q-a-with-writer-and-programmer-paul-fo-1710884170>
+  - another author interview - "... of course it’s too much. ... We
+  just live in this bizarre land of plenty, and technology is just one
+  of those things we have way too much of."
+
+- <https://rushter.com/blog/python-gil-thread-scheduling/> - Python's
+  GIL implemented in pure Python - "I was trying to understand all the
+  details of the GIL ... from the CPython's source code.  So here is a
+  simplified algorithm of the thread scheduling that is taken from
+  CPython 3.7 and rewritten from C to pure Python. ... Basically, the
+  job of the GIL is to pause the while loop for all threads except for
+  a thread that currently owns the GIL."
+
 11 Jun 2018
 
 - <https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/>
@@ -15,7 +59,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001- July 201
   most cases it is a poor facsimile of the real thing."  via
   <https://news.ycombinator.com/item?id=17200163> "... an insanely
   clever masterpiece of digital design. ... It’s mindbendingly
-  brilliant."  Contrast to Uzebox with 2 ICs, 24 May 2018 below.
+  brilliant."  Compare to Uzebox with 2 ICs, 24 May 2018 below.
 
  3 Jun 2018
 
