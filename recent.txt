@@ -1,6 +1,16 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001- July 2017
 
+14 Jun 2018
+
+- https://bootstrapping.miraheze.org/wiki/Main_Page - "This wiki is
+  about bootstrapping. Building up compilers and interpreters and
+  tools from nothing."  Also
+  https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language. "Let's play with limitations ..." 
+  Both via https://news.ycombinator.com/item?id=17290573 - "The
+  problem with this kind of site ... is that it could take years to
+  review each item."
+ 
 12 Jun 2018
 
 - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/ -
