@@ -1,5 +1,28 @@
 Recent links, begun October 2016
-Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001- July 2017
+Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
+
+25 Jun 2018
+
+- <http://recodeproject.com/> - "...a community-driven effort to
+  preserve computer art by translating it into a modern programming
+  language (Processing). ... "Computer Graphics and Art" was a
+  quarterly magazine published between 1976 and 1978. We are using PDF
+  copies of the entire run of the magazine as our starting point for
+  the project."
+
+- <https://monoskop.org/images/b/b3/Dwyer_Terence_Composing_with_Tape_Recorders_Musique_Concrete_for_Beginners.pdf> - 
+  Oxford University Press, 1971.  PDF includes the entire 44 page
+  book. via <https://news.ycombinator.com/item?id=17338092>
+
+- <https://github.com/pervognsen/bitwise/> - "Bitwise is an educational
+  project where we create the software/hardware stack for a computer
+  from scratch. ... can be done much more simply and quickly than
+  people realize if we strongly favor simplicity over marginal gains
+  in feature completeness or performance. ... The first major project
+  will be the C-like systems language compiler. ... On the hardware
+  side of things, we will be designing a computer from scratch that
+  can be synthesized and deployed on a real FPGA. This will include a
+  RISC-V CPU ..."
 
 14 Jun 2018
 
