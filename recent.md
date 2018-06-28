@@ -1,6 +1,29 @@
 Recent links, begun October 2016
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+27 Jun 2018
+
+- <http://www.aholme.co.uk/6502/Main.htm> - "Here, with full source
+  code, is a cycle-accurate 6502 microprocessor core in Verilog HDL,
+  which was automatically generated from a transistor-level netlist
+  ...  The core runs 10 times faster than a real 6502 and occupies
+  only 8% of the flops and 7% of the LUTs in the Xilinx xc3s500e FPGA
+  on a Spartan 3E Starter Kit. ... The 6502 has been studied and
+  reverse-engineered more than any other microprocessor ..." (reviews
+  history, with some links).  via
+  <https://news.ycombinator.com/item?id=17399967> with more links about
+  6502 and other 8-bit processors.
+
+- <https://leanpub.com/insidethepythonvirtualmachine/read> - "Inside The
+  Python Virtual Machine".  Long and detailed with lots of examples in
+  C code and Python byte code.  Finishes with an explanation of
+  generators and how they are implemented.
+
+- <https://github.com/dylanaraps/pure-bash-bible> - "... methods of
+  doing various tasks using only built-in bash features ... remove
+  unneeded dependencies from your scripts ... make them that little
+  bit faster."
+
 25 Jun 2018
 
 - <http://recodeproject.com/> - "...a community-driven effort to
