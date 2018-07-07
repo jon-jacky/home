@@ -5,15 +5,21 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 - https://basicengine.org/ - "The BASIC Engine is a very low-cost
   single-board home computer ... can be built at home ... for under 10
-  Euros in parts. ... a stand-alone computer programmable in the BASIC
-  language."  https://basicengine.org/history.html - "The VS23S010D-L
-  ...is a static RAM chip ... (that) comes with a video
-  controller. ... It comes with 128 kB, some or all of which can be
-  used as a frame buffer ... has a "block move" feature, more commonly
-  known as a blitter. It allows you to copy sections of video memory
-  ... provides a dramatic performance boost in ... text screen
-  scrolling and rendering of tiled backgrounds."  via
-  https://www.metafilter.com/175123/62984-bytes-free. Compare to
+  Euros in parts. ... Check the one-hour silent video below to see how
+  to build a BASIC Engine using a soldering iron, a heat gun,
+  tweezers, solder wire and side cutters, without fancy tools, mad
+  soldering skills and with only a minimal amount of patience." also
+  https://basicengine.org/history.html - "The VS23S010D-L ...is a
+  static RAM chip ... (that) comes with a video controller. ... It
+  comes with 128 kB, some or all of which can be used as a frame
+  buffer ... has a "block move" feature, more commonly known as a
+  blitter. It allows you to copy sections of video memory ... provides
+  a dramatic performance boost in ... text screen scrolling and
+  rendering of tiled backgrounds."  Also
+  https://github.com/uli/basicengine-firmware. "The software is a
+  heavily modified version of
+  https://github.com/Tamakichi/ttbasic_arduino/tree/ttbasic_arduino_ps2_ntsc
+  " via https://www.metafilter.com/175123/62984-bytes-free. Compare to
   Uzebox below.
 
 - http://www.garbled.net/tmp/bringup.pdf - "Bringup is Hard
@@ -48,8 +54,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 - https://leanpub.com/insidethepythonvirtualmachine/read - "Inside The
   Python Virtual Machine".  Long and detailed with lots of examples in
-  C code and Python byte code.  Finishes with an explanation of
-  generators and how they are implemented.
+  C and Python byte code.  Finishes with an explanation of generators
+  and how they are implemented.
 
 - https://github.com/dylanaraps/pure-bash-bible - "... methods of
   doing various tasks using only built-in bash features ... remove
