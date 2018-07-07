@@ -1,6 +1,38 @@
 Recent links, begun October 2016
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 6 Jul 2018
+
+- https://basicengine.org/ - "The BASIC Engine is a very low-cost
+  single-board home computer ... can be built at home ... for under 10
+  Euros in parts. ... a stand-alone computer programmable in the BASIC
+  language."  https://basicengine.org/history.html - "The VS23S010D-L
+  ...is a static RAM chip ... (that) comes with a video
+  controller. ... It comes with 128 kB, some or all of which can be
+  used as a frame buffer ... has a "block move" feature, more commonly
+  known as a blitter. It allows you to copy sections of video memory
+  ... provides a dramatic performance boost in ... text screen
+  scrolling and rendering of tiled backgrounds."  via
+  https://www.metafilter.com/175123/62984-bytes-free. Compare to
+  Uzebox below.
+
+- http://www.garbled.net/tmp/bringup.pdf - "Bringup is Hard
+  ... Bringup is the initial stage of a new port of an Operating
+  System to a new hardware platform.  Often, bringup is one of the
+  most difficult things to learn how to do in OS programming. ..."
+  Related:
+  https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview - "A
+  broad overview of how modern Linux systems boot ..."  Much more 
+  at https://news.ycombinator.com/item?id=17340033
+
+- https://rushter.com/blog/python-virtualenv/ - "... quick overview of
+  internals behind popular virtual environments, e.g., virtualenv,
+  virtualenvwrapper, conda, pipenv."
+
+- https://www.partiallyapplied.com/blog/church/ - "Exploring Church
+  Numerals with Python ... representing natural numbers as lambda
+  calculus terms."
+
 27 Jun 2018
 
 - http://www.aholme.co.uk/6502/Main.htm - "Here, with full source
