@@ -16,7 +16,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   blitter. It allows you to copy sections of video memory ... provides
   a dramatic performance boost in ... text screen scrolling and
   rendering of tiled backgrounds."  Also
-  https://github.com/uli/basicengine-firmware. "The software is a
+  https://github.com/uli/basicengine-firmware "The software is a
   heavily modified version of
   https://github.com/Tamakichi/ttbasic_arduino/tree/ttbasic_arduino_ps2_ntsc
   " via https://www.metafilter.com/175123/62984-bytes-free. Compare to
