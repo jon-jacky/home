@@ -9,14 +9,25 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   method” and “the operational method”. ... The tragedy of today's
   world of programming is that, to the extent that it reasons about
   programs at all, it does so almost exclusively operationally. ..."
-  <https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1012.PDF> is Dijkstra's
-  original handwritten version.  See also
+  Don't miss the version in Dijkstra's handwriting at
+  <https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1012.PDF> See also
   <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1073.html>
   (or .pdf) for some short examples of mathematics in the form he
   advocates.  See
   <https://www.cs.utexas.edu/~EWD/transcriptions/EWD13xx/EWD1300.html>
-  for a lengthy rationale of this form.  Much much more at
+  for a lengthy rationale for this form.  Much much more at
   <https://www.cs.utexas.edu/~EWD/welcome.html>
+
+- <http://www.ams.org/notices/201201/rtx120100031p.pdf> - A Revolution
+  in Mathematics? by Frank Quinn.  Similar argument to EWD1012 above,
+  but from a mathematician, not a computer scientist. "The physical
+  sciences all went through 'revolutions': wrenching transitions in
+  which methods changed radically and become much more powerful.  It
+  is not widely realized, but there was a similar transition in
+  mathematics between about 1890 and 1930. ... The strangest
+  difference is that the scientific revolutions were highly visible,
+  while the significance of the mathematical event is essentially
+  unrecognized. ..."
 
  6 Jul 2018
 
