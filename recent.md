@@ -1,5 +1,22 @@
-Recent links, begun October 2016
+Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
+
+16 Jul 2018
+
+- <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1012.html> -
+  "Roughly speaking, there are two ways in which people try to reason
+  about programs; I shall distinguish them as “the postulational
+  method” and “the operational method”. ... The tragedy of today's
+  world of programming is that, to the extent that it reasons about
+  programs at all, it does so almost exclusively operationally. ..."
+  <https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1012.PDF> is Dijkstra's
+  original handwritten version.  See also
+  <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1073.html>
+  (or .pdf) for some short examples of mathematics in the form he
+  advocates.  See
+  <https://www.cs.utexas.edu/~EWD/transcriptions/EWD13xx/EWD1300.html>
+  for a lengthy rationale of this form.  Much much more at
+  <https://www.cs.utexas.edu/~EWD/welcome.html.>
 
  6 Jul 2018
 
@@ -9,7 +26,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   to build a BASIC Engine using a soldering iron, a heat gun,
   tweezers, solder wire and side cutters, without fancy tools, mad
   soldering skills and with only a minimal amount of patience." also
-  <https://basicengine.org/history.html> - "The VS23S010D-L ...is a
+  <https://basicengine.org/history.html> - "The VS23S010D-L ... is a
   static RAM chip ... (that) comes with a video controller. ... It
   comes with 128 kB, some or all of which can be used as a frame
   buffer ... has a "block move" feature, more commonly known as a
@@ -17,10 +34,10 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   a dramatic performance boost in ... text screen scrolling and
   rendering of tiled backgrounds."  Also
   <https://github.com/uli/basicengine-firmware> "The software is a
-  heavily modified version of
+  heavily modified version of Toyoshiki Tiny BASIC
   <https://github.com/Tamakichi/ttbasic_arduino/tree/ttbasic_arduino_ps2_ntsc>
   " via <https://www.metafilter.com/175123/62984-bytes-free.> Compare to
-  Uzebox below.
+  Uzebox, 24 May below.
 
 - <http://www.garbled.net/tmp/bringup.pdf> - "Bringup is Hard
   ... Bringup is the initial stage of a new port of an Operating
@@ -37,7 +54,10 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 - <https://www.partiallyapplied.com/blog/church/> - "Exploring Church
   Numerals with Python ... representing natural numbers as lambda
-  calculus terms."
+  calculus terms."  Also
+  <https://eli.thegreenplace.net/2016/some-notes-on-the-y-combinator/> -
+  "... the Y combinator isn't something unique to the Lisp family of
+  languages, here's a Python implementation. ..."
 
 27 Jun 2018
 
