@@ -16,7 +16,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   advocates.  See
   https://www.cs.utexas.edu/~EWD/transcriptions/EWD13xx/EWD1300.html
   for a lengthy rationale of this form.  Much much more at
-  https://www.cs.utexas.edu/~EWD/welcome.html.
+  https://www.cs.utexas.edu/~EWD/welcome.html
 
  6 Jul 2018
 
