@@ -1,6 +1,16 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+24 Jul 2018
+
+- http://exofrills.org/ - "xo - the text editor without frills ...
+  designed to just provide the features that you need to program
+  effectively and nothing else. It is ridiculously lightweight and
+  only relies on Python 3, *urwid*, and *pygments*. Less than 850
+  lines of code in a single file! ... If you ask for more features *I
+  will probably say no!*  Just fork xo yourself."
+  https://github.com/scopatz/xo
+
 16 Jul 2018
 
 - https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1012.html -
@@ -22,7 +32,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   in Mathematics? by Frank Quinn.  Similar argument to EWD1012 above,
   but from a mathematician, not a computer scientist. "The physical
   sciences all went through 'revolutions': wrenching transitions in
-  which methods changed radically and become much more powerful.  It
+  which methods changed radically and became much more powerful.  It
   is not widely realized, but there was a similar transition in
   mathematics between about 1890 and 1930. ... The strangest
   difference is that the scientific revolutions were highly visible,
@@ -451,8 +461,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 16 Apr 2018
 
-- http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html
-  - "We have set out to trace the evolution of American comics by
+- http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html - "We have set out to trace the evolution of American comics by
   looking at 100 pages that altered the course of the field’s
   history." From 1929 to 2014.
 
@@ -487,14 +496,12 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 15 Apr 2018
 
-- http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html
-  - "To understand what went wrong — how the Silicon Valley dream of
+- http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html  - "To understand what went wrong — how the Silicon Valley dream of
   building a networked utopia turned into a globalized strip-mall
   casino overrun by pop-up ads and cyberbullies and Vladimir Putin — we
   spoke to more than a dozen architects of our digital present."
 
-- https://www.metafilter.com/173509/Take-me-for-a-walk-in-the-morning-dew-my-honey
-  - "Morning Dew is a post-nuclear protest song, written in 1961 by
+- https://www.metafilter.com/173509/Take-me-for-a-walk-in-the-morning-dew-my-honey - "Morning Dew is a post-nuclear protest song, written in 1961 by
   Canadian Bonnie Dobson ... the power of the song is evidenced by
   the vast number of covers over the years."  History,
   recollections, links to many versions.
@@ -849,8 +856,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 12 Feb 2018
 
-- https://blogs.scientificamerican.com/guest-blog/the-evolution-of-the-physicists-picture-of-nature/
-  - "We are republishing this article by Paul Dirac from the May 1963 issue of Scientific American ..."
+- https://blogs.scientificamerican.com/guest-blog/the-evolution-of-the-physicists-picture-of-nature/ - "We are republishing this article by Paul Dirac from the May 1963 issue of Scientific American ..."
 
 - https://github.com/shreevatsa/knuth-literate-programs/tree/master/programs
   linked from https://news.ycombinator.com/item?id=16363186 - "Who is
@@ -1355,8 +1361,7 @@ date + following text, then reverse order.
   FORTRAN Coloring Book - other links to download pdf or ebook formats
   incl. kindle don't work
 
-- https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213
-  - Bill Thurston's essay in response to "What's a mathematician to
+- https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213 - Bill Thurston's essay in response to "What's a mathematician to
   do?". He writes, "It's not mathematics that you need to contribute
   to. It's deeper than that: how might you contribute to humanity, and
   even deeper, to the well-being of the world, by pursuing
@@ -1638,7 +1643,7 @@ date + following text, then reverse order.
 - http://www.jstor.org/stable/10.4169/mathhorizons.23.4.18 - Network
    of Thrones Andrew Beveridge and Jie Shan in Math Horizons
 
-n http://n-gate.com/ - unfunny but voluminous, very repetitous snark
+- http://n-gate.com/ - unfunny but voluminous, very repetitous snark
    about HN and FOSDEM.
 
 24 Aug 2017
@@ -1662,7 +1667,7 @@ n http://n-gate.com/ - unfunny but voluminous, very repetitous snark
 - https://github.com/jamesob/tinychain - A pocket-sized implementation
   of Bitcoin - README explains bitcoin - < 1200 lines of Python
 
-- geocoq.github.io/GeoCoq/ also https://github.com/GeoCoq/GeoCoq - A
+- https:geocoq.github.io/GeoCoq/ also https://github.com/GeoCoq/GeoCoq - A
   formalization of the foundations of geometry in Coq based on
   Tarski's axiom system.  First link has links to several related papers,
   explains relation of Tarksi to Hilbert and also Beeson.
@@ -1719,8 +1724,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   Raspberry Pi based ultrasound imaging development platform - lots
   of details and links, including one to a journal article.
 
-- https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
-  - Good selection, with links.
+- https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read - Good selection, with links.
 
 - https://github.com/banga/prefactor - prefactor - This is a tool that
   for writing AST-based refactorings for large Python codebases. It
@@ -1933,7 +1937,7 @@ minimalist design.   Also noted 22 Jan above.
 
 12 Jun 2017
 
-X http://www.recommendmeabook.com/ - shows first page from 
+- http://www.recommendmeabook.com/ - shows first page from 
    randomly selected book, without revealing title/author.
    Alternatively, select a particular book by clicking on its cover.
    Lots of classics included.
@@ -1960,7 +1964,7 @@ X http://www.recommendmeabook.com/ - shows first page from
   embedded in Racket, and another in Haskell:
   http://wall.org/~lewis/2013/10/15/asm-monad.html
 
-X https://people.cs.clemson.edu/~mark/uprog.html - A brief history of
+- https://people.cs.clemson.edu/~mark/uprog.html - A brief history of
   microprogramming - actually also a very good explanation.
   - Never mind, it's already there in engineering/computer architecgure
 
@@ -2122,7 +2126,7 @@ X https://people.cs.clemson.edu/~mark/uprog.html - A brief history of
 - http://www.signsforscience.com/sign/carol-gunn-gunn-graphics -
   science march posters - a few good ones
 
-X http://www.harkavagrant.com/archivecat.php - comics
+- http://www.harkavagrant.com/archivecat.php - comics
    need a separate comics section in graphics, move up non-tech comics
     from geek culture.
 
@@ -2135,7 +2139,7 @@ X http://www.harkavagrant.com/archivecat.php - comics
 
 16 Apr 2017
 
-X https://www.nytimes.com/2017/04/14/technology/robert-taylor-innovator-who-shaped-modern-computing-dies-at-85.html?_r=0 
+- https://www.nytimes.com/2017/04/14/technology/robert-taylor-innovator-who-shaped-modern-computing-dies-at-85.html?_r=0 
   Robert Taylor obit, maybe also links to Alan Kay comment at HN etc.
   Maybe tack on "what made xerox parc special" 
 14 Apr 2017
@@ -2151,7 +2155,7 @@ X https://www.nytimes.com/2017/04/14/technology/robert-taylor-innovator-who-shap
 
 13 Apr 2017
 
-X JC Google+ digital humanities page
+- JC Google+ digital humanities page
 11 Apr 2017
 
 - https://blog.acolyer.org/2017/03/page/3/ - Mar 2017 archive to "The Morning
@@ -2164,7 +2168,7 @@ X JC Google+ digital humanities page
 
 10 Apr 2017
 
-X https://bookillustrations.quora.com/ via Mefi post, for example
+- https://bookillustrations.quora.com/ via Mefi post, for example
    https://bookillustrations.quora.com/Boris-Artzybasheffs-Illustrations-for-Creatures
  8 Apr 2017
 
@@ -2219,7 +2223,7 @@ X https://bookillustrations.quora.com/ via Mefi post, for example
 
 31 Mar 2017
 
-X https://i.redd.it/uaab4tb56soy.png
+- https://i.redd.it/uaab4tb56soy.png
   3x3 alphanumeric font, surprisingly legible.  In typography.
 27 Mar 2017
 
@@ -2231,7 +2235,7 @@ X https://i.redd.it/uaab4tb56soy.png
   and get stronger ACID guarantees than most RDBMS offer."
   Maybe add to other.md?
 
-X jvns.ca/blog/2017/03/26/bash-quirks - nice brief summary of the
+- jvns.ca/blog/2017/03/26/bash-quirks - nice brief summary of the
   basics.  Just text, no cartoons this time.
   (21 Jul 2017)
 
@@ -2248,7 +2252,7 @@ X jvns.ca/blog/2017/03/26/bash-quirks - nice brief summary of the
   see also .../about .../~html-starter  
   https://medium.com/glitch/welcome-to-glitch-fe161d0fc39b
 
-X https://www.behance.net/gallery/50164479/WHOS-AFRAID-OF-RED-YELLOW-AND-BLUE
+- https://www.behance.net/gallery/50164479/WHOS-AFRAID-OF-RED-YELLOW-AND-BLUE
   Striking photos of big buildings etc in The Hague decked out like
   Mondrian paintings for the 100th anniversary of the De Stijl
   movement.  In unusual media.
@@ -2283,7 +2287,7 @@ X https://www.behance.net/gallery/50164479/WHOS-AFRAID-OF-RED-YELLOW-AND-BLUE
 
 - http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
 
-X http://www.poster.pl/polish_poster_artists.html
+- http://www.poster.pl/polish_poster_artists.html
 23 Mar 2017
 
 - editor performance comparison at github, linked from HN yesterday
@@ -2445,25 +2449,25 @@ X http://www.poster.pl/polish_poster_artists.html
 
 17 Feb 2017
 
-X seen on HN, Mike Pall (of LuaJIT) on Reddit, recommended reading
+- seen on HN, Mike Pall (of LuaJIT) on Reddit, recommended reading
   order for Lua C source. (24 Feb 2017)
 
-X www.collectorsweekly.com - several recent via HN - add in graphics/unusual media
+- www.collectorsweekly.com - several recent via HN - add in graphics/unusual media
   (23 Feb 2017)
 
 16 Feb 2017
 
-X seen on HN, github repo with *transcript* of Rich Hickey's Simple Made Easy talk.
+- seen on HN, github repo with *transcript* of Rich Hickey's Simple Made Easy talk.
    same repo has other transcripts (24 Feb 2017)
 
 15 Feb 2017
 
-X http://blog.presentandcorrect.com/category/books - in graphics/unusual media
+- http://blog.presentandcorrect.com/category/books - in graphics/unusual media
    (look for categories menu widget at the bottom of the page) (23 Feb 2017)
 
 - That computing version of Brian Eno's oblique strategies in programming/heuristics
 
-X https://news.ycombinator.com/item?id=13590305 
+- https://news.ycombinator.com/item?id=13590305 
   That HN comment on Unix simplicity, just processes and file descriptors, along
    with riposte on how it's become so complicated.(24 Feb 2017)
 
@@ -2471,7 +2475,7 @@ X https://news.ycombinator.com/item?id=13590305
 
  9 Feb 2017
 
-X http://code-poetry.com/  In typography
+- http://code-poetry.com/  In typography
   (24 Feb 2017)
 
 - https://github.com/ariestiyansyah/python-blogs - curated list of Python programming blogs
@@ -2503,7 +2507,7 @@ X http://code-poetry.com/  In typography
 
 2 Feb 2017
  
-X https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf xv6 book 
+- https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf xv6 book 
   Already present in programming/design examples/unix but 
   replace -rev7.pdf with -rev9.pdf (24 Feb 2017).
 
@@ -2563,7 +2567,7 @@ X https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf xv6 book
 
 24 Jan 2017
 
-X http://ask.metafilter.com/305199/I-need-a-python-script-that-will-run-a-script
+- http://ask.metafilter.com/305199/I-need-a-python-script-that-will-run-a-script
   First answer has several links on using Flask on RPi as a REST endpoint
   answerer recommends sending HTTP request to 2nd RPi that returns JSON response.
   Another answer recommends ssh on first RPi to run command on second RPi,
@@ -2574,7 +2578,7 @@ X http://ask.metafilter.com/305199/I-need-a-python-script-that-will-run-a-script
 
 23 Jan 2017
 
-X https://github.com/PDP-10/its - Incompatible Timesharing System, code and docs
+- https://github.com/PDP-10/its - Incompatible Timesharing System, code and docs
   (26 Jan 2017)
 
 22 Jan 2017
@@ -2629,13 +2633,13 @@ X https://github.com/PDP-10/its - Incompatible Timesharing System, code and docs
 
 14 Jan 2017
 
-X https://github.com/ChrisPenner/rasa  Rasa editor in Haskell
+- https://github.com/ChrisPenner/rasa  Rasa editor in Haskell
   detailed guide to the code: https://news.ycombinator.com/item?id=13395941
   (17 Jan 2017)
 
 13 Jan 2017
 
-X http://crna.cc/b/11 Blobless Linux on Raspberry Pi 
+- http://crna.cc/b/11 Blobless Linux on Raspberry Pi 
   Blog about https://github.com/christinaa/rpi-open-firmware
   HN comments at https://news.ycombinator.com/item?id=13396625
    including lots of complaints about RPi engineering besides blobs and openness.
@@ -2643,7 +2647,7 @@ X http://crna.cc/b/11 Blobless Linux on Raspberry Pi
 
 10 Jan 2017
 
-X  A multiple tab terminal emulator implemented in python 
+-  A multiple tab terminal emulator implemented in python 
    https://github.com/stonewell/pymterm
    https://news.ycombinator.com/item?id=13370486
    many dependencies, including paramiko (ssh) pygame kivy (ui)
@@ -2652,10 +2656,10 @@ X  A multiple tab terminal emulator implemented in python
 
  9 Jan 2017
 
-X Containers from Scratch in great faiths/linux/containers
+- Containers from Scratch in great faiths/linux/containers
   (17 Jan 2017)
 
-X Ukelele tuner in Python, uses numpy, pyaudio.
+- Ukelele tuner in Python, uses numpy, pyaudio.
   (26 Jan 2017)
 
 - From Python to Numpy 
@@ -2684,16 +2688,16 @@ also there is http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context
 
 - marc.info/...9fans...   9fans mailing list archive in Plan-9
 
-X MA single-window minimal acme clone in Tcl/Tk
+- MA single-window minimal acme clone in Tcl/Tk
   http://www.call-with-current-continuation.org/ma.tar.gz
   in editors/acme
   (17 Jan 2017)
 
-X christinaa/LLVM-VideoCore4 + HN comments in RPi hacking
+- christinaa/LLVM-VideoCore4 + HN comments in RPi hacking
    via HN comments on Tourist Guide to LLVM from Reger's blog.
   (16 Jan 2017)
 
-X 9Fans post on Facebook done right, in Plan 9 style.
+- 9Fans post on Facebook done right, in Plan 9 style.
   (16 Jan 2017)
 
 - HiFive1 RISC-V Arduino-compatible dev kit - in HN and Hackaday.
@@ -2723,7 +2727,7 @@ X 9Fans post on Facebook done right, in Plan 9 style.
 
 - RISC-V programming card http://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
 
-X vi-style editor in picolisp http://picolisp.com/wiki/?vip
+- vi-style editor in picolisp http://picolisp.com/wiki/?vip
   (17 Jan 2017)
 
 - advice on tech writing https://news.ycombinator.com/item?id=13301511
@@ -2731,42 +2735,41 @@ X vi-style editor in picolisp http://picolisp.com/wiki/?vip
 
 31 Dec 2016
 
-X Added Little Book of OS Development and HN comments to Piety/doc/precursors.md
+- Added Little Book of OS Development and HN comments to Piety/doc/precursors.md
 
 
 29 Dec 2016
 
-X Add to link in history http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/
-  "I find that all the significant concepts in software systems were invented/discovered in  the 15 years between 1955 and 1970." add links to HN discussion:
+- Add to link in history http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/  "I find that all the significant concepts in software systems were invented/discovered in  the 15 years between 1955 and 1970." add links to HN discussion:
    at https://news.ycombinator.com/item?id=13271220 
        https://news.ycombinator.com/item?id=7402571 (31 Dec)
 
 
 27 Dec 2016
 
-X Malory project http://www.maloryproject.com/about.php in typography,
+- http://www.maloryproject.com/about.php Malory project in typography,
   http://dodecaglotta.com/ in typography (2 Jan 2017)
 
-X Bringup history of Mac OS X (via HN) at www.pagetable.com in great
+- Bringup history of Mac OS X (via HN) at www.pagetable.com in great
   faiths/mac (2 Jan 2017)
 
-- Piety precursors.md: github.com/haskus/haskus-system www.haskus.org www.vipervm.org
+- https://github.com/haskus/haskus-system www.haskus.org www.vipervm.org
   "provide a full Haskell user-space environment on top of the Linux kernel"
 
-X http://littleosbook.github.io/ and maybe HN discussion at bottom of Piety precursors.org
+- http://littleosbook.github.io/ and maybe HN discussion at bottom of Piety precursors.org
 
 
 26 Dec 2016
 
-X Why Python is not my favorite programming language in Python assessment.
+- Why Python is not my favorite programming language in Python assessment.
   https://zenhack.net/2016/12/25/why-python-is-not-my-favorite-language.html
   (2 Jan 2017)
 
-X HN post on OLPC compared to RPi  https://news.ycombinator.com/item?id=13258261
+- HN post on OLPC compared to RPi  https://news.ycombinator.com/item?id=13258261
   esp. View Source for any application and ad-hoc networking with wireless neighbors.
   Maybe in Sugar/OLPC entry in precursors.md - ? (31 Dec)
 
-X PicoLisp tutorial http://software-lab.de/doc/tut.html including built-in vi-like editor
+- PicoLisp tutorial http://software-lab.de/doc/tut.html including built-in vi-like editor
   oK tutoril https://github.com/JohnEarnest/ok with useful REPL commands
   Both of these in Piety/doc/other.md (31 Dec)
 
@@ -2776,7 +2779,7 @@ X PicoLisp tutorial http://software-lab.de/doc/tut.html including built-in vi-li
 
 23 Dec 2016
 
-X Apple ][ emulation on AVR microcontroller, seen on HN (1 Jan 2017)
+- Apple ][ emulation on AVR microcontroller, seen on HN (1 Jan 2017)
 
 22 Dec 2016
 
@@ -2788,7 +2791,7 @@ X Apple ][ emulation on AVR microcontroller, seen on HN (1 Jan 2017)
 
 20 Dec 2016
 
-X Aboriginal Linux "builds the smallest/simplest linux system capable
+- Aboriginal Linux "builds the smallest/simplest linux system capable
   of rebuilding itself from source code"
   landley.net/aboriginal/about.html and /history.html
   also landley/toybox, make Android self-hosting.
@@ -2801,11 +2804,11 @@ X Aboriginal Linux "builds the smallest/simplest linux system capable
 - BrainF* for Dummies in what, computer architecure?
   http://blog.klipse.tech/brainfuck/2016/12/17/brainfuck.html
 
-x ok (APL-like) https://github.com/JohnEarnest/ok Don't we
+- ok (APL-like) https://github.com/JohnEarnest/ok Don't we
   already have this in language arcana/APL? No, I think that's his
   .../ike (31 Dec, Piety/doc/other.md)
 
-X Z acme-inspired editor in scala https://github.com/sandgorgon/z (31 Dec)
+- Z acme-inspired editor in scala https://github.com/sandgorgon/z (31 Dec)
 
 - Berkeley eecs cs152/sp13 page with links to many pdf notes.
 
@@ -2815,7 +2818,7 @@ X Z acme-inspired editor in scala https://github.com/sandgorgon/z (31 Dec)
   Joseph Weisbecker in the 1970s for use on the RCA COSMAC VIP
   computer. ..."  Still, it's a nice coding study.  Maybe in computer architecture?
 
-- github.com/doorbell88/Aquarium - runs in mac terminal - maybe
+- https://github.com/doorbell88/Aquarium - runs in mac terminal - maybe
   have a section in links.html or a Piety/doc/display.md for 
   terminal display hacks/demos to use/adapt as sample Piety applications
   Don't we already have Life Snakes Rogue-like ... also 
@@ -2829,7 +2832,7 @@ n youtube video, Monty Python for Pythonistas
 
 15 Dec 2016
 
-X HN comment "Python has gotten hard to learn" in Python assessment (2 Jan 2017)
+- HN comment "Python has gotten hard to learn" in Python assessment (2 Jan 2017)
 
 - HN comment comparing GoboLinux and Nix in great faiths/linux/filesystems
 
@@ -2838,24 +2841,24 @@ X HN comment "Python has gotten hard to learn" in Python assessment (2 Jan 2017)
 
 - Andrew Wiles interview in education, call out quotes on problem scale (vs 3rd grade) and getting stuck
 
-X HN comments praising Lotus Notes in Nostalgia (2 Jan 2017)
+- HN comments praising Lotus Notes in Nostalgia (2 Jan 2017)
 
-X code-poetry.com (23 Feb 2017)
+- code-poetry.com (23 Feb 2017)
 
-X NLP in Python example, Pride and Prejudice, in Python examples (2 Jan 2017)
+- NLP in Python example, Pride and Prejudice, in Python examples (2 Jan 2017)
 
 - Scott Aaronson comic strip, "The Talk" satirizing woo about QM in physics/popular culture/humor
 
 
 13 Dec 2016
 
-X Ancient languages in 10 lessons at www.openculture.com/2014/01/learn-latin....
+- Ancient languages in 10 lessons at www.openculture.com/2014/01/learn-latin....
   in literature/history Latin Greek Old English etc.
 
 
 12 Dec 2016
 
-X for Piety utilities.md https://github.com/jmcgeheeiv/pyfakefs via HN 
+- for Piety utilities.md https://github.com/jmcgeheeiv/pyfakefs via HN 
   intended as mock for testing, but might actually serve as 
   Piety in-memory file system.
   (18 Jan 2017)
@@ -2879,34 +2882,34 @@ X for Piety utilities.md https://github.com/jmcgeheeiv/pyfakefs via HN
 
 8 Dec 2016
 
-X Python 3 module of the week https://pymotw.com/3/
+- Python 3 module of the week https://pymotw.com/3/
 
 
 7 Dec 2016
 
-X Andrew Wiles interview w/HN comments, also video documentary on FLT
+- Andrew Wiles interview w/HN comments, also video documentary on FLT
 
 - web page on Butterfield Pi theorem (dimensional analysis)
 
 
 6 Dec 2016
 
-x ed clone in Haskell via HN Actually Using ed post
+- ed clone in Haskell via HN Actually Using ed post
 
-x original ed-in-C from V6 Unix at tuhs.org via HN Actually Using ed post
+- original ed-in-C from V6 Unix at tuhs.org via HN Actually Using ed post
   Oh, we already have this, but maybe revise explanation in following parens.
 
-x Eli Benderski's blog, eli.thegreenplace.net/archives/all via HN post
+- Eli Benderski's blog, eli.thegreenplace.net/archives/all via HN post
   on readline.  Add a separate link on same line just for his Python category.
   (and maybe another for Programming, which does not overlap).
 
-n CRSR blog, https://manignosis.crsr.net/archive.html via ed clone in Haskell.
+- CRSR blog, https://manignosis.crsr.net/archive.html via ed clone in Haskell.
   (He recommends The Programming Historian, mentioned above)
 
 
 3 Dec 2016
 
-X Terry Tao's career advice, add another link to his blog links
+- Terry Tao's career advice, add another link to his blog links
   already in math/buzz (done), also add to education (not done, leave it)
 
 
@@ -2926,7 +2929,7 @@ X Terry Tao's career advice, add another link to his blog links
 
 29 Nov 2016
 
-n Understanding Academic Medical Centers: Simone's Maxims from
+- Understanding Academic Medical Centers: Simone's Maxims from
   Clinical Cancer Research 1999, via HN, in science/milieu or maybe 
   education/something.  Oh, on reading this is clearly about academic politics
   but not so great we should link to it..
@@ -2940,33 +2943,33 @@ n Understanding Academic Medical Centers: Simone's Maxims from
 
 28 Nov 2016
 
-X Fix Butler Lampson links in programming/history - .htm not .html
+- Fix Butler Lampson links in programming/history - .htm not .html
 
-X Julia Evans' drawings at drawings.jvns.ca (revise existing link)
+- Julia Evans' drawings at drawings.jvns.ca (revise existing link)
   (1 Jan 2017)
-X also add to Geek culture/cartoons
+- also add to Geek culture/cartoons
   (21 Jul 2017)
 - maybe with Sacha Chua's emacs drawings
 
 
 23 Nov 2016
 
-X Unix history repository  https://github.com/dspinellis/unix-history-repo
+- Unix history repository  https://github.com/dspinellis/unix-history-repo
 
 
 21 Nov 2016
 
-X python3 faq at https://eev.ee/blog/
+- python3 faq at https://eev.ee/blog/
 
 
 18 Nov 2016
 
-n Chris Wellons' blog 'null program'
+- Chris Wellons' blog 'null program'
 
 
 17 Nov 2016
 
-X old Guy Steel-edited Jargon file, preceding ESR's versions
+- old Guy Steel-edited Jargon file, preceding ESR's versions
 
 
 16 Nov 2016
@@ -2980,10 +2983,10 @@ X old Guy Steel-edited Jargon file, preceding ESR's versions
 
 11 Nov 2016
 
-X Julia Evans' Linux drawings - along with her earlier zines and cartoons
+- Julia Evans' Linux drawings - along with her earlier zines and cartoons
   http://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/
 
-X Alex Cagan's drawings from scientific conferences
+- Alex Cagan's drawings from scientific conferences
 
 
  9 Nov 2016
@@ -3008,7 +3011,7 @@ n Hank Levy's Capabilities book, to go with HN post object refs are
   capabilities.   Later - skip the HN post, it's wrong.  But Levy's 
   chapter 1 might be of historic interest, in computer architecture.
 
-X Eric Demaine's MIT 6.851 Advanced Data Structures with wonderful
+- Eric Demaine's MIT 6.851 Advanced Data Structures with wonderful
   hand-drawn notes and diagrams
 
 - DIY $100 laptop (install Ubuntu on old Nexus 7 tablet, add separate kb)
@@ -3020,14 +3023,14 @@ n cool symbol picker linked by Nelson Minar
 
  3 Nov 2016
 
-X Dan Luu blog, danluu.com
+- Dan Luu blog, danluu.com
 
-X other guy's not blog but collection of old Usenet posts etc.
+- other guy's not blog but collection of old Usenet posts etc.
   Was that Kragen or Kraken?  It's Norman Yarvin
 
 n Ask MeFi computers, tech.  Any way to show Mefi Blue tech posts?
 
-X Julia Evans' explanations of containers (2 blog postings)
+- Julia Evans' explanations of containers (2 blog postings)
 
 n HN comment explaining capabilities as just object references.
   BUT they are not!  Object references do not include permissions,
@@ -3045,19 +3048,19 @@ n HN comment responding to Mary Rose Cooks' gitlet
 
  1 Nov 2016
 
-X Philip Guo blog
+- Philip Guo blog
 
 
 31 Oct 2016
 
-X twistedpython blog post explaining containers
+- twistedpython blog post explaining containers
   (X maybe add twistedpython to blogs also)
 
-X HN comment thread on editor programming how-tos
+- HN comment thread on editor programming how-tos
 
 - pocoo blog post and HN thread, Python 3.x async critique
 
-X Mary Rose Cook minimal d3 implemention next to older d3 link.
+- Mary Rose Cook minimal d3 implemention next to older d3 link.
 
 
 27 Oct 2016
@@ -3065,19 +3068,19 @@ X Mary Rose Cook minimal d3 implemention next to older d3 link.
 - 'What's wrong with git?', Git Koans, Hoyt's HN comment on Mary Rose's
   page in programming/tools/git
 
-X Larry Breed's story in Vector (APL newsletter) on IBM Elsie next to
+- Larry Breed's story in Vector (APL newsletter) on IBM Elsie next to
    Worley's comments about IBM 1570 Elsie in computer architecture
 
 - HN thread on nice personal web pages
 
-X Julia Evans blog
+- Julia Evans blog
  
-X Mary Rose Cook blog
+- Mary Rose Cook blog
 
 
 25 Oct 2016
 
-X AskMe post on bad scientists
+- AskMe post on bad scientists
 
 - HN thread on Internet rabbit holes
 
