@@ -5,14 +5,14 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 - https://news.ycombinator.com/item?id=17607095 - "Ask HN: Where can
   one learn about the history of the internet ... ?"  Many links, for
-  example http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf - 'The
-  Design Philosophy of the DARPA Internet Protocols'. Several posts
-  recommend Chuck Severance's course:
+  example http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf
+  - 'The Design Philosophy of the DARPA Internet Protocols',
+  summarized here: https://blog.acolyer.org/2015/01/22/the-design-philosophy-of-the-darpa-internet-protocols/  Several posts recommend this:
   https://www.coursera.org/learn/internet-history
 
-- https://news.ycombinator.com/item?id=17642846 - Hello World on z/OS - Comments
-  on this article about learning to use a mainframe, by
-  many others with experience:
+- https://news.ycombinator.com/item?id=17642846 - Hello World on z/OS
+  - Comments on this article by a novice trying to program a
+  mainframe, by many others with more experience:
   https://medium.com/@bellmar/hello-world-on-z-os-a0ef31c1e87f "And
   yes, ... I am an IBMer, working in a z/OS product that's over 40
   years old" "z/OS, TSO, JCL and the rest are different to what most
