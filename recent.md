@@ -5,9 +5,10 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 - <https://news.ycombinator.com/item?id=17607095> - "Ask HN: Where can
   one learn about the history of the internet ... ?"  Many links, for
-  example <http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf> - 'The 
-  Design Philosophy of the DARPA Internet Protocols',
-  summarized here: <https://blog.acolyer.org/2015/01/22/the-design-philosophy-of-the-darpa-internet-protocols/>  Several posts recommend this:
+  example <http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf>
+  summarized here:
+  <https://blog.acolyer.org/2015/01/22/the-design-philosophy-of-the-darpa-internet-protocols/>
+  Several posts recommend this:
   <https://www.coursera.org/learn/internet-history>
 
 - <https://news.ycombinator.com/item?id=17642846> - Hello World on z/OS - Comments 
