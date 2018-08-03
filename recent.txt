@@ -1,6 +1,17 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 3 Aug 2018
+
+- https://www.mnot.net/blog/2018/07/31/read_rfc - How to Read an RFC -
+  "Requests for Comments (RFCs) are how we specify many protocols on
+  the Internet. These documents are alternatively treated as holy
+  texts ... then shunned as irrelevant because they can’t be
+  understood. ... with some insight into how they’re constructed and
+  published, it’s a bit easier to understand what you’re looking
+  at. ... I currently co-chair the IETF HTTP and QUIC Working Groups,
+  and am a member of the Internet Architecture Board."
+
 31 Jul 2018
 
 - https://news.ycombinator.com/item?id=17607095 - "Ask HN: Where can
@@ -12,7 +23,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   https://www.coursera.org/learn/internet-history
 
 - https://news.ycombinator.com/item?id=17642846 - Hello World on z/OS - Comments 
-  on this article by a novice trying to program a
+  on this article about a novice trying to program a
   mainframe, by many others with more experience:
   https://medium.com/@bellmar/hello-world-on-z-os-a0ef31c1e87f "And
   yes, ... I am an IBMer, working in a z/OS product that's over 40
@@ -77,9 +88,12 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   https://github.com/uli/basicengine-firmware "The software is a
   heavily modified version of Toyoshiki Tiny BASIC
   https://github.com/Tamakichi/ttbasic_arduino/tree/ttbasic_arduino_ps2_ntsc
-  " via https://www.metafilter.com/175123/62984-bytes-free. Compare to
-  Uzebox, 24 May below.
-
+  " via https://www.metafilter.com/175123/62984-bytes-free.  Compare
+  to Uzebox, 24 May below.  Recently noticed at HN: "drive tiny,
+  minimal CPUs to do amazing things at the edge of their
+  specifications cause it's cool and fun ... that is this device."
+  https://news.ycombinator.com/item?id=17674944
+  
 - http://www.garbled.net/tmp/bringup.pdf - "Bringup is Hard
   ... Bringup is the initial stage of a new port of an Operating
   System to a new hardware platform.  Often, bringup is one of the
