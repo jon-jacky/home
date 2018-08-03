@@ -10,8 +10,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   understood. ... with some insight into how they’re constructed and
   published, it’s a bit easier to understand what you’re looking
   at. ... I currently co-chair the IETF HTTP and QUIC Working Groups,
-  and am a member of the Internet Architecture Board."  
-  RFCs in a more navigable HTML format: https://pretty-rfc.herokuapp.com
+  and am a member of the Internet Architecture Board."  In addition to
+  the sites linked in this article, https://pretty-rfc.herokuapp.com
+  provides the RFCs in a more navigable HTML format.
 
 31 Jul 2018
 
