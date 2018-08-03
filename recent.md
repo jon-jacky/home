@@ -11,10 +11,11 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   published, it’s a bit easier to understand what you’re looking
   at. ... I currently co-chair the IETF HTTP and QUIC Working Groups,
   and am a member of the Internet Architecture Board."
+  RFCs in a more navigable HTML format: <https://pretty-rfc.herokuapp.com>
 
 31 Jul 2018
 
-- <https://news.ycombinator.com/item?id=17607095> - "Ask HN: Where can
+- <https://news.ycombinator.com/item?id=17607095> - "Where can
   one learn about the history of the internet ... ?"  Many links, for
   example <http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf>
   summarized here:
