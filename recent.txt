@@ -4,14 +4,13 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
  7 Aug 2080 
 
 - https://believermag.com/broken-time/ - Broken Time: “Nardis” and the
-  Curious History of a Jazz Obsession by Steve Silberman - "Though
-  superb versions of “Nardis” have been recorded by everyone ... no
-  one embodied its melodic potential more than Bill Evans. ..." much
-  about Evans, some about Ralph Towner and Richard Beirach, bits about
-  Miles Davis and several more. Via
-  https://www.metafilter.com/175776/Broken-Time which also links to
-  https://www.jmeshel.com/124-bill-evans-nardis/ with 19 different
-  recordings by Bill Evans, and also
+  Curious History of a Jazz Obsession - "Though superb versions of
+  “Nardis” have been recorded by everyone ... no one embodied its
+  melodic potential more than Bill Evans. ..." much about Evans, some
+  about Ralph Towner and Richard Beirach, bits about Miles Davis and
+  several more. Via https://www.metafilter.com/175776/Broken-Time
+  which also links to https://www.jmeshel.com/124-bill-evans-nardis/
+  with 19 different recordings by Bill Evans, and also via
   https://news.ycombinator.com/item?id=17684477 with links to more
   performances by Evans, Towner, and guitarist Antoine Boyer.
 
@@ -20,10 +19,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   users of the platform make $0 for producing its content. ... The
   ultimate vision for Cent is to become an income source for anyone
   who wants to provide their value to society via a digital network."
-  See the prototype at https://beta.cent.co/ Promotion at
-  https://www.cent.co/ Via
-  https://news.ycombinator.com/item?id=17694135 "... paying users for
-  providing responses that are no different than FB posts or
+  Prototype at https://beta.cent.co/ Promotion at https://www.cent.co/
+  Via https://news.ycombinator.com/item?id=17694135 "... paying users
+  for providing responses that are no different than FB posts or
   Tweets. The difference between Cent and FB and Twitter though is
   that users on Cent are responding to posts that have a monetary
   bounty attached to them..."
