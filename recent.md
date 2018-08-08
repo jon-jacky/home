@@ -1,6 +1,20 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 7 Aug 2080
+
+- <https://believermag.com/broken-time/> - Broken Time: “Nardis” and the
+  Curious History of a Jazz Obsession by Steve Silberman - "Though
+  superb versions of “Nardis” have been recorded by everyone ... no
+  one embodied its melodic potential more than Bill Evans. ..." much
+  about Evans, some about Ralph Towner and Richard Beirach, bits about
+  Miles Davis and several more. Via
+  <https://www.metafilter.com/175776/Broken-Time> which also links to
+  <https://www.jmeshel.com/124-bill-evans-nardis/> with 19 different
+  recordings by Bill Evans, and also
+  <https://news.ycombinator.com/item?id=17684477> with links to more
+  performances by Evans, Towner, and guitarist Antoine Boyer.
+
  3 Aug 2018
 
 - <https://www.mnot.net/blog/2018/07/31/read_rfc> - How to Read an RFC -
@@ -90,11 +104,12 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   <https://github.com/uli/basicengine-firmware> "The software is a
   heavily modified version of Toyoshiki Tiny BASIC
   <https://github.com/Tamakichi/ttbasic_arduino/tree/ttbasic_arduino_ps2_ntsc>
-  " via <https://www.metafilter.com/175123/62984-bytes-free.>  Compare
-  to Uzebox, 24 May below.  Recently noticed at HN: "drive tiny,
-  minimal CPUs to do amazing things at the edge of their
-  specifications cause it's cool and fun ... that is this device."
-  <https://news.ycombinator.com/item?id=17674944>
+  " via <https://www.metafilter.com/175123/62984-bytes-free.> Recently
+  noticed at <https://news.ycombinator.com/item?id=17674944> "drive
+  tiny, minimal CPUs to do amazing things at the edge of their
+  specifications cause it's cool and fun"  "That is software
+  defined broadcast television. Mind. Blown." Compare to Uzebox, 24
+  May below.
 
 - <http://www.garbled.net/tmp/bringup.pdf> - "Bringup is Hard
   ... Bringup is the initial stage of a new port of an Operating
