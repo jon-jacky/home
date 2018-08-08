@@ -12,8 +12,11 @@ outtakes.txt - considered but rejected for recent.txt
   for providing responses that are no different than FB posts or
   Tweets. The difference between Cent and FB and Twitter though is
   that users on Cent are responding to posts that have a monetary
-  bounty attached to them..."  Many of the questions and answers at
-  the prototype site are about cryptocurrencies and blockchain.
-  According to https://beta.cent.co/leaderboard, the top earner at the
-  prototype site made $36.99 in 30 days.  Compare to much higher quality
-  questions, answers, and site design at https://ask.metafilter.com/
+  bounty attached to them..."  
+
+  Interesting idea, but odd realization.  Many of the questions and
+  answers at the prototype site are from enthusiasts for
+  cryptocurrencies and blockchain.  According to
+  https://beta.cent.co/leaderboard, the top earner made $36.99 in 30
+  days.  Compare to much higher quality questions, answers, and site
+  design at https://ask.metafilter.com/

@@ -1,7 +1,17 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
- 7 Aug 2080 
+ 8 Aug 2018
+
+- https://twobithistory.org/2018/08/05/where-vim-came-from.html - "Vim
+  is only the latest iteration of a piece of software—call it the "wq
+  text editor”—that has been continuously developed and improved since
+  the dawn of the Unix epoch."  History of *ed*, *ex*, *vi*, *vim* and
+  other editors, with links to more detailed histories of several.
+  More articles at https://twobithistory.org/timeline.html "This is a
+  blog about computer history intended primarily for computer people."
+
+ 7 Aug 2018 
 
 - https://believermag.com/broken-time/ - Broken Time: “Nardis” and the
   Curious History of a Jazz Obsession - "Though superb versions of
@@ -12,9 +22,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   which also links to https://www.jmeshel.com/124-bill-evans-nardis/
   with 19 different recordings by Bill Evans, and also via
   https://news.ycombinator.com/item?id=17684477 with links to more
-  performances by Evans, Towner, and guitarist Antoine Boyer.  Hear
-  Evans answer questions between numbers with the trio at this house
-  concrert in 1970: https://www.youtube.com/watch?v=C0AcvMBPuZI
+  performances by Evans, Towner, and guitarist Antoine Boyer. 
+  Evans talks about music between numbers with the trio at this house
+  concert in Helsinki in 1970: https://www.youtube.com/watch?v=C0AcvMBPuZI
 
  3 Aug 2018
 
