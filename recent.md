@@ -16,20 +16,17 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   performances by Evans, Towner, and guitarist Antoine Boyer.
 
 - <https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8>
-  "Cent is ... the evolution of the social network into an income
-  source. ... Most of us spend hours each day working for free. ...
-  it’s odd that Facebook is valued at over $400B while nearly all
+  ... it’s odd that Facebook is valued at over $400B while nearly all
   users of the platform make $0 for producing its content. ... The
   ultimate vision for Cent is to become an income source for anyone
   who wants to provide their value to society via a digital network."
-  See a prototype working at <https://beta.cent.co/> Promotion at
+  See the prototype at <https://beta.cent.co/> Promotion at
   <https://www.cent.co/> Via
-  <https://news.ycombinator.com/item?id=17694135> "...a site where the
-  stated purpose is to provide a way for anyone to earn income from
-  anywhere by paying users for providing responses that are no
-  different than FB posts or Tweets. The difference between Cent and
-  FB and Twitter though is that users on Cent are responding to posts
-  that have a monetary bounty attached to them..."
+  <https://news.ycombinator.com/item?id=17694135> "... paying users for
+  providing responses that are no different than FB posts or
+  Tweets. The difference between Cent and FB and Twitter though is
+  that users on Cent are responding to posts that have a monetary
+  bounty attached to them..."
 
  3 Aug 2018
 
