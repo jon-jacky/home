@@ -14,8 +14,9 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   <https://news.ycombinator.com/item?id=17684477> with links to more
   performances by Evans, Towner, and guitarist Antoine Boyer.
 
-- <https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8>
-  ... it’s odd that Facebook is valued at over $400B while nearly all
+-
+  <https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8>
+  "... it’s odd that Facebook is valued at over $400B while nearly all
   users of the platform make $0 for producing its content. ... The
   ultimate vision for Cent is to become an income source for anyone
   who wants to provide their value to society via a digital network."
@@ -24,7 +25,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   for providing responses that are no different than FB posts or
   Tweets. The difference between Cent and FB and Twitter though is
   that users on Cent are responding to posts that have a monetary
-  bounty attached to them..."
+  bounty attached to them..."  Many of the questions and answers at
+  the prototype site are about cryptocurrencies and blockchain.
 
  3 Aug 2018
 
