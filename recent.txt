@@ -14,8 +14,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   https://news.ycombinator.com/item?id=17684477 with links to more
   performances by Evans, Towner, and guitarist Antoine Boyer.
 
--
-  https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8
+- https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8
   "... it’s odd that Facebook is valued at over $400B while nearly all
   users of the platform make $0 for producing its content. ... The
   ultimate vision for Cent is to become an income source for anyone
@@ -27,7 +26,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   that users on Cent are responding to posts that have a monetary
   bounty attached to them..."  Many of the questions and answers at
   the prototype site are about cryptocurrencies and blockchain.
-
+  According to https://beta.cent.co/leaderboard, the top earner at the
+  prototype site made $36.99 in 30 days.
+  
  3 Aug 2018
 
 - https://www.mnot.net/blog/2018/07/31/read_rfc - How to Read an RFC -
