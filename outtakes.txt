@@ -14,9 +14,10 @@ outtakes.txt - considered but rejected for recent.txt
   that users on Cent are responding to posts that have a monetary
   bounty attached to them..."  
 
-  Interesting idea, but odd realization.  Many of the questions and
-  answers at the prototype site are from enthusiasts for
-  cryptocurrencies and blockchain.  According to
-  https://beta.cent.co/leaderboard, the top earner made $36.99 in 30
-  days.  Compare to much higher quality questions, answers, and site
-  design at https://ask.metafilter.com/
+  Interesting idea, but poor implementation with a weird community.
+  The tweet format does not lend itself to high-value content -- most
+  tweets are worthless.  Much of the activity at the prototype site is
+  chitchat from enthusiasts for cryptocurrencies and blockchain.
+  According to https://beta.cent.co/leaderboard, the top earner made
+  $36.99 in 30 days.  Compare to much higher quality questions,
+  answers, and site design at https://ask.metafilter.com/

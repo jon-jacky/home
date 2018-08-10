@@ -6,7 +6,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 - <https://twobithistory.org/2018/08/05/where-vim-came-from.html> - "Vim
   is only the latest iteration of a piece of software—call it the "wq
   text editor”—that has been continuously developed and improved since
-  the dawn of the Unix epoch."  History of *ed*, *ex*, *vi*, *vim* and
+  the dawn of the Unix epoch."  History of *qed*, *ed*, *ex*, *vi*, *vim* and
   other editors, with links to more detailed histories of several.
   More articles at <https://twobithistory.org/timeline.html> "This is a
   blog about computer history intended primarily for computer people."
@@ -23,7 +23,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   with 19 different recordings by Bill Evans, and also via
   <https://news.ycombinator.com/item?id=17684477> with links to more
   performances by Evans, Towner, and guitarist Antoine Boyer.
-  Evans talks about music between numbers with the trio at this house
+  Evans talks about music between playing with the trio at this house
   concert in Helsinki in 1970: <https://www.youtube.com/watch?v=C0AcvMBPuZI>
 
  3 Aug 2018
@@ -163,7 +163,9 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 - <https://github.com/dylanaraps/pure-bash-bible> - "... methods of
   doing various tasks using only built-in bash features ... remove
   unneeded dependencies from your scripts ... make them that little
-  bit faster."
+  bit faster."  Also <https://dmytrish.net/blog/en/bash-tcp> - "bash can
+  connect to TCP/UDP servers on its own, without using nc/telnet
+  ... (by using) /dev/tcp/HOST/PORT" ... (example follows)
 
 25 Jun 2018
 
