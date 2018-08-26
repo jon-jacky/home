@@ -1,6 +1,20 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+26 Aug 2018
+
+- <https://arxiv.org/abs/1807.08416> - Some Fundamental Theorems in
+  Mathematics by Oliver Knill - Linked PDF is a survey of modern math
+  in 133 pages, in the form of the "fundamental" theorem in each of
+  135 areas, all in the first 62 pages!  Followed by rationale and
+  explanation of "fundamental", by 13 two-page lecture summaries on
+  key topics, by Twitter math: 42 140-character statements of theorems
+  with proof summaries, and more. "Teaching a course called “Math from
+  a historical perspective” at the Harvard extension school led me to
+  write up the present document. This course Math E 320 ... I’m
+  reporting on many of these theorems as a tourist and not as a
+  local."
+
  8 Aug 2018
 
 - <https://twobithistory.org/2018/08/05/where-vim-came-from.html> - "Vim
@@ -1213,7 +1227,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 - <http://www.hellophia.com/> web page of comic/graphic artist Sophia
   Foster-Dimino - unusually good use of color and subtle animation, for
-  example <http://www.hellophia.com/>#/animation-personal/ Much more in
+  example <http://www.hellophia.com/#/animation-personal/> Much more in
   comic strip format at <http://sophiafosterdimino.tumblr.com/> via
   comment in MeFi post below.
 
@@ -1338,7 +1352,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 - <http://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/>
    MicroPython runtime (among others) on ARM mbed OS.  Links to:
 
-- <https://github.com/carlosperate/awesome-microbit>#programming
+- <https://github.com/carlosperate/awesome-microbit#programming>
 
 
 15 Nov 2017
@@ -1421,11 +1435,11 @@ date + following text, then reverse order.
 
 30 Oct 2017
 
-- <https://archive.org/stream/9780262610261>#page/n0/mode/2up - A
+- <https://archive.org/stream/9780262610261#page/n0/mode/2up> - A
   FORTRAN Coloring Book - other links to download pdf or ebook formats
   incl. kindle don't work
 
-- <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213>#44213 - Bill Thurston's essay in response to "What's a mathematician to
+- <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213> - Bill Thurston's essay in response to "What's a mathematician to
   do?". He writes, "It's not mathematics that you need to contribute
   to. It's deeper than that: how might you contribute to humanity, and
   even deeper, to the well-being of the world, by pursuing
@@ -2236,7 +2250,7 @@ minimalist design.   Also noted 22 Jan above.
    <https://bookillustrations.quora.com/Boris-Artzybasheffs-Illustrations-for-Creatures>
  8 Apr 2017
 
-- <http://ask.metafilter.com/307705/Tutorials-Algorithms-Software-for-Federated-Services>#4452469
+- <http://ask.metafilter.com/307705/Tutorials-Algorithms-Software-for-Federated-Services#4452469>
   Explanation of NNTP on AskMe, in response to question about Mastodon
  'federated' (distributed) Twitter-like social network.  See also
   <https://robek.world/featured/what-is-gnu-social-and-is-mastodon-social-a-twitter-clone/>
@@ -2624,7 +2638,7 @@ minimalist design.   Also noted 22 Jan above.
     <https://utcc.utoronto.ca/~cks/space/blog/unix/CarriageReturnWhatFor>
     <https://utcc.utoronto.ca/~cks/space/blog/unix/HowUnixBackspaces>
  more, with explanation and diagram of how it's handled in Linux:
-  <https://unix.stackexchange.com/questions/117981/what-are-the-responsibilities-of-each-pseudo-terminal-pty-component-software/120071>#120071
+  <https://unix.stackexchange.com/questions/117981/what-are-the-responsibilities-of-each-pseudo-terminal-pty-component-software/120071#120071>
  more on ascii (1-Feb-2017):
  <https://garbagecollected.org/2017/01/31/four-column-ascii/>
  <https://news.ycombinator.com/item?id=13539552> HN comments on above, lots of links
@@ -2682,7 +2696,7 @@ minimalist design.   Also noted 22 Jan above.
 
 20 Jan 2017
 
-- <https://omgfacts.com/we-used-to-have-6-more-letters-in-our-alphabet-a7e1a165853d>#.pd56w4he6
+- <https://omgfacts.com/we-used-to-have-6-more-letters-in-our-alphabet-a7e1a165853d#.pd56w4he6>
   <https://news.ycombinator.com/item?id=13408797>
   The lost letters of the English alphabet, 195 HN comments many correcting errors
   Possibly link in typography?
@@ -2731,7 +2745,7 @@ minimalist design.   Also noted 22 Jan above.
  7 Jan 2017
 
 - 2017.sucks simple website JS demo with nice graphic desing
-  via HN <https://2017.sucks/>#/
+  via HN <https://2017.sucks/#/>
   <https://github.com/alexbowers/2017.sucks>
 
 - A Minimal TTL Processor for Architecture Exploration

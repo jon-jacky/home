@@ -1,6 +1,20 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+26 Aug 2018 
+
+- https://arxiv.org/abs/1807.08416 - Some Fundamental Theorems in
+  Mathematics by Oliver Knill - Linked PDF is a survey of modern math
+  in 133 pages, in the form of the "fundamental" theorem in each of
+  135 areas, all in the first 62 pages!  Followed by rationale and
+  explanation of "fundamental", by 13 two-page lecture summaries on
+  key topics, by Twitter math: 42 140-character statements of theorems
+  with proof summaries, and more. "Teaching a course called “Math from
+  a historical perspective” at the Harvard extension school led me to
+  write up the present document. This course Math E 320 ... I’m
+  reporting on many of these theorems as a tourist and not as a
+  local."
+
  8 Aug 2018
 
 - https://twobithistory.org/2018/08/05/where-vim-came-from.html - "Vim
