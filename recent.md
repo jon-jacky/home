@@ -1,6 +1,18 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+29 Aug 2018
+
+- <https://github.com/darklife/darkriscv> - "Open source RISC-V
+  implemented from scratch in one night! ... the code is very compact,
+  with around two hundred lines of Verilog ... my target is the
+  ultra-low-cost Xilinx Spartan-6 family of FPGAs ... the performance
+  of 75MIPS is good enough for me."  Via
+  <https://news.ycombinator.com/item?id=17852876> "... a very incomplete
+  implementation. ... The fact that this is RISCV is somewhat of a red
+  herring as you could do a similar thing with a restricted subset of
+  MIPS or ARM or even x86 ..."
+
 27 Aug 2018
 
 - <http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/> - "I want
