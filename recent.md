@@ -11,7 +11,13 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   <https://news.ycombinator.com/item?id=17852876> "... a very incomplete
   implementation. ... The fact that this is RISCV is somewhat of a red
   herring as you could do a similar thing with a restricted subset of
-  MIPS or ARM or even x86 ..."
+  MIPS or ARM or even x86 ..." BUT author answers: "although 25% of
+  RV32I instruction set is missing in my implementation, there is no
+  side effect, ... since the gcc
+  generates by default exactly the implemented subset and nothing
+  more. I think this is a very important advantage in the RISCV
+  architecture when compared with others and I dont think the gcc will
+  have the same benevolent behaviour in the case of ARM or x86."
 
 27 Aug 2018
 
