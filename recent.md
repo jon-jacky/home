@@ -1,6 +1,21 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+31 Aug 2018
+
+- <https://dl.acm.org/citation.cfm?id=806447> - "Z - The 95% Program
+  Editor (1981) ... Z is the production editor in the Yale Computer
+  Science Department ... developed using the Yale BLISS programming
+  (language) environment for TOPS-20 (operating system for
+  DECSystem-20)".  Provides functionality similar to the Emacs of the
+  era, but completely different command language and internals.  The
+  paper tells how to implement many features for editing programs in
+  several languages that "would seem to require the existence of a
+  parse tree", but instead use only "a simple table-driven lexer
+  (that) takes a line of text and divides it into (a few) categories"
+  and "by making a very simple assumption about how a programmer
+  formats his program."
+
 29 Aug 2018
 
 - <https://github.com/darklife/darkriscv> - "Open source RISC-V
