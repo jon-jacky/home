@@ -1,6 +1,19 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 5 Sep 2018
+
+- https://news.ycombinator.com/item?id=17910632, comments on
+  https://tinyletter.com/jamesbowman/letters/upduino-a-9-99-fpga -
+  "Can someone explain why someone would choose an FPGA over a
+  standard microprocessor? What advantages could this UPDuino have
+  over an Arduino? Also, how do ASIC's figure into this comparison?"
+  and, "How does one go about developing on an FPGA ...?"  Many
+  detailed answers, also many suggestions for FPGA projects.  Also,
+  "Can this run a RISC-V core? ... Yes, it can:"
+  https://github.com/grahamedgecombe/icicle and
+  https://github.com/cliffordwolf/picorv32
+
 31 Aug 2018
 
 - https://dl.acm.org/citation.cfm?id=806447 - "Z - The 95% Program
