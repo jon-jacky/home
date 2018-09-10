@@ -5,21 +5,20 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 - <https://www.metafilter.com/176413/Time-for-some-classical-music> -
   Eclectic suggestions by many ordinary music lovers, with links,
-  responding to these recommendations from nineteen well-known
-  composers, musicians, and critics
-  <https://www.nytimes.com/2018/09/06/arts/music/5-minutes-that-will-make-you-love-classical-music.html.>
+  responding to these recommendations from nineteen composers,
+  musicians, and critics:
+  <https://www.nytimes.com/2018/09/06/arts/music/5-minutes-that-will-make-you-love-classical-music.html>
   Also,
   <https://ask.metafilter.com/326239/Please-recommend-me-many-requiems-music-books-movies-anything>
 
-- <https://www.theatlantic.com/entertainment/archive/2018/07/a-writers-fixation-on-sound/565904/> - R. O. Kwon on Writing *The Incendiaries* - "I keep a giant,
-  running document of bits and pieces from books I love. ... I worked
-  for 10 years on my first book. ... I couldn’t feel done with my
-  novel until I could pick it up, read a line, and not desperately
-  want to change all the words.  ...  I spent two whole years just
-  reworking the first 20 pages over and over again. By the end, I had
-  the most reworked, totally inert pages I’ve ever seen in my life. It
-  was just going nowhere. ... (Lauren Groff suggested) The idea is to
-  get through early drafts as quickly as possible. ... I wrote whole
+- <https://www.theatlantic.com/entertainment/archive/2018/07/a-writers-fixation-on-sound/565904/> - R. O. Kwon on Writing *The Incendiaries* - "I worked for 10 years
+  on my first book. ... I couldn’t feel done with my novel until I
+  could pick it up, read a line, and not desperately want to change
+  all the words.  ...  I spent two whole years just reworking the
+  first 20 pages over and over again. By the end, I had the most
+  reworked, totally inert pages I’ve ever seen in my life. It was just
+  going nowhere. ... (Lauren Groff suggested) The idea is to get
+  through early drafts as quickly as possible. ... I wrote whole
   drafts by hand. Then I wrote using a program that acts just like a
   typewriter: You can backspace once, but can’t cut and paste full
   paragraphs, and can only move forward. Then, in Word, I wrote a
@@ -29,7 +28,12 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   basic character and structural changes. ... As I continue, and start
   to focus more on sound ... I do a lot of reading out loud to help me
   determine whether the sound is working. ... When I’m finding joy in
-  a paragraph, there’s really no sentence where I’m getting bored."
+  a paragraph, there’s really no sentence where I’m getting bored. ...
+  I keep a giant, running document of bits and pieces from books I
+  love. ... When I feel confused and lost ... I just go back to the
+  document and start reading.  ... I think there’s never been a time
+  when that hasn’t sparked something in me, and given me an idea or a
+  thought that can bring me back to my own writing ..."
 
 
  5 Sep 2018
