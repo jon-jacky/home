@@ -1,6 +1,26 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+11 Sep 2018
+
+- https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html - 
+  "Originally ... it was more meant as a kind of executable
+  explanation of how Python works ...  But pretty soon there were
+  then also plans for how the virtual machine (VM) could be
+  bootstrapped to be runnable ..." "The use of RPython for other
+  languages complicated the PyPy narrative a lot, and in a way we
+  never managed to recover the simplicity of the original project
+  description "PyPy is Python in Python". Because now it's something
+  like "we have this somewhat strange language, a subset of Python,
+  that's called RPython, and it's good to write interpreters in. And
+  if you do that, we'll give you a JIT for almost free. And also, we
+  used that language to write a Python implementation, called
+  PyPy.". It just doesn't roll off the tongue as nicely."
+  The original vision of a pedagogical Python in Python has recently been
+  realized by others in *Byterun* and *Tailbiter*:
+  http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html and
+  https://codewords.recurse.com/issues/seven/dragon-taming-with-tailbiter-a-bytecode-compiler
+
  9 Sep 2018
 
 - https://www.metafilter.com/176413/Time-for-some-classical-music -
@@ -28,8 +48,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   basic character and structural changes. ... As I continue, and start
   to focus more on sound ... I do a lot of reading out loud to help me
   determine whether the sound is working. ... When I’m finding joy in
-  a paragraph, there’s really no sentence where I’m getting bored. ...
-  I keep a giant, running document of bits and pieces from books I
+  a paragraph, there’s really no sentence where I’m getting bored."
+  "I keep a giant, running document of bits and pieces from books I
   love. ... When I feel confused and lost ... I just go back to the
   document and start reading.  ... I think there’s never been a time
   when that hasn’t sparked something in me, and given me an idea or a
