@@ -1,6 +1,22 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+12 Sep 2018
+
+- https://ask.metafilter.com/326362/Seeking-very-unconventional-sandwich-suggestions - see also <https://ask.metafilter.com/307896/Opinions-are-like-pizzas-everybody-has-one-and-theyre-all-great>
+
+- <https://news.ycombinator.com/item?id=11796650> - Harvey OS – A Fresh
+  Take on Plan 9 - "Unix wrinkles: there are so many, but just
+  consider the sockets interface. Sockets completely break the Unix
+  model of named entities that you can open and close and read and
+  write. Sockets don't have names and are not visible in the file
+  system. It's a long list of what they got wrong and that's why, in
+  1978, other mechanisms were proposed (if you're willing to dig you
+  can find the RFC and you'll see ideas like /dev/tcp/hostname and so
+  on). But to our dismay (I was there at the time) the current BSD
+  socket interface won. Many of us were disappointed by that decision
+  but it was the fastest way to get network support into Unix."
+
 11 Sep 2018
 
 - <https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html> - 
