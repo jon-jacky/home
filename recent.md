@@ -9,7 +9,17 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   be greated with confused looks and open arms by the community, or
   rather, lack of community. ... After booting your 9front machine you
   should be greeted with a drab looking gray screen. Congratulations,
-  You've made a terrible decision."   See also <http://fqa.9front.org/>
+  You've made a terrible decision."
+
+  See also <http://fqa.9front.org/>
+
+- <http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/> -
+  "*Fluchtpunkt* Lisps skirt the vanishing point between theory,
+  practicality, and art. ... (examples include *T* and *Pico Lisp*)
+  ...  Fluchtpunkt Lisps are Focused: Uncompromising in their vision,
+  Spartan: Devoid of the seemingly unnecessary comforts found in many
+  modern languages, Controversial: Not always by design, but often
+  because of their design, Fun.
 
 12 Sep 2018
 
@@ -24,6 +34,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   on). But to our dismay (I was there at the time) the current BSD
   socket interface won. Many of us were disappointed by that decision
   but it was the fastest way to get network support into Unix."
+
+  See also <https://github.com/Harvey-OS/harvey>
 
 11 Sep 2018
 
