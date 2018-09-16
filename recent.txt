@@ -1,9 +1,17 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-12 Sep 2018
+15 Sep 2018
 
-- https://ask.metafilter.com/326362/Seeking-very-unconventional-sandwich-suggestions - see also https://ask.metafilter.com/307896/Opinions-are-like-pizzas-everybody-has-one-and-theyre-all-great
+- https://github.com/arwn/9front-paper/blob/master/paper.pdf - Using
+  9front - "Why would anyone want to use 9front? Well chances are you
+  don't. On the strange off-chance that you do end up using it you'll
+  be greated with confused looks and open arms by the community, or
+  rather, lack of community. ... After booting your 9front machine you
+  should be greeted with a drab looking gray screen. Congratulations,
+  You've made a terrible decision."   See also http://fqa.9front.org/
+
+12 Sep 2018
 
 - https://news.ycombinator.com/item?id=11796650 - Harvey OS – A Fresh
   Take on Plan 9 - "Unix wrinkles: there are so many, but just
@@ -39,14 +47,6 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
  9 Sep 2018
 
-- https://www.metafilter.com/176413/Time-for-some-classical-music -
-  Eclectic suggestions by many ordinary music lovers, with links,
-  responding to these recommendations from nineteen composers,
-  musicians, and critics:
-  https://www.nytimes.com/2018/09/06/arts/music/5-minutes-that-will-make-you-love-classical-music.html
-  Also,
-  https://ask.metafilter.com/326239/Please-recommend-me-many-requiems-music-books-movies-anything
-
 - https://www.theatlantic.com/entertainment/archive/2018/07/a-writers-fixation-on-sound/565904/ - R. O. Kwon on Writing *The Incendiaries* - "I worked for 10 years
   on my first book. ... I couldn’t feel done with my novel until I
   could pick it up, read a line, and not desperately want to change
@@ -71,6 +71,13 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   when that hasn’t sparked something in me, and given me an idea or a
   thought that can bring me back to my own writing ..."
 
+- https://www.metafilter.com/176413/Time-for-some-classical-music -
+  Eclectic suggestions by many ordinary music lovers, with links,
+  responding to these recommendations from nineteen composers,
+  musicians, and critics:
+  https://www.nytimes.com/2018/09/06/arts/music/5-minutes-that-will-make-you-love-classical-music.html
+  Also,
+  https://ask.metafilter.com/326239/Please-recommend-me-many-requiems-music-books-movies-anything
 
  5 Sep 2018
 
