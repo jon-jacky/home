@@ -1,6 +1,23 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+16 Sep 2018
+
+- <https://arxiv.org/abs/1809.01639> - Making Better Sense of Quantum
+  Mechanics by N. David Mermin - "It once made sense to exclude the
+  scientist from scientific explanations of the physical world. This
+  warded off superstitious, animistic, or religious explanations. But
+  ... today it makes sense to insist that the scientist should not be
+  excluded from a philosophical understanding of the nature of
+  scientific explanation. ... the historic exclusion of the user,
+  while it may have helped get science off the ground, is today
+  responsible not only for the confusion at the foundations of quantum
+  mechanics, but also for a broader misunderstanding of the nature of
+  science in general."  In addition to this argument, much of the
+  value here is in the review of the opinions of many physicists
+  and others, expressed by their quotations.  But this paper didn't
+  resolve any quantum mysteries for me.
+
 15 Sep 2018
 
 - <https://github.com/arwn/9front-paper/blob/master/paper.pdf> - Using
@@ -52,6 +69,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   if you do that, we'll give you a JIT for almost free. And also, we
   used that language to write a Python implementation, called
   PyPy.". It just doesn't roll off the tongue as nicely."
+
   The original vision of a pedagogical Python in Python has recently been
   realized by others in *Byterun* and *Tailbiter*:
   <http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html> and
