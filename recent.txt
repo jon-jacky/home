@@ -13,7 +13,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   provide special ‘socket’ system calls to access networks. Instead,
   devices, interfaces, protocols and services are all represented by
   file trees, conventionally collected together under /net. (Details
-  follow) ... (Other examples) domain name service ...  connection
+  follow) ... (Other examples include) domain name service ...  connection
   service ... mail boxes ... authentication ... window managment ...
   storage formats ... The exposing of data interfaces through the name
   space has a further advantage. ... ordinary system commands can
@@ -23,7 +23,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   the shell prompt.  This 18-page paper is the most thorough explanation of
   Plan 9 I have seen.
 
-- http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf - "Why some dead OSes still matter - 
+- http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf - "Why Some Dead OSes Still Matter - 
   Plan 9 does not have an equivalent to the *ioctl()* system call,
   which cannot be isued across a network owing to the reliance on a
   local pointer to pass data.  Instead most servers by convention
@@ -34,13 +34,12 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 - http://doc.cat-v.org/bell_labs/the_hideous_name/the_hideous_name.pdf - "The Hideous Name - 
   ... the UNIX file system contains objects that are not ordinary
   files.  Simply by having ordinary file names, though, these objects
-  have ordinary file properties such as protection. ... Because these
-  unusual objects have regular names, existing tools can treat them as
-  files, so standard software can provide services for them that would
-  otherwise require special handling. ... When machines are connected
-  together, their name spaces may be joined to facilitate the sharing
-  of files.  If the name spaces have the same clean structure, that
-  structure can be extended simply to describe the larger space.
+  have ordinary file properties such as protection. ... standard
+  software can provide services for them that would otherwise require
+  special handling. ... When machines are connected together, their
+  name spaces may be joined to facilitate the sharing of files.  If
+  the name spaces have the same clean structure, that structure can be
+  extended simply to describe the larger space.
    
 16 Sep 2018
 
