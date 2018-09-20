@@ -1,6 +1,47 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+19 Sep 2018
+
+- http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf - "The Ubiquitous File Server in Plan 9 ... 
+  the design of a given component, whether device driver, system
+  service or application, often begins by designing a suitable name
+  space, at a level of abstraction above that of (say) the API for any
+  particular programming language. In other words, in Plan 9, the name
+  space provides the focus for design.  We look at a reasonable
+  collection of examples ... network interfaces: Plan 9 does not
+  provide special ‘socket’ system calls to access networks. Instead,
+  devices, interfaces, protocols and services are all represented by
+  file trees, conventionally collected together under /net. (Details
+  follow) ... (Other examples) domain name service ...  connection
+  service ... mail boxes ... authentication ... window managment ...
+  storage formats ... The exposing of data interfaces through the name
+  space has a further advantage. ... ordinary system commands can
+  operate on it, including *ls*, *cmp*, and *cp*.  ... The server is
+  often tested using shell commands or shell scripts ..." Also, any
+  server can be used *ad lib* just by typing *echo* or *cat* commands at
+  the shell prompt.  This 18-page paper is the most thorough explanation of
+  Plan 9 I have seen.
+
+- http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf - "Why some dead OSes still matter - 
+  Plan 9 does not have an equivalent to the *ioctl()* system call,
+  which cannot be isued across a network owing to the reliance on a
+  local pointer to pass data.  Instead most servers by convention
+  serve a file named *ctl* at the top of their hierarchy, which
+  allows clients to control not only I/O but the general behavior of
+  the servers."
+
+- http://doc.cat-v.org/bell_labs/the_hideous_name/the_hideous_name.pdf - "The Hideous Name - 
+  ... the UNIX file system contains objects that are not ordinary
+  files.  Simply by having ordinary file names, though, these objects
+  have ordinary file properties such as protection. ... Because these
+  unusual objects have regular names, existing tools can treat them as
+  files, so standard software can provide services for them that would
+  otherwise require special handling. ... When machines are connected
+  together, their name spaces may be joined to facilitate the sharing
+  of files.  If the name spaces have the same clean structure, that
+  structure can be extended simply to describe the larger space.
+   
 16 Sep 2018
 
 - https://arxiv.org/abs/1809.01639 - Making Better Sense of Quantum
@@ -14,9 +55,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   responsible not only for the confusion at the foundations of quantum
   mechanics, but also for a broader misunderstanding of the nature of
   science in general."  In addition to this argument, much of the
-  value here is in the review of the opinions of many physicists
-  and others, expressed by their quotations.  But this paper didn't
-  resolve any quantum mysteries for me.
+  value here is in the review of the opinions of many physicists and
+  others, expressed in their own words (via quotations).  But this
+  paper didn't resolve any quantum mysteries for me.
 
 15 Sep 2018
 
