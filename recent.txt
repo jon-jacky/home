@@ -6,8 +6,14 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 - https://mprove.de/diplom/gui/Kay75.pdf - "Personal Computing by Alan
   Kay" (1975) - Early explanations of the Alto computer and Smalltalk
   language, including motivation and rationale, with descriptons of
-  programs written by adults and children. "The 'pocket universe' (a
-  metaphor we like) needs an epistemology if not a metaphysics." via
+  programs written by adults and especially children. "The 'pocket universe' (a
+  metaphor we like) needs an epistemology if not a
+  metaphysics. ... The basic principle of recursive design is: make
+  the *parts* have the same power and capabilities as the
+  *whole*. ... It is interesting to note that none of the *parts* of
+  most programming languages, 'data structures', 'functions', and
+  'control structures', have the same power as the *whole*, instead
+  they are *dilutions* of the idea of the computer." via
   https://news.ycombinator.com/item?id=18044785 - "What happened to
   this future?  I miss it."
 
