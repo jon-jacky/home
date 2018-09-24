@@ -1,13 +1,13 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-22 Sep 2018
+24 Sep 2018
 
 - <https://mprove.de/diplom/gui/Kay75.pdf> - "Personal Computing by Alan
   Kay" (1975) - Early explanations of the Alto computer and Smalltalk
   language, including motivation and rationale, with descriptons of
   programs written by adults and children. "The 'pocket universe' (a
-  metaphor we like) needs an epistemology if not a metaphysics." Via
+  metaphor we like) needs an epistemology if not a metaphysics." via
   <https://news.ycombinator.com/item?id=18044785> - "What happened to
   this future?  I miss it."
 
@@ -49,7 +49,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   special handling. ... When machines are connected together, their
   name spaces may be joined to facilitate the sharing of files.  If
   the name spaces have the same clean structure, that structure can be
-  extended simply to describe the larger space.
+  extended simply to describe the larger space."
 
 16 Sep 2018
 
