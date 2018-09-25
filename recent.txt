@@ -13,9 +13,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   *whole*. ... It is interesting to note that none of the *parts* of
   most programming languages, 'data structures', 'functions', and
   'control structures', have the same power as the *whole*, instead
-  they are *dilutions* of the idea of the computer." via
-  https://news.ycombinator.com/item?id=18044785 - "What happened to
-  this future?  I miss it."
+  they are *dilutions* of the idea of the computer."
+
+  Via https://news.ycombinator.com/item?id=18044785 - "What happened
+  to this future?  I miss it."
 
 19 Sep 2018
 
@@ -39,13 +40,16 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   the shell prompt.  This 18-page paper is the most thorough explanation of
   Plan 9 I have seen.
 
-- http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf - "Why Some Dead OSes Still Matter - 
-  Plan 9 does not have an equivalent to the *ioctl()* system call,
-  which cannot be isued across a network owing to the reliance on a
-  local pointer to pass data.  Instead most servers by convention
-  serve a file named *ctl* at the top of their hierarchy, which
-  allows clients to control not only I/O but the general behavior of
-  the servers."
+- http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf -
+  "Why Some Dead OSes Still Matter - Plan 9 does not have an
+  equivalent to the *ioctl()* system call, which cannot be isued
+  across a network owing to the reliance on a local pointer to pass
+  data.  Instead most servers by convention serve a file named *ctl*
+  at the top of their hierarchy, which allows clients to control not
+  only I/O but the general behavior of the servers."  
+
+  Comments in https://news.ycombinator.com/item?id=10114460 including
+  a roll call of other OS alternatives with links.
 
 - http://doc.cat-v.org/bell_labs/the_hideous_name/the_hideous_name.pdf - "The Hideous Name - 
   ... the UNIX file system contains objects that are not ordinary
