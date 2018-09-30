@@ -1,6 +1,22 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+29 Sep 2018
+
+- https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/ - "The new blog is designed to radically reduce the energy use
+  associated with accessing our content. ... Thanks to a low-tech web
+  design, we managed to decrease the average page size of the blog by
+  a factor of five compared to the old design – all while making the
+  website visually more attractive (and mobile-friendly). Secondly,
+  our new website runs 100% on solar power, not just in words, but in
+  reality: it has its own energy storage and will go off-line during
+  longer periods of cloudy weather. ..."  Lots of details about DIY
+  solar panels + batteries + tiny server computer.  Interesting
+  graphic design too.  via
+  https://news.ycombinator.com/item?id=18075143 "Small sub-cultures,
+  like this one, do experiments all the time in their little corner of
+  the web. ..."
+
 24 Sep 2018
 
 - https://mprove.de/diplom/gui/Kay75.pdf - "Personal Computing by Alan
@@ -49,7 +65,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   only I/O but the general behavior of the servers."  
 
   Comments in https://news.ycombinator.com/item?id=10114460 including
-  a roll call of other OS alternatives with links.
+  a roll call of other historic OS, links.
 
 - http://doc.cat-v.org/bell_labs/the_hideous_name/the_hideous_name.pdf - "The Hideous Name - 
   ... the UNIX file system contains objects that are not ordinary
