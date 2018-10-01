@@ -1,6 +1,19 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+30 Sep 2018
+
+- From *The Art of Fiction* by John Gardner (1983), Ch 6 Technique, p.
+  127 (no link) - "Writing an exercise, the beginning writer is doing
+  exactly what the professional does most of the time.  Much of what
+  goes into a real story or novel goes in not because the writer
+  desperately wants it there but because he needs it: The scene
+  justifies some later action, shows some basis of motivation, or
+  reveals some aspect of character without which the projected climax
+  of the action would not seem credible. ..."  According to the book,
+  this is the one way in which creative writing is like programming.
+  In every other way it is completely different.
+
 29 Sep 2018
 
 - <https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/> - "The new blog is designed to radically reduce the energy use
@@ -13,9 +26,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   longer periods of cloudy weather. ..."  Lots of details about DIY
   solar panels + batteries + tiny server computer.  Interesting
   graphic design too.  via
-  <https://news.ycombinator.com/item?id=18075143> "Small sub-cultures,
-  like this one, do experiments all the time in their little corner of
-  the web. ..."
+  <https://news.ycombinator.com/item?id=18075143>
 
 24 Sep 2018
 
