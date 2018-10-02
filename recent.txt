@@ -1,9 +1,21 @@
 Recent links, begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 1 Oct 2018
+
+- https://news.ycombinator.com/item?id=12250857 - "... Are there any
+  other noteworthy, older computer technologies that are in some ways
+  superior to current technologies?"  Many long responses, describing different
+  systems than the recent https://news.ycombinator.com/item?id=10114460
+
+- https://github.com/terkelg/awesome-creative-coding - "Creative
+  coding is a different discipline than programming systems. The goal
+  is to create something expressive instead of something functional."
+  via https://github.com/sindresorhus/awesome
+
 30 Sep 2018
 
-- From *The Art of Fiction* by John Gardner (1983), Ch 6 Technique, p.
+- *The Art of Fiction* by John Gardner (1983), Ch 6 Technique, p.
   127 (no link) - "Writing an exercise, the beginning writer is doing
   exactly what the professional does most of the time.  Much of what
   goes into a real story or novel goes in not because the writer
@@ -24,7 +36,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   our new website runs 100% on solar power, not just in words, but in
   reality: it has its own energy storage and will go off-line during
   longer periods of cloudy weather. ..."  Lots of details about DIY
-  solar panels + batteries + tiny server computer.  Interesting
+  solar panels + batteries + tiny server computer + page design.  Interesting
   graphic design too.  via
   https://news.ycombinator.com/item?id=18075143
 
