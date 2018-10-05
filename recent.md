@@ -1,12 +1,32 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 5 Oct 2018
+
+- <http://obsolescence.wixsite.com/obsolescence/pidp-11> - "The PiDP-11
+  is a modern replica of the PDP-11/70.  Introduced in 1975, the 11/70
+  was top of the line in the famed PDP-11 range, and the very last
+  system with a proper front panel. ..."  Comments in
+  <https://news.ycombinator.com/item?id=18124861> "It just goes to say
+  that current systems lack something.  We cannot always put the finger on
+  what it is and backtrack to where we think times were better. Using
+  these machines is the closest real thing to going back in
+  time. ... We cannot bring them back today and use them as primary
+  systems because we don't have the context that need those
+  machines. They are doomed to be played a little and to be sent back
+  to attic." Another commenter responds "The exercise of traveling
+  back in time is often not as much as to use the machines for actual
+  work, but to experience them as tools to learn about the context
+  where they existed ... to (re)learn the lessons others learned
+  before us that we can still benefit from."
+
  1 Oct 2018
 
 - <https://news.ycombinator.com/item?id=12250857> - "... Are there any
   other noteworthy, older computer technologies that are in some ways
-  superior to current technologies?"  Many long responses, describing different
-  systems than the recent <https://news.ycombinator.com/item?id=10114460>
+  superior to current technologies?"  Several long responses,
+  describing some different systems than the recent thread on historic
+  OS: <https://news.ycombinator.com/item?id=10114460>
 
 - <https://github.com/terkelg/awesome-creative-coding> - "Creative
   coding is a different discipline than programming systems. The goal
