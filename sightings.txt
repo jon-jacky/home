@@ -20,3 +20,6 @@ https://www.makeschool.com/course-catalog
 https://gist.github.com/pakt/c70073a0e0de1f47f579 rdrw.py Direct read/write access to Python's memory 
 https://doar-e.github.io/blog/2014/04/17/deep-dive-into-pythons-vm-story-of-load_const-bug/
 via https://news.ycombinator.com/item?id=10423972
+
+http://multigrad.blogspot.com/2014/07/low-level-frenzy.html - Executing x86-64 opcodes in Python, already linked in Piety/doc/language.md
+http://multigrad.blogspot.com/2014/06/fun-with-python-bytecode.html
