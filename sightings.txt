@@ -1,0 +1,22 @@
+
+Interesting sightings - we may add some to recent.txt or Piety/doc/ .md files.
+
+ 5 Oct 2018
+
+http://studyhall.xyz/blog/libraries-coworking-jackdenton
+
+https://kite.com/blog/python-digital-humanities-gothic-literature-nltk
+
+http://zipcpu.com/about/zipcpu.html
+https://github.com/ZipCPU/zipcpu
+ especially https://github.com/ZipCPU/zipcpu/blob/master/doc/spec.pdf
+via https://news.ycombinator.com/item?id=18138174
+also http://zipcpu.com/ blog archive, lots of articles on formal methods for hw
+
+https://readline.kablamo.org/emacs.html (Readline cheat sheet)
+
+https://www.makeschool.com/course-catalog
+
+https://gist.github.com/pakt/c70073a0e0de1f47f579 rdrw.py Direct read/write access to Python's memory 
+https://doar-e.github.io/blog/2014/04/17/deep-dive-into-pythons-vm-story-of-load_const-bug/
+via https://news.ycombinator.com/item?id=10423972
