@@ -1,6 +1,31 @@
 Recent links, begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 6 Oct 2018
+
+- *Uncommon People: The Rise and Fall of the Rock Stars*, David
+  Hepworth (2017), pages 2, 69, 280, 281 (no link): "Rock stars were
+  the product of an age when music was hard to access and was
+  treasured accordingly. ... This was in the days when any records,
+  but particularly imported American blues records, were such objects
+  of desire that enthusiasts would ofen embark on inconvenient
+  cross-town trips involving changing buses to visit somebody's house
+  where there was rumored to be a copy of some particular gem; once
+  there, they would play both sides again and again, staring
+  hypnotized at the spinning labels until both sight and sound had
+  been seared into memory. ... (The rock star) made his name in the
+  vanished world of records you could hold in your hand. ... which we
+  had secured by using all our available cash in one particular week,
+  a record that would, for a while at least, be the most precious
+  thing we owned.  ... We now live in a world of unlimited supply and
+  exhausted demand.  Music can be every bit as good now as it used to
+  be.  However, it can never be as precious as it used to be.  It
+  doesn't have our undivided attention any longer. ... Now that we
+  have easy access to everything, the individual atoms that make up
+  that everything are less significant in themselves.  The same
+  applies to the people associated with those atoms.  That's why we
+  don't have rock stars anymore."
+
  5 Oct 2018
 
 - <http://obsolescence.wixsite.com/obsolescence/pidp-11> - "The PiDP-11
