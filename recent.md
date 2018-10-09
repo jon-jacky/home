@@ -1,5 +1,23 @@
-Recent links, begun October 2016.
+
+Commonplace Book: a book into which notable extracts from other works
+are copied for personal use.
+
+Begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
+
+ 9 Oct 2018
+
+- <http://antirez.com/news/74> - "Fascinating little programs - Why is
+  it so great to hack a small piece of code? ... It can be totally
+  understood, dominated. You can use smartness since little code is
+  the only place of the world where coding smartness will pay off,
+  since in large projects obviousness is far better in the long
+  run. However I believe there is more than that, and is that small
+  programs can be perfect. ... maybe there is still something to
+  preserve from the ancient times where software could be perfect, the
+  feeling that what you are creating has a structure and is not just a
+  pile of code that works."  See also his <http://antirez.com/news/108>
+  "Writing an editor in less than 1000 lines of code, just for fun"
 
  7 Oct 2018
 
