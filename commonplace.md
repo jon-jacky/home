@@ -5,6 +5,21 @@ are copied for personal use.
 Begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+11 Oct 2018
+
+- <https://www.exolymph.news/2017/07/27/alternate-computer-universes/> -
+  "The Macintosh began as a variant on the dedicated word processor
+  ... The normal way to program it is by writing code directly into
+  your text document and highlighting it — upon which the language
+  will be identified, it will be compiled, and the code will become a
+  clickable button that when clicked is executed. In other words, it’s
+  a system optimized for ‘literate programming’. ...  A world based on
+  Raskin’s Macintosh would be very different: a world optimized for
+  fast text editing, where programs were distributed as source inside
+  text documents and both documents and user interfaces were designed
+  for quick keyword-search-based navigation. Only a handful of systems
+  like this exist today ..."
+
  9 Oct 2018
 
 - <http://antirez.com/news/74> - Fascinating little programs - "Why is
