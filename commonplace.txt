@@ -20,6 +20,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   for quick keyword-search-based navigation. Only a handful of systems
   like this exist today ..."
 
+  Article reprinted at https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.  See also https://en.wikipedia.org/wiki/Canon_Cat
+
  9 Oct 2018
 
 - http://antirez.com/news/74 - Fascinating little programs - "Why is
