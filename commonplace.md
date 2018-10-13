@@ -14,15 +14,16 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   will be identified, it will be compiled, and the code will become a
   clickable button that when clicked is executed. In other words, it’s
   a system optimized for ‘literate programming’."
-
   Article reprinted at <https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.>  
 
-  See also <https://en.wikipedia.org/wiki/Canon_Cat> and
-  <https://news.ycombinator.com/item?id=6978587> "There's something
+  https://en.wikipedia.org/wiki/Canon_Cat also https://en.wikipedia.org/wiki/Archy and <https://news.ycombinator.com/item?id=6978587> - "There's something
   elegant about its lack of silos: all of your (textual) data is in
   one space that you leap around with the aid of dedicated search
   forwards/backwards keys, reprogramming or extending the system
-  itself is likewise a keystroke away."
+  itself is likewise a keystroke away." "... my main work tool is
+  pretty much a copy of the Cat on modern hardware ... the (editor)
+  I'm using now is Archy ... It's pretty much a copy of the Canon Cat,
+  rewritten in python."
 
  9 Oct 2018
 
