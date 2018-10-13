@@ -13,14 +13,16 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   your text document and highlighting it — upon which the language
   will be identified, it will be compiled, and the code will become a
   clickable button that when clicked is executed. In other words, it’s
-  a system optimized for ‘literate programming’. ...  A world based on
-  Raskin’s Macintosh would be very different: a world optimized for
-  fast text editing, where programs were distributed as source inside
-  text documents and both documents and user interfaces were designed
-  for quick keyword-search-based navigation. Only a handful of systems
-  like this exist today ..."
+  a system optimized for ‘literate programming’."
 
-  Article reprinted at https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.  See also <https://en.wikipedia.org/wiki/Canon_Cat>
+  Article reprinted at <https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.>  
+
+  See also <https://en.wikipedia.org/wiki/Canon_Cat> and
+  <https://news.ycombinator.com/item?id=6978587> "There's something
+  elegant about its lack of silos: all of your (textual) data is in
+  one space that you leap around with the aid of dedicated search
+  forwards/backwards keys, reprogramming or extending the system
+  itself is likewise a keystroke away."
 
  9 Oct 2018
 
