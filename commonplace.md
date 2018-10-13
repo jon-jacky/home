@@ -16,7 +16,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   a system optimized for ‘literate programming’."
   Article reprinted at <https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.>  
 
-  https://en.wikipedia.org/wiki/Canon_Cat also https://en.wikipedia.org/wiki/Archy and <https://news.ycombinator.com/item?id=6978587> - "There's something
+  https://en.wikipedia.org/wiki/Canon_Cat also https://en.wikipedia.org/wiki/Archy and https://github.com/MySheep/Archy/blob/master/README.txt and <https://news.ycombinator.com/item?id=6978587> - "There's something
   elegant about its lack of silos: all of your (textual) data is in
   one space that you leap around with the aid of dedicated search
   forwards/backwards keys, reprogramming or extending the system
