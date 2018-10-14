@@ -18,12 +18,14 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
   https://en.wikipedia.org/wiki/Canon_Cat also
   https://en.wikipedia.org/wiki/Archy and
-  https://github.com/MySheep/Archy/ "Command names can be inserted and
-  executed at any place in the interface. ... Since a command can be
+  https://github.com/MySheep/Archy/ "All content in Archy is
+  persistent. This eliminates the need for, and the concept of, saving
+  a document after editing it. ... Command names can be inserted and
+  executed at any place in the interface ... Since a command can be
   used anywhere, applications are obsolete as the core of the
   interface's design. Installing a new package of commands provides a
-  functionality related to their common task ... not restricted to
-  ... a single application ... (they) can be used system-wide ..."
+  functionality ... not restricted to ... a single application
+  ... (they) can be used system-wide ..."
   https://news.ycombinator.com/item?id=6978587 - "There's something
   elegant about its lack of silos: all of your (textual) data is in
   one space that you leap around with the aid of dedicated search
