@@ -5,7 +5,7 @@ are copied for personal use.
 Begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-11 Oct 2018
+11-13 Oct 2018
 
 - https://www.exolymph.news/2017/07/27/alternate-computer-universes/ -
   "The Macintosh began as a variant on the dedicated word processor
@@ -16,7 +16,15 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   a system optimized for ‘literate programming’."
   Article reprinted at https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.  
 
-  https://en.wikipedia.org/wiki/Canon_Cat also https://en.wikipedia.org/wiki/Archy and https://github.com/MySheep/Archy/blob/master/README.txt and https://news.ycombinator.com/item?id=6978587 - "There's something
+  https://en.wikipedia.org/wiki/Canon_Cat also
+  https://en.wikipedia.org/wiki/Archy and
+  https://github.com/MySheep/Archy/ "Command names can be inserted and
+  executed at any place in the interface. ... Since a command can be
+  used anywhere, applications are obsolete as the core of the
+  interface's design. Installing a new package of commands provides a
+  functionality related to their common task ... not restricted to
+  ... a single application ... (they) can be used system-wide ..."
+  https://news.ycombinator.com/item?id=6978587 - "There's something
   elegant about its lack of silos: all of your (textual) data is in
   one space that you leap around with the aid of dedicated search
   forwards/backwards keys, reprogramming or extending the system
