@@ -5,7 +5,7 @@ are copied for personal use.
 Begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-11-13 Oct 2018
+11-16 Oct 2018
 
 - https://www.exolymph.news/2017/07/27/alternate-computer-universes/ -
   "The Macintosh began as a variant on the dedicated word processor
@@ -16,7 +16,19 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   a system optimized for ‘literate programming’."
   Article reprinted at https://medium.com/@enkiv2/alternate-computer-universes-jef-raskins-macintosh-1a3f19b9110a.  
 
-  https://en.wikipedia.org/wiki/Canon_Cat also
+- http://www.canoncat.net/cat/Cat%20Work%20Processor.pdf - "The user
+  interface was based on a simple text editor in which all data was
+  seen as a long stream of text broken into pages, which could also be
+  broken into documents. ... the disk was simply an image of the
+  memory ... the Cat had no concept of files.  ... This feature
+  allowed users to transfer their entire Cat environment ... by just
+  taking their disk from one Cat and inserting it into another ..."
+  https://news.ycombinator.com/item?id=6978587 - "There's something
+  elegant about its lack of silos: all of your (textual) data is in
+  one space that you leap around with the aid of dedicated search
+  forwards/backwards keys, reprogramming or extending the system
+  itself is likewise a keystroke away."
+
   https://en.wikipedia.org/wiki/Archy and
   https://github.com/MySheep/Archy/ "All content in Archy is
   persistent. This eliminates the need for, and the concept of, saving
@@ -26,12 +38,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   interface's design. Installing a new package of commands provides a
   functionality ... not restricted to ... a single application
   ... (they) can be used system-wide ..."
-  https://news.ycombinator.com/item?id=6978587 - "There's something
-  elegant about its lack of silos: all of your (textual) data is in
-  one space that you leap around with the aid of dedicated search
-  forwards/backwards keys, reprogramming or extending the system
-  itself is likewise a keystroke away." "... my main work tool is
-  pretty much a copy of the Cat on modern hardware ... the (editor)
+  https://news.ycombinator.com/item?id=6978587 "... my main work tool
+  is pretty much a copy of the Cat on modern hardware ... the (editor)
   I'm using now is Archy ... It's pretty much a copy of the Canon Cat,
   rewritten in python."
 
