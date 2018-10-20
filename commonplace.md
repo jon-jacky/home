@@ -5,7 +5,28 @@ are copied for personal use.
 Begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-11-16 Oct 2018
+19 Oct 2018
+
+- <http://calculusmadeeasy.org/> - *Calculus Made Easy* by Silvanus
+  P. Thompson (1910) - "The text is based on the PDF version from
+  Project Gutenberg converted to html by hand." That is,
+  <http://www.gutenberg.org/ebooks/33283>
+
+- <https://news.ycombinator.com/item?id=18256690> - (Common Lisp is) A
+  language designed for modifying programs while they
+  run. ... Consider the Common Lisp generic function
+  UPDATE-INSTANCE-FOR-REDEFINED-CLASS. It's in the language
+  standard. ... You don't want to have to stop the program and rebuild
+  it just because you redefined a class. ... telling the Lisp new
+  definitions as it runs is the standard way that you normally work."
+
+- <https://news.ycombinator.com/item?id=18228740> - "Is there a modern
+  “power on to basic” computer, for kids to learn on?"  Over 300 responses.
+
+- <https://news.ycombinator.com/item?id=18236396> - "What's your
+  favorite elegant/beautiful algorithm?"  Over 400 responses.
+
+11-19 Oct 2018
 
 - <https://www.exolymph.news/2017/07/27/alternate-computer-universes/> -
   "The Macintosh began as a variant on the dedicated word processor
@@ -27,7 +48,9 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   elegant about its lack of silos: all of your (textual) data is in
   one space that you leap around with the aid of dedicated search
   forwards/backwards keys, reprogramming or extending the system
-  itself is likewise a keystroke away."
+  itself is likewise a keystroke away."  Details at
+  <https://ia600206.us.archive.org/30/items/TechnicalDocumentationForTheCanonCatEditorSep88/Technical_Documentation_for_the_Canon_Cat_Editor_Sep88.pdf>
+  via <https://archive.org/details/jefraskin>
 
   <https://en.wikipedia.org/wiki/Archy> and
   <https://github.com/MySheep/Archy/> "All content in Archy is
