@@ -16,8 +16,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   globals dictionary and class variables etc are roughly analogous to
   the filesystem. ..."
 
-- <https://news.ycombinator.com/item?id=18274235> - Hardware Interrupts
-  - "... interrupts are a pretty old concept as far as i know. I'm
+- <https://news.ycombinator.com/item?id=18274235> - Hardware Interrupts - 
+  "... interrupts are a pretty old concept as far as i know. I'm
   curious if there is anything that would replace them?"  Many
   suggestions, including "You could get rid of interrupts if you take
   a completely different approach to CPU architecture. ... something
