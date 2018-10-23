@@ -9,12 +9,21 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 - https://news.ycombinator.com/item?id=18267445 - An immersive
   programming experience - "I've found a good way to approach
-  Smalltalk systems like Pharo and Squeak is to remember they're whole
-  systems, not just languages with a bolted-on IDE.  I like to think
+  Smalltalk systems like Pharo and Squeak is to remember they're *whole
+  systems*, not just languages with a bolted-on IDE.  I like to think
   of each running instance as more akin to a Unix virtual machine than
-  anything else. ... It's like using Unix more than using an IDE. The
+  anything else. ..." "It's like using Unix more than using an IDE. The
   globals dictionary and class variables etc are roughly analogous to
   the filesystem. ..."
+
+- https://news.ycombinator.com/item?id=18274235 - Hardware Interrupts -
+  "... interrupts are a pretty old concept as far as i know. I'm
+  curious if there is anything that would replace them?" "You could
+  get rid of interrupts if you take a completely different approach to
+  CPU architecture. ... something that is driven by data. ... On
+  every cycle, the CPU would look at any new data that has arrived and
+  process it accordingly. In this view, key-presses or timer ticks
+  would just be like any other data flowing through the system."
 
 19 Oct 2018
 
