@@ -5,14 +5,16 @@ are copied for personal use.
 Begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-22 Oct 2018 - <https://news.ycombinator.com/item?id=18267445> - An
-  immersive programming experience - "I've found a good way to
-  approach Smalltalk systems like Pharo and Squeak is to remember
-  they're whole systems, not just languages with a bolted-on IDE.  I
-  like to think of each running instance as more akin to a Unix
-  virtual machine than anything else. ... It's like using Unix more
-  than using an IDE. The globals dictionary and class variables etc
-  are roughly analogous to the filesystem. ..."
+22 Oct 2018
+
+- <https://news.ycombinator.com/item?id=18267445> - An immersive
+  programming experience - "I've found a good way to approach
+  Smalltalk systems like Pharo and Squeak is to remember they're whole
+  systems, not just languages with a bolted-on IDE.  I like to think
+  of each running instance as more akin to a Unix virtual machine than
+  anything else. ... It's like using Unix more than using an IDE. The
+  globals dictionary and class variables etc are roughly analogous to
+  the filesystem. ..."
 
 19 Oct 2018
 
