@@ -5,13 +5,20 @@ are copied for personal use.
 Begun October 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-27 Oct 2018 - <http://thequietus.com/articles/25409-richard-thompson-interview-favourite-albums?page=4> - 
+27 Oct 2018
+
+- <http://thequietus.com/articles/25409-richard-thompson-interview-favourite-albums?page=4> - 
   Thompson talks about 13 favorite records including ... Moby Grape -
   !?  "They were the most interesting band that came out of the San
   Francisco scene in the late 60s. They seemed less out of it, more
   focused, and less noodly than some of the others. It's a record that
   gets forgotten a bit, this one, but it's full of fantastic songs and
   really well played, with a great guitarist in Jerry Miller. ..."
+
+- <https://jjon.github.io/Old-GooglePlus-Posts/> - Recommendations from
+  an eclectic musician, with links to recordings etc.  No-nonsense
+  list of links he recently extracted from discontinued
+  <https://plus.google.com/u/0/collection/0T0sDB>
 
 22 Oct 2018
 
