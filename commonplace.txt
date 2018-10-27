@@ -5,16 +5,24 @@ are copied for personal use.
 Begun October 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+27 Oct 2018 - http://thequietus.com/articles/25409-richard-thompson-interview-favourite-albums?page=4 - 
+  Thompson talks about 13 favorite records including ... Moby Grape -
+  !?  "They were the most interesting band that came out of the San
+  Francisco scene in the late 60s. They seemed less out of it, more
+  focused, and less noodly than some of the others. It's a record that
+  gets forgotten a bit, this one, but it's full of fantastic songs and
+  really well played, with a great guitarist in Jerry Miller. ..."
+
 22 Oct 2018 
 
 - https://news.ycombinator.com/item?id=18267445 - An immersive
   programming experience - "I've found a good way to approach
-  Smalltalk systems like Pharo and Squeak is to remember they're *whole
-  systems*, not just languages with a bolted-on IDE.  I like to think
-  of each running instance as more akin to a Unix virtual machine than
-  anything else. ..." "It's like using Unix more than using an IDE. The
-  globals dictionary and class variables etc are roughly analogous to
-  the filesystem. ..."
+  Smalltalk systems like Pharo and Squeak is to remember they're
+  *whole systems*, not just languages with a bolted-on IDE.  I like to
+  think of each running instance as more akin to a Unix virtual
+  machine than anything else. ..." "... The globals dictionary and
+  class variables etc are roughly analogous to the filesystem. ..."
+  Much discussion of using an image-based rather than file-based system.
 
 - https://news.ycombinator.com/item?id=18274235 - Hardware Interrupts - 
   "... interrupts are a pretty old concept as far as i know. I'm
@@ -2187,6 +2195,11 @@ date + following text, then reverse order.
   regular expressions,...  was surprised to see regexp in that list - but
   what makes the list different from, say, Windows?
 
+  Also this: "What makes the system good at what it’s good at is also
+  what makes it bad at what it’s bad at. Its strengths are also its
+  weaknesses. A simple example: flat text files. Amazing expressive
+  power, huge convenience, but serious problems in pushing past a
+  prototype level of performance or packaging. ..."
 
  1 Aug 2017
 
