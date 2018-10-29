@@ -2,7 +2,7 @@
 Commonplace Book: a book into which notable extracts from other works
 are copied for personal use.
 
-Begun October 2016.
+Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
 27 Oct 2018 
@@ -17,7 +17,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 - https://jjon.github.io/Old-GooglePlus-Posts/ - Recommendations from
   an eclectic musician, with links to recordings etc.  No-nonsense
-  list he recently extracted from the discontinued
+  list he recently rescued from the discontinued
   https://plus.google.com/u/0/collection/0T0sDB
 
 22 Oct 2018 
@@ -1796,20 +1796,6 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   "This is a port of the Living Computer Museum's ContrAlto project to
   JavaScript."
 
-Can't we turn this file into a web page?  Is there some environment
-where URL text automatically becomes a link?  Maybe with Javascript?
-Ask JC.    We want to preserve the linebreak structure, so this should
-be a like a .txt page not a .html page, BUT we want the links to work.
-
-Or maybe write our *own* web client in Python that understands pages
-in this format!  Turn it into an edsel mode.  Oh, but we want link to
-open page in ordinary HTML or PDF or whatever.  So it has to be
-handled by an ordinary browser.
-
-Too bad we haven't been adding links at the top rather than bottom.
-Seems we could fix that with some python, just use regexp to find each
-date + following text, then reverse order.
-
 13 Nov 2017
 
 - http://nibrahim.net.in/2017/11/04/pycon_india_2017_keynote.html
@@ -1969,18 +1955,11 @@ date + following text, then reverse order.
 
 25 Sep 2017
 
--  https://technicshistory.wordpress.com/2017/09/20/the-electronic-computers-part-2-colossus/
-  - informative and nice page design.
-
-- https://news.ycombinator.com/item?id=15297861 - John Nagle (Animat)
-  comments on Colossus article above, also includes his review of
-  1930s 40s 50s special-purpose or non-stored-program
-  calculating/computing machines
-
-23 Sep 2017
-
-- various links to bare metal programming on RPi etc. - in
-  ~/notes/piety/notes/baremetal.txt
+-  https://technicshistory.wordpress.com/2017/09/20/the-electronic-computers-part-2-colossus/ - 
+  Informative, nice page design.  via
+  https://news.ycombinator.com/item?id=15297861 - John Nagle (Animat)
+  comments on Colossus, also reviews 1930s 40s 50s special-purpose or
+  non-stored-program calculating/computing machines.
 
 19 Sep 2017
 
@@ -2028,18 +2007,12 @@ date + following text, then reverse order.
   industrial designer Raymond Loewy.  Links to www.theverge.com
    "the man who designed everything" and www.raymondleowy.com
 
-
 13 Sep 2017
 
--  https://softwarefoundations.cis.upenn.edu/current/lf-current/Basics.html
-  etc.  New (better) link for 'Coq theorem prover applied to
-  programming language theory' in Math/provers.  Also has lots of 
-  basic tutorial for Coq.
-
-- maybe also add link to GeoCoq (above) for geometry proofs?
-
-- also add link to Freek Wiedijk's Provers of the World (above)
-
+- https://softwarefoundations.cis.upenn.edu/current/lf-current/Basics.html
+  etc.  - Coq theorem prover applied to programming language theory,
+  with lots of basic tutorial for Coq.  See also GeoCoq (below) for
+  geometry proofs, and Freek Wiedijk's Provers of the World (below).
 
 12 Sep 2017
 
@@ -2093,15 +2066,11 @@ date + following text, then reverse order.
 
  5 Sep 2017
 
-- https://danluu.com/risc-definition/ - What's the definition of RISC? - 
-  John Mashey's Usenet posts, already in engr/computer arch as 
-
-    CISC and RISC, John Mashey's explanation with detailed comparison of
-    many architecture http://userpages.umbc.edu/~vijay/mashey.on.risc.html
-
-  BUT danluu version has nicer formatting (HTML not ascii) and more material,
+- https://danluu.com/risc-definition/ - What's the definition of RISC?
+  - John Mashey's Usenet posts.  Also at
+  http://userpages.umbc.edu/~vijay/mashey.on.risc.html
+  but danluu version has nicer formatting (HTML not ascii) and more material,
   additional posts on CDC6600 and VLIW.
-
 
 31 Aug 2017
 
@@ -2140,8 +2109,7 @@ date + following text, then reverse order.
 
 26 Aug 2017
 
-- ... 1988 paper Design Philosophy of the DARPA Internet Protocols (now
-  on my kindle).
+- 1988 paper Design Philosophy of the DARPA Internet Protocols
 
 25 Aug 2017
 
@@ -2169,7 +2137,7 @@ date + following text, then reverse order.
 11 Aug 2017
 
 - https://www.youtube.com/watch?v=qqM3McG4-LE Saul Bass: Famous title
-   sequences from Preminger to Scorsese, 23 movies > 1 hour, linked from
+   sequences from Preminger to Scorsese, 23 movies > 1 hour, via
    http://www.metafilter.com/168771/I-want-to-make-beautiful-things-even-if-nobody-cares
 
 7 Aug 2017
@@ -2267,11 +2235,9 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 24 Jul 2017
 
 - http://www.howardism.org/ lots of emacs stuff including
-  http://www.howardism.org/Technical/Emacs/new-window-manager.html
-
-related to 
-
-- https://www.informatimago.com/linux/emacs-on-user-mode-linux.html
+  http://www.howardism.org/Technical/Emacs/new-window-manager.html - See
+  also
+  https://www.informatimago.com/linux/emacs-on-user-mode-linux.html
 
 23 Jul 2017
 
@@ -2285,10 +2251,6 @@ X https://criticalengineering.org/courses/othernet/ also /cli/ /networkshop/
 
 - www.dunneandraby.co.uk/content/bydandr/13/0  Dunne & Raby Critical Design FAQ
   also /content/projects
-
-X Quinns' Revolution in math from 2012 Notices of the AMS, longer
-   article at his website.
-  (Jul 21 2017)
 
 19 Jul 2017
 
@@ -2315,6 +2277,7 @@ X http://www.ps.uni-saarland.de/~hornung/bachelor.php -
   Constructing Number Systems in Coq - follows development in Landau's
   Grundlagen der Analysis - links to 68 p. thesis, talks, and Coq code.
   (21 Jul 2017)
+
 17 Jul 2017
 
 - www.informatica.co.cr/unix-source-code/research/1991/0101.html - Porting
@@ -2788,12 +2751,8 @@ minimalist design.   Also noted 22 Jan above.
   to list-of-lists.
 
 - http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
-   - to add to TempleOS entry in precursors.md
-   Also https://news.ycombinator.com/item?id=8658283 long HN thread
-   years ago - on second thought, let's not, it focuses on his illness.
+   Also add to TempleOS entry in precursors.md
    https://usesthis.com/interviews/terry.davis/ - The Setup interview 
-
-  18 Apr 2017
 
 25 Mar 2017
 
@@ -2876,8 +2835,9 @@ minimalist design.   Also noted 22 Jan above.
 
  8 Mar 2017
 
-- http://selfie.cs.uni-salzburg.at/ - maybe, look at the book at github first.
-   also https://github.com/cksystemsteaching/selfie - Nah ...
+- http://selfie.cs.uni-salzburg.at/ also
+  https://github.com/cksystemsteaching/selfie - Pedagogical VM +
+  Compiler + ...
 
 
  7 Mar 2017
@@ -2885,8 +2845,7 @@ minimalist design.   Also noted 22 Jan above.
 - "What do compilers do with CPython interpreter main loop?"
    Blog post linked on HN
 
-- Atlas Obscura in graphics/unusual media (for example recent article
-   on Japanese internment art)
+- Atlas Obscura recent article on Japanese internment art
 
 - https://github.com/benjamincrom/scrabble 
   Python Scrabble library recovers all game moves from just final
@@ -2923,11 +2882,10 @@ minimalist design.   Also noted 22 Jan above.
 
 - mathematical urban legends on math overflow (meh - a few are amusing)
 
-- http://dev.stephendiehl.com/numpile/ 
-  https://github.com/sdiehl/numpile 
-  - LLVM specializer for scientific Python code - very nice writeup
-    nice contrast to tailbiter above, which also starts with Python AST
- adjus.Already in Piety/doc/languages.md
+- http://dev.stephendiehl.com/numpile/
+  https://github.com/sdiehl/numpile - LLVM specializer for scientific
+  Python code - very nice writeup nice contrast to tailbiter (below),
+  which also starts with Python AST
 
 
 27 Feb 2017
@@ -2942,18 +2900,12 @@ minimalist design.   Also noted 22 Jan above.
 
 - Links to CPython and its standard library at Github.
 
-
- 16 Apt 2017 but not HN comments
-
-- https://news.ycombinator.com/item?id=13684339
-    HN comment on piping editor regions through shell commands- oh, see above
-
-
 25 Feb 2017
 
 - http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
    nice collection of convenient idioms
  HN comments https://news.ycombinator.com/item?id=7365410
+
 21 Feb 2017
 
 - http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html
@@ -2965,26 +2917,25 @@ minimalist design.   Also noted 22 Jan above.
 17 Feb 2017
 
 - seen on HN, Mike Pall (of LuaJIT) on Reddit, recommended reading
-  order for Lua C source. (24 Feb 2017)
+  order for Lua C source.
 
-- www.collectorsweekly.com - several recent via HN - add in graphics/unusual media
-  (23 Feb 2017)
+- www.collectorsweekly.com - graphics/unusual media
 
 16 Feb 2017
 
 - seen on HN, github repo with *transcript* of Rich Hickey's Simple Made Easy talk.
-   same repo has other transcripts (24 Feb 2017)
+   same repo has other transcripts
 
 15 Feb 2017
 
-- http://blog.presentandcorrect.com/category/books - in graphics/unusual media
-   (look for categories menu widget at the bottom of the page) (23 Feb 2017)
+- http://blog.presentandcorrect.com/category/books - graphics/unusual media
+   (look for categories menu widget at the bottom of the page)
 
-- That computing version of Brian Eno's oblique strategies in programming/heuristics
+- That computing version of Brian Eno's oblique strategies, for programming/heuristics
 
 - https://news.ycombinator.com/item?id=13590305 
-  That HN comment on Unix simplicity, just processes and file descriptors, along
-   with riposte on how it's become so complicated.(24 Feb 2017)
+  HN comment on Unix simplicity, just processes and file descriptors, along
+   with riposte on how it's become so complicated.
 
 - https://www.reddit.com/r/AskHistorians/
 
@@ -3023,8 +2974,6 @@ minimalist design.   Also noted 22 Jan above.
 2 Feb 2017
  
 - https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf xv6 book 
-  Already present in programming/design examples/unix but 
-  replace -rev7.pdf with -rev9.pdf (24 Feb 2017).
 
 31 Jan 2017
 
@@ -3088,13 +3037,10 @@ minimalist design.   Also noted 22 Jan above.
   Another answer recommends ssh on first RPi to run command on second RPi,
   possibly using paramiko.  Another answer recommends scp text file and use
   inotifywait - which waits for changes on a file.
-  (26 Jan 2016)
- 
 
 23 Jan 2017
 
 - https://github.com/PDP-10/its - Incompatible Timesharing System, code and docs
-  (26 Jan 2017)
 
 22 Jan 2017
 
@@ -3150,7 +3096,6 @@ minimalist design.   Also noted 22 Jan above.
 
 - https://github.com/ChrisPenner/rasa  Rasa editor in Haskell
   detailed guide to the code: https://news.ycombinator.com/item?id=13395941
-  (17 Jan 2017)
 
 13 Jan 2017
 
@@ -3158,7 +3103,6 @@ minimalist design.   Also noted 22 Jan above.
   Blog about https://github.com/christinaa/rpi-open-firmware
   HN comments at https://news.ycombinator.com/item?id=13396625
    including lots of complaints about RPi engineering besides blobs and openness.
-  (16 Jan 2017)
 
 10 Jan 2017
 
@@ -3167,15 +3111,12 @@ minimalist design.   Also noted 22 Jan above.
    https://news.ycombinator.com/item?id=13370486
    many dependencies, including paramiko (ssh) pygame kivy (ui)
    in fact it might be useful as guide for how to use the dependencies
-   (18 Jan 2017)
 
  9 Jan 2017
 
 - Containers from Scratch in great faiths/linux/containers
-  (17 Jan 2017)
 
 - Ukelele tuner in Python, uses numpy, pyaudio.
-  (26 Jan 2017)
 
 - From Python to Numpy 
 
@@ -3206,14 +3147,11 @@ also there is http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context
 - MA single-window minimal acme clone in Tcl/Tk
   http://www.call-with-current-continuation.org/ma.tar.gz
   in editors/acme
-  (17 Jan 2017)
 
 - christinaa/LLVM-VideoCore4 + HN comments in RPi hacking
    via HN comments on Tourist Guide to LLVM from Reger's blog.
-  (16 Jan 2017)
 
 - 9Fans post on Facebook done right, in Plan 9 style.
-  (16 Jan 2017)
 
 - HiFive1 RISC-V Arduino-compatible dev kit - in HN and Hackaday.
 
@@ -3243,50 +3181,40 @@ also there is http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context
 - RISC-V programming card http://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
 
 - vi-style editor in picolisp http://picolisp.com/wiki/?vip
-  (17 Jan 2017)
 
 - advice on tech writing https://news.ycombinator.com/item?id=13301511
 
-
-31 Dec 2016
-
-- Added Little Book of OS Development and HN comments to Piety/doc/precursors.md
-
-
 29 Dec 2016
 
-- Add to link in history http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/  "I find that all the significant concepts in software systems were invented/discovered in  the 15 years between 1955 and 1970." add links to HN discussion:
+- http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/  "I find that all the significant concepts in software systems were invented/discovered in  the 15 years between 1955 and 1970." add links to HN discussion:
    at https://news.ycombinator.com/item?id=13271220 
        https://news.ycombinator.com/item?id=7402571 (31 Dec)
 
 
 27 Dec 2016
 
-- http://www.maloryproject.com/about.php Malory project in typography,
-  http://dodecaglotta.com/ in typography (2 Jan 2017)
+- http://www.maloryproject.com/about.php typography,
+  http://dodecaglotta.com/ in typography
 
-- Bringup history of Mac OS X (via HN) at www.pagetable.com in great
-  faiths/mac (2 Jan 2017)
+- Bringup history of Mac OS X (via HN) at www.pagetable.com
 
 - https://github.com/haskus/haskus-system www.haskus.org www.vipervm.org
   "provide a full Haskell user-space environment on top of the Linux kernel"
 
-- http://littleosbook.github.io/ and maybe HN discussion at bottom of Piety precursors.org
+- http://littleosbook.github.io/ and maybe HN discussion
 
 
 26 Dec 2016
 
 - Why Python is not my favorite programming language in Python assessment.
   https://zenhack.net/2016/12/25/why-python-is-not-my-favorite-language.html
-  (2 Jan 2017)
 
 - HN post on OLPC compared to RPi  https://news.ycombinator.com/item?id=13258261
   esp. View Source for any application and ad-hoc networking with wireless neighbors.
-  Maybe in Sugar/OLPC entry in precursors.md - ? (31 Dec)
 
 - PicoLisp tutorial http://software-lab.de/doc/tut.html including built-in vi-like editor
   oK tutoril https://github.com/JohnEarnest/ok with useful REPL commands
-  Both of these in Piety/doc/other.md (31 Dec)
+  Both of these in Piety/doc/other.md
 
 - netshade/apostasy.md https://gist.github.com/netshade/fda492cb780bae1190063c1ad41b334a
   on Macbook -> MS Surface + Linux in a VM  in Great Faiths/Windows
@@ -3294,7 +3222,7 @@ also there is http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context
 
 23 Dec 2016
 
-- Apple ][ emulation on AVR microcontroller, seen on HN (1 Jan 2017)
+- Apple ][ emulation on AVR microcontroller, seen on HN
 
 22 Dec 2016
 
@@ -3312,18 +3240,15 @@ also there is http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context
   also landley/toybox, make Android self-hosting.
   He presented on podcast at linuxluddites.com - "Not all change is progress"
   Also github site, https://github.com/landley/aboriginal
-  (1 Jan 2017)
 
 19 Dec 2016
 
 - BrainF* for Dummies in what, computer architecure?
   http://blog.klipse.tech/brainfuck/2016/12/17/brainfuck.html
 
-- ok (APL-like) https://github.com/JohnEarnest/ok Don't we
-  already have this in language arcana/APL? No, I think that's his
-  .../ike (31 Dec, Piety/doc/other.md)
+- ok (APL-like) https://github.com/JohnEarnest/ok
 
-- Z acme-inspired editor in scala https://github.com/sandgorgon/z (31 Dec)
+- Z acme-inspired editor in scala https://github.com/sandgorgon/z
 
 - Berkeley eecs cs152/sp13 page with links to many pdf notes.
 
@@ -3347,7 +3272,7 @@ n youtube video, Monty Python for Pythonistas
 
 15 Dec 2016
 
-- HN comment "Python has gotten hard to learn" in Python assessment (2 Jan 2017)
+- HN comment "Python has gotten hard to learn" in Python assessment (links.html 2 Jan 2017)
 
 - HN comment comparing GoboLinux and Nix in great faiths/linux/filesystems
 
@@ -3356,9 +3281,9 @@ n youtube video, Monty Python for Pythonistas
 
 - Andrew Wiles interview in education, call out quotes on problem scale (vs 3rd grade) and getting stuck
 
-- HN comments praising Lotus Notes in Nostalgia (2 Jan 2017)
+- HN comments praising Lotus Notes in Nostalgia (links.html 2 Jan 2017)
 
-- code-poetry.com (23 Feb 2017)
+- code-poetry.com (links.html 23 Feb 2017)
 
 - NLP in Python example, Pride and Prejudice, in Python examples (2 Jan 2017)
 
@@ -3367,32 +3292,32 @@ n youtube video, Monty Python for Pythonistas
 
 13 Dec 2016
 
-- Ancient languages in 10 lessons at www.openculture.com/2014/01/learn-latin....
-  in literature/history Latin Greek Old English etc.
+- Ancient languages in 10 lessons at
+  www.openculture.com/2014/01/learn-latin....  Latin Greek Old English
+  etc.
 
 
 12 Dec 2016
 
-- for Piety utilities.md https://github.com/jmcgeheeiv/pyfakefs via HN 
+- https://github.com/jmcgeheeiv/pyfakefs via HN 
   intended as mock for testing, but might actually serve as 
   Piety in-memory file system.
-  (18 Jan 2017)
+  (utilities.md 18 Jan 2017)
 
 9 Dec 2016
 
-- Claude Shannon's methods and accomplishments, lecture by Robert Gallager
-  "Shannon's genius lay in finding the "right way", the "simple way" to look 
-  at everyday technical problems"
-  "Searching for simplicity is really searching for intuitive understanding
-  of a simplified version of the problem that doesn't ignore the underlying
-  original issues"
-  "Graduate students often mistake simplicity for triviality .. The misconception
-  is that it takes the best students to solve the most complex problems.  Actually,
-  it takes the best students to *find* the simplest open problems."
+- www.rle.mit.edu/rgallager/documents/BooleShannon.pdf - Claude
+  Shannon's methods and accomplishments, lecture by Robert Gallager
+  "Shannon's genius lay in finding the "right way", the "simple way"
+  to look at everyday technical problems" "Searching for simplicity is
+  really searching for intuitive understanding of a simplified version
+  of the problem that doesn't ignore the underlying original issues"
+  "Graduate students often mistake simplicity for triviality .. The
+  misconception is that it takes the best students to solve the most
+  complex problems.  Actually, it takes the best students to *find*
+  the simplest open problems."
 
-  www.rle.mit.edu/rgallager/documents/BooleShannon.pdf
-
-- In Piety precursors.md: Xerox Alto simulators, SALTO and Contralto 
+- For Piety precursors.md: Xerox Alto simulators, SALTO and Contralto 
 
 
 8 Dec 2016
@@ -3424,15 +3349,14 @@ n youtube video, Monty Python for Pythonistas
 
 3 Dec 2016
 
-- Terry Tao's career advice, add another link to his blog links
-  already in math/buzz (done), also add to education (not done, leave it)
+- Terry Tao's career advice (links.html)
 
 
 2 Dec 2016
 
 - for presursors.md, Cosmos C# project - new links including YT in HN today.
 
-- for math/provers, The Incredible Proof Machine with links to other
+- for links.html math/provers, The Incredible Proof Machine with links to other
    pedagogical provers.
 
 
@@ -3456,37 +3380,6 @@ n youtube video, Monty Python for Pythonistas
   20year followup, in design principles next to Lampson's hints for design.
 
 
-28 Nov 2016
-
-- Fix Butler Lampson links in programming/history - .htm not .html
-
-- Julia Evans' drawings at drawings.jvns.ca (revise existing link)
-  (1 Jan 2017)
-- also add to Geek culture/cartoons
-  (21 Jul 2017)
-- maybe with Sacha Chua's emacs drawings
-
-
-23 Nov 2016
-
-- Unix history repository  https://github.com/dspinellis/unix-history-repo
-
-
-21 Nov 2016
-
-- python3 faq at https://eev.ee/blog/
-
-
-18 Nov 2016
-
-- Chris Wellons' blog 'null program'
-
-
-17 Nov 2016
-
-- old Guy Steel-edited Jargon file, preceding ESR's versions
-
-
 16 Nov 2016
 
 - For Piety precusors.md: 
@@ -3494,165 +3387,3 @@ n youtube video, Monty Python for Pythonistas
   https://news.ycombinator.com/item?id=12956841
   screenshot:  http://i.imgur.com/sPh0c6s.png
   older version: https://github.com/Lerc/notanos
-
-
-11 Nov 2016
-
-- Julia Evans' Linux drawings - along with her earlier zines and cartoons
-  http://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/
-
-- Alex Cagan's drawings from scientific conferences
-
-
- 9 Nov 2016
-
-n github page on Mac OS X security/privacy
-
-
- 7 Nov 2016
-
-n history of select (in trivium, christian neukirchen blog)
-
-- for precursors.md: goose, bare metal bootloader in Go, github,
-  linked in todays HN
-  
-- for precursors.md: Synthesis OS (Alexia Masselin's 1992 thesis), sighted
-   in Medium article linked on HN
-
-
- 4 Nov 2016
-
-n Hank Levy's Capabilities book, to go with HN post object refs are
-  capabilities.   Later - skip the HN post, it's wrong.  But Levy's 
-  chapter 1 might be of historic interest, in computer architecture.
-
-- Eric Demaine's MIT 6.851 Advanced Data Structures with wonderful
-  hand-drawn notes and diagrams
-
-- DIY $100 laptop (install Ubuntu on old Nexus 7 tablet, add separate kb)
-
-n emacs 40th anniversary post
-
-n cool symbol picker linked by Nelson Minar
-
-
- 3 Nov 2016
-
-- Dan Luu blog, danluu.com
-
-- other guy's not blog but collection of old Usenet posts etc.
-  Was that Kragen or Kraken?  It's Norman Yarvin
-
-n Ask MeFi computers, tech.  Any way to show Mefi Blue tech posts?
-
-- Julia Evans' explanations of containers (2 blog postings)
-
-n HN comment explaining capabilities as just object references.
-  BUT they are not!  Object references do not include permissions,
-  nor are they unique across all time, so they can't be used to
-  identify objects in secondary storage.
-
-n HN comment responding to Mary Rose Cooks' gitlet
-
-
- 2 Nov 2016
-
-- Pioneers computer history website - similar to 'awesome programmers'
-   but with graphics - add them both at same time.  Same authors?
-
-
- 1 Nov 2016
-
-- Philip Guo blog
-
-
-31 Oct 2016
-
-- twistedpython blog post explaining containers
-  (X maybe add twistedpython to blogs also)
-
-- HN comment thread on editor programming how-tos
-
-- pocoo blog post and HN thread, Python 3.x async critique
-
-- Mary Rose Cook minimal d3 implemention next to older d3 link.
-
-
-27 Oct 2016
-
-- 'What's wrong with git?', Git Koans, Hoyt's HN comment on Mary Rose's
-  page in programming/tools/git
-
-- Larry Breed's story in Vector (APL newsletter) on IBM Elsie next to
-   Worley's comments about IBM 1570 Elsie in computer architecture
-
-- HN thread on nice personal web pages
-
-- Julia Evans blog
- 
-- Mary Rose Cook blog
-
-
-25 Oct 2016
-
-- AskMe post on bad scientists
-
-- HN thread on Internet rabbit holes
-
-n Joe Armstrong's post on Erlang and GUIs
-
-
-19 Oct 2016
-
-Links to add, in links.html:
-
-Key:  - to add   X x done   n don't bother  ?- Good candidate to add
-
-X JC find, 'awesome' Python stuff at github - in programming/python
-
-X My find, list of 'awesome programmers' - people and systems in computing
-  history - also at github - in history
-
-X HN post on Forth programming style in Returning to Simplicity
-   also in programming/design
-
-X Recent HN post on C64 ZX81 etc. desiderata in Nostalgia and Frustration
-
-- Emacs gifs
-
-- BBC micro:bit MicroPython documentation
-
-X Programming Historian
-
-X Graphic on music services payments to musicians,
-
-X Resonate music streaming cooperative platform
-
-X Minimal Raspberry Pi VPU firmware
-
-- Essay on Mochizuki's IUT in math/(what?)
-
-X Bauer's essay on constructive math in math/foundations
-
-- RISC-V on an FPGA blog
-
-
-
-
-Add in Piety/doc/utilities.md:
-
-X JC find, awesome python applications/libraries
-
-X mu Python editor for small systems
-  (18 Jan 2017) 
-
-Add in language.md
-
-X lptrace , function tracer using language injection
-  (18 Jan 2017)
-  It would be a tour-de-force if we could get lptrace to 
-  write to an ed.py buffer.  Later: NOT possible, because
-  it patches the running python interpreter, there is only
-  one running interpreter and nothing else in all Piety.
-
-- BBC micro:bit MicroPython documentation
