@@ -2246,8 +2246,8 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 21 Jul 2017
 
-X https://criticalengineering.org/courses/othernet/ also /cli/ /networkshop/
-  (Jul 21 2017)
+- https://criticalengineering.org/courses/othernet/ also /cli/ /networkshop/
+  (links.html Jul 21 2017)
 
 - www.dunneandraby.co.uk/content/bydandr/13/0  Dunne & Raby Critical Design FAQ
   also /content/projects
@@ -2260,10 +2260,10 @@ X https://criticalengineering.org/courses/othernet/ also /cli/ /networkshop/
   that ships with temacs. ... Being Emacsy is about providing an
   incredible mutable programming environment ..."
 
-X http://ask.metafilter.com/311380/Other-jazz-standards-like-these-jazz-standards
+- http://ask.metafilter.com/311380/Other-jazz-standards-like-these-jazz-standards
   many heartfelt recommendations for an aspiring pianist, with links
   to youtube for many many standards
-  (21 Jul 2017)
+  (links.html 21 Jul 2017)
 
 18 Jul 2017
 
@@ -2273,10 +2273,10 @@ X http://ask.metafilter.com/311380/Other-jazz-standards-like-these-jazz-standard
 - math.stanford.edu/~ebwarner/SplashTalk.pdf - The Foundational Crisis
   of Mathematics - 18p. paper
 
-X http://www.ps.uni-saarland.de/~hornung/bachelor.php - 
+- http://www.ps.uni-saarland.de/~hornung/bachelor.php - 
   Constructing Number Systems in Coq - follows development in Landau's
   Grundlagen der Analysis - links to 68 p. thesis, talks, and Coq code.
-  (21 Jul 2017)
+  (links.html 21 Jul 2017)
 
 17 Jul 2017
 
@@ -2349,11 +2349,10 @@ X http://www.ps.uni-saarland.de/~hornung/bachelor.php -
 - homepage.sns.it/lolli/articoli/Lolli.pdf 'Why mathemeticians do not love
   logic'
 
-X Webcomics:
-  https://www.loc.gov/collections/webcomics-web-archive/about-this-collection/
-  for example http://www.octopuspie.com/2007-05-14/001-pea-wiggle/
- via http://www.metafilter.com/167893/Its-all-been-eaten-you-cant-have-any-more
-  (21 Jul 2017)
+- https://www.loc.gov/collections/webcomics-web-archive/about-this-collection/
+  for example http://www.octopuspie.com/2007-05-14/001-pea-wiggle/ via
+  http://www.metafilter.com/167893/Its-all-been-eaten-you-cant-have-any-more
+  Web comics (links.html 21 Jul 2017)
 
 - https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html -
   Tom Wolfe's 1983 Esquire article about Rob Noyce and Silicon Valley
@@ -2378,14 +2377,6 @@ X Webcomics:
 - www.lighterra.com/papers/modernmicroprocessors/ 'a 90-minute guide' to
   modern unobvious microprocessor implementation - pipelines, caches,
   threading, out-of-order execution etc.
-
-23 Jun 2017
-
-- http://azer.bike/happy-hacking-linux/?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&iid=125f60cc94fa426aae05273eec8f1549&uid=4248633382&nid=244+272699400
-
-(what's with the big url?) - Arch Linux + xmonad etc.   Has cheatsheet
-for tiling window manager keybindings.  Site page itself has interesting
-minimalist design.   Also noted 22 Jan above.
 
 17 Jun 2017
 
@@ -2444,7 +2435,6 @@ minimalist design.   Also noted 22 Jan above.
 
 - https://people.cs.clemson.edu/~mark/uprog.html - A brief history of
   microprogramming - actually also a very good explanation.
-  - Never mind, it's already there in engineering/computer architecgure
 
  3 Jun 2017
 
@@ -2612,8 +2602,6 @@ minimalist design.   Also noted 22 Jan above.
 
 - https://news.ycombinator.com/item?id=13645963 HN comment thread on how
    stability, transparency, convenience in sw products has eroded.
-
-  16 Apr 2017
 
 16 Apr 2017
 
