@@ -2276,12 +2276,12 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <http://www.ps.uni-saarland.de/~hornung/bachelor.php> - 
   Constructing Number Systems in Coq - follows development in Landau's
   Grundlagen der Analysis - links to 68 p. thesis, talks, and Coq code.
-  (links.html 21 Jul 2017)
+  (in math, in theorem provers, in links.html 21 Jul 2017)
 
 17 Jul 2017
 
 - www.informatica.co.cr/unix-source-code/research/1991/0101.html - Porting
-  Unix to the 386 - classic paper on 386BSD design, 1991 - via Trivium blog\
+  Unix to the 386 - classic paper on 386BSD design, 1991 - via Trivium blog
 
 11 Jul 2017
 
@@ -2380,9 +2380,8 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 17 Jun 2017
 
-- <http://www.dear-data.com/theproject/> THE PROJECT — Dear Data 
-   in graphics/information design - saw the book at SPL ballard
-
+- <http://www.dear-data.com/theproject/> — Dear Data - saw
+  the book at SPL ballard
 
 14 Jun 2017
 
@@ -2406,16 +2405,16 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 12 Jun 2017
 
-- <http://www.recommendmeabook.com/> - shows first page from 
-   randomly selected book, without revealing title/author.
-   Alternatively, select a particular book by clicking on its cover.
-   Lots of classics included.
-   (21 Jul 2017)
+- <http://www.recommendmeabook.com/> - shows first page from randomly
+   selected book, without revealing title/author.  Alternatively,
+   select a particular book by clicking on its cover.  Lots of
+   classics included. (in classics in literature in links.html, 21 Jul
+   2017)
 
  9 Jun 2017
 
-- plan 9 class notes from cat-v ?    Also a few comments
-  from latest HN  Plan 9 thread.
+- plan 9 class notes from cat-v.  Also a few comments from latest HN
+  Plan 9 thread.
 
  8 Jun 2017
 
@@ -2434,7 +2433,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   <http://wall.org/~lewis/2013/10/15/asm-monad.html>
 
 - <https://people.cs.clemson.edu/~mark/uprog.html> - A brief history of
-  microprogramming - actually also a very good explanation.
+  microprogramming - also a good explanation.
 
  3 Jun 2017
 
@@ -2488,7 +2487,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   browser "from a time when the grand vision of the Web was to be much
   more participatory and collaborative".
 
-- <http://callingbullshit.org/syllabus.html> - in science education + journalism
+- <http://callingbullshit.org/syllabus.html> - about the UW course
 
 
 15 May 2017
@@ -2527,7 +2526,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   CPython 3.4 bytecode. The compiler is coded in that same Python
   subset; it can compile itself. ... This is a continuation of
   <https://github.com/darius/500lines/tree/master/bytecode-compiler>"
- (also noted Apr 27 above)
+ (also noted Apr 27 below)
 
 - <http://www.metafilter.com/166863/Piano-violin-and-cello> - many links
    to YouTube, also a YouTube playlist.
@@ -2547,8 +2546,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <https://github.com/MichielDerhaeg/build-linux>
   <https://news.ycombinator.com/item?id=14264189>, comments have any
   comparisons to <http://linuxfromscratch.org/> and
-  <http://landley.net/aboriginal/about.html> - maybe put all three
-  together in a section - we already have link to aboriginal.  "LFS
+  <http://landley.net/aboriginal/about.html> - "LFS
   teaches you about the whole GNU Userland, getting a kernel up and
   running with busybox is much easier. This project does just that -
   teaching you the bare minimum."
@@ -2589,14 +2587,14 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
  <https://news.ycombinator.com/item?id=14161876> - testimonials
 
 - <http://www.amightygirl.com/blog?p=14570> - women in science posters -
-  neat designs - really we should separate out a posters section in graphics
+  other posters (not these) are scattered in unusual media subsection
+  in graphics in links.html.
 
 - <http://www.signsforscience.com/sign/carol-gunn-gunn-graphics> -
-  science march posters - a few good ones
+  science march posters
 
-- <http://www.harkavagrant.com/archivecat.php> - comics
-   need a separate comics section in graphics, move up non-tech comics
-    from geek culture.
+- <http://www.harkavagrant.com/archivecat.php> - comics is
+   now a separate subsection in arts in links.html
 
 18 Apr 2017
 
@@ -2606,9 +2604,9 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 16 Apr 2017
 
 - <https://www.nytimes.com/2017/04/14/technology/robert-taylor-innovator-who-shaped-modern-computing-dies-at-85.html?_r=0> 
-  Robert Taylor obit, maybe also links to Alan Kay comment at HN etc.
-  Maybe tack on "what made xerox parc special"
-14 Apr 2017
+  Robert Taylor obit, also links to Alan Kay comment at HN etc.
+  (in fallen heroes, links.html, 14 Apr 2017)
+  See also "what made xerox parc special"
 
 - <https://github.com/psenough/teach_yourself_demoscene_in_14_days>
 
@@ -2617,25 +2615,22 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - Linus Akeson's 256 byte video+music demo for C64/6502
   (linked in both HN and MeFi)
 
-  18 Apr 2017
-
 13 Apr 2017
 
 - JC Google+ digital humanities page
+
 11 Apr 2017
 
 - <https://blog.acolyer.org/2017/03/page/3/> - Mar 2017 archive to "The Morning
   Paper" about a CS paper every weekday.  Links to archives for other months.
 
-- SO post what-part-of-milner-hindley-do-you-not-understand - in PL theory
-   section in math
-
-   18 Apr 2017
+- SO post what-part-of-milner-hindley-do-you-not-understand
 
 10 Apr 2017
 
 - <https://bookillustrations.quora.com/> via Mefi post, for example
    <https://bookillustrations.quora.com/Boris-Artzybasheffs-Illustrations-for-Creatures>
+
  8 Apr 2017
 
 - <http://ask.metafilter.com/307705/Tutorials-Algorithms-Software-for-Federated-Services#4452469>
@@ -2683,15 +2678,12 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - <https://www.reddit.com/r/Python/comments/62q2sm/python_helped_me_write_again/>
    programmer with MS used Python to program voice recognition + pen plotter
-    to write in his own handwriting!  Amazing!  In python/examples and typography.
-
-  18 Apr 2017
+    to write in his own handwriting!  Amazing! (in python/examples and typography, links.html, 18 Apr 2017)
 
 31 Mar 2017
 
 - <https://i.redd.it/uaab4tb56soy.png>
-  3x3 alphanumeric font, surprisingly legible.  In typography.
-27 Mar 2017
+  3x3 alphanumeric font, surprisingly legible. (in typography, links.html, 23 Mar 2017)
 
 - HN comment ...id=13965793 about a test suite for
   <https://hackage.haskell.org/package/acid-state>: "turn arbitrary,
@@ -2703,7 +2695,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - jvns.ca/blog/2017/03/26/bash-quirks - nice brief summary of the
   basics.  Just text, no cartoons this time.
-  (21 Jul 2017)
+  (links.html, 21 Jul 2017)
 
 - github.com/jgrassler/papercut  - NNTP server in pure Python
 
@@ -2750,6 +2742,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <http://www.codersnotes.com/notes/a-constructive-look-at-templeos/>
 
 - <http://www.poster.pl/polish_poster_artists.html>
+
 23 Mar 2017
 
 - editor performance comparison at github, linked from HN yesterday
@@ -2905,32 +2898,32 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 17 Feb 2017
 
 - seen on HN, Mike Pall (of LuaJIT) on Reddit, recommended reading
-  order for Lua C source.
+  order for Lua C source. (links.html, 24 Feb 2017)
 
-- www.collectorsweekly.com - graphics/unusual media
+- www.collectorsweekly.com (in graphics/unusual media, links.html, 23 Feb 2017)
 
 16 Feb 2017
 
 - seen on HN, github repo with *transcript* of Rich Hickey's Simple Made Easy talk.
-   same repo has other transcripts
+   same repo has other transcripts (links.html, 24 Feb 2017)
 
 15 Feb 2017
 
-- <http://blog.presentandcorrect.com/category/books> - graphics/unusual media
-   (look for categories menu widget at the bottom of the page)
+- <http://blog.presentandcorrect.com/category/books> - 
+   look for categories menu widget at the bottom of the page
+   (in graphics/unusual media, links.html, 23 Feb 2017)
 
 - That computing version of Brian Eno's oblique strategies, for programming/heuristics
 
 - <https://news.ycombinator.com/item?id=13590305> 
   HN comment on Unix simplicity, just processes and file descriptors, along
-   with riposte on how it's become so complicated.
+   with riposte on how it's become so complicated (links.html, 24 Feb 2017)
 
 - <https://www.reddit.com/r/AskHistorians/>
 
  9 Feb 2017
 
-- <http://code-poetry.com/>  In typography
-  (24 Feb 2017)
+- <http://code-poetry.com/> (in typography, links.html, 24 Feb 2017)
 
 - <https://github.com/ariestiyansyah/python-blogs> - curated list of Python programming blogs
 
@@ -2961,7 +2954,8 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 2 Feb 2017
 
-- <https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf> xv6 book 
+- <https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf>
+  (programming/design examples/unix, links.html, 24 Feb 2017)
 
 31 Jan 2017
 
@@ -3024,11 +3018,11 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   answerer recommends sending HTTP request to 2nd RPi that returns JSON response.
   Another answer recommends ssh on first RPi to run command on second RPi,
   possibly using paramiko.  Another answer recommends scp text file and use
-  inotifywait - which waits for changes on a file.
+  inotifywait - which waits for changes on a file. (links.html, 26 Jan 2016)
 
 23 Jan 2017
 
-- <https://github.com/PDP-10/its> - Incompatible Timesharing System, code and docs
+- <https://github.com/PDP-10/its> - Incompatible Timesharing System, code and docs (links.html or maybe precursors.md, 26 Jan 2017)
 
 22 Jan 2017
 
@@ -3039,9 +3033,10 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - <http://everything2.com/title/Fast+6502+multiplication>
 
-- <http://azer.bike/happy-hacking-linux/> - Arch-based distribution with tiling window
-    manager (which one? - looks like xmonad) - this home page has window manager
-    cheatsheet that summarizes basic key operations.  Nice simple web page design
+- <http://azer.bike/happy-hacking-linux/> - Arch-based distribution with
+  tiling window manager (which one? - looks like xmonad).  This page
+  includes window manager cheatsheet that summarizes basic key
+  operations.  Nice simple web page design
 
 21 Jan 2017
 
@@ -3070,10 +3065,9 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <https://omgfacts.com/we-used-to-have-6-more-letters-in-our-alphabet-a7e1a165853d#.pd56w4he6>
   <https://news.ycombinator.com/item?id=13408797>
   The lost letters of the English alphabet, 195 HN comments many correcting errors
-  Possibly link in typography?
 
 - <http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html>
-  Links to course outlines (in Polish!) links to textbooks, online materials, software
+  Links to course outlines (in Polish!) links to textbooks, online materials, osoftware
 
 17 Jan 2017
 
@@ -3084,13 +3078,14 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - <https://github.com/ChrisPenner/rasa>  Rasa editor in Haskell
   detailed guide to the code: <https://news.ycombinator.com/item?id=13395941>
+  (links.html, 17 Jan 2017)
 
 13 Jan 2017
 
 - <http://crna.cc/b/11> Blobless Linux on Raspberry Pi 
   Blog about <https://github.com/christinaa/rpi-open-firmware>
   HN comments at <https://news.ycombinator.com/item?id=13396625>
-   including lots of complaints about RPi engineering besides blobs and openness.
+   including lots of complaints about RPi engineering besides blobs and openness (links.html, 16 Jan 2017)
 
 10 Jan 2017
 
@@ -3099,12 +3094,13 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    <https://news.ycombinator.com/item?id=13370486>
    many dependencies, including paramiko (ssh) pygame kivy (ui)
    in fact it might be useful as guide for how to use the dependencies
+   (utilities.md (?), 18 Jan 2017)
 
  9 Jan 2017
 
-- Containers from Scratch in great faiths/linux/containers
+- Containers from Scratch (in great faiths/linux/containers, links.html, 17 Jan 2017)
 
-- Ukelele tuner in Python, uses numpy, pyaudio.
+- Ukelele tuner in Python, uses numpy, pyaudio (links.html, 26 Jan 2017)
 
 - From Python to Numpy
 
@@ -3134,12 +3130,14 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&conte
 
 - MA single-window minimal acme clone in Tcl/Tk
   <http://www.call-with-current-continuation.org/ma.tar.gz>
-  in editors/acme
+  (in editors/acme, links.html, 17 Jan 2017)
 
-- christinaa/LLVM-VideoCore4 + HN comments in RPi hacking
+- christinaa/LLVM-VideoCore4 + HN comments
    via HN comments on Tourist Guide to LLVM from Reger's blog.
+   (in RPi hacking, links.html, 16 Jan 2017)
 
 - 9Fans post on Facebook done right, in Plan 9 style.
+   (links.html, 16 Jan 2017)
 
 - HiFive1 RISC-V Arduino-compatible dev kit - in HN and Hackaday.
 
@@ -3168,7 +3166,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&conte
 
 - RISC-V programming card <http://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf>
 
-- vi-style editor in picolisp <http://picolisp.com/wiki/?vip>
+- vi-style editor in picolisp <http://picolisp.com/wiki/?vip> (links.html, 17 Jan 2017)
 
 - advice on tech writing <https://news.ycombinator.com/item?id=13301511>
 
@@ -3176,15 +3174,16 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&conte
 
 - <http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/>  "I find that all the significant concepts in software systems were invented/discovered in  the 15 years between 1955 and 1970." add links to HN discussion:
    at <https://news.ycombinator.com/item?id=13271220> 
-       <https://news.ycombinator.com/item?id=7402571> (31 Dec)
+       <https://news.ycombinator.com/item?id=7402571> (history, links.html, 31 Dec 2016)
 
 
 27 Dec 2016
 
 - <http://www.maloryproject.com/about.php> typography,
-  <http://dodecaglotta.com/> in typography
+  <http://dodecaglotta.com/> (in typography, links.html, 2 Jan 2017)
 
-- Bringup history of Mac OS X (via HN) at www.pagetable.com
+- Bringup history of Mac OS X (via HN) at www.pagetable.com (in great
+  faiths/mac, links.html, 2 Jan 2017)
 
 - <https://github.com/haskus/haskus-system> www.haskus.org www.vipervm.org
   "provide a full Haskell user-space environment on top of the Linux kernel"
@@ -3194,15 +3193,16 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&conte
 
 26 Dec 2016
 
-- Why Python is not my favorite programming language in Python assessment.
-  <https://zenhack.net/2016/12/25/why-python-is-not-my-favorite-language.html>
+- <https://zenhack.net/2016/12/25/why-python-is-not-my-favorite-language.html>
+  Why Python is not my favorite programming language (in Python
+  assessment, links.html 2 Jan 2017)
 
 - HN post on OLPC compared to RPi  <https://news.ycombinator.com/item?id=13258261>
-  esp. View Source for any application and ad-hoc networking with wireless neighbors.
+  esp. View Source for any application and ad-hoc networking with wireless neighbors. (precursors.md, 31 Dec 2016)
 
-- PicoLisp tutorial <http://software-lab.de/doc/tut.html> including built-in vi-like editor
-  oK tutoril <https://github.com/JohnEarnest/ok> with useful REPL commands
-  Both of these in Piety/doc/other.md
+- PicoLisp tutorial <http://software-lab.de/doc/tut.html> including built-in vi-like editor,
+  ok tutorial <https://github.com/JohnEarnest/ok> with useful REPL commands
+  (both in other.md 31 Dec 2016)
 
 - netshade/apostasy.md <https://gist.github.com/netshade/fda492cb780bae1190063c1ad41b334a>
   on Macbook -> MS Surface + Linux in a VM  in Great Faiths/Windows
@@ -3210,7 +3210,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&conte
 
 23 Dec 2016
 
-- Apple ][ emulation on AVR microcontroller, seen on HN
+- Apple ][ emulation on AVR microcontroller, seen on HN (links.html, 1 Jan 2017)
 
 22 Dec 2016
 
@@ -3227,16 +3227,16 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&conte
   landley.net/aboriginal/about.html and /history.html
   also landley/toybox, make Android self-hosting.
   He presented on podcast at linuxluddites.com - "Not all change is progress"
-  Also github site, <https://github.com/landley/aboriginal>
+  Also github site, <https://github.com/landley/aboriginal> (links.html, 1 Jan 2017)
 
 19 Dec 2016
 
 - BrainF* for Dummies in what, computer architecure?
   <http://blog.klipse.tech/brainfuck/2016/12/17/brainfuck.html>
 
-- ok (APL-like) <https://github.com/JohnEarnest/ok>
+- ok (APL-like) <https://github.com/JohnEarnest/ok> (other.md, 31 Dec)
 
-- Z acme-inspired editor in scala <https://github.com/sandgorgon/z>
+- Z acme-inspired editor in scala <https://github.com/sandgorgon/z> (links.html, 31 Dec)
 
 - Berkeley eecs cs152/sp13 page with links to many pdf notes.
 
@@ -3260,7 +3260,7 @@ n youtube video, Monty Python for Pythonistas
 
 15 Dec 2016
 
-- HN comment "Python has gotten hard to learn" in Python assessment (links.html 2 Jan 2017)
+- HN comment "Python has gotten hard to learn" (in Python assessment, links.html 2 Jan 2017)
 
 - HN comment comparing GoboLinux and Nix in great faiths/linux/filesystems
 
@@ -3269,11 +3269,11 @@ n youtube video, Monty Python for Pythonistas
 
 - Andrew Wiles interview in education, call out quotes on problem scale (vs 3rd grade) and getting stuck
 
-- HN comments praising Lotus Notes in Nostalgia (links.html 2 Jan 2017)
+- HN comments praising Lotus Notes (in Nostalgia, links.html 2 Jan 2017)
 
 - code-poetry.com (links.html 23 Feb 2017)
 
-- NLP in Python example, Pride and Prejudice, in Python examples (2 Jan 2017)
+- NLP in Python example, Pride and Prejudice, (in Python examples, links.html 2 Jan 2017)
 
 - Scott Aaronson comic strip, "The Talk" satirizing woo about QM in physics/popular culture/humor
 
