@@ -5,6 +5,21 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+20 Nov 2018
+
+- <http://homepages.cs.ncl.ac.uk/brian.randell/NATO/> - The NATO
+  Software Engineering Conferences - "In the fall of 1968 and again
+  the in fall of 1969, NATO hosted a conference devoted to the subject
+  of software engineering. ... The motivation for these conferences
+  was that the computer industry at large was having a great deal of
+  trouble in producing large and complex software systems. ... the
+  conference reports have gained a certain amount of classical
+  aura. ... I felt that the time had come to make them widely
+  available, if for no other reason than to let the current generation
+  know what the state of the art was in the late 1960's."  PDFs of
+  both reports, a new introduction, a memoir by an original
+  participant/editor, and photos.
+
 12 Nov 2018
 
 - *Draft No. 4: John McPhee On the Writing Process* (2017), pages
