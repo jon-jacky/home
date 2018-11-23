@@ -5,6 +5,39 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+23 Nov 2018
+
+- <http://www.jfsowa.com/computer/memo125.htm> - Memo 125 by John
+  F. Sowa, on IBM's proposed but unbuilt Future System of the 1970s -
+  "The external interface of an operating system is not something
+  tangible like a pay stub, but rather a set of interfaces that form
+  the innermost level of other programs. ... such as editors,
+  compilers, and query facilities. ... The design of these (other
+  programs) may be called the *secondary architecture* to distinguish
+  it from the heart of the operating system, which constitutes the
+  *primary architecture*.  The primary architecture of an operating
+  system comprises the following seven areas: Resource allocation,
+  process creation, (etc.) ... These seven items form a closed
+  list. ... they are interdependent and cannot be designed by isolated
+  groups working in far-flung locations, nor even by different
+  departments working on separate floors of the same building.  By
+  contrast, the secondary architecture is an open-ended list ...  Once
+  the primary architecture is firm, the secondary facilities can be
+  designed and implemented by groups at opposite ends of the earth
+  with a low level of intercommunication."
+
+  "(The proposed OS), in its present state, has guidelines for the
+  human factors of using displays, but it lacks a primary architecture
+  that determines what kinds of operations are possible. ...  the
+  slogan "display-oriented" is dangerous because it focuses on an
+  external device, whose support is part of the secondary
+  architecture, and overlooks the question of what properties the
+  primary architecture must have to support a truly interactive
+  system. ... `an on-line symbol table, dynamic resource allocation,
+  and a modifiable run-time environment.  ... if it doesn't (have
+  those properties), it can never be more than a batch system with
+  displays attached."
+
 20 Nov 2018
 
 - <http://homepages.cs.ncl.ac.uk/brian.randell/NATO/> - The NATO
