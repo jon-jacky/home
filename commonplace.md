@@ -5,6 +5,32 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+27 Nov 2018
+
+- <https://news.ycombinator.com/item?id=18525800> - comment on Lisp
+  Machine Inc. K-machine by jolmg - "In any case, looking at Lisp OSes
+  vs Unix OSes, there is a design dichotomy where both options have
+  great advantages. Anyone correct me if I'm wrong, but I understand
+  Lisp OSes chose to have the whole OS work in a single high-level
+  language, which allows a very natural coupling between programs,
+  basically destroying the distiction between whole programs and
+  program functions. On the other hand, Unix OSes chose to have a very
+  unassuming framework for programs that would best support a great
+  diversity of programming languages so that they could best
+  interoperate despite the fact that they could work via very
+  different semantics. This structure, as we all know, consists around
+  the semantics of files which could be thought of as global
+  variables, plain text arguments as very unassumming (untyped and
+  with no predefined arity) function call arguments, standard input,
+  output, and error as lazily-evaluated function arguments, and
+  environment variables which could be thought as dynamically-scoped
+  variables."
+
+- <https://www.gocomics.com/nancy/2018/04/09> - Nancy, contemporary take
+  on the ancient comic strip.  This link is to the first strip by the
+  present cartoonist:
+  <https://www.vulture.com/2018/11/new-nancy-cartoonist-olivia-jaimes.html>
+
 23 Nov 2018
 
 - <http://www.jfsowa.com/computer/memo125.htm> - Memo 125 by John
