@@ -27,8 +27,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   variables."
 
 - <https://www.gocomics.com/nancy/2018/04/09> - Nancy, contemporary take
-  on the ancient comic strip.  This link is to the first strip by the
-  present cartoonist:
+  on the ancient comic strip.  This is the first strip by the present
+  cartoonist, described here:
   <https://www.vulture.com/2018/11/new-nancy-cartoonist-olivia-jaimes.html>
 
 23 Nov 2018
