@@ -26,9 +26,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   environment variables which could be thought as dynamically-scoped
   variables."
 
-- <https://www.gocomics.com/nancy/2018/04/09> - Nancy, contemporary take
-  on the ancient comic strip.  This is the first strip by the present
-  cartoonist, described here:
+- <https://www.gocomics.com/nancy/2018/04/09> - Nancy - Contemporary take
+  on the ancient comic strip by a new cartoonist:
   <https://www.vulture.com/2018/11/new-nancy-cartoonist-olivia-jaimes.html>
 
 23 Nov 2018
