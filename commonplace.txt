@@ -5,6 +5,14 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 6 Dec 2018 
+
+- https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge  - Profile of Jeff Dean and Sanjay Ghemawat, 
+  the pair programming team that created MapReduce, TensorFlow, and
+  much more.  Story by James Somers, whose style here recalls John
+  McPhee.  Somers is a programmer himself, and a prolific writer:
+  http://jsomers.net/
+
 27 Nov 2018
 
 - https://news.ycombinator.com/item?id=18525800 - comment on Lisp
@@ -58,7 +66,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   external device, whose support is part of the secondary
   architecture, and overlooks the question of what properties the
   primary architecture must have to support a truly interactive
-  system. ... `an on-line symbol table, dynamic resource allocation,
+  system. ... an on-line symbol table, dynamic resource allocation,
   and a modifiable run-time environment.  ... if it doesn't (have
   those properties), it can never be more than a batch system with
   displays attached."
