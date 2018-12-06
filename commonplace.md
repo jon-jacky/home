@@ -10,8 +10,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 - <https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge>  - Profile of Jeff Dean and Sanjay Ghemawat, 
   the pair programming team that created MapReduce, TensorFlow, and
   much more.  Story by James Somers, whose style here recalls John
-  McPhee.  Somers is a programmer himself, and a prolific writer:
-  <http://jsomers.net/>
+  McPhee.  Somers is a programmer himself, and a prolific writer with
+  a bountiful web site: <http://jsomers.net/>
 
 27 Nov 2018
 
