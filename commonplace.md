@@ -5,6 +5,33 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+14 Dec 2018
+
+- <https://humane.computer/in-conversation-with-aza-raskin/> - Interview
+  about Archy <https://github.com/DanielFeichtinger/Archy>, also at
+  11-19 Oct below. "You can think of applications as walled cities —
+  they have to develop all of their own infrastructure. ... it’s the
+  application as a framework which is broken. You want to tear it
+  apart and just have functionality that you can use anywhere."
+  "There were no files, because the best label for a file is the file
+  itself, the content of it. Everything was in one long, conceptual
+  document ... what you want is to have all of your content and work
+  projects stored spatially. ... a full-on zooming user-interface
+  (ZUI), ...no matter where you are you can zoom out and grab your
+  bearings, and zoom in ad infinitum, a much better way of doing
+  folders and taxonomies."  Hmnn ...  ".. any bit of text can refer to any
+  other bit of text, and you can run any command and do any
+  functionality from anywhere, that you could open up your tools and
+  it was all coded in the same environment, that you were making in,
+  very Smalltalk or Alan Kay-like, and so your tools themselves can be
+  modified in real-time to modify themselves if need be."
+
+- <https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html> - Recreates
+  Archy-like philosophy and workflow in emacs, including some
+  customizations: "Ace Jump Mode ... works a bit like Jef Raskin's
+  Leap feature from days gone by."  Explicitly references the Archy
+  predecessor, Canon Cat (see 11-19 Oct below).
+
  6 Dec 2018
 
 - <https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge>  - Profile of Jeff Dean and Sanjay Ghemawat, 
@@ -215,7 +242,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   via <https://archive.org/details/jefraskin>
 
   <https://en.wikipedia.org/wiki/Archy> and
-  <https://github.com/MySheep/Archy/> "All content in Archy is
+  <https://github.com/DanielFeichtinger/Archy> "All content in Archy is
   persistent. This eliminates the need for, and the concept of, saving
   a document after editing it. ... Command names can be inserted and
   executed at any place in the interface ... Since a command can be
