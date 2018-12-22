@@ -5,6 +5,92 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+22 Dec 2018
+
+- <https://smallstep.com/blog/everything-pki.html> - Everything you
+  should know about certificates and PKI but are too afraid to ask -
+  Certificates and PKI (Public Key Infrastructure) are built on public
+  key cryptography ... which uses key pairs. A key pair consists of a
+  public key that can be distributed and shared with the world, and a
+  corresponding private key that should be kept confidential by the
+  owner.  There are two things you can do with a key pair: 1. You can
+  encrypt some data with the public key. The only way to decrypt that
+  data is with the corresponding private key.  2. You can sign some
+  data with the private key. Anyone who knows the corresponding public
+  key can verify the signature, proving which private key produced it.
+  ... Verifying (my) signature is good evidence you’re talking to
+  me. This effectively allows computers to see who they’re talking to
+  across a network.
+
+  Public key cryptography is a magical gift from mathematics to
+  computer science.
+
+  What if you don’t already know my public key? That’s what
+  certificates are for.  ... A certificate is a data structure that
+  contains a public key and a name. The data structure is then
+  signed. The signature binds the public key to the name. The entity
+  that signs a certificate is called the issuer (or certificate
+  authority) and the entity named in the certificate is called the
+  subject.  ... if you know (the issuer’s) public key you can
+  authenticate (the certificate) by verifying the signature. ... Thus,
+  certificates let you use (your) trust (of the issuer), and knowledge
+  of an issuer’s public key, to learn another entity’s public key. ...
+
+- <https://robertheaton.com/2014/03/27/how-does-https-actually-work/> -
+  HTTPS takes the well-known and understood HTTP protocol, and simply
+  layers an SSL encryption layer on top of it.  The SSL layer has 2
+  main purposes: 1. Verifying that you are talking directly to the
+  server that you think you are talking to 2. Ensuring that only the
+  server can read what you send it and only you can read what it sends
+  back. (When) contact has been established, the server has to prove
+  its identity to the client. This is achieved using its SSL
+  certificate.  The client checks that it either implicitly trusts the
+  certificate, or that it is verified and trusted by one of several
+  Certificate Authorities (CAs) that it also implicitly trusts.
+  Much more about this shortly. ...
+
+  ... certificates are completely open and public, so any attacker
+  could grab Microsoft’s certificate, intercept a client’s request to
+  Microsoft.com and present the legitimate certificate to it. The
+  client would accept this and happily begin the handshake. However,
+  when the client encrypts the key that will be used for actual data
+  encryption, it will do so using the real Microsoft’s public key from
+  this real certificate. Since the attacker doesn’t have Microsoft’s
+  private key in order to decrypt it, they are now stuck. ...
+
+  Order is maintained as long as the attacker doesn’t control a
+  trusted certificate’s private key. If the client is somehow tricked
+  into trusting a certificate and public key whose private key is
+  controlled by an attacker, trouble begins.
+
+  Can my company monitor my HTTPS traffic over their network?  If you
+  are also using a machine controlled by your company, then
+  yes. Remember that at the root of every chain of trust lies an
+  implicitly trusted CA, and that a list of these authorities is
+  stored in your browser. Your company could use their access to your
+  machine to add their own self-signed certificate to this list of
+  CAs. They could then intercept all of your HTTPS requests,
+  presenting certificates claiming to represent the appropriate
+  website, signed by their fake-CA and therefore unquestioningly
+  trusted by your browser. Since you would be encrypting all of your
+  HTTPS requests using their dodgy certificate’s public key, they
+  could use the corresponding private key to decrypt and inspect (even
+  modify) your request, and then send it onto it’s intended
+  location. ... Incidentally, this is also how you use a proxy to
+  inspect and modify the otherwise inaccessible HTTPS requests made by
+  an iPhone app (link).
+
+- <https://robertheaton.com/2018/11/28/https-in-the-real-world/> -
+  ... Desperately holding these attackers at bay are nothing more than
+  the raw power of HTTPS and a handful of trusted Certificate
+  Authorities (CAs) run by incorruptible treefolk who live in the
+  mountains. ... We’ll see how PKI addresses the facts that 1) your
+  own private key might not stay private; 2) your Certificate
+  Authority’s private key might not stay private; and 3) Certificate
+  Authorities are not actually staffed exclusively by incorruptible
+  treefolk who live in the mountains. ...
+
+
 14 Dec 2018
 
 - <https://humane.computer/in-conversation-with-aza-raskin/> - Interview
@@ -29,8 +115,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 - <https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html> - Recreates
   Archy-like philosophy and workflow in emacs, including some
   customizations: "Ace Jump Mode ... works a bit like Jef Raskin's
-  Leap feature from days gone by."  Explicitly references the Archy
-  predecessor, Canon Cat (see 11-19 Oct below).
+  Leap feature from days gone by."  Explicitly references Archy's
+  predecessor, the Canon Cat (see 11-19 Oct below).
 
  6 Dec 2018
 
