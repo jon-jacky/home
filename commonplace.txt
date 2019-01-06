@@ -8,7 +8,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
  4 Jan 2019
 
 - https://news.ycombinator.com/item?id=14852625 - comments on the book *Thinking Forth* - 
-  For me the biggest influences underemphasized in other sources are
+  "For me the biggest influences underemphasized in other sources are
   to be alert for relentless simplification, for 'mechanical
   sympathy', for ways changing your problem could make it much simpler
   to solve -- and that there's an agility in using a simpler
@@ -16,13 +16,13 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   need to, which can sometimes outweigh the leverage of a big one that
   comes with lots of stuff already done for you. These are useful
   points of view even with Forth being almost never the most practical
-  tool now. ...
+  tool now. ..."
 
 22 Dec 2018
 
 - https://smallstep.com/blog/everything-pki.html - Everything you
   should know about certificates and PKI but are too afraid to ask -
-  Certificates and PKI (Public Key Infrastructure) are built on public
+  "Certificates and PKI (Public Key Infrastructure) are built on public
   key cryptography ... which uses key pairs. A key pair consists of a
   public key that can be distributed and shared with the world, and a
   corresponding private key that should be kept confidential by the
@@ -47,10 +47,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   subject.  ... if you know (the issuer’s) public key you can
   authenticate (the certificate) by verifying the signature. ... Thus,
   certificates let you use (your) trust (of the issuer), and knowledge
-  of an issuer’s public key, to learn another entity’s public key. ...
+  of an issuer’s public key, to learn another entity’s public key. ..."
 
 - https://robertheaton.com/2014/03/27/how-does-https-actually-work/ -
-  HTTPS takes the well-known and understood HTTP protocol, and simply
+  "HTTPS takes the well-known and understood HTTP protocol, and simply
   layers an SSL encryption layer on top of it.  The SSL layer has 2
   main purposes: 1. Verifying that you are talking directly to the
   server that you think you are talking to 2. Ensuring that only the
@@ -91,18 +91,17 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   modify) your request, and then send it onto it’s intended
   location. ... Incidentally, this is also how you use a proxy to
   inspect and modify the otherwise inaccessible HTTPS requests made by
-  an iPhone app (link).
+  an iPhone app (link)."
 
 - https://robertheaton.com/2018/11/28/https-in-the-real-world/ -
-  ... Desperately holding these attackers at bay are nothing more than
+  "... Desperately holding these attackers at bay are nothing more than
   the raw power of HTTPS and a handful of trusted Certificate
   Authorities (CAs) run by incorruptible treefolk who live in the
   mountains. ... We’ll see how PKI addresses the facts that 1) your
   own private key might not stay private; 2) your Certificate
   Authority’s private key might not stay private; and 3) Certificate
   Authorities are not actually staffed exclusively by incorruptible
-  treefolk who live in the mountains. ...
-
+  treefolk who live in the mountains. ..."
 
 14 Dec 2018
 
