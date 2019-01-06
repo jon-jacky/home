@@ -5,6 +5,19 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 4 Jan 2019
+
+- <https://news.ycombinator.com/item?id=14852625> - comments on the book *Thinking Forth* - 
+  For me the biggest influences underemphasized in other sources are
+  to be alert for relentless simplification, for 'mechanical
+  sympathy', for ways changing your problem could make it much simpler
+  to solve -- and that there's an agility in using a simpler
+  programming system like a Forth which you grok and can change as you
+  need to, which can sometimes outweigh the leverage of a big one that
+  comes with lots of stuff already done for you. These are useful
+  points of view even with Forth being almost never the most practical
+  tool now. ...
+
 22 Dec 2018
 
 - <https://smallstep.com/blog/everything-pki.html> - Everything you
@@ -2637,9 +2650,8 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   ones on virtualization and exokernels are really good.  also 2014
   and 2016 but their notes are in .md files that don't just display in
   browser, boo hiss!  Also, .txt notes on Multics, Plan 9, and
-  exokernels etc. from lecture notes page on Stanford OS course linked to
-  this MIT course pages.
-
+  exokernels etc. from Stanford OS course
+  <http://www.scs.stanford.edu/05au-cs240c/notes/>
 
 12 Jun 2017
 
