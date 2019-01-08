@@ -18,6 +18,11 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   points of view even with Forth being almost never the most practical
   tool now. ..."
 
+  Also https://news.ycombinator.com/item?id=12713797 "... Good Forth
+  programmers appear to solve hard problems by ruthlessly stripping
+  away everything irrelevant from the problem to end up with an easy
+  one. ..."
+
 22 Dec 2018
 
 - https://smallstep.com/blog/everything-pki.html - Everything you
