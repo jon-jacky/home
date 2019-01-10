@@ -5,6 +5,54 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 9 Jan 2019
+
+- *Clear and Simple as the Truth: Writing Classical Prose* by
+   Francis-Noel Thomas and Mark Turner, pages 3 - 5 (no link): "The
+   teaching of writing in America is almost entirely controlled by the
+   view that teaching writing is teaching verbal skills ... Our answer
+   is that writing is an intellectual activity, not a bundle of
+   skills. ... any attempt to teach writing by teaching writing skills
+   detached from underlying conceptual issues is doomed.
+
+   But it is possible to learn to write by learning a style of
+   writing.  We think conceptual stands are the basis of writing since
+   they define styles. ... verbal artifacts -- like plumage -- help
+   identify a style.  Nevertheless, in general, a style cannot be
+   defined, analyzed, or learned as a matter of verbal choices.
+
+   Writing is defined conceptually and leads to skills. ... But in no
+   case is the activity constituted by the skills.  Great painters are
+   often less skillful than mediocre painters; it is their concept of
+   painting, not their skills, that defines their activity ...
+   Intellectual activities generate skills, but skills do not generate
+   intellectual activies.  The relationship is not symmetric.
+
+   A style is defined by its conceptual stand on truth, presentation,
+   writer, reader, thought, language, and their relationships.
+   Classic style ... adopts the stance that its purpose is
+   presentation; its motive, disinterested truth.  Successful
+   presentation consists of aligning language with truth, and the test
+   of this alignment is clarity and simplicity.  The idea that
+   presentation is successful when language is aligned with truth
+   implies that truth can be known; truth needs no argument but only
+   accurate presentation; the reader is competent to recognize truth;
+   the symmetry between writer and reader allows the presentation to
+   follow the model of conversation; a natural language is sufficient
+   to express truth; and the writer knows the truth before he puts it
+   into language.
+
+   ... Once adapted, the classic stand offers a general style of
+   presentation suitable to any subject whatever. ... The style does
+   not limit the writer's subject matter or efface his individuality,
+   but the writer's individuality will be expressed principally by his
+   knowledge of his subject.
+
+   ... We coach our readers in the conceptual stand that might turn
+   them into classical writers, and contrast the classic stand with
+   some others: reflexive, practical, plain, contemplative, romantic,
+   prophetic, oratorical."
+
  4 Jan 2019
 
 - <https://news.ycombinator.com/item?id=14852625> - comments on the book *Thinking Forth* - 
@@ -196,7 +244,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   external device, whose support is part of the secondary
   architecture, and overlooks the question of what properties the
   primary architecture must have to support a truly interactive
-  system. ... an on-line symbol table, dynamic resource allocation,
+  system. ... (such as) an on-line symbol table, dynamic resource allocation,
   and a modifiable run-time environment.  ... if it doesn't (have
   those properties), it can never be more than a batch system with
   displays attached."
