@@ -5,16 +5,16 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
- 9 Jan 2019
+ 9-14 Jan 2019
 
 - *Clear and Simple as the Truth: Writing Classical Prose* by
-   Francis-Noel Thomas and Mark Turner, pages 3 - 6, 13 - 14, 63 (no
-   link): "The teaching of writing in America is almost entirely
-   controlled by the view that teaching writing is teaching verbal
-   skills ... Our answer is that writing is an intellectual activity,
-   not a bundle of skills. ... any attempt to teach writing by
-   teaching writing skills detached from underlying conceptual issues
-   is doomed.
+   Francis-Noel Thomas and Mark Turner, pages 3 - 6, 13 - 14, 63, 81 -
+   87 (no link): "The teaching of writing in America is almost
+   entirely controlled by the view that teaching writing is teaching
+   verbal skills ... Our answer is that writing is an intellectual
+   activity, not a bundle of skills. ... any attempt to teach writing
+   by teaching writing skills detached from underlying conceptual
+   issues is doomed.
 
    But it is possible to learn to write by learning a style of
    writing.  We think conceptual stands are the basis of writing since
@@ -72,6 +72,27 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
    rather the style in which it is conceived. ... in classic style,
    the human soul can be conceived as clearly and exactly as the tree
    in front of your face. ..."
+
+   "Classical style is not practical style.  In the model scene behind
+   the practical style, the reader has a problem to solve ... a job to
+   do. ... in this scene, writing is an instrument for delivering
+   information with the maximum efficiency and in such a way as to
+   place the smallest possible burden on the reader ...  The best
+   known teachers of practical style are Strunk and White, in their
+   ubiquitous *Elements of Style*.  The best teachers of practical
+   style are Joseph Williams and Gregory Colomb, in Williams's *Style:
+   Toward Clarity and Grace* ... It is missing only one thing: namely,
+   an explicit acknowledgment of its fundamental stand, and and
+   acknowledgment that its fundamental stand is one of many
+   alternatives. ... In the model scene of practical style, readers
+   and writers hold standard job slots in existing institutions.
+   ... practical style serves the purpose of keeping the information
+   flowing efficiently through institutions. ...  There is a surface
+   mark of practical style ... (it) permits skimming ... you can
+   simply glance through and extract what you want.  If you try to
+   skim classic writing in this way, you run the risk of missing
+   indispensable nuances or refinements. ..."
+
 
  4 Jan 2019
 
