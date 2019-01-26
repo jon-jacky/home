@@ -5,6 +5,15 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+25 Jan 2019
+
+- <https://github.com/ktye/iv> - APL interpreter and stream processor - 
+  "Next tasks: ... learn APL ... The author has never used APL ..."
+
+  via <https://news.ycombinator.com/item?id=18997977> -
+  "Of course it takes less time and effort to write an APL interpreter
+  than it does to actually learn APL."
+
  9-14 Jan 2019
 
 - *Clear and Simple as the Truth: Writing Classical Prose* by
