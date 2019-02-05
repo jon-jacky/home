@@ -5,6 +5,111 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 4 Feb 2019
+
+- *How to Write a Thesis* by Umberto Eco, pages x, xxvi, 5-7, 9-10,
+  110-111, 125, 142-144, 145, 149-150, 221 (no link). From the forward
+  by Francesco Erspamer: "Umberto Eco takes us back to the original
+  purpose of theses and dissertations ... They are not a test or exam,
+  nor should they be.  They are not meant to show that the student did
+  his or her homework.  Rather, they prove that students can *make*
+  something out of their education."
+
+  Eco: "... I became aware that many times over the course of my
+  readings, I had attributed to others ideas that they had merely
+  inspired me to look for; and many other times I remained convinced
+  that an idea was mine until, after revisiting some books read many
+  years before, I discovered that the idea, or its core, had come to
+  me from a certain author. ... research is a mysterious adventure
+  that inspires passion and holds many surprises.  Not just an
+  individual but also an entire culture participates, as ideas
+  sometimes travel freely, migrate, disappear, and reappear.  In this
+  sense, ideas are similar to jokes that become better as each person
+  tells them.
+
+  As we shall see, the rigor of a thesis is more important that its
+  scope.  One can even collect soccer trading cards with rigor
+  ... There will always be a difference between his collection and the
+  Louvre, but it is better to build a serious trading card collection
+  ... than to create a cursory art collection.
+
+  Writing a thesis requires a student to organize ideas and data, to
+  work methodically, and to build an "object" that in principle will
+  serve others.  ... If a student works rigorously, no topic is truly
+  foolish, and the student can draw useful conclusions even from a
+  remote or peripheral topic.
+
+  In 1957 the great contemporary Italian critic Gianfranco Contini
+  published a survey ... Had the survey been a thesis, it would have
+  earned a failing grade ... Contini dedicated entire chapters to
+  so-called "minor" authors and relegated certain "major" authors to
+  mentions in short footnotes or omitted them altogether.  The
+  committee would have attributed these choices to carelessness or
+  ignorance.  Naturally, since Contini is a scholar of recognized
+  historical knowledge and critical acumen, readers understood that
+  the omissions and disproportions were intentional, and the absence
+  of a particular author was a more eloquent expression of Contini's
+  disfavor than a hostile review.  But if a student in his twenties
+  plays the same trick, who guarantees that there is shrewdness behind
+  his silence?  Do the omissions replace criticism that the student
+  has written elsewhere, or that he *would be capable* of writing?
+
+  The purpose of this fictitious introduction (fictitous, because you
+  will rewrite it many times ...) is to allow you to give your ideas a
+  primary direction that will not change ... If you cannot write the
+  introduction, it means that you do not yet have clear ideas on how
+  to begin. ... And it is precisely on the basis of this suspicion
+  that you must write your introduction, as if it were a review of the
+  already completed work. ... The goal of a good final introduction is
+  to so satisfy and enlighten the reader that he does not need to read
+  any further.  This is a paradox, but often a good introduction
+  ... provides a reviewer with the right ideas, and prompts him to
+  speak about the book as the author wished.
+
+  Photocopies are indispensable instruments. ... But a set of
+  photocopies can become an alibi.  A student makes hundreds of pages
+  of photocopies and takes them home, and the manual labor he
+  exercises in doing so gives him the impression that he possesses the
+  work.  Owning the photocopies exempts the student from actually
+  reading them.  This sort of vertigo of accumulation, a neocapitalism
+  of information, happens to many.  Defend yourself from this trap: as
+  soon as you have the photocopy, read and annotate it immediately.
+  ... do not photocopy something new until you *own* (that is, before
+  you have read and annotated) the previous set of photocopies.  There
+  are many things that I *do not know* because I photocopied a text
+  and then relaxed as if I had read it.
+
+  ... *the best ideas may not come from the major authors.* This is
+  academic humility: the knowledge that anyone can teach us something.
+  ... The point is that we must listen with respect to anyone, without
+  this exempting us from pronouncing our value judgments; or from the
+  knowledge that the author's opinion is very different from ours, and
+  that he is ideologically very distant from us.  But even the
+  sternest opponent can suggest some ideas to us. ... I learned
+  ... that if I wanted to do research, as a matter of principle I
+  should not exclude any source.  This is what I call academic
+  humility. ...
+
+  ... it is a common belief that a popular work, where the topic is
+  explained so that anyone can understand it, requires less skill than
+  a specialized scientific report ... This is not completely
+  true. ... usually works that do not explain the terms they use
+  ... reveal authors who are more insecure than those who make every
+  reference and every step explicit.  If you read the great scientists
+  or the great critics, you will see that ... they are quite clear and
+  are not ashamed of explaining things well.
+
+  *You are not e. e. cummings.* ... he did all the things that an
+  avant-garde poet can and should do.  But you are not an avant-garde
+  poet.  Not even if your thesis is on avant-garde poetry. ... the
+  language of the thesis is a *metalanguage, that is, a language that
+  speaks of other languages. ... From Dante to Eliot and from Eliot to
+  Sanguineti, when an avant-garde poet wanted to talk about their
+  poetry, they wrote in clear prose.  ... Are you a poet?  Then do not
+  pursue a university degree.
+
+  ... writing a thesis is like cooking a pig: nothing goes to waste.
+
 25 Jan 2019
 
 - <https://github.com/ktye/iv> - APL interpreter and stream processor - 
