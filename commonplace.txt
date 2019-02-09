@@ -7,7 +7,22 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
  9 Feb 2019
 
-- https://news.ycombinator.com/item?id=19122578 comment by Ron Garret -
+- http://jazz-quotes.com/ - "... I've begun collecting quotes from different books
+  I have and from across the internet. ..."   Many musicians, many quotes
+  from each. For example:
+
+  http://jazz-quotes.com/artist/miles-davis/
+
+  "Sometimes you have to play a long time to be able to play like yourself."
+
+  http://jazz-quotes.com/artist/thelonious-monk/
+
+  "Just because you're not a drummer doesn't mean you don't have to keep time."
+
+  "A genius is the one most like himself."
+
+- https://news.ycombinator.com/item?id=19122578 comment by Ron Garret on
+  https://kirit.com/Build%20me%20a%20LISP
 
   "... An S-expression is a *serialization* of a (single) cons cell,
   whose elements might be other cells.
