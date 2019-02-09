@@ -5,6 +5,29 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 9 Feb 2019
+
+- <https://news.ycombinator.com/item?id=19122578> comment by Ron Garret - 
+  "... An S-expression is a *serialization* of a (single) cons cell,
+  whose elements might be other cells.
+
+  ... The fact that S-expressions represent cons cells and NOT vectors is crucially
+  important. It is the feature from which Lisp derives much of its power.
+
+  It is possible to make a Lisp-like language where the surface syntax
+  represents vectors instead of cons cells. In fact, this makes a useful exercise. If you undertake this exercise you will come to know the answer to the question: why has this idea (a vector-based Lisp) not gained more wide-spread adoption?
+  If you undertake this exercise you will come to know the answer to the
+  question: why has this idea (a vector-based Lisp) not gained
+  more wide-spread adoption?
+
+  ... S-expressions are not a data type, they are a serialization of cons cells,
+  i.e. they are a *mapping* between cons cells and strings, and this mapping
+  has a very particular feature from which much of Lisp's power is derived ...
+
+  ... What this (linked) article is describing is similar in
+  spirit to Lisp, but it's not Lisp. It's a different (toy) language at a
+  completely different point in the design space."
+
  4 Feb 2019
 
 - *How to Write a Thesis* by Umberto Eco, pages x, xxvi, 5-7, 9-10,
