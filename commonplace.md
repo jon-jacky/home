@@ -7,7 +7,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
  9 Feb 2019
 
-- <https://news.ycombinator.com/item?id=19122578> comment by Ron Garret - 
+- <https://news.ycombinator.com/item?id=19122578> comment by Ron Garret -
+
   "... An S-expression is a *serialization* of a (single) cons cell,
   whose elements might be other cells.
 
@@ -15,7 +16,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   important. It is the feature from which Lisp derives much of its power.
 
   It is possible to make a Lisp-like language where the surface syntax
-  represents vectors instead of cons cells. In fact, this makes a useful exercise. If you undertake this exercise you will come to know the answer to the question: why has this idea (a vector-based Lisp) not gained more wide-spread adoption?
+  represents vectors instead of cons cells. In fact, this makes a useful
+  exercise.
   If you undertake this exercise you will come to know the answer to the
   question: why has this idea (a vector-based Lisp) not gained
   more wide-spread adoption?
