@@ -11,22 +11,21 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   I have and from across the internet. ..."   Many musicians, many quotes
   from each. For example:
 
-  http://jazz-quotes.com/artist/miles-davis/
+  http://jazz-quotes.com/artist/miles-davis/  Miles Davis:
+
+  "... you can't play everything at once!"
 
   "Sometimes you have to play a long time to be able to play like yourself."
 
-  http://jazz-quotes.com/artist/thelonious-monk/
+  http://jazz-quotes.com/artist/thelonious-monk/  Thelonious Monk:
 
   "Just because you're not a drummer doesn't mean you don't have to keep time."
 
   "A genius is the one most like himself."
 
 - https://news.ycombinator.com/item?id=19122578 comment by Ron Garret on
-  https://kirit.com/Build%20me%20a%20LISP
-
-  "... An S-expression is a *serialization* of a (single) cons cell,
-  whose elements might be other cells.
-
+  https://kirit.com/Build%20me%20a%20LISP  "... An S-expression is a 
+  *serialization* of a (single) cons cell, whose elements might be other cells.
   ... The fact that S-expressions represent cons cells and NOT vectors is crucially
   important. It is the feature from which Lisp derives much of its power.
 
@@ -39,7 +38,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
   ... S-expressions are not a data type, they are a serialization of cons cells,
   i.e. they are a *mapping* between cons cells and strings, and this mapping
-  has a very particular feature from which much of Lisp's power is derived ...
+  has a very particular feature from which much of Lisp's power is derived,
+  which is that it compresses a linked list of cons cells into this:
+  *(1 2 3 4)* insetead of this *(1 . (2 . (3 . (4 . nil))))*
 
   ... What this (linked) article is describing is similar in
   spirit to Lisp, but it's not Lisp. It's a different (toy) language at a
