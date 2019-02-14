@@ -5,11 +5,29 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+14 Feb 2019 
+
+- http://sunnyday.mit.edu/16.355/syllabus-355-2017.html - *System Engineering
+  of Software-Intensive Systems* - course at MIT by safety expert
+  Nancy Leveson: "Note that the class is a system engineering of software class,
+  not a standard software engineering class and as such will not provide basic
+  training in programming or in specific approaches or tools for developing
+  software. ... Instead of a textbook, required reading will consist of a
+  carefully selected set of historically important and foundational papers
+  as well as some more current ones. Some papers will be technical while others
+  will be opinions or essays. The literature is vast, and papers have been
+  selected for their historical relevance in the development of the field or
+  for their ability to help you critique the assumptions underlying current
+  software/system engineering dogma.  ... There will be no programming
+  assignments. ...  most assignments will involve evaluation and interpretation
+  rather than practice in applying particular techniques or tools. ...
+
+  http://sunnyday.mit.edu/16.355/ Links to readings and class notes
+
  9 Feb 2019
 
 - http://jazz-quotes.com/ - "... I've begun collecting quotes from different books
-  I have and from across the internet. ..."   Many musicians, many quotes
-  from each. For example:
+  I have and from across the internet. ..."  For example:
 
   http://jazz-quotes.com/artist/miles-davis/  Miles Davis:
 
@@ -21,10 +39,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
   "Just because you're not a drummer doesn't mean you don't have to keep time."
 
-  "A genius is the one most like himself."
-
 - https://news.ycombinator.com/item?id=19122578 comment by Ron Garret on
-  https://kirit.com/Build%20me%20a%20LISP  "... An S-expression is a 
+  https://kirit.com/Build%20me%20a%20LISP  "... An S-expression is a
   *serialization* of a (single) cons cell, whose elements might be other cells.
   ... The fact that S-expressions represent cons cells and NOT vectors is crucially
   important. It is the feature from which Lisp derives much of its power.
@@ -40,7 +56,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   i.e. they are a *mapping* between cons cells and strings, and this mapping
   has a very particular feature from which much of Lisp's power is derived,
   which is that it compresses a linked list of cons cells into this:
-  *(1 2 3 4)* insetead of this *(1 . (2 . (3 . (4 . nil))))*
+  *(1 2 3 4)* instead of this *(1 . (2 . (3 . (4 . nil))))*
 
   ... What this (linked) article is describing is similar in
   spirit to Lisp, but it's not Lisp. It's a different (toy) language at a
