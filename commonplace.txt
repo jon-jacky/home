@@ -20,9 +20,27 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   for their ability to help you critique the assumptions underlying current
   software/system engineering dogma.  ... There will be no programming
   assignments. ...  most assignments will involve evaluation and interpretation
-  rather than practice in applying particular techniques or tools. ...
+  rather than practice in applying particular techniques or tools. ..."
 
-  http://sunnyday.mit.edu/16.355/ Links to readings and class notes
+  http://sunnyday.mit.edu/16.355/ Readings and class notes
+
+- http://www.1-9-9-1.com/ - *1991 - A server-side web framework written in Forth*
+  "The year is 1991. The World Wide Web has just seen public release.
+  1991 looks to ease your interactions with the new web using cutting edge
+  programming techniques in Forth (well, Gforth). ...
+
+  'You're using Gforth, which came out in 1992. Also, it's 2017.'
+  Okay. But Fredric Jameson establishes that in postmodernism we have experienced
+  a weakening sense of historisity such that what is, what was, and what will
+  be all exist as presents in time. 1970, 1991, 1992, and 2017 all happen
+  simultaneously. Hence developers working on new projects while still coding
+  in decades-old text editors. They write the future in the past and are made
+  present in so doing."
+
+  via https://news.ycombinator.com/item?id=19146767 - 
+  "That is a masterpiece of Forth programming! ..." 
+  "... A microframework in a scant 480 lines of code ..."
+  "I really like the commitment to retro aesthetics. ..."
 
  9 Feb 2019
 
