@@ -5,7 +5,74 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-14 Feb 2019 
+17 Feb 2019
+
+- *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer, pages 90,
+  137-138, 149, 152-153, 229, 231-232 (no link):
+  "All the work of (Lawrence's) maturity was built on his
+  relatiionship with Frieda. 'Fidelity to oneself means fidelity single and
+  unchanging, to one other one.'  His adult life begins with the unalterable
+  fact of his marriage. ...
+
+  Films and books urge us to think that there will come certain moments in our
+  lives when, if we can make some grand, once-in-a-lifetime gesture ...
+  then we will be liberated, free.  Moments --
+  crises -- like these are crucial to the cinema or theatre where psychological
+  turmoil has to be externalized and compressed.  Dramatically speaking what
+  happens after moments like these is unimportant even though the drama continues
+  afterwards, with the consequences of these sudden lurches beyond the
+  quotidian. ... Unless, like Thelma and Louise, you plunge off the side of a
+  canyon, there is no escaping the everyday.  What Lawrence's life demonstrates
+  so powerfully is that it actually takes a daily effort to be free.  To be free
+  is not the result of a moment's decisive action but a project to be constantly
+  renewed.  More than anything else, freedom requires tenaciousness.  There are
+  intervals of repose but there will never come a state of definitive rest where
+  you can give up because you have turned freedom into a permanent condition.
+  Freedom is always precarious. ...
+
+  What is surprising is to find that the parts of the correspondence of a great
+  writer I most like are those which would be edited out if any kind of selection
+  were made, i.e. those having nothing to do with his genius and everything to
+  do with his ordinariness, with the ordinariness he clamied to loathe. The fact
+  that Lawrence wrote *Lady Chatterly's Lover* means next to nothing to me; what
+  matters is that he paid his way, settled his debts, made nice jam and 
+  marmalade, and put up shelves.
+
+  You see I've decided to butch it out, to go in the opposite direction
+  to that suggested by yoga and meditation.  The yoga-meditation-zen path leads
+  to peace with the world and oneness with the infinite.  Petty annoyances fade
+  into insignificance, the ego dissolves, and you are left in state of unruffled
+  serenity and calm.  Or so I gather.  It's never worked for me.  Faced with the
+  thousands of petty annoyances and grievances encountered in the course of a
+  week ... (I'm) shaking my fist at the world.  I won't let even the smallest
+  grievance escape me.  I'm going to seize on the most insignificant 
+  inconvenience, annoyance, hindrance, set-back, disappointment and am going
+  to focus all my rage, anger, bitterness, and frustration on it. ... Nothing
+  will escape me.
+
+  ... the alternatives to giving in and giving up are never as simple as they
+  seem.  Believe me, I know.  I've devoted more of my life to thoughts of 
+  giving up than anyone else I can think of.  Nietzsche wrote that the thought
+  of suicide had gotten him through many a bad night, and thinking of giving
+  up is probably the one thing that's kept me going.  I think about it on a daily
+  basis but always come up with the problem of what to do when I've given up.
+  Give up one thing and you're immediately obliged to do something else.  The
+  only way to give up totally is to kill yourself but that one act requires an
+  assertion of will equal to the total amount that would be expended in the rest
+  of a normal lifetime.  Killing yourself is not giving up, it's more like a
+  catastrophic fast-forwarding ...
+
+  And there you have it.  One way or another we all have to write our studies
+  of D. H. Lawrence.  Even if they will never be published, even if we will 
+  never complete them, even if all we are left with after years and years of 
+  effort is an unfinished, unfinishable record of how we failed to live up to 
+  our own earlier ambitions, still we all have to try to make some progress with
+  our books about D. H. Lawrence.  The world over, from Taos to Taormina, from 
+  the places we have visited to countries we will never set foot in, the best
+  we can do is to try to make some progress with our studies of D. H. Lawrence."
+
+
+14 Feb 2019
 
 - http://sunnyday.mit.edu/16.355/syllabus-355-2017.html - *System Engineering
   of Software-Intensive Systems* - course at MIT by safety expert
@@ -26,7 +93,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 - http://www.1-9-9-1.com/ - *1991 - A server-side web framework written in Forth*
   "The year is 1991. The World Wide Web has just seen public release.
-  1991 looks to ease your interactions with the new web using cutting edge
+  *1991* looks to ease your interactions with the new web using cutting edge
   programming techniques in Forth (well, Gforth). ...
 
   'You're using Gforth, which came out in 1992. Also, it's 2017.'
@@ -37,10 +104,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   in decades-old text editors. They write the future in the past and are made
   present in so doing."
 
-  via https://news.ycombinator.com/item?id=19146767 - 
-  "That is a masterpiece of Forth programming! ..." 
-  "... A microframework in a scant 480 lines of code ..."
-  "I really like the commitment to retro aesthetics. ..."
+  via https://news.ycombinator.com/item?id=19146767 -
+  "A microframework in a scant 480 lines of code,
+  plus a postmodern manifesto ..."
 
  9 Feb 2019
 
