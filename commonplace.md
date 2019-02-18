@@ -10,7 +10,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 - *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer, pages 90,
   137-138, 149, 152-153, 229, 231-232 (no link):
   "All the work of (Lawrence's) maturity was built on his
-  relatiionship with Frieda. 'Fidelity to oneself means fidelity single and
+  relationship with Frieda. 'Fidelity to oneself means fidelity single and
   unchanging, to one other one.'  His adult life begins with the unalterable
   fact of his marriage. ...
 
@@ -33,7 +33,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   What is surprising is to find that the parts of the correspondence of a great
   writer I most like are those which would be edited out if any kind of selection
   were made, i.e. those having nothing to do with his genius and everything to
-  do with his ordinariness, with the ordinariness he clamied to loathe. The fact
+  do with his ordinariness, with the ordinariness he claimed to loathe. The fact
   that Lawrence wrote *Lady Chatterly's Lover* means next to nothing to me; what
   matters is that he paid his way, settled his debts, made nice jam and
   marmalade, and put up shelves.
@@ -60,7 +60,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   only way to give up totally is to kill yourself but that one act requires an
   assertion of will equal to the total amount that would be expended in the rest
   of a normal lifetime.  Killing yourself is not giving up, it's more like a
-  catastrophic fast-forwarding ...
+  catastrophic fast-forwarding. ...
 
   And there you have it.  One way or another we all have to write our studies
   of D. H. Lawrence.  Even if they will never be published, even if we will
@@ -71,6 +71,27 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   the places we have visited to countries we will never set foot in, the best
   we can do is to try to make some progress with our studies of D. H. Lawrence."
 
+17 Feb 2019
+
+- <https://github.com/hundredrabbits/Orca> - Live Programming Environment - 
+  via <https://news.ycombinator.com/item?id=19118951> - "What is it? 
+  What does it do? Why would I use it?"
+  "This isn't really that kind of piece of software. It's a work of art ...
+  open it up and play around and you might find something worthy of delight."
+  "Think cellular automatons combined with PD/MaxMSP.
+  There are nodes to generate data (counters, timers, etc.), nodes that have
+  state and nodes that are sinks (OSC and MIDI). ... It's fun."
+
+  "Orca is just one piece of the world that this guy has been building at
+  <https://wiki.xxiivv.com/#home.>
+  He's got a suite of tools: Left, Dotgrid, Ronin, Marabu (text, graphics,
+  super-graphics, audio).
+  Then a logging/personal wiki setup that I think is fascinating: Nataniev,
+  Horaire, Oscean. Which goes all the way down to his own database formats and
+  time format.
+  The philosophy and aesthetic of his work is awesome in the completeness of
+  associated art and the connection between the build-up of his own software
+  ecosystem."
 
 14 Feb 2019
 
@@ -91,6 +112,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
   <http://sunnyday.mit.edu/16.355/> Readings and class notes
 
+14 Feb 2019
+
 - <http://www.1-9-9-1.com/> - *1991 - A server-side web framework written in Forth*
   "The year is 1991. The World Wide Web has just seen public release.
   *1991* looks to ease your interactions with the new web using cutting edge
@@ -98,15 +121,14 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
   'You're using Gforth, which came out in 1992. Also, it's 2017.'
   Okay. But Fredric Jameson establishes that in postmodernism we have experienced
-  a weakening sense of historisity such that what is, what was, and what will
+  a weakening sense of historicity such that what is, what was, and what will
   be all exist as presents in time. 1970, 1991, 1992, and 2017 all happen
   simultaneously. Hence developers working on new projects while still coding
   in decades-old text editors. They write the future in the past and are made
   present in so doing."
 
   via <https://news.ycombinator.com/item?id=19146767> -
-  "A microframework in a scant 480 lines of code,
-  plus a postmodern manifesto ..."
+  "A microframework in a scant 480 lines of code, plus a postmodern manifesto ..."
 
  9 Feb 2019
 
@@ -122,6 +144,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   <http://jazz-quotes.com/artist/thelonious-monk/>  Thelonious Monk:
 
   "Just because you're not a drummer doesn't mean you don't have to keep time."
+
+ 9 Feb 2019
 
 - <https://news.ycombinator.com/item?id=19122578> comment by Ron Garret on
   <https://kirit.com/Build%20me%20a%20LISP>  "... An S-expression is a
