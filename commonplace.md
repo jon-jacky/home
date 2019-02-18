@@ -78,12 +78,12 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   What does it do? Why would I use it?"
   "This isn't really that kind of piece of software. It's a work of art ...
   open it up and play around and you might find something worthy of delight."
-  "Think cellular automatons combined with PD/MaxMSP.
+  "Think cellular automatons combined with PD/MaxMSP. ...
   There are nodes to generate data (counters, timers, etc.), nodes that have
   state and nodes that are sinks (OSC and MIDI). ... It's fun."
 
   "Orca is just one piece of the world that this guy has been building at
-  <https://wiki.xxiivv.com/#home.>
+  <https://wiki.xxiivv.com/#home>
   He's got a suite of tools: Left, Dotgrid, Ronin, Marabu (text, graphics,
   super-graphics, audio).
   Then a logging/personal wiki setup that I think is fascinating: Nataniev,
