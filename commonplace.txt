@@ -24,7 +24,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   field, can be so much excess baggage in an on-line applications
   environment. ..."
 
-  http://www.digibarn.com/stories/linc/documents/LINC-Mary-Allen-Wilkes/Conversational-Access-CACM-1970.pdf - Scroll Editing: an on-line algorithm for manipulating long character strings, 
+  http://www.digibarn.com/stories/linc/documents/LINC-Mary-Allen-Wilkes/Scroll-Editing-Proc.-IEEE.pdf - Scroll Editing: an on-line algorithm for manipulating long character strings, 
   IEEE Trans. on Computers 19, 11, pp. 1009–15, November 1970.
   Describes the ingenious virtual memory scheme: "An algorithm that
   runs on a 2048-word LINC provides efficient on-line editing of
