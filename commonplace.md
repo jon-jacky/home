@@ -5,6 +5,36 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+20 Feb 2019
+
+- <https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html> - The Secret History of Women in Coding - features Mary Ellen
+  Wilkes, who worked on the LINC laboratory minicomputer in the 1960s and
+  wrote these papers about it:
+
+  <http://www.digibarn.com/stories/linc/documents/LINC-Mary-Allen-Wilkes/Conversational-Access-CACM-1970.pdf> - Conversational Access to a 2048-word Machine, 
+  Comm. of the Association for Computing Machinery 13, 7, pp. 407–14, July 1970.
+  "LAP6 is an online system running on a 2048 word LINC which provides
+  full facilities for text editing, automatic filing and file
+  maintenance, and program preparation and assembly. ... The small
+  memory has had surprisingly little effect on the functional
+  specification of the system ... and perhaps operated with a positive
+  effect on the criterion of simplicity. Compromises were, of course,
+  necessary, but we also found that operating features which may seem
+  highly desirable, for example, to a professional in the computer
+  field, can be so much excess baggage in an on-line applications
+  environment. ..."
+
+  <http://www.digibarn.com/stories/linc/documents/LINC-Mary-Allen-Wilkes/Conversational-Access-CACM-1970.pdf> - Scroll Editing: an on-line algorithm for manipulating long character strings, 
+  IEEE Trans. on Computers 19, 11, pp. 1009–15, November 1970.
+  Describes the ingenious virtual memory scheme: "An algorithm that
+  runs on a 2048-word LINC provides efficient on-line editing of
+  character strings virtually unlimited in length. Fixed-address LINC
+  tape holds the character sequence in the manner of a scroll. Edited
+  characters are spliced directly in or out of the scroll as it moves
+  across a display scope under the viewer's control. A 512-character
+  "playground" created at the splice point provides sufficient ease to
+  permit changing the scroll contents dynamically..."
+
 17 Feb 2019
 
 - *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer, pages 90,
@@ -47,8 +77,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   week ... (I'm) shaking my fist at the world.  I won't let even the smallest
   grievance escape me.  I'm going to seize on the most insignificant
   inconvenience, annoyance, hindrance, set-back, disappointment and am going
-  to focus all my rage, anger, bitterness, and frustration on it. ... Nothing
-  will escape me.
+  to focus all my rage, anger, bitterness, and frustration on it. ...
 
   ... the alternatives to giving in and giving up are never as simple as they
   seem.  Believe me, I know.  I've devoted more of my life to thoughts of
@@ -73,8 +102,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 17 Feb 2019
 
-- <https://github.com/hundredrabbits/Orca> - Live Programming Environment - 
-  via <https://news.ycombinator.com/item?id=19118951> - "What is it? 
+- <https://github.com/hundredrabbits/Orca> - Live Programming Environment -
+  via <https://news.ycombinator.com/item?id=19118951> - "What is it?
   What does it do? Why would I use it?"
   "This isn't really that kind of piece of software. It's a work of art ...
   open it up and play around and you might find something worthy of delight."
