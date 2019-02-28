@@ -5,6 +5,64 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+28 Feb 2019
+
+- <https://news.ycombinator.com/item?id=19263295> - Comments on
+  *Hypercard Users Guide* (1987) - "Hypercard was a thrust in the
+  direction of the Engelbart/Kay/Papert vision of personal computing,
+  one where there wasn't so much of a division between "programmers"
+  and "users" ... This vision of computing has fallen out of fashion
+  ...  We have, instead, allowed our personal
+  media to become arcane devices of dubiously "necessary"
+  complexity. You can see this in any cafe where a web developer is
+  using a teletype emulator to create a UI, or when someone cannot
+  take the logical "next step" in processing some information in their
+  spreadsheets (like retrieving data easily) because the system is not
+  set up to allow them to explore that possibility without first
+  learning a full fledged programming language top to bottom. ...  you
+  "do Hypercard" in Hypercard itself, and that the home stack is
+  itself an explorable example of how the whole system works. ..."
+
+  "What was great about the later versions of Hypercard is how they
+  fit holistically within OS8/9 (operating system) ... What really
+  should have happened next is that many of the basic applications
+  should have themselves been implemented in "a hypercard". For
+  example, imagine a Finder that let you peek under the hood to see
+  all of its scripts and, after some kind of "unlocking" allowed you
+  to change it. You get access to a lot of the power of the OS's API
+  for free at that point ... The switch to Unix also meant a switch to
+  an older, more complicated, less intuitive bundle of methods for
+  system scripting. Useful UI metaphors go away at that level and are
+  replaced with bad and outdated metaphors, like the teletype.
+  ... personal computing operating systems seem to have regressed from
+  the contructionist perspective. ... you cannot have a "modern
+  hypercard" without having a different kind of operating system,
+  which itself might require a different hardware architecture."
+
+- <https://news.ycombinator.com/item?id=19239776> - Comments on "Why 80s
+  BASIC still matters" - "BASIC made it easy to learn incrementally,
+  one line at a time. Syntax and block issues in Python require too
+  much up-front training, in my opinion." ...
+
+  "... I know from teaching kids that LINE NUMBERS make more sense to
+  them. ..."
+
+  "... I understood 8-bit BASICs ... because I could spatially follow the
+  flow of a program written with GOTO: knowing the line number told me
+  roughly where in the code it would land. But code that used labels
+  and indirection(arrays, pointers, that kind of thing) was beyond me
+  for quite a while ... Modern languages pack in tons of indirection
+  because that's where the power tools are - but an introductory
+  environment might benefit from cutting down on that."
+
+  "... BASIC worked without any planning whatsoever. You don't need to
+  declare variables, or even arrays if you only use subscripts
+  1-10. Strings handled automatically.  So it was really fun to play
+  with. You could make your new computer do something rather quickly,
+  and refine it over time.  Line numbers were needed on the old 8-bit
+  systems that didn't have full screen text editors with copy/paste
+  built in. It's how you told BASIC where to put new lines in the program. ..."
+
 20 Feb 2019
 
 - <https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html> - The Secret History of Women in Coding - features Mary Ellen
