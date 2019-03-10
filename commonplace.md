@@ -5,6 +5,33 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+10 Mar 2019
+
+- Ghosts and Psychic Dreams: The Dizzying Fiction of Anthony Burgess, by
+  Margaret Drabble, *TLS*, Feb 22 2018, p. 3 (no link): "... Burgess suffered
+  from ... an excessive love of words and language ... he cheerfully recommends
+  "ransacking the dictionary" when in need of an inspirational boost.  Rejecting
+  a critic who praised Shakespeare's dying delerium in his novel *Nothing Like the
+  Sun* (1964) as "wrting of the highest order', he confesses, "Not quite so, really.
+  I had taught  I had taught myself the trick of contriving a satisfactory coda
+  by what, in music, is termed aleatory means: I flicked through the dictionary
+  and took whatever words leapt from the page.  I did this again at the end of my
+  Napoleon novel: the effect is surrealistic, oceanic, and easily achieved".  This is
+  a very odd mode of composition.  Laura Sage nailed it in a review ... "Better the
+  collective unwisdom of the verbal stew, he would say, than any tyrannous signature".
+  ..."
+
+10 Mar 2019
+
+- <https://news.ycombinator.com/item?id=19344872> - Comment on The Emacs
+  Package Developer's Handbook - "... the highly imperative Logo-like
+  model of coding is, though kind of clunky at times, also extremely
+  intuitive and straightforward. Your programs often work the same way
+  you work: go to the other buffer, search forward for a regexp, kill
+  the line, go back to the beginning, and so on, just like “editor
+  macros.” So there’s no funky abstraction frameworks with models and
+  controllers and whatnot, just buffers with cursors basically."
+
 28 Feb 2019
 
 - <https://news.ycombinator.com/item?id=19263295> - Comments on
