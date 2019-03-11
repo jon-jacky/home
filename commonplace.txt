@@ -7,6 +7,23 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 10 Mar 2019
 
+- http://www.cheng.staff.shef.ac.uk/morality/morality.pdf -
+  Mathematics, Morally by Eugenia Cheng - "... The key characteristic
+  about proof is not its infallibility, not its ability to convince
+  but its *transferrability*. Proof is the best medium for
+  communicating my argument to X in a way which will not be in danger
+  of ambiguity, misunderstanding, or defeat. Proof is the pivot for
+  getting from one person to another, but some translation is needed
+  on both sides.  
+
+  So when I read an article, I always hope that the author will have
+  included a reason and not just a proof, in case I can convince
+  myself of the result without having to go to all the trouble of
+  reading the fiddly proof. When this does happen, the benefits are
+  very great. But is it always possible? ..."
+
+10 Mar 2019
+
 - Ghosts and Psychic Dreams: The Dizzying Fiction of Anthony Burgess, by
   Margaret Drabble, *TLS*, Feb 22 2018, p. 3 (no link): "... Burgess suffered 
   from ... an excessive love of words and language ... he cheerfully recommends
