@@ -30,7 +30,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   "ransacking the dictionary" when in need of an inspirational boost.  Rejecting
   a critic who praised Shakespeare's dying delerium in his novel *Nothing Like the
   Sun* (1964) as "wrting of the highest order', he confesses, "Not quite so, really.
-  I had taught  I had taught myself the trick of contriving a satisfactory coda
+  I had taught myself the trick of contriving a satisfactory coda
   by what, in music, is termed aleatory means: I flicked through the dictionary
   and took whatever words leapt from the page.  I did this again at the end of my
   Napoleon novel: the effect is surrealistic, oceanic, and easily achieved".  This is
