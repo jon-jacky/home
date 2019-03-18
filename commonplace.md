@@ -5,6 +5,25 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+16 Mar 2019
+
+- <https://news.ycombinator.com/item?id=19416485> - comments on
+  *The Unix-Haters Handbook* - "These days I say, Unix went from being the
+  worst operating system available, to being the best operating system available,
+  without getting appreciably better. ... It's not that Unix is really that bad,
+  it's that it has a certain model of computer use which has crowded out the
+  more ambitious visions which were still alive in the 70s and 80s."
+
+  "I think (this book) still has a valuable lesson that many, particularly young CS students,
+  would benefit from: Unix is not the perfect fundamental model for computing.
+  C is not the gospel. Their prevalence today is as much a historic and economic accident
+  as a rational consequence of their objective merits. Both are social artifacts,
+  not manifestations of fundamental truths."
+
+  "... that sniping does a good job of deconstructing the historical revisionism
+  that Unix was some beautifully architected thing, rather than something that's
+  become less (bad) over time."
+
 10 Mar 2019
 
 - <http://www.cheng.staff.shef.ac.uk/morality/morality.pdf> -
