@@ -7,18 +7,17 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 18 Mar 2019
 
-- *But Beautiful: A Book About Jazz* by Geoff Dyer, pages 184-185, 188,
-  192-194, 196-197, 198 (no link): subjective, imaginative retellings of incidents from
+- *But Beautiful: A Book About Jazz* by Geoff Dyer, pages 184-186, 188-189,
+  192-193, 194-197, 197-198 (no link): 
+  personal, imaginative retellings of incidents from
   the lives of musicians: Lester Young, Thelonious Monk and others.
   From the much different omniscient Afterword:
 
   "... From the beginning (jazz) developed through the shared participation
   of a community of audiences and performers ... every time (a musician)
   picks up his horn, he cannot avoid commenting, automatically and implicitly
-  ... on the tradition that has laid the music at his feet.  At its worst
-  this involves simple repetition ... sometimes it involves exploring
-  possibilities that were previously only touched upon.  At its best it
-  expands the possibilities of the form. ... Ideally, a new version of an
+  ... on the tradition that has laid the music at his feet.  ...
+  Ideally, a new version of an
   old song is virtually a recomposition and this labile relation between
   composition and improvisation is one of the sources of jazz's ability to
   constantly replenish itself. ...
@@ -39,12 +38,26 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   entirely to him.   At times early Keith Jarrett makes us wonder if
   Bill Evans does not sound too much like Jarrett."
 
-  "... hand in hand with jazz's capacity to absorb its surrounding
+  ... hand in hand with jazz's capacity to absorb its surrounding
   history goes its capacity to raise to the level of genius those who would
   otherwise have lacked a medium to express themselves. ... In what other
   art form could a man like Art Pepper have achieved the beauty he did?"
 
-  "Students of literature routinely find the early deaths of Shelley and Keats
+  Anyone who becomes interested in jazz is struck very early on by
+  the high casualty rate among its practitioners. ... Virtually all
+  black musicians were subject to racial discrimination and abuse. ...
+  While (some) who dominated jazz in the 1930s ended up as alcoholics,
+  the generation of musicians who forged the bebop revolution in the 1940s
+  and consolidated its development in the 1950s fell victim to a virtual
+  epidemic of heroin addiction.  Drug addiction led directly (in the cases
+  of (some)) and indirectly (in the cases of (others)) to jail.  The routes
+  to the psychiatric wards of hospitals, while a good deal more tortuous,
+  was just as well trodden. ... (These) -- so many of the leading figures
+  of the 1940s and 1950s suffered some kind of breakdown that it is only
+  a slight exagerration of perspective to say that Bellevue has an almost
+  equal claim to Birdland as being the home of modern jazz.
+
+  Students of literature routinely find the early deaths of Shelley and Keats
   ... as fulfilling the doomed caveat of the Romantic agony. ...
   the suggestion is that premature death is a condition of creativity ...
   For jazz musicians of the bebop era making it into middle age begins to
@@ -59,6 +72,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   have nothing beyond *The Birth of the Cool*, some sense of the scale of the
   loss appears.
 
+  If at first it seems melodromatic to suggest that there is something
+  iherently dangerous in the form, a little consideration is likely
+  leave us wondering how it could be otherwise.
   ... from the 1940s onward jazz advanced with the power and ferocity of a
   fire sweeping through a forest.   How could an art form have developed so
   rapidly and at such a pitch of excitement without exacting a huge human toll?

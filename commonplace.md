@@ -5,7 +5,83 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-16 Mar 2019
+18 Mar 2019
+
+- *But Beautiful: A Book About Jazz* by Geoff Dyer, pages 184-186, 188-189,
+  192-193, 194-197, 197-198 (no link):
+  personal, imaginative retellings of incidents from
+  the lives of musicians: Lester Young, Thelonious Monk and others.
+  From the much different omniscient Afterword:
+
+  "... From the beginning (jazz) developed through the shared participation
+  of a community of audiences and performers ... every time (a musician)
+  picks up his horn, he cannot avoid commenting, automatically and implicitly
+  ... on the tradition that has laid the music at his feet.  ...
+  Ideally, a new version of an
+  old song is virtually a recomposition and this labile relation between
+  composition and improvisation is one of the sources of jazz's ability to
+  constantly replenish itself. ...
+
+  There are two apparently contradictory ways in which the antecedent's voice
+  makes itself heard.
+  Some musical personalities are so strong .. that they colonize
+  a whole area of expression, and others can encroach on it only at the
+  price of surrendering their individuality. ... It is now almost impossible
+  for a trumpeter to play a ballad with a Harmon mute and not sound as if
+  he is imitating Miles Davis.  Alternatively, there are
+  rare instances of musicians assimilating their predominant influences to
+  such an extent that they seem at times, as Harold Bloom has said of some
+  poets, to "achieve a style that captures and oddly retains priority over
+  their precursors ... and one can believe for startled moments, that they
+  are being *imitated by their ancestors*." ... Lester Young frequently sounds
+  as if he is indebted to those like Stan Getz who in fact owe their sound
+  entirely to him.   At times early Keith Jarrett makes us wonder if
+  Bill Evans does not sound too much like Jarrett."
+
+  ... hand in hand with jazz's capacity to absorb its surrounding
+  history goes its capacity to raise to the level of genius those who would
+  otherwise have lacked a medium to express themselves. ... In what other
+  art form could a man like Art Pepper have achieved the beauty he did?"
+
+  Anyone who becomes interested in jazz is struck very early on by
+  the high casualty rate among its practitioners. ... Virtually all
+  black musicians were subject to racial discrimination and abuse. ...
+  While (some) who dominated jazz in the 1930s ended up as alcoholics,
+  the generation of musicians who forged the bebop revolution in the 1940s
+  and consolidated its development in the 1950s fell victim to a virtual
+  epidemic of heroin addiction.  Drug addiction led directly (in the cases
+  of (some)) and indirectly (in the cases of (others)) to jail.  The routes
+  to the psychiatric wards of hospitals, while a good deal more tortuous,
+  was just as well trodden. ... (These) -- so many of the leading figures
+  of the 1940s and 1950s suffered some kind of breakdown that it is only
+  a slight exagerration of perspective to say that Bellevue has an almost
+  equal claim to Birdland as being the home of modern jazz.
+
+  Students of literature routinely find the early deaths of Shelley and Keats
+  ... as fulfilling the doomed caveat of the Romantic agony. ...
+  the suggestion is that premature death is a condition of creativity ...
+  For jazz musicians of the bebop era making it into middle age begins to
+  seem like a dream of longevity.  John Coltrane died at forty, Charlie
+  Parker at thirty-four ... In a few cases their talent was so prodigious
+  that at the time of their deaths some musicians had already produced an
+  important body of work -- but even this consolidated achievement painfully
+  emphasizes how much might have been accomplished in the years to come.
+  Clifford Brown had already established himself as one of the greatest
+  trumpeters of all time when he was killed in a car crash at age twenty-five
+  ... when you consider that if Miles Davis had died at a similar age we would
+  have nothing beyond *The Birth of the Cool*, some sense of the scale of the
+  loss appears.
+
+  If at first it seems melodromatic to suggest that there is something
+  iherently dangerous in the form, a little consideration is likely
+  leave us wondering how it could be otherwise.
+  ... from the 1940s onward jazz advanced with the power and ferocity of a
+  fire sweeping through a forest.   How could an art form have developed so
+  rapidly and at such a pitch of excitement without exacting a huge human toll?
+  If jazz has a vital connection with "the universal struggle of modern man"
+  how could the men who create it not bear the scars of that struggle?"
+
+18 Mar 2019
 
 - <https://news.ycombinator.com/item?id=19416485> - comments on
   *The Unix-Haters Handbook* -  "I think (this book) still has
@@ -15,10 +91,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   as a rational consequence of their objective merits. Both are social artifacts,
   not manifestations of fundamental truths."
 
-  "These days I say, Unix went from being the worst operating system available,
-  to being the best operating system available, without getting appreciably better.
-
-  And I still miss my Lisp Machine. It's not that Unix is really that bad,
+  "... I still miss my Lisp Machine. It's not that Unix is really that bad,
   it's that it has a certain model of computer use which has crowded out
   the more ambitious visions which were still alive in the 70s and 80s."
 
