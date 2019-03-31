@@ -5,7 +5,52 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-18 Mar 2019
+31 Mar 2019
+
+- *The Autobiography of Malcolm X* as told to Alex Haley, pages 174-176, 183
+  (no link).
+  "It had really begun, back in the Charlestown Prison, when Bimbi made me
+  feel envy for his stock of knowledge. ... But any book I picked up had few
+  sentences which didn't contain one to nearly all of the words that might
+  have been in Chinese. ... I saw that the best thing I could do was get hold
+  of a dictionary.  ... that moved me to request a dictionary along with some
+  tablets and pencils from the Norfolk Prison Colony school
+
+  ... I didn't know *which* words I needed to learn.  Finally, just to start
+  some kind of activity, I began copying.  In my slow, painstaking, ragged
+  handwriting, I copied into that tablet everything printed on that first page ...
+  I believe it took me a day.  ...  Then, aloud, I read back to myself, everything
+  I'd written on the  tablet.  Over and over, aloud, to myself ...
+  I woke up the next morning, thinking about those words -- immensely proub
+  to realize not only that I had written so much at one time, but I'd written words
+  that I never knew were in the world.  Moreover ... I could remember what many
+  of these words meant. ...
+
+  I was so fascinated that I went on -- I copied the dictionary's next page.
+  ... With every succeedeing page, I also learned of people and places and events
+  from history.  ... Finally the dictionary's A section had filled a whole tablet --
+  and I went on into the B's.  That was the way I started copying what eventually
+  became the entire dictionary. ... during the rest of my time in prison I would
+  guess I wrote a million words.
+
+  ... as my word-base broadened, I could for the first time pick up a book and
+  read and now begin to understand what the book was saying.  Anyone who has
+  read a great deal can imagine the new world that opened. ... from then until
+  I left that prison, in every free moment I had, if I was not reading in the
+  library, I was reading on my bunk. ... months passed without my even thinking
+  about being imprisoned.  In fact, up to then, I had never been so truly free
+  in my life.
+
+  ... No university would ask any student to devour literature as I did when
+  this new world opened up to me. ...
+  I don't think anyone got more out of going to
+  prison than I did.  In fact, prison enabled me to study far more
+  intensively than I would have if my life had gone differently and I
+  had attended some college. ... Where else but in a prison could I have
+  attacked my ignorance by being able to study intensely sometimes as much
+  as fifteen hours a day?"
+
+20 Mar 2019
 
 - *But Beautiful: A Book About Jazz* by Geoff Dyer, pages 184-186, 188-189,
   192-193, 194-197, 197-198 (no link):
@@ -36,7 +81,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   are being *imitated by their ancestors*." ... Lester Young frequently sounds
   as if he is indebted to those like Stan Getz who in fact owe their sound
   entirely to him.   At times early Keith Jarrett makes us wonder if
-  Bill Evans does not sound too much like Jarrett."
+  Bill Evans does not sound too much like Jarrett.
 
   ... hand in hand with jazz's capacity to absorb its surrounding
   history goes its capacity to raise to the level of genius those who would
