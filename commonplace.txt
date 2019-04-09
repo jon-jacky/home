@@ -4,11 +4,11 @@ are copied for personal use.
 
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
- 
+
  8 Apr 2019
 
 - https://news.ycombinator.com/item?id=1476059, comments by *dasht* on
-  GNU HURD: Altered visions and lost promise: 
+  GNU HURD: Altered visions and lost promise:
   "I was one of the hacker employees of the FSF back in the early days
   of the HURD project.  ...  The original vision for the GNU system ...
   was to - sure - grow a unix clone, but then to build a user space
@@ -28,6 +28,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   in a way such that its enhancement is a natural part of writing extensions.
   ... the architectural approach (emacs) takes is vastly more sane than
   what the interactive programs we wound up with use. ...
+  (These) observations apply (to Gimp), to the Open Office suite,
+  to Gnome, to Firefox, and more.
   We have a big, barely maintainable heap of discordant and vaguely
   conceived functionality.
 
