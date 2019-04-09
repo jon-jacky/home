@@ -28,6 +28,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   in a way such that its enhancement is a natural part of writing extensions.
   ... the architectural approach (emacs) takes is vastly more sane than
   what the interactive programs we wound up with use. ...
+  (These) observations apply (to Gimp), to the Open Office suite,
+  to Gnome, to Firefox, and more.
   We have a big, barely maintainable heap of discordant and vaguely
   conceived functionality.
 
