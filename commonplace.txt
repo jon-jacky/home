@@ -5,7 +5,7 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
- 8 Apr 2019
+11 Apr 2019
 
 - https://news.ycombinator.com/item?id=1476059, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -39,10 +39,36 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   so that those standard "*--help*" messages could be automagically
   used by the shell to intelligently prompt for arguments to a program.
 
-  I guess I should add that a lisp - most of us that I knew assumed Scheme - 
+  I guess I should add that a lisp - most of us that I knew assumed Scheme -
   would figure prominently as the main extension language (rather than Emacs lisp).
   Why a lisp? Well, it had a proven track record and that was our aesthetic
   -- I'll leave it at that."
+
+- https://www.recurse.com/blog/11-exploring-emacs, Exploring Emacs:
+  "Emacs makes it easy to see the code behind its commands. ...
+  For instance, if you want to see how a particular command-key sequence works,
+  type *C-h k* and then the key sequence into the modeline prompt.
+
+  If you're curious how *C-h k* itself works, type *C-h k C-h k*.
+  According to the *Help* buffer that appears, *C-h k* corresponds to the
+  Emacs Lisp function *describe-key* defined in *help.el*.
+  Move your cursor onto the *help.el* text in the *Help* buffer and press enter.
+  Youre now looking at the Emacs Lisp source for *describe-key*. ..."
+
+- https://news.ycombinator.com/item?id=5729291, comments by *brudgers* on
+  How to Learn Emacs: A Hand-drawn One-pager for Beginners:
+  (That how-to describes some command-key sequences or keyboard shortcuts,
+  for example *C-p* moves the cursor to the previous line.)
+  "The power of Emacs is being command driven. The command for moving to previous line is:
+  *previous-line*.  The mini-buffer is where one enters commands. The command
+  for switching focus to the mini-buffer is: *M-x*.  Tell the new user
+  what is really going on. To move to the previous line:
+  a) enter the command <M-x> to switch focus to the mini-buffer
+  b) enter the command <previous-line> to move the coursor
+  c) after entering the command, focus will return from the mini-buffer to the invoking buffer.
+  ...  what tutorials are teaching is not the language of Emacs (commands and eLisp),
+  but the language of Emacs users (shortcuts) ...
+  the starting point for everything is <M-x *command*>."
 
 31 Mar 2019
 
