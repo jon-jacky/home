@@ -63,15 +63,15 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   *previous-line*.  The mini-buffer is where one enters commands. The command
   for switching focus to the mini-buffer is: *M-x*.  Tell the new user
   what is really going on. To move to the previous line:
-  a) enter the command <M-x> to switch focus to the mini-buffer
-  b) enter the command <previous-line> to move the cursor
+  a) enter the command *M-x* to switch focus to the mini-buffer
+  b) enter the command *previous-line* to move the cursor
   c) after entering the command, focus will return from the mini-buffer to the invoking buffer.
   ... until (new users) have somewhere to hang *C-p* it's not a mnemonic, it's just
-  a weird way of doing stuff ... giving the learner <previous line> first,
+  a weird way of doing stuff ... giving the learner *previous-line* first,
   gives them somewhere to hang it ...
   what tutorials are teaching is not the language of Emacs (commands and eLisp),
   but the language of Emacs users (shortcuts) ...
-  the starting point for everything is <M-x *command*>."
+  the starting point for everything is *M-x command*."
 
 - <https://news.ycombinator.com/item?id=6322734>, comment by *samatman* on
   Start Using Emacs  A Thorough Guide for Beginners:
