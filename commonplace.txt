@@ -53,22 +53,32 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   According to the *Help* buffer that appears, *C-h k* corresponds to the
   Emacs Lisp function *describe-key* defined in *help.el*.
   Move your cursor onto the *help.el* text in the *Help* buffer and press enter.
-  Youre now looking at the Emacs Lisp source for *describe-key*. ..."
+  You're now looking at the Emacs Lisp source for *describe-key*. ..."
 
 - https://news.ycombinator.com/item?id=5729291, comments by *brudgers* on
   How to Learn Emacs: A Hand-drawn One-pager for Beginners:
-  (That how-to describes some command-key sequences or keyboard shortcuts,
-  for example *C-p* moves the cursor to the previous line.)
+  (which describes some command-key sequences or keyboard shortcuts
+  like *C-p*, which moves the cursor to the previous line.)
   "The power of Emacs is being command driven. The command for moving to previous line is:
   *previous-line*.  The mini-buffer is where one enters commands. The command
   for switching focus to the mini-buffer is: *M-x*.  Tell the new user
   what is really going on. To move to the previous line:
   a) enter the command <M-x> to switch focus to the mini-buffer
-  b) enter the command <previous-line> to move the coursor
+  b) enter the command <previous-line> to move the cursor
   c) after entering the command, focus will return from the mini-buffer to the invoking buffer.
-  ...  what tutorials are teaching is not the language of Emacs (commands and eLisp),
+  ... until (new users) have somewhere to hang *C-p* it's not a mnemonic, it's just
+  a weird way of doing stuff ... giving the learner <previous line> first,
+  gives them somewhere to hang it ...
+  what tutorials are teaching is not the language of Emacs (commands and eLisp),
   but the language of Emacs users (shortcuts) ...
   the starting point for everything is <M-x *command*>."
+
+- https://news.ycombinator.com/item?id=6322734, comment by *samatman* on
+  Start Using Emacs  A Thorough Guide for Beginners:
+  "... Emacs is an ancient book of magic spells, with a strange,
+  hoary culture surrounding it. It is phenomenally powerful,
+  and also very, very weird. ..."
+
 
 31 Mar 2019
 
@@ -77,11 +87,14 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   "It had really begun, back in the Charlestown Prison, when Bimbi made me
   feel envy for his stock of knowledge. ... But any book I picked up had few
   sentences which didn't contain one to nearly all of the words that might
-  have been in Chinese. ... I saw that the best thing I could do was get hold
+  have been in Chinese.  When I just skipped those words, of course, I really
+  ended up with little idea of what the book said. ... 
+  I saw that the best thing I could do was get hold
   of a dictionary.  ... that moved me to request a dictionary along with some
   tablets and pencils from the Norfolk Prison Colony school
 
-  ... I didn't know *which* words I needed to learn.  Finally, just to start
+  I'd never realized how many words existed! I didn't know *which* words I needed to learn.  
+  Finally, just to start
   some kind of activity, I began copying.  In my slow, painstaking, ragged
   handwriting, I copied into that tablet everything printed on that first page ...
   I believe it took me a day.  ...  Then, aloud, I read back to myself, everything
