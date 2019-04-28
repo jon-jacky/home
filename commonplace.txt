@@ -5,6 +5,93 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+27 Apr 2019
+
+- https://web.cs.ucdavis.edu/~devanbu/belief+evidence.pdf - Belief and
+  Evidence in Empirical Software Engineering by Prem Devanbu, Thomas
+  Zimmermann, and Christian Bird, *ICSE 16*, 2016: "The project of
+  adapting belief to evidence is as old as science itself ... there is
+  a systematic process by which one’s prior beliefs are integrated
+  with the data; this is the realm of statistical inference.  Two
+  competing statistical inference methods are available: Frequentist
+  and Bayesian.
+
+  Frequentists assert that the probability of correctness of a theory
+  should be indirectly (but exclusively) inferred from the frequency
+  with which the consequents of the theory are observed in experiments
+  ... This view is empirical, and entirely grounded on observation,
+  and data, leaving no room for prior belief.  ... This way, of
+  ignoring prior belief, and taking a neutral belief stance, is
+  epistemically symmetric: all beliefs are considered equiprobable,
+  ... with all possible related hypotheses being considered equally
+  likely before the experiment begins; and after the experiment is
+  done, and the data is gathered, you can calculate the probability
+  (p-value) of the observation, under each (a priori equiprobable)
+  hypothesis, and reject the null hypothesis if it renders the data
+  observation sufficiently improbable.
+
+  In the Bayesian world-view, the prior belief regarding the
+  hypothesis must be considered.  In an experimental setting, we
+  ... interpret the data in the context of our prior belief, and then
+  combine the prior belief with experimental data to yield an updated
+  posterior belief.  Bayesians argue that is a more realistic view of
+  how people actually react to evidence: we are more doubtful of
+  outlandish claims, and ask for stronger evidence. ..
+
+  The use of the frequentist p-value has recently come under attack,
+  most prominently by (authors) with the publication of
+  the alarmingly titled paper “Why most published scientific results
+  are wrong”.  The paper notes that quite a number of very prominently
+  reported scientific results turn out to be wrong, and are
+  subsequently retracted. ...
+
+  At the outset, we note that many of the (Bayseian) arguments are
+  applicable in settings where experimental power (*viz*, the
+  *unlikelihood* of a false negative finding) is limited by practical
+  considerations, such as cost, effort, or the need for human
+  subjects.  In ... “big data” settings ... sample sizes in the
+  thousands ... afford formidable experimental power (even for effects
+  that are statistically small) and also yield very low p-values
+  (false positive rates).  This power allows experimental p-values to
+  take a dominant role, and attenuate the effect of prior beliefs. ...
+
+  (Bayesians) ... have argued that frequentist p-values are only one
+  component of a rational approach to scientific knowledge.  ...  if
+  one assumes that the prior probabilities of a hypothesis being true
+  or false are not equal, and that the hypothesis is actually false,
+  then simple experimental error (false positive rate, as well as
+  false negative rate) leads to a higher rate of erroneous alternative
+  hypothesis confirmation ("false discovery"), as given by (this formula).
+  More concretely, if you give a hypothesis a 25% prior chance of
+  being true, and even your false negative rate is vanishingly small,
+  then with a p−value of 0.05, there is an almost 13% risk of false
+  discovery.  This can be viewed as a Bayesian account of the popular
+  adage "extraordinary claims require extra-ordinary evidence"; the
+  more extraordinary the claim, the lower the prior belief ..."
+
+  via https://ask.metafilter.com/333495/Software-engineering-where-is-the-data
+  - "I'm a programmer (and long-ago scientist) looking into software
+  engineering best practices. As a field of scientific study, it
+  seems... well, let's say, lean. ... What resources are there to
+  catch up on what's going on in the field?"  Many answers follow with
+  other links to empirical studies of software engineering.
+
+
+27 Apr 2019
+
+- https://sourcebooks.fordham.edu/basis/gregory-hist.asp#book2 - 
+  *History of the Franks* by Gregory of Tours, translated by
+  Ernest Brehaut.  Written before 594, about the invasions that ended
+  Roman rule in Gaul and the Frankish kingdoms that replaced it.  Any
+  reader would call this a dark age.  Book II begins: 
+
+  "Following the order of time we shall mingle together in our tale
+  the miraculous doings of the saints and the slaughters of the
+  nations.  I do not think that we shall be condemned thoughtlessly if
+  we tell of the happy lives of the blessed together with the deaths
+  of the wretched, since it is not the skill of the writer but the
+  succession of times that has furnished this arrangement. ..."
+
 14 Apr 2019
 
 - http://www.laffpix.com/howtoreadnancy.pdf - How To Read Nancy by Mark
@@ -20,12 +107,6 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   he mined it brilliantly. ...  Bushmiller realized that gag knows no
   I.Q. and that the success or failure of a given gag relies much more
   on its own inner mechanisms than the sophistication of its premise. ...
-
-  (after four pages of analysis of a three-panel strip) ... (These panels)
-  were designed to hold (and hold back) a specific gag created on a certain
-  day by a certain artist to be read for a laugh in a twinkling of an eye
-  on another certain day by a few certain million people.  Form follows
-  function of the strip.  You can't strip it down more than this folks."
 
   (See link below to the new Nancy strip by another cartoonist.)
 
@@ -106,8 +187,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
 31 Mar 2019
 
-- *The Autobiography of Malcolm X* as told to Alex Haley, pages 174-176, 183
-  (no link):
+- *The Autobiography of Malcolm X* as told to Alex Haley, Chapter 11, Saved,
+  pages 174-176, 183 (no link):
   "It had really begun, back in the Charlestown Prison, when Bimbi made me
   feel envy for his stock of knowledge. ... But any book I picked up had few
   sentences which didn't contain one to nearly all of the words that might
