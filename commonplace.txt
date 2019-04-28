@@ -22,7 +22,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   ... This view is empirical, and entirely grounded on observation,
   and data, leaving no room for prior belief.  ... This way, of
   ignoring prior belief, and taking a neutral belief stance, is
-  epistemically symmetric: all beliefs are considered equiprobable,
+  epistemically symmetric: all beliefs are considered equiprobable
   ... with all possible related hypotheses being considered equally
   likely before the experiment begins; and after the experiment is
   done, and the data is gathered, you can calculate the probability
@@ -36,7 +36,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   combine the prior belief with experimental data to yield an updated
   posterior belief.  Bayesians argue that is a more realistic view of
   how people actually react to evidence: we are more doubtful of
-  outlandish claims, and ask for stronger evidence. ..
+  outlandish claims, and ask for stronger evidence. ...
 
   The use of the frequentist p-value has recently come under attack,
   most prominently by (authors) with the publication of
@@ -66,11 +66,11 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   being true, and even your false negative rate is vanishingly small,
   then with a p−value of 0.05, there is an almost 13% risk of false
   discovery.  This can be viewed as a Bayesian account of the popular
-  adage "extraordinary claims require extra-ordinary evidence"; the
+  adage "extraordinary claims require extraordinary evidence"; the
   more extraordinary the claim, the lower the prior belief ..."
 
-  via https://ask.metafilter.com/333495/Software-engineering-where-is-the-data
-  - "I'm a programmer (and long-ago scientist) looking into software
+  via https://ask.metafilter.com/333495/Software-engineering-where-is-the-data -
+  "I'm a programmer (and long-ago scientist) looking into software
   engineering best practices. As a field of scientific study, it
   seems... well, let's say, lean. ... What resources are there to
   catch up on what's going on in the field?"  Many answers follow with
@@ -82,8 +82,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 - https://sourcebooks.fordham.edu/basis/gregory-hist.asp#book2 - 
   *History of the Franks* by Gregory of Tours, translated by
   Ernest Brehaut.  Written before 594, about the invasions that ended
-  Roman rule in Gaul and the Frankish kingdoms that replaced it.  Any
-  reader would call this a dark age.  Book II begins: 
+  Roman rule in Gaul and the Frankish kingdoms that replaced it.  
+  I think any reader would call this a dark age.  Book II begins: 
 
   "Following the order of time we shall mingle together in our tale
   the miraculous doings of the saints and the slaughters of the
