@@ -5,6 +5,45 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+23 May 2019
+
+- <https://news.ycombinator.com/item?id=19986126> - Comments on
+  SerenityOS - a graphical Unix-like OS for x86, with 90s aesthetics -
+  "Serenity is an unapologetic remix/mash-up of all the things I like in software.
+  Not just visually, but also code-wise. ..."
+  "I would like to make this system good enough that I can spend most of my time on it.
+  Without losing track of the original ideas."
+  "All the fonts are hand-bitmapped by me, using the included FontEditor application. ..."
+
+  "...  I feel like *nix used to be a lot of fun and full of hacker's spirit,
+  and it's just not like that anymore. Things aren't simple anymore,
+  and they can't easily be taken apart and understood in an evening, like they used to.
+  So I figured I can just make my own then, just the way I like it."
+  "This entire project is about implementing already-existing functionality in its own way,
+  with minimal dependencies, for fun."
+
+23 May 2019
+
+- <https://www.youtube.com/watch?v=62tIvfP9A2w> - The Most Feared Song in Jazz, Explained -
+  "Making sense of John Coltrane's 'Giant Steps' ... It's known across the jazz world
+  as one of the most challenging compositions to improvise over for two reasons -
+  it's fast and it's in three keys. ... (here is)
+  a crash course in music theory to help (us) understand this notoriously difficult song ..."
+
+- <https://www.youtube.com/watch?v=KNgA7dDs90E> - The Greatest Album Covers of Jazz -
+  "... bold typography, two tone photography, and minimal graphic design ...
+  Blue Note captured the refined sophistication of jazz during the early 60s,
+  particularly during the hard bop era, and gave it a definitive visual identity
+  through album covers. ..."
+
+- <https://www.youtube.com/watch?v=iUr97kAtuAc> - Jazz 625 At The BBC Live Concert Video -
+  "... recorded in 1964 and '65, featuring the giants of the jazz scene, from Dizzy Gillespie
+  to the Modern Jazz Quartet. This (YT video) is a good sampler of music from the show,
+  but a few whole episodes are available online, and I've put links to the ones I found (here):"
+  <https://www.metafilter.com/180812/They-looked-so-great-when-they-played-Charlie-Watts>
+  for example <https://www.youtube.com/watch?v=3wkhyUl_Vmw> - Bill Evans Trio - and
+  <https://vimeo.com/319508635> - Thelonius Monk
+
 27 Apr 2019
 
 - <https://web.cs.ucdavis.edu/~devanbu/belief+evidence.pdf> - Belief and
