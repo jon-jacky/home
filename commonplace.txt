@@ -5,7 +5,7 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-14 Jun 2019
+15 Jun 2019
 
 - Hauntings by Tom Graham, review of K-PUNK by Mark Fisher, *TLS*,
   May 24, 2019, p. 32 (no link): " ... it is hard to shake the feelihg that
@@ -21,29 +21,65 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   1970s, the "dreary void of Sundays, the night hours after television stopped
   broadcasting, even the endless dragging minutes spent waiting in queues or
   for public transport" were viewed as a "challenge, an injunction and an
-  opportunity".  Nowadays, "in the intensive 24/7 enviroment of capitalist
+  opportunity".  Nowadays, "in the intensive 24/7 environment of capitalist
   cyberspace, the brain is no longer allowed any time to idle; instead, it is
   inundated with a seamless flow of low-level stimulus".  In compulsively
   engaging with frivolous online content that we recognize -- even
   celebrate -- as tedious, we sorely limit ourselves.  We have arrived at a
   situation in which "no one is bored, everything is boring"."
 
+15 Jun 2019
+
+- https://github.com/thomasahle/sunfish - Python Chess Engine -
+  "Sunfish is a simple, but strong chess engine, written in Python,
+  mostly for teaching purposes. Without tables and its simple interface, it
+  takes up just 111 lines of code! Features:
+  1. Built around the simple, but deadly efficient MTD-bi search algorithm.
+  2. Filled with classic as well as modern 'chess engine tricks' for simpler and faster code.
+  3. Easily adaptive evaluation function through Piece Square Tables.
+  4. Uses standard Python collections and data structures for clarity and efficiency."
+  via https://news.ycombinator.com/item?id=20068651
+
+- https://github.com/jmou/zit - a minimal implementation of git written in a
+  a few hundred lines of code. "... zit is not intended to be "well written"
+  code. ... Instead zit is meant to be a terse implementation to help
+  demystify git. ...
+  Most of the files are named after actual git commands, so you can use git
+  help to read relevant documentation.
+  ... this is not a robust implementation of git so don't let it out
+  on your important code. ..."  About twenty very short
+  files in bash or Python, one for each command plus some helpers.
+  Demontrates some clever idioms in a terse, almost comment-free style.
+  via https://joy.recurse.com/posts/257-zit-the-imitation-stupid-content-tracker.
+  Compare to *gitlet*, https://maryrosecook.com/blog/post/introducing-gitlet.
+
+15 Jun 2019
+
+- http://pgbovine.net/research-design-patterns.htm - Research Design Patterns -
+  "... How do people come up with research ideas?
+  ... I've noticed some common patterns throughout the years.
+  ... Here are my top ten: ... *8. Mr. Beast.* Mr. Beast is a YouTuber known
+  for putting an absurd number of hours into seemingly-mundane things, like
+  counting from 1 to 100,000.
+  You can channel Mr. Beast in your research by being willing to spend an
+  absurd amount of time doing what your peers won't. Paradoxically, by grinding
+  on seemingly mundane tasks, you can actually get deeper insights that others
+  overlook simply because they haven't put in the raw hours. I've gotten many
+  great ideas this way, not because I'm any smarter than my peers, but just
+  because I was willing to put in the hours when others weren't. ... (examples
+  with links) ..."
+
 23 May 2019
 
 - https://news.ycombinator.com/item?id=19986126 - Comments on
-  SerenityOS - a graphical Unix-like OS for x86, with 90s aesthetics -
-  "Serenity is an unapologetic remix/mash-up of all the things I like in software.
-  Not just visually, but also code-wise. ..."
-  "I would like to make this system good enough that I can spend most of my time on it.
-  Without losing track of the original ideas."
-  "All the fonts are hand-bitmapped by me, using the included FontEditor application. ..."
-
-  "...  I feel like *nix used to be a lot of fun and full of hacker's spirit,
+  SerenityOS -  "Serenity is an unapologetic remix/mash-up of all the things
+  I like in software.   Not just visually, but also code-wise. ...
+  I would like to make this system good enough that I can spend most of my time on it.
+  Without losing track of the original ideas. ...
+  I feel like *nix used to be a lot of fun and full of hacker's spirit,
   and it's just not like that anymore. Things aren't simple anymore,
   and they can't easily be taken apart and understood in an evening, like they used to.
   So I figured I can just make my own then, just the way I like it."
-  "This entire project is about implementing already-existing functionality in its own way,
-  with minimal dependencies, for fun."
 
 23 May 2019
 
