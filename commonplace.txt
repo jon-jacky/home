@@ -33,11 +33,11 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 - https://github.com/thomasahle/sunfish - Python Chess Engine -
   "Sunfish is a simple, but strong chess engine, written in Python,
   mostly for teaching purposes. Without tables and its simple interface, it
-  takes up just 111 lines of code! Features:
-  1. Built around the simple, but deadly efficient MTD-bi search algorithm.
-  2. Filled with classic as well as modern 'chess engine tricks' for simpler and faster code.
-  3. Easily adaptive evaluation function through Piece Square Tables.
-  4. Uses standard Python collections and data structures for clarity and efficiency."
+  takes up just 111 lines of code! Features: 1. Built around the simple, but 
+  deadly efficient MTD-bi search algorithm. 2. Filled with classic as well 
+  as modern 'chess engine tricks' for simpler and faster code. 3. Easily 
+  adaptive evaluation function through Piece Square Tables. 4. Uses standard 
+  Python collections and data structures for clarity and efficiency."
   via https://news.ycombinator.com/item?id=20068651
 
 - https://github.com/jmou/zit - a minimal implementation of git written in a
