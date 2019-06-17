@@ -50,8 +50,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   on your important code. ..."  About twenty very short
   files in bash or Python, one for each command plus some helpers.
   Demontrates some clever idioms in a terse, almost comment-free style.
-  via <https://joy.recurse.com/posts/257-zit-the-imitation-stupid-content-tracker.>
-  Compare to *gitlet*, <https://maryrosecook.com/blog/post/introducing-gitlet.>
+  via <https://joy.recurse.com/posts/257-zit-the-imitation-stupid-content-tracker>
+  Compare to *gitlet*, <http://gitlet.maryrosecook.com/docs/gitlet.html>
 
 15 Jun 2019
 
