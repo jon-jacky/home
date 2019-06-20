@@ -26,7 +26,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   inundated with a seamless flow of low-level stimulus".  In compulsively
   engaging with frivolous online content that we recognize -- even
   celebrate -- as tedious, we sorely limit ourselves.  We have arrived at a
-  situation in which "no one is bored, everything is boring"."
+  situation in which "no one is bored, everything is boring" ..."
 
 15 Jun 2019
 
@@ -48,10 +48,15 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   help to read relevant documentation.
   ... this is not a robust implementation of git so don't let it out
   on your important code. ..."  About twenty very short
-  files in bash or Python, one for each command plus some helpers.
-  Demontrates some clever idioms in a terse, almost comment-free style.
+  scripts in bash or Python, one for each command plus some helpers.
+  Demonstrates some clever idioms in a terse, almost comment-free style.
   via <https://joy.recurse.com/posts/257-zit-the-imitation-stupid-content-tracker>
   Compare to *gitlet*, <http://gitlet.maryrosecook.com/docs/gitlet.html>
+
+- <https://github.com/jmou/rc-snake> - Snake game in the terminal,
+  coded in Python using curses, in 121 lines, terse but clear.
+  Instructive but incomplete, for a barely working fork see
+  <https://github.com/jon-jacky/rc-snake>
 
 15 Jun 2019
 
