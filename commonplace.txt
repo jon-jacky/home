@@ -5,6 +5,23 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 1 Jul 2019
+
+- https://news.ycombinator.com/item?id=20315268, from author's own comments on
+  http://cowlark.com/2019-06-28-cpm-vi/ - "I find CP/M interesting because it's
+  provably the minimum viable product for an operating system. It was the
+  personal computer desktop operating system that really worked. It came with
+  full documentation, a full development systems (an assembler and a debugger),
+  and a full set of tooling to allow you to port CP/M to new systems. It was
+  portable, too, and you could run the same program unmodified on nearly any
+  hardware which supported CP/M. So it was this great open-ended system,
+  cheap enough to get into the hands of ordinary people, simple enough that
+  you could understand it all, and yet sophisticated enough that, with enough
+  time, you could achieve *anything* on it...
+
+  The CP/M kernel is 3.5kB of 8080 machine code. I think each frame of that
+  video consumed more space than that."
+
 15 Jun 2019
 
 - Hauntings by Tom Graham, review of K-PUNK by Mark Fisher, *TLS*,
@@ -52,9 +69,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   Demonstrates some clever idioms in a terse, almost comment-free style.
   via https://joy.recurse.com/posts/257-zit-the-imitation-stupid-content-tracker
   Compare to *gitlet*, http://gitlet.maryrosecook.com/docs/gitlet.html
+  *pygit*, http://benhoyt.com/writings/pygit/ and *wyagit*, https://wyag.thb.lt/
 
 - https://github.com/jmou/rc-snake - Snake game in the terminal,
-  coded in Python using curses, in 121 lines, terse but clear.
+  coded in Python using *curses*, in 121 lines.
   Instructive but incomplete, for a barely working fork see
   https://github.com/jon-jacky/rc-snake
 
@@ -185,8 +203,8 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 - https://sourcebooks.fordham.edu/basis/gregory-hist.asp#book2 - 
   *History of the Franks* by Gregory of Tours, translated by
   Ernest Brehaut.  Written before 594, about the invasions that ended
-  Roman rule in Gaul and the Frankish kingdoms that replaced it.  
-  I think any reader would call this a dark age.  Book II begins: 
+  Roman rule in Gaul and the Frankish kingdoms that replaced it.
+  I think any reader would call this a dark age.  Book II begins:
 
   "Following the order of time we shall mingle together in our tale
   the miraculous doings of the saints and the slaughters of the
@@ -194,6 +212,9 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   we tell of the happy lives of the blessed together with the deaths
   of the wretched, since it is not the skill of the writer but the
   succession of times that has furnished this arrangement. ..."
+
+  See also *The Ruin of Britain* by Gildas,
+  https://blogs.bl.uk/digitisedmanuscripts/2019/06/gildas.html
 
 14 Apr 2019
 
