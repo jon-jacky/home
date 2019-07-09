@@ -11,7 +11,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   <http://cowlark.com/2019-06-28-cpm-vi/> - "I find CP/M interesting because it's
   provably the minimum viable product for an operating system. It was the
   personal computer desktop operating system that really worked. It came with
-  full documentation, a full development systems (an assembler and a debugger),
+  full documentation, a full development system (an assembler and a debugger),
   and a full set of tooling to allow you to port CP/M to new systems. It was
   portable, too, and you could run the same program unmodified on nearly any
   hardware which supported CP/M. So it was this great open-ended system,
