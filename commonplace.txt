@@ -5,6 +5,27 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 9 Jul 2019
+
+- http://oldblog.antirez.com/post/redis-manifesto.html - Redis Manifesto by antirez -
+  "Code is like a poem; it's not just something we write to reach some practical
+  result. Sometimes people that are far from the Redis philosophy suggest using
+  other code written by other authors (frequently in other languages) in order
+  to implement something Redis currently lacks. But to us this is like if
+  Shakespeare decided to end Enrico IV using the Paradiso from the
+  Divina Commedia. ...
+
+  We're against complexity. We believe designing systems is a fight against
+  complexity. We'll accept to fight the complexity when it's worthwhile but
+  we'll try hard to recognize when a small feature is not worth 1000s of lines
+  of code. Most of the time the best way to fight complexity is by not creating
+  it at all.
+
+  We optimize for joy. We believe writing code is a lot of hard work, and the
+  only way it can be worth is by enjoying it. When there is no longer joy in
+  writing code, the best thing to do is stop. To prevent this, we'll avoid
+  taking paths that will make Redis less of a joy to develop."
+
  1 Jul 2019
 
 - https://news.ycombinator.com/item?id=20315268, from author's own comments on
