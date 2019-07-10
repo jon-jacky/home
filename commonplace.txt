@@ -5,6 +5,18 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+10 Jul 2019
+
+- https://news.ycombinator.com/item?id=20398439 - comment by WalterBright on 
+  Floating Point Routines for the 6502 in Aug 1976 *Dr Dobbs* -  
+  "... programming an 8 bit 6800 for an embedded controller means keeping track 
+  of 6 or more things going on at the same time, while modern software focuses 
+  on one thing at a time and isolating it from everything else.  Those things 
+  include the contents of each register, the stack level, the size of the code, 
+  interrupts going off, polling that has to be done, counting cycles, etc. 
+  Organizing code into functions is a luxury not usually affordable.
+  It sounds tedious, but it was fun. ..."
+
  9 Jul 2019
 
 - http://oldblog.antirez.com/post/redis-manifesto.html - Redis Manifesto by antirez -
