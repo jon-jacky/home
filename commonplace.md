@@ -7,12 +7,12 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
  6 Aug 2019
 
-- <https://www.youtube.com/watch?v=2xzR5Zk4T0c> - Moondog: Rabbit Hop, arranged by
-  Joanna MacGregor for the Britten Sifonia.
-  <https://www.youtube.com/watch?v=HT6MWtZLHe4> Voices of Spring
+- <https://www.youtube.com/watch?v=HT6MWtZLHe4> Moondog: Voices of Spring,
+  arranged by Joanna MacGregor for the Britten Sifonia.
+  <https://www.youtube.com/watch?v=2xzR5Zk4T0c> - Rabbit Hop
   <https://www.youtube.com/watch?v=3Xvk5cuHpbs> Heath on the Heather
 
-  <https://www.youtube.com/watch?v=CG-GLkHG4C0> - Nancarrow: Study #21
+- <https://www.youtube.com/watch?v=CG-GLkHG4C0> - Nancarrow: Study #21
   for Player Piano (Canon X)
 
 10 Jul 2019
