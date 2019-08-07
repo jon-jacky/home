@@ -5,15 +5,25 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 6 Aug 2019
+
+- https://www.youtube.com/watch?v=2xzR5Zk4T0c - Moondog: Rabbit Hop, arranged by
+  Joanna MacGregor for the Britten Sifonia.
+  https://www.youtube.com/watch?v=HT6MWtZLHe4 Voices of Spring
+  https://www.youtube.com/watch?v=3Xvk5cuHpbs Heath on the Heather
+
+  https://www.youtube.com/watch?v=CG-GLkHG4C0 - Nancarrow: Study #21
+  for Player Piano (Canon X)
+
 10 Jul 2019
 
-- https://news.ycombinator.com/item?id=20398439 - comment by WalterBright on 
-  Floating Point Routines for the 6502 in Aug 1976 *Dr Dobbs* -  
-  "... programming an 8 bit 6800 for an embedded controller means keeping track 
-  of 6 or more things going on at the same time, while modern software focuses 
-  on one thing at a time and isolating it from everything else.  Those things 
-  include the contents of each register, the stack level, the size of the code, 
-  interrupts going off, polling that has to be done, counting cycles, etc. 
+- https://news.ycombinator.com/item?id=20398439 - comment by WalterBright on
+  Floating Point Routines for the 6502 in Aug 1976 *Dr Dobbs* -
+  "... programming an 8 bit 6800 for an embedded controller means keeping track
+  of 6 or more things going on at the same time, while modern software focuses
+  on one thing at a time and isolating it from everything else.  Those things
+  include the contents of each register, the stack level, the size of the code,
+  interrupts going off, polling that has to be done, counting cycles, etc.
   Organizing code into functions is a luxury not usually affordable.
   It sounds tedious, but it was fun. ..."
 
