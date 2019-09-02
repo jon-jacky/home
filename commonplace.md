@@ -5,12 +5,44 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 2 Sep 2019
+
+- <https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19software-slides.pdf>
+  Software Against Humanity? An Illichian perspective on the industrial era
+  of software by Stephen Kell. "... Examples of research malaise:
+  software performance viewpoint unchanged from 1970s ... Examples of
+  practical malaise: increase of hello-world complexity, hardware advances
+  soaked up and increasingly invisible, subversion of 1960s-80s idealism:
+  open-source, internet, ... (Ivan Illich)  observed that (institutions he
+  criticised were) poor at (their) stated ends... the means and ends had become
+  confused!, (institutions) can still be self-sustaining, can still claim
+  advances by (their) own criteria ... code complexity per unit value is
+  increasing, overriding research culture is one of escalation, applying more
+  software to the problems of software... believed will overcome,
+  not worsen, problems ...
+  Escalators can often be identified by *blaming the human*.  'Fix your code!'
+  ... Among linked software, there is a *radical monopoly*. It is a monopoly of
+  the *recent*. 'If you can't keep up with change, that's your problem.' ...
+  It is not a contradiction that software can help de-escalate itself.
+  Such software should engender much less future programming ...
+  We need a culture that values empowering individuals...
+  not providing warm bodies to feed the beast ..."
+
+2 Sep 2019
+
+- <http://thirdcoastpercussion.com//downloads/2015/04/Terry-Riley-In-C-concert2.pdf>
+  *In C* by Terry Riley, score and playing instructions.  Via
+  <https://www.metafilter.com/182890/Drums-Marimbas-Glockenspiel-Piccalo-Singing-Whistling-Drumming>
+  on *Drumming* by Steve Reich.
+
  6 Aug 2019
 
 - <https://www.youtube.com/watch?v=HT6MWtZLHe4> Moondog: Voices of Spring,
-  arranged by Joanna MacGregor for the Britten Sifonia.
+  arranged by Joanna MacGregor for the Britten Sifonia with Andy Sheppard
+  (sax) Kuljit Bhamra (tabla/percussion) and others.
   <https://www.youtube.com/watch?v=2xzR5Zk4T0c> - Rabbit Hop
-  <https://www.youtube.com/watch?v=3Xvk5cuHpbs> Heath on the Heather
+  <https://www.youtube.com/watch?v=3Xvk5cuHpbs> Heath on the Heather.
+  And any other tracks from this album.
 
 - <https://www.youtube.com/watch?v=CG-GLkHG4C0> - Nancarrow: Study #21
   for Player Piano (Canon X)
