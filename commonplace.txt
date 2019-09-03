@@ -22,7 +22,12 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   not worsen, problems ...
   Assumption is always: *the next* software will fix this. ...
   Escalators can often be identified by *blaming the human*.  'Fix your code!'
-  Forking off a new *whatever* is just 'what we do'.
+  ... We revere the *internal* and denigrate the *external*. (We have a)
+  special word: *legacy*.  This disregard is not shared by empirical science,
+  nor is it shared by all engineers.  (It is) Massively counterproductive.
+  (It increases) integration cost, reimplementation.
+  (It decreases) tool power, maintainability.
+  ... Forking off a new *whatever* is just 'what we do'.
   It is perceived as a free operation. Integration is someone else's problem ...
   They should have used the shiny new thing from the start! ...
   ... there is a *radical monopoly*. It is a monopoly of
@@ -33,8 +38,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   Android, LLVM, ...
   It is not a contradiction that software can help de-escalate itself.
   Such software should engender *much less future programming* ...
-  We need a culture that values empowering individuals...
-  not providing warm bodies to feed the beast ..."
+  We need a culture that values empowering individuals,
+  not providing warm bodies to feed the beast ...
+  The norm is to teach the 1970s industrial view of software,
+  without even acknowledging this as a culture! ..."
 
 2 Sep 2019
 
