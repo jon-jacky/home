@@ -9,11 +9,15 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 - <https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19software-slides.pdf>
   Software Against Humanity? An Illichian perspective on the industrial era
-  of software by Stephen Kell. "... Examples of research malaise:
+  of software by Stephen Kell.
+  "Software (is) an industrial institution.  The institution (is) not working.
+  ... Examples of research malaise:
   software performance viewpoint unchanged from 1970s ... Examples of
   practical malaise: increase of hello-world complexity, hardware advances
   soaked up and increasingly invisible, subversion of 1960s-80s idealism:
-  open-source, internet, ... (Ivan Illich)  observed that (institutions he
+  open-source, internet, ...
+
+  (Ivan Illich)  observed that (institutions he
   criticised were) poor at (their) stated ends... the means and ends had become
   confused!, (those institutions) can still be self-sustaining, can still claim
   advances by (their) own criteria ... code complexity per unit value is
@@ -21,6 +25,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   software to the problems of software... believed will overcome,
   not worsen, problems ...
   Assumption is always: *the next* software will fix this. ...
+
   Escalators can often be identified by *blaming the human*.  'Fix your code!'
   ... We revere the *internal* and denigrate the *external*. (We have a)
   special word: *legacy*.  This disregard is not shared by empirical science,
@@ -28,14 +33,16 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   (It increases) integration cost, reimplementation.
   (It decreases) tool power, maintainability.
   ... Forking off a new *whatever* is just 'what we do'.
-  It is perceived as a free operation. Integration is someone else's problem ...
+  It is perceived as a free operation. Integration is someone else's problem.
   They should have used the shiny new thing from the start! ...
   ... there is a *radical monopoly*. It is a monopoly of
   the *recent*. 'If you can't keep up with change, that's your problem.' ...
+
   Investment of effort in a codebase is good, surely? Maybe not, if it lessens
   others' ability to benefit.  The more power expended on a codebase,
-  the more power is needed to *use* or *contribute* Think: Linux kernel,
+  the more power is needed to *use* or *contribute*. Think: Linux kernel,
   Android, LLVM, ...
+
   It is not a contradiction that software can help de-escalate itself.
   Such software should engender *much less future programming* ...
   We need a culture that values empowering individuals,
