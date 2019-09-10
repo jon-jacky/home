@@ -5,6 +5,56 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+ 9 Sep 2019
+
+- http://www.math.bas.bg/bantchev/misc/az.pdf - *The A-Z of Programming
+  Languages* (interviews with programming language creators):
+  Smalltalk-80: Alan Kay, p. 116 -
+  The progression from the first Smalltalk to the later Smalltalks was towards
+  both efficiency and improved programming tools, not better expression. ...
+  'Good meta' means that you can take new paths without feeling huge burdens
+  of legacy code and legacy ideas.  We did a new Smalltalk every two years at
+  PARC, and three quite different designs in eight years --- and the meta in the
+  previous systems was used to build the next one. But when Smalltalk-80 came
+  into the regular world of programming, it was treated as a programming
+  language (which it was) rather than a meta-language (which it really was),
+  and very little change happened there after. ...
+
+  *(Some say) the future of computer programming in reassembling existing libraries
+  and components, rather than completely fresh coding with each new project.
+  Do you agree?*  I think this works better in the physical world and really
+  requires more discipline than computerists can muster right now to do it well in
+  software. ... For most things, I advocate using a dynamic language of very
+  high level and doing a prototype from scratch in order to help clarify and
+  debug the design of a new system -- this includes extending the language
+  to provide very expressive forms that fit what is being attempted.
+  We can think of this as 'the meaning' of the system. The development tools
+  should allow any needed optimizations of the meaning to be added separately
+  so that the meaning can be used to test the optimizations (some of which will
+  undoubtedly be adapted from libraries).  In other words, getting the design
+  right particularly so the actual lifecycle of what is being done can be
+  adapted to future needs is critical, and pasting something up from an
+  existing library can be treacherous. ...
+
+  [Marshall] McLuhan said that most people can only experience the present
+  in terms of the past.  So 'new; gets turned into 'news'. ...
+  Marketing people really want 'news' (= a little difference to perk up
+  attention, but on something completely understandable and incremental).
+  This allows news to be told in a minute or two, yet is interesting to humans.
+  'New' means 'invisible', 'not immediately comprehensible', etc.  So 'new' is often
+  rejected outright, or is accepted only by denaturing it into 'news'.
+  For example, the big deal about computers is their programmability, and the
+  big deal about that is 'meta'.  For the public, the news made out of the first
+  is to simply simulate old media they are already familiar with and make it a
+  little more convenient on some dimensions and often making it less convenient
+  in ones they don't care about (such as the poorer readability of text on a
+  screen, especially for good readers). For most computer people, the news that
+  has been made out of new eliminates most meta from the way they go about
+  designing and programming. One way to look at this is that we are genetically
+  much better set up to cope than to learn.  So familiar-plus-pain is
+  acceptable to most people. ..."
+
+
  2 Sep 2019
 
 - https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19software-slides.pdf
@@ -19,7 +69,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 
   (Ivan Illich)  observed that (institutions he
   criticised were) poor at (their) stated ends... the means and ends had become
-  confused!, (those institutions) can still be self-sustaining, can still claim
+  confused! (those institutions) can still be self-sustaining, can still claim
   advances by (their) own criteria ... code complexity per unit value is
   increasing, overriding research culture is one of escalation, applying more
   software to the problems of software... believed will overcome,
@@ -35,7 +85,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   ... Forking off a new *whatever* is just 'what we do'.
   It is perceived as a free operation. Integration is someone else's problem.
   They should have used the shiny new thing from the start! ...
-  ... there is a *radical monopoly*. It is a monopoly of
+  there is a *radical monopoly*. It is a monopoly of
   the *recent*. 'If you can't keep up with change, that's your problem.' ...
 
   Investment of effort in a codebase is good, surely? Maybe not, if it lessens
