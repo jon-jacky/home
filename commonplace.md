@@ -39,10 +39,11 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   if we knew how to build this magical runtime ... we'd already have done it
   and solved the problem ages ago. ...  we need to get into the mindset of
   tolerating a lot more heterogeneity. ... it means pushing radically downwards
-  our notion of runtime so that most of the typical implementation decisions
+  our notion of "runtime" so that most of the typical implementation decisions
   of an object-oriented runtime ... are actually *user-level* decisions ...
   This contrasts with traditional runtimes, in which the object abstraction
-  constructed by the runtime implementor in a way that is *prescriptive*. ..."
+  is *constructed* by the runtime implementor in a way that is *prescriptive*.
+  ..."
 
  9 Sep 2019
 
