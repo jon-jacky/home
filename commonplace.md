@@ -5,6 +5,30 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 3 Oct 2019
+
+- <https://www.cs.kent.ac.uk/people/staff/srk21/blog/research/end-to-end-razor.html>
+  ... by implementing features higher up, we nearly always end up with not one
+  but many variants of the same feature. ...  So in fact, there are very real
+  incentives for implementing functionality at the lowest sensible layer. ...
+
+- <https://www.cs.kent.ac.uk/people/staff/srk21/blog/research/tools-or-not-tools.html>
+  (Consider) *tools versus run-time systems*. Dynamic O-O environments are very
+  much *systems*, geared around the ability to push new capabilities down into
+  the system's fabric, rather than having them sit on top. ...
+  the lower some functionality is integrated into a system, the more
+  pervasively available it is, so the more power and leverage it confers.
+  Smalltalkers and other dynamic language advocates know this. ...
+  Most of us don't use runtimes that have this amount of dynamism and
+  immediacy ... What's better about having it as a runtime rather than just
+  a tool?  Well, its functionality would be embedded right there in your
+  running program. As a consequence, it supports exploratory, interactive,
+  programmatic use. If you dropped to a REPL in your program, the innards of
+  the tool would be laid out across your program state, pushed into fields
+  on program objects. ...  Tools, being freestanding and piecemeal, arguably
+  scale better. You could say that lots of small, freestanding tools are the
+  postmodern way, whereas one true runtime system is a classical ideal. ...
+
  9 Sep 2019
 
 - <http://www.math.bas.bg/bantchev/misc/az.pdf> - *The A-Z of Programming
