@@ -5,6 +5,19 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 4 Oct 2019
+
+- <https://news.ycombinator.com/item?id=21052915>, comment on 'Why can't browsers
+  just be used for browsing': "Browsers are a case of monolithism (and the
+  inner-platform effect, of course).  In actuality, they are multiple different
+  kinds of programs, welded together for no sensible reason: an http fetching
+  daemon, a "runner" to open URLs, several document viewers, a virtual machine,
+  an OS with an API, extensive libraries for everything that the OS below the OS
+  already offered, one or several programming language JIT compiler(s) and
+  runtime(s), and some bits and pieces.   In a healthy environment, there
+  would not be a second OS on top of the normal one. And all those parts would
+  be separate software, with standardized interfaces. ..."
+
  3 Oct 2019
 
 - <https://www.cs.kent.ac.uk/people/staff/srk21/blog/research/end-to-end-razor.html>
@@ -43,7 +56,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   of an object-oriented runtime ... are actually *user-level* decisions ...
   This contrasts with traditional runtimes, in which the object abstraction
   is *constructed* by the runtime implementor in a way that is *prescriptive*.
-  ..."
+  ...
 
  9 Sep 2019
 
