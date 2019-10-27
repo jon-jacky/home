@@ -5,10 +5,22 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+27 Oct 2019
+
+- <https://news.ycombinator.com/item?id=21354626>, comments on
+  '... User and Programmer': "Sometimes I wonder if the people of the 1960s
+  (i.e the people who came up with lisp, multics, unix) had the right idea: to
+  use a computer you should program it. There are many programs, each does a
+  different thing, you program your final product by composing programs. ...
+  somehow programs have become less composable over time. Far from the original
+  ideals. Programs become standalone products. ... We should have kept programs
+  as programs - make them super composable, and then let the end user design
+  their own products that fit them best."
+
 12 Oct 2019
 
-- Tales of Lost London by Laura Thompson, reviews of *... The Memoirs of
-  Ironfoot Jack ...* and *London Made Us* in *TLS*, Oct 4 2019, p. 25 (no link):
+- Tales of Lost London by Laura Thompson, reviews of *The Memoirs of
+  Ironfoot Jack* and *London Made Us* in *TLS*, Oct 4 2019, p. 25 (no link):
   "Do bohemians still exist? ... what defines the true bohemian is an attitude
   to money: a willingness to laugh in the face of that all-powerful god.
   Is this actually possible today?  In today's London it can seem as though the
