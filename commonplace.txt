@@ -8,8 +8,16 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 11 Nov 2019
 
 - https://news.ycombinator.com/item?id=1154650, comments on Plan 9, long 
-  explanation concludes:
-  "Plan 9 can be very disturbing to work with at first; everything seems  
+  explanation includes:
+  "... designed by folks who were very comfortable with using a command 
+  line, and so one ends up with huge amounts of text on screen that you 
+  interact with ...
+  rc is remarkably minimal for a login shell ... but because in a 9term you 
+  can edit previous output and previous command lines and tell the 
+  terminal not to send input at the end of a line but instead wait for you 
+  to decide you're finished it ends up being surprisingly powerful and 
+  usable. ...
+  Plan 9 can be very disturbing to work with at first; everything seems  
   incredibly primitive, and it has a very minimalist feel to it, but when  
   you get used to the idioms it can be incredibly powerful. ...
   The whole experience is very strange, and yet there's a certain elegance  
