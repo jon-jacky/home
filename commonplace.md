@@ -5,7 +5,7 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
-11 Nov 2019
+19 Nov 2019
 
 - <https://news.ycombinator.com/item?id=1154650>, comments on Plan 9, long 
   explanation includes:
@@ -17,6 +17,13 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   you get used to the idioms it can be incredibly powerful. ...
   The whole experience is very strange, and yet there's a certain elegance
   to it."
+
+- <https://news.ycombinator.com/item?id=19177819> - 
+  "Plan9 was far superior as a developer's system. Its text based tools
+  are the best, bar none. But really it owes that to Project Oberon. ...
+  I describe it as a racing car, not everyone can drive it, you need to
+  work to keep it going, you might kill yourself but when you're out
+  front, it feels amazing."
 
 27 Oct 2019
 
