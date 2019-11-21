@@ -5,7 +5,7 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-19 Nov 2019
+21 Nov 2019
 
 - https://news.ycombinator.com/item?id=1154650, comments on Plan 9, long 
   explanation includes:
@@ -24,6 +24,29 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   I describe it as a racing car, not everyone can drive it, you need to 
   work to keep it going, you might kill yourself but when you're out 
   front, it feels amazing."
+
+- https://news.ycombinator.com/item?id=19171242 - 
+  Why a full-featured web browser was never developed or
+  ported:  "... For Plan 9 the classic web browser is a culturally alien 
+  type of software: complex and to some degree necessarily monolithic."
+
+  http://p9.nyx.link/netlib/9fans/9fans.0007 - Plan 9 developers explain:
+  "Mozilla is just the sort of stand-alone monolith that we're trying 
+  to argue against. ... I'd rather see web access be one aspect of a 
+  system in which the pieces work in concert."
+
+  "To me, Plan 9 has always been about stepping back, looking at the
+  whole problem, and solving it with hindsight. ...  Within the
+  bounds of the system, compatibility with less discerning environments
+  is not an issue. ... 
+  So Plan 9 could only hope to reach a fraction of the sites. 10% of the 
+  work might get you 90% of the sites, to a bearable degree. ...
+  So I'm wondering if you take what the web has to offer - what people try 
+  to show, in pages - and revisit it, from a Plan 9 viewpoint. Build a 
+  Plan 9-only internal system ..."
+
+  Plan 9 did develop several limited browsers, including *Mothra* and *Abaco*.
+  See related comments under 4 Oct, below.
 
 27 Oct 2019
 
