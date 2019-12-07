@@ -2100,6 +2100,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   copies of the entire run of the magazine as our starting point for
   the project."
 
+- https://sfpc.io/recoded/ - Exhibition of works inspired by the ReCode
+  project (above), by students, alumni, and friends of the School for 
+  Poetic Computation (this link added 6 Dec 2019).
+
 - https://monoskop.org/images/b/b3/Dwyer_Terence_Composing_with_Tape_Recorders_Musique_Concrete_for_Beginners.pdf - 
   Oxford University Press, 1971.  PDF includes the entire 44 page
   book. via https://news.ycombinator.com/item?id=17338092
