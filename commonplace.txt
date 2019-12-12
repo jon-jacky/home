@@ -13,7 +13,7 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   programming. The frustration, the short moments of delight, the time 
   spent debugging. How can we best acknowledge the cycles of emotions in 
   programming (and learning) in the classroom. ... Build in a process for 
-  problem solving. ...
+  problem solving. ..."
 
 - https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships -
   Computing, Climate Change, and All Our Relationships, a talk by Nabil Hassein:
@@ -52,6 +52,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
   kind of material impacts. And maybe that should actually be part of our 
   curriculum. Maybe that would be part of how we, as a field, can think 
   about our responsibility to address climate change. ..."
+
+  via speaker's blog https://nabilhassein.github.io/blog/computing-climate-change-and-all-our-relationships/
+  which also links to the slides 
+  https://nabilhassein.github.io/slides/deconstructconf-2018/assets/player/KeynoteDHTMLPlayer.html#0
   
 21 Nov 2019
 
