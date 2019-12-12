@@ -5,6 +5,54 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+11 Dec 2019
+
+- https://blog.sfpc.io/post/157624785016/learning-to-teach-teaching-to-learn -
+  report on a Learning to Teach conference at the School for Poetic Computation:
+  "... It's important to remember to teach the emotional space of 
+  programming. The frustration, the short moments of delight, the time 
+  spent debugging. How can we best acknowledge the cycles of emotions in 
+  programming (and learning) in the classroom. ... Build in a process for 
+  problem solving. ...
+
+- https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships -
+  Computing, Climate Change, and All Our Relationships, a talk by Nabil Hassein:
+  "... So the global north has less than 1/7 of the world's population. It 
+  takes home nearly 3/4 of the world's income. ...
+  today, I'm going to mostly remain zoomed out at this very broad view of 
+  global north and global south. And to give a sense of why that is and 
+  the connections to climate change ... 
+  UK is the biggest per capita contributor to global temperature change 
+  and the least vulnerable ...
+  7 out of 10 of the countries most affected by climate change are in Sub- 
+  Saharan Africa.  Climate change is a racist crisis.  
+  To me, it is absolutely clear that ... climate change would never have been 
+  allowed to reach the crisis point that we're at now if it looked 
+  different in terms of who was benefiting from the wealth associated with 
+  the extraction of fossil fuels and carbon pollution ...
+  versus who is suffering as a result of the same things.
+
+  (Here is) a fact that just blew my mind when I learned it in the news late last year ...
+  the electricity usage of the Bitcoin network.  Last time I checked ...
+  it was around 0.29% of global electricity just for this one network. ...
+  So this map (on the slide), which depicts, in orange, the countries 
+  which use less electricity than the Bitcoin network-- I think one of the 
+  things that jumps out right away is that only three countries in Africa 
+  actually are allocated a greater share of this critical global resource 
+  than the Bitcoin network. 
+  And notable among the countries which is not one of those three is 
+  Nigeria, the most populous country in Africa ...
+  Think about the fact that this one application is receiving a larger 
+  share of a critical global resource than all of the schools, than all of 
+  the hospitals, than all of the homes, than all the industry in a nation 
+  of 186 million people. ...
+
+  And I wonder-- I studied math and computer science at college. And there 
+  was literally, not once, in any of my classes, any discussion of these 
+  kind of material impacts. And maybe that should actually be part of our 
+  curriculum. Maybe that would be part of how we, as a field, can think 
+  about our responsibility to address climate change. ..."
+  
 21 Nov 2019
 
 - https://news.ycombinator.com/item?id=1154650, comments on Plan 9, long 
