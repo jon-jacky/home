@@ -15,6 +15,8 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   programming (and learning) in the classroom. ... Build in a process for
   problem solving. ..."
 
+11 Dec 2019
+
 - <https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships> -
   Computing, Climate Change, and All Our Relationships, a talk by Nabil Hassein:
   "... So the global north has less than 1/7 of the world's population. It
@@ -56,6 +58,16 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   via speaker's blog <https://nabilhassein.github.io/blog/computing-climate-change-and-all-our-relationships/>
   which also links to the slides
   <https://nabilhassein.github.io/slides/deconstructconf-2018/assets/player/KeynoteDHTMLPlayer.html#0>
+
+  Also from the speaker's blog at <https://nabilhassein.github.io/about> -
+  "... My relationship with the field of computing has gotten more
+  antagonistic the more I've studied its negative social impacts on the
+  communities I care about, yet I still retain my hope that another
+  technology is possible. I believe it's up to us technologists to build
+  it, or else we must be prepared to discard the entire field of
+  computing, given its historical origins in and ongoing entanglement with
+  profound human oppression and ecological destruction."
+
 
 21 Nov 2019
 
