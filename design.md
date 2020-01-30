@@ -1,8 +1,8 @@
 
-Web pages to look at, rather than read  -- though some have interesting
+Web pages to look at, rather than read  -- though they have interesting
 content as well.
 
-27 Jan 2020
+29 Jan 2020
 
 - <https://sfpc.io/code-societies/> - 
   ... re-introducing yourselves to computers   ...   How do different
