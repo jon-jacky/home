@@ -1,13 +1,12 @@
 
-Web pages to look at, rather than read  -- though they have interesting 
-content as well.  
+Web sites that are interesting look at, also to read:
 
 29 Jan 2020
 
 - https://sfpc.io/code-societies/ - 
-  ... re-introducing yourselves to computers   ...   How do different 
-  platforms and processes ... yield distinct    modes of seeing, thinking, 
-  feeling, and reinforce existing systems of    power? ..."
+  "... re-introducing yourselves to computers   ...   How do different 
+  platforms and processes ... yield distinct modes of seeing, thinking, 
+  feeling, and reinforce existing systems of power? ..."
 
 - https://n0thingness.com/ - 
   "... the second nothingness theorem: only with an empty hand can you 
@@ -22,5 +21,8 @@ content as well.
   "Bauhaus design's impact on todays graphics is hard to overestimate. ...
   today we look at 5 examples ..."
 
-Much more here: http://jon-jacky.github.io/home/links.html#graphics
+- http://wenyan-lang.lingdong.works/ - "A programming language for the ancient Chinese"
+  also: https://github.com/LingDong-/wenyan-lang
+
+More here: http://jon-jacky.github.io/home/links.html#graphics
 
