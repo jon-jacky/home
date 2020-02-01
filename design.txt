@@ -1,5 +1,12 @@
 
-Web sites that are interesting look at, also to read:
+Pages with interesting design, typography, or graphics, in addition to 
+their content:
+
+31 Jan 2020
+
+- https://shapero.xyz/ for example https://shapero.xyz/posts/variational-calculus/ - 
+  "... This is a classic example in variational calculus, which I'll 
+  assume you're familiar with. ..."   Text, math, code and graphics.
 
 29 Jan 2020
 
@@ -10,7 +17,7 @@ Web sites that are interesting look at, also to read:
 
 - https://n0thingness.com/ - 
   "... the second nothingness theorem: only with an empty hand can you 
-  grab hold ...
+  grab hold ..."
 
 - https://www.cs.ru.nl/~freek/notes/index.html - 
   "We study de Bruijn's "loss factor" between the size of an ordinary 
