@@ -2,6 +2,8 @@
 Pages with interesting design, typography, or graphics, in addition to 
 their content:
 
+More here: http://jon-jacky.github.io/home/links.html#graphics
+
 31 Jan 2020
 
 - https://shapero.xyz/ for example https://shapero.xyz/posts/variational-calculus/ - 
@@ -28,8 +30,6 @@ their content:
   "Bauhaus design's impact on todays graphics is hard to overestimate. ...
   today we look at 5 examples ..."
 
-- http://wenyan-lang.lingdong.works/ - "A programming language for the ancient Chinese"
-  also: https://github.com/LingDong-/wenyan-lang
-
-More here: http://jon-jacky.github.io/home/links.html#graphics
-
+- http://wenyan-lang.lingdong.works/ also https://github.com/LingDong-/wenyan-lang - 
+  "... an esoteric programming language ... guaranteed to be readable by 
+  ancient Chinese people ..."
