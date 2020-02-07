@@ -5,6 +5,24 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+ 6 Feb 2020
+
+- <https://news.ycombinator.com/item?id=22043042> - response to
+  "What has your work taught you ... ?" -
+  "Computers don't work, internet doesn't work, software doesn't work. If
+  something functions flawlessly it's because there existed a group of
+  people who figured out a rock solid setup at one point in time, and
+  another group of people maintaining it actively right now. Many people
+  seeing something that "just works" and it's "free as in beer" demand a
+  similar setup for their own business assuming that creating it requires
+  almost zero effort and cost."
+
+  This appeared a few weeks ago but I post it here after the Iowa caucus:
+  <https://www.vice.com/en_us/article/3a8ajj/an-off-the-shelf-skeleton-project-experts-analyze-the-app-that-broke-iowa>
+  "The app used to report early results in Iowa's Democratic Presidential
+  primary caucus ... malfunctioned during the caucus, causing mass chaos
+  and delaying the public reporting of results until Tuesday evening. ..."
+
 11 Dec 2019
 
 - <https://blog.sfpc.io/post/157624785016/learning-to-teach-teaching-to-learn> -
