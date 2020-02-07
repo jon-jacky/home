@@ -7,6 +7,24 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
  6 Feb 2020
 
+- <https://blog.sophaskins.net/blog/my-week-at-the-recurse-center/> -
+  "The night before my (visit) started, I was ... having doubts
+  (about) the mission itself: 'to get dramatically better at programming'.
+  Did I even *want* to get better at programming?
+
+  A lot of bad things in the world have been created by programmers: ...
+  A lot of bad *people* love programming: ...
+  The norms of programmer culture still revolve around using needless
+  complexity as a cloak of wizardry. I dont think programming *skill* is
+  particularly important in my job, so why am I even doing this?
+
+  My fears were not realized. ... I re-learned to love programming. ...
+  Amidst constant reminders that tech is a toxic sewer ...
+  There can be good in programmers. There can be joy in programming.
+  I want to find those things - I want to continue to learn and to share ..."
+
+ 6 Feb 2020
+
 - <https://news.ycombinator.com/item?id=22043042> - response to
   "What has your work taught you ... ?" -
   "Computers don't work, internet doesn't work, software doesn't work. If
