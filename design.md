@@ -10,6 +10,11 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
   Brian Eno created a collection of strategies to help artists break
   creative block. We can do something similar for programmers ..."
 
+- <https://maryrosecook.com/blog/archive> - for example
+  <https://maryrosecook.com/blog/post/git-from-the-inside-out> - 
+  "This essay explains how Git works. ...
+  The text is structured as a series of Git commands run on a single project ..."
+
  9 Feb 2020
 
 - <https://kodfabrik.com/happy-hacking-linux/> - 
