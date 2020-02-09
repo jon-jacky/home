@@ -10,6 +10,14 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
   Brian Eno created a collection of strategies to help artists break 
   creative block. We can do something similar for programmers ..."
 
+ 9 Feb 2020
+
+- https://kodfabrik.com/happy-hacking-linux/ - 
+  "... takes Arch Linux and adds sane defaults that will work best for 
+  developers. ..."
+
+  More at https://kodfabrik.com/journal/
+
 31 Jan 2020
 
 - https://shapero.xyz/ for example https://shapero.xyz/posts/variational-calculus/ - 
