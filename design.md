@@ -6,8 +6,8 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 
  9 Feb 2020
 
-- <https://kevinlawler.com/prompts> - "Oblique Strategies" - 
-  "Brian Eno created a collection of strategies to help artists break
+- <https://kevinlawler.com/prompts> - "Oblique Strategies ...
+  Brian Eno created a collection of strategies to help artists break
   creative block. We can do something similar for programmers ..."
 
 31 Jan 2020
