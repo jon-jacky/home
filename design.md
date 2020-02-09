@@ -14,9 +14,7 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 
 - <https://kodfabrik.com/happy-hacking-linux/> - 
   "... takes Arch Linux and adds sane defaults that will work best for
-  developers. ..."
-
-  More at <https://kodfabrik.com/journal/>
+  developers. ..."  More at <https://kodfabrik.com/journal/>
 
 31 Jan 2020
 
