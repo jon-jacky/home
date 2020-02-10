@@ -10,16 +10,20 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
   Brian Eno created a collection of strategies to help artists break
   creative block. We can do something similar for programmers ..."
 
-- <https://maryrosecook.com/blog/archive> - for example
-  <https://maryrosecook.com/blog/post/git-from-the-inside-out> - 
-  "This essay explains how Git works. ...
-  The text is structured as a series of Git commands run on a single project ..."
-
  9 Feb 2020
+
+- <https://maryrosecook.com/blog/archive> - for example
+  <https://maryrosecook.com/docs/gitlet.html> - 
+  "Gitlet is an implementation Git in JavaScript ..." -
+  A "literate program" with annotations and code in side-by-side format.
+
+- <http://c9x.me/edit/> - "Vi + Acme ...  I like Acme a lot, but without
+  vi keybindings, I cannot edit text. So I tried to mix the two
+  together. ..."  See the animation at the bottom of the page.
 
 - <https://kodfabrik.com/happy-hacking-linux/> - 
   "... takes Arch Linux and adds sane defaults that will work best for
-  developers. ..."  More at <https://kodfabrik.com/journal/>
+  developers. ..." - More at <https://kodfabrik.com/journal/>
 
 31 Jan 2020
 
