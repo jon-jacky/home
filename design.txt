@@ -13,7 +13,7 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
  9 Feb 2020
 
 - https://maryrosecook.com/blog/archive - for example
-  https://gitlet.maryrosecook.com/docs/gitlet.html - 
+  http://gitlet.maryrosecook.com/docs/gitlet.html -
   "Gitlet is an implementation Git in JavaScript ..." - 
   a "literate program" with annotations and code in side-by-side format.
 
