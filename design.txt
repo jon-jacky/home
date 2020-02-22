@@ -4,6 +4,22 @@ their content.
 
 More here: http://jon-jacky.github.io/home/links.html#graphics
 
+21 Feb 2020
+
+- http://www.nomodes.com/pub_manual.html - "PUB: The Document
+  Compiler" - 1972 report from the Stanford AI Lab by Larry Tesler,
+  with much later historical notes and explanations by Tesler in
+  side-by-side format.
+  Via https://news.ycombinator.com/item?id=22361282, memories of 
+  Tesler by friends and colleagues.
+
+21 Feb 2020
+
+- https://github.com/arcfide/ALE/blob/master/code_dump.txt - source
+  code in APL for ALE, "a programmable, composable, but simpler and
+  more streamlined, syntactically consistent replacement for the
+  venerable *ed*".  Explained at https://github.com/arcfide/ALE
+
  9 Feb 2020
 
 - https://kevinlawler.com/prompts - "Oblique Strategies ...
@@ -15,7 +31,7 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 - https://maryrosecook.com/blog/archive - for example
   http://gitlet.maryrosecook.com/docs/gitlet.html -
   "Gitlet is an implementation Git in JavaScript ..." - 
-  a "literate program" with annotations and code in side-by-side format.
+  a literate program with annotations and code in side-by-side format.
 
 - http://c9x.me/edit/ - "Vi + Acme ...  I like Acme a lot, but without
   vi keybindings, I cannot edit text. So I tried to mix the two

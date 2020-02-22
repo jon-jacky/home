@@ -5,6 +5,21 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
+14 Feb 2020
+
+- https://news.ycombinator.com/item?id=22303710 - comments by the author on Shell Git -
+  "... I said that the internals were so simple that you could implement a
+  workable version of git using only shell scripts inside of an
+  afternoon. So I wrapped up what I was working on set out to prove it.  
+
+  Five hours later, it had turned into ... "oh (no), I didn't
+  realize that the git index is a binary file format". Then it became a
+  personal challenge to try and make it work anyway, despite POSIX shell
+  scripts clearly being totally unsuitable for manipulating that kind of data.
+
+  Anyway, this is awful, don't use it for anything, don't read the
+  code, don't look at it, just don't."
+
  6 Feb 2020
 
 - https://blog.sophaskins.net/blog/my-week-at-the-recurse-center/ -
