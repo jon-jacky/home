@@ -5,6 +5,119 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+22 Feb 2020
+
+- *Cosmic Profit* by Raymond Mungo, pages 6 - 7 (no link): After describing
+  his brief experience working for a scam rental agency in Seattle in
+  the early 1970s: "Five months later, the agency disappeared, leaving
+  its employees owed several weeks' back pay and its customers in the
+  lurch.  Operations of its kind still exist in some United States cities.
+  They are perfect examples to us that crime does pay if you're mean
+  and stupid enough to victimize other people who trust you.
+  The owners were paranoid, competitive, apparently miserable.
+  They lived in hotel rooms out of suitcases, had no friends or families.
+  They paid for their misdeeds in the extreme povery of their lives.
+  They were the kind of guys who spend Christmas Day in a barroom.
+  And they proved that some people try to get rich selling absolutely
+  nothing at all."
+
+22 Feb 2020
+
+- *Essays: One* by Lydia Davis, pages 171, 173-174, 188, 238, 253 (no link)
+  From Revising One Sentence:
+  "So there are many ways to justify writing in a notebook, a sentence
+  that you may never use. ...  I follow my impulses in writing (in the
+  notebook) without asking whether what I am doing is sensible, efficient,
+  even moral, etc.  I do it because I like to or want to -- which is where
+  everything in writing should begin anyway. (As for the question of
+  morality -- I won't *publish* something if it seems to me morally
+  wrong to publish it, but the act of exploration that is writing is
+  very different from the finality and public-ness of publishing.
+  Writing is still private until it is made public.)
+
+  Speaking of not being afraid when you write, ... I have evolved ...
+  ... two habits that make me not afraid.  One is the habit of starting
+  every story in the notebook, where it is under no pressure to be a
+  story; the other is ... I sit in front of the typed pages of a story
+  that is nearly finished ... and instead of working on it, I begin
+  another story in my notebook ...  It is easier to do that -- to begin
+  a story -- when it is not what I had planned to do. ... (I am) very
+  relaxed and comfortable because there is a clear-cut task to go back
+  to when I have nothing more to add, for the moment, to the new story.
+  Meanwhile the typed story just sits there. ...  Sometimes I have
+  four or five, or more, stories in progress at once.  It is nice to feel
+  that there is too much to work on rather than nothing at all --
+  the blank page. ..."
+
+  From Found Material, Syntax, Brevity ...: "This opening sentence
+  is more than ten lines long ... to be exact and economical does
+  not necessarily mean to be brief. ...
+
+  From Thirty Recommendations for Good Writing Habits:
+  " ... Read the best writers from all different periods; keep your
+  reading of contemporaries in proportion -- you do not want a steady
+  diet of contemportary literature.  You already belong to your time."
+
+  "Cutting can be effective ... But this does not mean that  everything
+  has to be short.  You can write three thousand pages (as Proust did in
+  *In Search of Lost Time*) and still be economical.  In this case,
+  begin econonical simply means not saying more than you need to."
+
+17 Feb 2020
+
+- <https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19de-escalating-intro-script.txt> -
+  De-Escalating Software, a scriped introduction, by Stephen Kell.
+  "This is a talk about a crisis of faith. ...
+  I am starting to believe that as a society, we are currently
+  learning, on many different fronts, that our dependency on software is
+  escalating in an undesirable way. When I say that software is
+  escalating, I mean two things. Firstly, the complexity of even the
+  simplest software deployments gets larger year on
+  year. Feature-equivalent software runs slower in ways that cannot be
+  explained by niceties, graphical flourishes or even directly by
+  programmer laziness. The amount of code needed to realise a given
+  application also seems to be increasing, with consequences for the
+  overall tractability of working with that application's code, as well
+  as capital costs of deploying and executing it.
+
+  ... By ``escalation'' I also mean that our best and only response, at
+  present, seems to be to develop more software along similar lines,
+  believing that if we iterate our current approach enough times, we
+  will overcome our problems. My faith in this line of thinking has been
+  exhausted. I suspect that a better society would be dependent on far
+  less code being deployed ...
+  That need not mean we must forgo the benefits of computation as we
+  currently enjoy it -- I believe quite the opposite: that with less, we
+  will be able to do more.
+
+  ... Since the late 1940s, and especially since the 1970s, we have
+  bootstrapped a vast ecosystem of computer hardware and software.
+  ... Bootstrapping processes, like other feedback processes, have
+  lives of their own in the sense that they are not fully controlled
+  from the outside. In software, we see this with how software creates
+  culture which creates the next software. Both software and humans are
+  parts of the amplification cycle. A cyclic system does not have
+  clearly delineated means and ends, and is prone to confuse the
+  two. Even where the *a priori* human ends ought to be obvious,
+  cultural factors can override this.
+
+  There are lots of phenomena in software that I will call "escalators".
+  They're problems which generate newer, worse instances of themselves
+  over time. Often we do not even see them as problems; we view them as
+  progress. But often that view is the result of confusing technical means
+  with human ends. ...
+  It is the antagonism between positive local gain and negative
+  global outcome that characterises escalators. Those involved *are*
+  often acting rationally, but the outcome is madness.
+
+  Ivan Illich was a 20th-century philosopher whose work recurringly
+  examines the counterproductivity of modern social institutions.
+  ... I encountered Illich's writing entirely by chance, but was
+  immediately struck by how directly his words transferred to described
+  what I saw as the plight of software."
+
+  (See also another talk by Kell excerpted at 2 Sep 2019 below.)
+
 14 Feb 2020
 
 - <https://news.ycombinator.com/item?id=22303710> - comments by the author on Shell Git -
