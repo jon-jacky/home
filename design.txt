@@ -4,6 +4,9 @@ their content.
 
 More here: http://jon-jacky.github.io/home/links.html#graphics
 
+Companion page, a commonplace book:
+https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
+
 21 Feb 2020
 
 - http://www.nomodes.com/pub_manual.html - "PUB: The Document

@@ -5,6 +5,9 @@ are copied for personal use.
 Begun November 2016.
 Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
 
+Companion page on design, typography, and graphics:
+<https://github.com/jon-jacky/home/blob/gh-pages/design.md>
+
 22 Feb 2020
 
 - *Cosmic Profit* by Raymond Mungo, pages 6 - 7 (no link): After describing
@@ -23,7 +26,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 
 22 Feb 2020
 
-- *Essays: One* by Lydia Davis, pages 171, 173-174, 188, 238, 253 (no link)
+- *Essays: One* by Lydia Davis, pages 171, 173-174, 188, 238, 253 (no link):
   From Revising One Sentence:
   "So there are many ways to justify writing in a notebook, a sentence
   that you may never use. ...  I follow my impulses in writing (in the
@@ -80,7 +83,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
   overall tractability of working with that application's code, as well
   as capital costs of deploying and executing it.
 
-  ... By ``escalation'' I also mean that our best and only response, at
+  ... By "escalation" I also mean that our best and only response, at
   present, seems to be to develop more software along similar lines,
   believing that if we iterate our current approach enough times, we
   will overcome our problems. My faith in this line of thinking has been
