@@ -13,7 +13,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 - https://news.ycombinator.com/item?id=22398899 - comments by *wrs* on the 
   Newton (1990s Apple handheld computer) - 
   "... having the whole world reduced to Windows and Linux doesn't seem 
-  ideal. ... In the Newton era it seemed like there were tons of great 
+  ideal. ... 
+  crowding out any possibility of a different approach seems long-term 
+  counterproductive ...
+  In the Newton era it seemed like there were tons of great 
   ideas flying  around about processors, operating systems, filesystems, 
   languages, etc., and more importantly there was room to feasibly take 
   advantage of them in a  product. ... Nowadays ... there are big 
@@ -24,8 +27,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   "... we had a pretty strong opinion on the Newton team that files were 
   not the right thing. ... There were never any 'files' on the Newton."
 
-  (The linked paper by *wrs* et al. describes their 'object store' that
-  "has many advantages over a more traditional file system".)
+  (The linked paper by *wrs* et al. describes their "object store (that)
+  has many advantages over a more traditional file system".)
 
 - https://news.ycombinator.com/item?id=22281987 - comments on HyperCard, 
   the much admired 1980s-90s end-user programming tool for the Mac - 
