@@ -8,6 +8,49 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
+24 Feb 2020
+
+- <https://news.ycombinator.com/item?id=22398899> - comments by *wrs* on the 
+  Newton (1990s Apple handheld computer) -
+  "... having the whole world reduced to Windows and Linux doesn't seem
+  ideal. ... In the Newton era it seemed like there were tons of great
+  ideas flying  around about processors, operating systems, filesystems,
+  languages, etc., and more importantly there was room to feasibly take
+  advantage of them in a  product. ... Nowadays ... there are big
+  important layers that have essentially become a  monoculture or
+  sometimes a di-culture, and people don't even try to innovate there any
+  more. ... the lower layers seem to have ossified a bit too soon ..."
+
+  "... we had a pretty strong opinion on the Newton team that files were
+  not the right thing. ... There were never any 'files' on the Newton."
+
+  (The linked paper by *wrs* et al. describes their 'object store' that
+  "has many advantages over a more traditional file system".)
+
+- <https://news.ycombinator.com/item?id=22281987> - comments on HyperCard, 
+  the much admired 1980s-90s end-user programming tool for the Mac -
+  "In what way does the original web architecture (HTTP/URL/HTML) not
+  supersede and mostly independently improve on Hypercard?"
+  "Anyone who can click a mouse could make a HyperCard stack.
+  (a 'stack' was an application) ...
+  You could ... save data in the stack itself. You could send it to your
+  friend, or back it up, simply by copying one file. ...
+  Doing these with the web requires at least a server, a programming
+  language, and a database. ... you need a separate editing system ...
+  there's a *huge* learning curve ..."
+
+- <https://news.ycombinator.com/item?id=22344083> - comments on "home-cooked" software - 
+  "What's it take to get HyperCard back? ... Not just functionality, but
+  ubiquity -- being a tool that every kid is one  click away from, nothing
+  to install, no permission to ask, just start  learning..." - Response
+  by *mikelevens*: "For the ubiquity you  need it to be free and
+  extremely simple to install. Apple gave HyperCard  away for free
+  preinstalled on its machines. ... Technologically, you need
+  representations  of 8 concepts: ..."   Detailed explanation of
+  HyperCard features  and internals follows.
+
+  (More on HyperCard at 28 Feb 2019, below)
+
 22 Feb 2020
 
 - *Cosmic Profit* by Raymond Mungo, pages 6 - 7 (no link): After describing
@@ -36,10 +79,10 @@ Companion page on design, typography, and graphics:
   morality -- I won't *publish* something if it seems to me morally
   wrong to publish it, but the act of exploration that is writing is
   very different from the finality and public-ness of publishing.
-  Writing is still private until it is made public.)
+  Writing is still private until it is made public.)"
 
-  Speaking of not being afraid when you write, ... I have evolved ...
-  ... two habits that make me not afraid.  One is the habit of starting
+  "Speaking of not being afraid when you write, ... I have evolved ...
+  two habits that make me not afraid.  One is the habit of starting
   every story in the notebook, where it is under no pressure to be a
   story; the other is ... I sit in front of the typed pages of a story
   that is nearly finished ... and instead of working on it, I begin
@@ -54,17 +97,17 @@ Companion page on design, typography, and graphics:
 
   From Found Material, Syntax, Brevity ...: "This opening sentence
   is more than ten lines long ... to be exact and economical does
-  not necessarily mean to be brief. ...
+  not necessarily mean to be brief. ..."
 
   From Thirty Recommendations for Good Writing Habits:
   " ... Read the best writers from all different periods; keep your
   reading of contemporaries in proportion -- you do not want a steady
-  diet of contemportary literature.  You already belong to your time."
+  diet of contemporary literature.  You already belong to your time."
 
   "Cutting can be effective ... But this does not mean that  everything
   has to be short.  You can write three thousand pages (as Proust did in
   *In Search of Lost Time*) and still be economical.  In this case,
-  begin econonical simply means not saying more than you need to."
+  being economical simply means not saying more than you need to."
 
 17 Feb 2020
 
@@ -119,7 +162,7 @@ Companion page on design, typography, and graphics:
   immediately struck by how directly his words transferred to described
   what I saw as the plight of software."
 
-  (See also another talk by Kell excerpted at 2 Sep 2019 below.)
+  (A similar talk by Kell is excerpted at 2 Sep 2019 below.)
 
 14 Feb 2020
 
@@ -2071,6 +2114,7 @@ Companion page on design, typography, and graphics:
   to focus more on sound ... I do a lot of reading out loud to help me
   determine whether the sound is working. ... When I’m finding joy in
   a paragraph, there’s really no sentence where I’m getting bored."
+
   "I keep a giant, running document of bits and pieces from books I
   love. ... When I feel confused and lost ... I just go back to the
   document and start reading.  ... I think there’s never been a time
