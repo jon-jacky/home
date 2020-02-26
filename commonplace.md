@@ -43,6 +43,16 @@ Companion page on design, typography, and graphics:
   there's a *huge* learning curve ..."
 
 - <https://news.ycombinator.com/item?id=22344083> - comments on "home-cooked" software - 
+  "There is a gap in tooling, there are currently no good Hypercard-like
+  tools that would allow to make 'personal software' and share it as
+  recipes."
+
+  "Unfortunately there is an entire generation or two now of mainstream
+  developers who never had the opportunity to experience things like
+  Hypercard firsthand. It is always difficult to describe the full extent
+  of the power of systems like it without being immersed in it, and we
+  don't really have contemporary equivalents to make the case."
+
   "What's it take to get HyperCard back? ... Not just functionality, but
   ubiquity -- being a tool that every kid is one  click away from, nothing
   to install, no permission to ask, just start  learning..." - Response
