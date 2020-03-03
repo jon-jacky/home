@@ -7,6 +7,21 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 2 Mar 2020
+
+- <https://kottke.org/tag/design> - Jason Kottke - "... 
+  art, technology, science, visual culture, design, music,
+  ... relentlessly filtered through my particular
+  worldview ..."
+
+- <http://blog.presentandcorrect.com/> - Present and Correct -
+  A stationery store, but many items pictured here are apparently not
+  for sale: "A collection of old Japanese gum wrappers, scanned from a
+  book ..." etc.
+
+- <https://thecreativeindependent.com/archive/> - The Creative Independent - 
+  "A growing resource of emotional and practical guidance for creative people ..."
+
 21 Feb 2020
 
 - <http://www.nomodes.com/pub_manual.html> - "PUB: The Document
