@@ -8,6 +8,156 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 Companion page on design, typography, and graphics:
 https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
+ 4 Mar 2020
+
+- *Mathematics: A Very Short Introduction* by Timothy Gowers, preface,
+  pages 14-16, 18-24, 86-103, 118-121, 124 (no link): 
+  "(Some readers find) the square root of minus one, the
+  twenty-sixth dimension, and curved space (to be) disturbingly
+  paradoxical.  It is possible to become comfortable with these ideas
+  without immersing oneself in technicalities ... one should learn to
+  think abstractly, because by doing so many philosophical
+  difficulties simply disappear."
+
+  "Suppose that you are designing a map ... You would like to use as
+  few colors as possible, but do not wish to give two adjacent regions
+  the same color.  Now suppose that you are drawing up the timetable
+  for a university course.  Tne number of possible times for lectures
+  is limited, so some modules will have to clash. ... (you) would like
+  to choose the times in such a way that two modules clash only when
+  there is nobody taking both.
+
+  These two problems appear to be quite different, but an appropriate choice
+  of model shows that from the mathematical point of view they are the same.
+  In both cases there are some objects (countries, modules) to which something
+  must be assigned (colors, times).  Some pairs of objects are incompatible
+  (neighboring countries, modules that must not clash) in the sense that they
+  are not allowed to receive the same assignment.  In neither problem do we 
+  really care what the objects are ... so we may as well just represent them
+  as points.  To show which pairs of points are incompatible we can link
+  them with lines.  A collection of points, some of which are linked by lines,
+  is a mathematical structure known as a graph. ... Once we have represented
+  the problem in this way, our task in both cases is to divide the vertices
+  into a small number of groups in such a way that no group contains two vertices
+  linked by an edge. ... This illustrates another good reason for making models
+  as simple as possible: If you are lucky, the same model can be used to study
+  many different phenomena at once."
+
+  "The abstract method in mathematics ... can be encapsulated by the following
+  slogan: a mathematical object *is* what it *does*.  ... (The natural) numbers
+  1,2,3,4,... are among the most basic of mathematical objects, but they do not
+  seem to encourage us to think abstractly.  What, after all, could a number like
+  5 be said to *do*? ... it seems to have an intrinsic nature, a sort of pure
+  fiveness we immediately grasp ... (But) numbers do not have to be very large
+  before we stop thinking of them as isolated objects and start to understand 
+  them through their properties, through how they relate to other numbers, 
+  through their role in a *number system*.  This is what I mean by what a 
+  number 'does'.
+
+  ... without some idea of arithmetic one could have only the vaguest grasp of
+  a number like 1,000,017.  A number system is not just a collection of numbers
+  but a collection of numbers together with rules for how to do arithmetic.
+  Another way to summarize the abstract approach is to think about the rules 
+  rather than the numbers themselves.  The numbers, from this point of view,
+  are tokens in a sort of game ... To get some idea of what the rules are ...
+  let me now list a few ... that we commonly use when adding and multiplying.
+  The commutative law for addition: *a + b = b + a* ... (and several others).
+
+  ... the idea of the number zero ... has seemed to many people to be a
+  mysterious and paradoxical concept, inspiring questions such as: 'How can 
+  something exist and yet be nothing?'  From the abstract point of view, 
+  however, zero is very straightforward -- it is just a new token introduced
+  into our number system with the following special property: *0 + a = a* "
+
+  "Euclid ... was the first author to make systematic use of the axiomatic
+  method, beginning his book with five axioms and deducing from them
+  a large body of geometry theorems. ... The fifth axiom is equivalent to the
+  so-called 'parallel postulate' which asserts that, given any line *L* and 
+  any point *x* not lying on *L*, there is exactly one line *M* that goes
+  through *x* and never meets *L*.  ... Historically, the axiom that caused
+  the most suspicion, or at least uneasiness, was the parallel postulate.
+  It is more complicated than the other axioms, and involves the infinite in
+  a fundamental way. ... What (mathematicians) most wanted to do was deduce
+  it from the other four axioms, thus showing that one could dispense with it.
+  However, nobody managed to do so.
+
+  You might wonder how one could ever hope to show that the parallel postulate
+  does not follow from the rest of Euclid's axioms, if indeed it doesn't. ...
+  This question has a beautiful answer ... Euclid's first four axioms were 
+  devised to describe the geometry of an infinite, flat, two-dimensional space,
+  but we are not obliged to interpret them that way, unless, of course, this 
+  flatness actually follows from the axioms.  If we could somehow reinterpret
+  (one might almost say 'misinterpret') the axioms by giving new meaning to 
+  phrases such as 'line segment' ... and if when we had done so we found that
+  the first four axioms were true but the parallel postulate was false, then we
+  would have shown that the parallel postulate does not follow from the other
+  axioms.  
+
+  Why do we not just use spherical geometry as our reinterpretation?  ... 
+  unfortuately, not all of the first four of Euclid's axioms are true in the
+  sphere.  ... Therefore, I shall turn to another reinterpretation, called
+  hyperbolic geometry ... hyperbolic geometry 
+  satisfies the first four of Euclid's axioms. As for the parallel postulate,
+  it is false for hyperbolic geometry, just as we had hoped.  ... in hyperbolic
+  geometry we have exactly the alternative interpretation of the Euclidean 
+  axioms that we were looking for in order to show that the parallel postulate 
+  was not a consequence of the other four axioms."
+
+  "A prime number is a whole number greater than one that is divisible
+  by no other whole numbers ...  The (initial) prime numbers ... are
+  2, 3, 5, 7, 11, 13, 17, 19, 23, ... they appear to be somewhat randomly 
+  distributed but not completely so. ... Given the sporadic, random-like
+  quality of the primes, it is quite surprising how much can be proved 
+  about them.  Interestingly, theorems about the primes are usually 
+  proved by *exploiting* this seeming randomness.
+
+  For example, ... Vinogradov proved ... that every large enough odd number
+  can be written as the sum of three prime numbers.  I cannot explain in this
+  book how he proved this, but what he did not do is find a *method* for 
+  expressing odd numbers as sums of three primes.  
+  Instead, ... he argued roughly as follows.   If you were to choose a 
+  genuinely random sequence of numbers of about the same density as he 
+  primes, then some elementary probability theory shows that you would 
+  almost certainly be able to write all large enough numbers as the sum of
+  three members of your sequence. ...
+
+  Much research on prime numbers has this sort of flavor. ... It is interesting
+  that the probabilistic model is a model not of a physical phenomenon,
+  but of another piece of mathematics.  Although the prime numbers are 
+  rigidly determined, they somehow feel like experimental data."
+
+  "I well remember my shock when I first heard a mathematician declare 
+  that the exact value of a certain quantity would never be known.  Now
+  I am used to the fact that this is the rule rather than the exception.
+  ... Instead, therefore, one tries to find upper and lower bounds. ..."
+
+  "I implicitly drew a contrast between being technicallly fluent and 
+  understanding difficulty concepts, but it seems that almost everyone who
+  is good at one is good at the other.  And indeed, if understanding a 
+  mathematical object is largely a question of learning the rules it obeys
+  rather than grasping its essence, then this is exactly what one would 
+  expect -- the distinction between technical fluency and mathematical 
+  understanding is less clear-cut than one might expect.
+
+  How should this observation influence classroom practice? ...
+  For example, suppose that a pupil makes the common mistake of
+  thinking that *x^(a+b) = x^a + x^b*.   A teacher who has emphasized
+  the intrinsic meaning of expressions such as *x^a* 
+  will point out that *x^(a+b)*
+  means *a + b* *xs* all multiplied together.  Unfortunately, many
+  children find this argument too complicated to take in, and anyhow
+  it ceases to be valid if *a* and *b* are not positive integers.
+
+  Such children might benefit from a more abstract approach. ...
+  everything one needs to know about the powers can be deduced from
+  a very few simple rules, of which the most important is
+  *x^(a+b) = *x^a x^b*.   If this rule has been emphasized, then not 
+  only is the above mistake less likely ... it is also easier to correct.
+  ... Of course, it is important to be familiar with basic facts
+  such as that *x^3* means *x* times *x* times *x*, but these can be
+  presented as consequences of the rules rather than as justifications
+  for them."
+
  2 Mar 2020
 
 - https://gigatron.io/ - Gigatron TTL Microcomputer - 
@@ -25,20 +175,19 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   by taking the unconventional step of bit-banging video signals from
   software, instead of designing a standard video generation circuit. ...
 
-  ... our prototype was made with 74LS series chips ... introduced in 1971. 
-
   *So why didn’t you use a 74181 ALU chip in your design?* They are
   large and relatively complex chips.  We thought it is more fun to
   stick to simpler chips. Also ... they have become difficult to
   obtain. ... The simpler chips from the 7400-series still have a
   useful glue logic function ... and many are still manufactured today
-  for that reason.
-
-  *How does the ALU work?* It is a two-stage design. Stage one is a
+  for that reason.  
+  (Our ALU) is a two-stage design. Stage one is a
   row of multiplexers that can do logical operations on the two 8-bit
   input values. It emits the left and right operands to the second
   stage. The second stage is an addition stage made from two 4-bit
-  adders. ..."
+  adders. ...
+
+  ... our prototype was made with 74LS series chips ... introduced in 1971."
 
   Compare to BASIC Engine under 6 Jul 2018 and Uzebox under 24 May 2018, 
   similar functionality but with microprocessors, and Pong under 11 Jun 2018, 
@@ -112,6 +261,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   The owners were paranoid, competitive, apparently miserable.
   They lived in hotel rooms out of suitcases, had no friends or families.
   They paid for their misdeeds in the extreme povery of their lives.
+
   They were the kind of guys who spend Christmas Day in a barroom.
   And they proved that some people try to get rich selling absolutely
   nothing at all."
