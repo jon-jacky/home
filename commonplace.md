@@ -8,10 +8,10 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
- 4 Mar 2020
+10 Mar 2020
 
 - *Mathematics: A Very Short Introduction* by Timothy Gowers, preface,
-  pages 14-16, 18-24, 86-103, 118-121, 124 (no link):
+  pages 14-16, 18-24, 86-103, 118-121, 124, 132-133 (no link):
   "(Some readers find) the square root of minus one, the
   twenty-sixth dimension, and curved space (to be) disturbingly
   paradoxical.  It is possible to become comfortable with these ideas
@@ -116,7 +116,7 @@ Companion page on design, typography, and graphics:
   book how he proved this, but what he did not do is find a *method* for
   expressing odd numbers as sums of three primes.
   Instead, ... he argued roughly as follows.   If you were to choose a
-  genuinely random sequence of numbers of about the same density as he
+  genuinely random sequence of numbers of about the same density as the
   primes, then some elementary probability theory shows that you would
   almost certainly be able to write all large enough numbers as the sum of
   three members of your sequence. ...
@@ -131,13 +131,13 @@ Companion page on design, typography, and graphics:
   I am used to the fact that this is the rule rather than the exception.
   ... Instead, therefore, one tries to find upper and lower bounds. ..."
 
-  "I implicitly drew a contrast between being technicallly fluent and
-  understanding difficulty concepts, but it seems that almost everyone who
+  "I implicitly drew a contrast between being technically fluent and
+  understanding difficult concepts, but it seems that almost everyone who
   is good at one is good at the other.  And indeed, if understanding a
   mathematical object is largely a question of learning the rules it obeys
   rather than grasping its essence, then this is exactly what one would
   expect -- the distinction between technical fluency and mathematical
-  understanding is less clear-cut than one might expect.
+  understanding is less clear-cut than one might imagine.
 
   How should this observation influence classroom practice? ...
   For example, suppose that a pupil makes the common mistake of
@@ -151,7 +151,7 @@ Companion page on design, typography, and graphics:
   Such children might benefit from a more abstract approach. ...
   everything one needs to know about the powers can be deduced from
   a very few simple rules, of which the most important is
-  *x^(a+b) = *x^a x^b*.   If this rule has been emphasized, then not
+  *x^(a+b) = x^a x^b*.   If this rule has been emphasized, then not
   only is the above mistake less likely ... it is also easier to correct.
   ... Of course, it is important to be familiar with basic facts
   such as that *x^3* means *x* times *x* times *x*, but these can be
@@ -261,7 +261,6 @@ Companion page on design, typography, and graphics:
   The owners were paranoid, competitive, apparently miserable.
   They lived in hotel rooms out of suitcases, had no friends or families.
   They paid for their misdeeds in the extreme povery of their lives.
-
   They were the kind of guys who spend Christmas Day in a barroom.
   And they proved that some people try to get rich selling absolutely
   nothing at all."
