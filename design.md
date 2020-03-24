@@ -7,6 +7,20 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+23 Mar 2020
+
+- <http://91-divoc.com/pages/covid-visualization/> - 
+  "An interactive visualization of the exponential spread of COVID-19
+  ... updated daily. ... In nearly every country in the world, when the
+  virus reaches 100 people the number of cases begins to increase by 35%
+  daily. ..."
+
+- <http://blog.snailtext.com/posts/the-joy-in-csh-and-vi.html> -
+  "... perhaps those who got there first could avoid the dangers that ossify
+  todays SW, by mere virtue of good timing. Or perhaps the reason we still
+  use their tools several decades later is that, like great symphonies,
+  they're just that darn good."
+
  2 Mar 2020
 
 - <https://kottke.org/tag/design> - Jason Kottke - "... 

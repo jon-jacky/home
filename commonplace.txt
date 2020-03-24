@@ -8,6 +8,99 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 Companion page on design, typography, and graphics:
 https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
+21 Mar 2020
+
+- *Measurement* by Paul Lockhart, pages 1, 5, 50, 32-33, 36-37, 42-45, 125-127 
+  (no link):
+  "There are many realities out there.  There is, of course, the physical
+  reality we find ourselves in. ... I want to talk about a different sort of
+  place.  I'm going to call it 'mathematical reality.' ... Mathematical 
+  reality ... is imaginary.  I get to have all those perfect things I can't
+  have in real life.  I will never hold a circle in my hand, but I
+  can hold one in my mind.   And I can measure it. ..."
+
+  "What is a math problem? To a mathematician, a problem is a *probe* --
+  a test of mathematical reality to see how it behaves. ...
+  The solution to a math problem is not a number; it's an argument,
+  a proof.  We're trying to create these little poems of pure reason. ..."
+
+  "What is measuring?  ... we are making a comparison. We are comparing the 
+  thing we are measuring to the thing we are measuring it with.  
+  In other words, *measuring is relative*. ... what sort of units do we 
+  want for our imaginary mathematical universe?  For instance, how are we 
+  goint to measure the lengths of these two sticks?  Let's suppose ...
+  that the first stick is exactly twice as long as the second.
+  Does it really matter
+  how many inches or centimeters they come out to be?  I certainly don't want
+  to subject my beautiful mathematical universe to something mundane 
+  and arbitrary like that.  ... One way to think if it
+  is that we simply aren't going to have any units at all, just proportions.
+  Since there isn't a natural choice of unit for measuring length, we won't 
+  have one.  ... The other way to go is to say that since the units don't
+  matter, we'll choose whatever unit is convenient. ... a simple 
+  example would be the perimeter of a square.  If we choose our unit to be
+  the side of the square, then the perimeter would obviously be 4.  What
+  that really means is that for any square, the perimenter is four times
+  as long as the side. ..."
+ 
+  "... We need to be clear about the extent to which we have specified our
+  objects so that we can ask well-posed, meaningful questions. ... let's
+  suppose we select a particular length and imagine a square with sides that
+  long.  *Now* is it locked down?  Yes, it is. ... any further demands that
+  we make on it might not be achievable.  For example, if we want our square
+  to have diagonals equal to its sides, well tough luck.  We don't get to have
+  that.  Once a shape (or any structure in mathematics) is specified enough,
+  the 'forces of mathematical nature' then dictate all of its behavior. We can
+  certainly try to find out what is true, but we no longer have any say in the 
+  matter. ... the real question about mathematical reality is: How much control
+  do we have? ... How pliable is mathematical reality? ... Where can we push, 
+  and where does it push back?"
+
+  "The study of size and shape is called *geometry*.  One of the oldest and
+  most influential problems in geometry is this one: how long is the diagonal
+  of a square? ... Our diagonal to side proportion cannot be expressed as a 
+  fraction in any way -- no matter how many pieces we divide our unit into,
+  the diagonal will never come out evenly.   This discovery tends to have a 
+  rather unsettling effect on people.  Usually, when we think about measuring
+  something, we imagine it requiring only a finite number of applications of
+  our ruler ... But this is not the case in mathematical reality. ...
+
+  The number we've discovered is called the square root of two ... the only
+  thing we really know about the square root of two is that its square is 2.
+  We have no hope of saying what this number *is* ... though of course
+  we can approximate it. ... the truth seems to be that we can't really 
+  measure the diagonal of a square.  This is not to say that the diagonal
+  doesn't exist or that it doesn't have a length.  It does.  The number is out
+  there, we just can't talk about it in the way we want to.  The problem is 
+  not with the diagonal, it's with our *language*.   Maybe it's the price we
+  pay for mathematical beauty.  We've created this imaginary universe (the 
+  only place where measurement is truly possible) and now we have to face the
+  consequences.  Numbers like this that cannot be expressed as fractions are 
+  called *irrational* (meaning 'not a ratio').  They arise naturally in 
+  geometry, and we just have to somehow get comfortable with that. ..."
+
+  "... This is our generalized Pythagorean theorem relating the third side of 
+  a triangle to the other two sides and the angle between them.  ... We seem 
+  to have three separate cases (with three separate formulas) depending on 
+  whether the angle is less than, equal to, or greater than a right angle.
+  This kind of thing is always a bit galling. ... Shouldn't there be one nice,
+  simple pattern?  One way to proceed is simply to be clever with our 
+  definition.  Since *cos C* (at present) only has meaning when *C* is less 
+  than a right angle, we are free to give any meaning we wish when *C* is
+  larger.  The idea is to do this in such a way that our Pythagorean relation
+  remains valid in all three cases.  That is, *we let the pattern determine
+  our choice of meaning*.  This is a major theme throughout mathematics; it
+  could even be said that this is the essence of the art ...  What we have 
+  done here is to *expand the meaning of cosine*. ... With this choice of
+  meaning for cosine, we get a single Pythagorean relation valid for all
+  angles."
+
+  This book is a self-contained re-intoduction to mathematics from geometry 
+  through calculus and differential equations, from a particular personal    
+  point-of-view.  Much of its mathematical content is too long and too 
+  interdependent to excerpt here.
+
+
 10 Mar 2020
 
 - *Mathematics: A Very Short Introduction* by Timothy Gowers, preface,
@@ -157,6 +250,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   such as that *x^3* means *x* times *x* times *x*, but these can be
   presented as consequences of the rules rather than as justifications
   for them."
+
+  This book is not online but the author has some similar material here:
+  https://www.dpmms.cam.ac.uk/~wtg10/vsipage.html
 
  2 Mar 2020
 
