@@ -7,11 +7,25 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+25 Mar 2020
+
+- <https://web.mit.edu/music21/doc/about/what.html> - 
+  "People use *music21* to answer questions from musicology using computers,
+  to study large datasets of music, to generate musical examples, to teach
+  fundamentals of music theory, to edit musical notation, study music and
+  the brain, and to compose music ..."
+
+25 Mar 2020
+
+- <https://covid19map.us/> - "interactive map of COVID-19 cases by US county"
+  Hover pointer over a county to see its statistics, click arrows by date
+  in upper left to see day-by-day growth and spread.
+
 23 Mar 2020
 
 - <http://91-divoc.com/pages/covid-visualization/> - 
   "An interactive visualization of the exponential spread of COVID-19
-  ... updated daily. ... In nearly every country in the world, when the
+  ... updated daily ... In nearly every country in the world, when the
   virus reaches 100 people the number of cases begins to increase by 35%
   daily. ..."
 
