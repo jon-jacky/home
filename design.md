@@ -7,6 +7,12 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+27 Mar 2020
+
+- <http://beyondloom.com/blog/thinkc.html> - "Your First THINK C Program" -
+  Program development on an early Macintosh, demonstrated by the Mini vMac
+  emulator.
+
 25 Mar 2020
 
 - <https://web.mit.edu/music21/doc/about/what.html> - 
@@ -15,17 +21,21 @@ Companion page, a commonplace book:
   fundamentals of music theory, to edit musical notation, study music and
   the brain, and to compose music ..."
 
-23, 25 Mar 2020
+23,25,27 Mar 2020
+
+- <https://covid19.healthdata.org/projections> - Projected hospital resource use,
+  deaths per day, and total deaths, for the US and every state.  Projections
+  from a model explained in the linked paper.
 
 - <https://covid19map.us/> - Interactive map of COVID-19 cases by US county.
   Hover pointer over a county to see its statistics, click arrows by date
-  in upper left to see day-by-day growth and spread.
+  in upper left to see day-by-day growth and spread over the map of the US.
 
 - <http://91-divoc.com/pages/covid-visualization/> - 
   "An interactive visualization of the exponential spread of COVID-19
   ... updated daily ... In nearly every country in the world, when the
   virus reaches 100 people the number of cases begins to increase by 35%
-  daily. ..."
+  daily. ..."  Graphs for each US state and many countries.
 
 23 Mar 2020
 
