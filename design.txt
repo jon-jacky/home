@@ -10,7 +10,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 27 Mar 2020
 
 - http://beyondloom.com/blog/thinkc.html - "Your First THINK C Program" -
-  Program development on an early Macintosh, demonstrated by the Mini vMac 
+  Program development on an early Macintosh, demonstrated with the Mini vMac 
   emulator.
   
 25 Mar 2020
@@ -24,8 +24,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 23,25,27 Mar 2020
 
 - https://covid19.healthdata.org/projections - Projected hospital resource use,
-  deaths per day, and total deaths, for the US and every state.  Projections 
-  from a model explained in the linked paper.
+  deaths per day, and total deaths, for the US and every state.  COVID-19 
+  projections from the model explained in the linked paper.
 
 - https://covid19map.us/ - Interactive map of COVID-19 cases by US county.
   Hover pointer over a county to see its statistics, click arrows by date 

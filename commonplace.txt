@@ -8,10 +8,10 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 Companion page on design, typography, and graphics:
 https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
-21 Mar 2020
+21-29 Mar 2020
 
-- *Measurement* by Paul Lockhart, pages 1, 5, 50, 32-33, 36-37, 42-45, 125-127 
-  (no link):
+- *Measurement* by Paul Lockhart, pages 1, 5, 50, 32-33, 36-37, 42-45, 125-127,
+  223-225, 295, 316-317, 320-327, 349-350 (no link):
   "There are many realities out there.  There is, of course, the physical
   reality we find ourselves in. ... I want to talk about a different sort of
   place.  I'm going to call it 'mathematical reality.' ... Mathematical 
@@ -95,11 +95,92 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   meaning for cosine, we get a single Pythagorean relation valid for all
   angles."
 
-  This book is a self-contained re-intoduction to mathematics from geometry 
-  through calculus and differential equations, from a particular personal    
-  point-of-view.  Much of its mathematical content is too long and too 
-  interdependent to excerpt here.
+  "... A shape has a shape, but a motion is a *relationship*.  How can we 
+  'see' a relationship?  One idea, of course is to make a graph.  In the case
+  of a point moving on a line, we could imagine a chart with say, time as
+  the horizontal and position as the vertical. ... what we end up making is
+  a curve. ... The point itself is traveling within a one-dimensional space,
+  whereas the curve here, this graph of the motion, is sitting in a 
+  two-dimensional space.  ... This environment is called *space-time*. ...
+  In this way, all motions can be thought of statically -- a motion in space
+  is the same thing as a curve in space-time, and this curve does not move.
+  ... Rather than asking how things move in our universe, a physicist ...
+  can reprhase the question as, what curves in space-time are possible?"
 
+  "... The idea is to subsume the study of shape and motion into the larger, 
+  more abstract world of numerical variables and relationships.  This 
+  viewpoint not only has the benefit of simplicity (there are no units to 
+  worry about and we don't need to visualize anything) but also tremendous
+  flexibility and generality."
+
+  "A symbolic computation system ... is called a *calculus*. ... Thus we 
+  have the *multiplicative calculus* of elementary arithmetic, which includes
+  a few procedures such as carrying and shifting, as well as the infamous
+  times tables.
+  The amazing power of this system is that it allows us to quickly and easily 
+  perform calculations that would otherwise be very time consuming and 
+  laborious.  To multiply 1876 by 316 ... nobody has to do the backbreaking 
+  work of laying out 1876 rows of 316 rocks and then counting the whole
+  mess by hand.  A calculus is a fantastic thing to have.
+
+  It is also a very rare thing to have.  Most problems in mathematics do not
+  afford such systematic treatment.  In fact, most ... have required 
+  tremendous ingenuity and specific individual treatment.  Every once in a 
+  great while, a class of problems comes along for which a calculus can be
+  developed, and it is always a major achievement.
+  So it is a cause of great celebration that we have a differential calculus
+  -- a systematic procedure for calculating differentials that does not require
+  'pushing rocks together'; that is, it spares us from having to apply the
+  method of exhaustion from scratch.  ..."
+
+  "... I was telling you about Archimedes's measurement (of the area) of the
+  parabola.  Archimedes proved this using the method of exhaustion, 
+  chopping the parabolic region up into triangles and rearranging them
+  cleverly.   It is a masterpiece of classical technique, and the 
+  details are fairly intricate.  Now I want to show you a different
+  way ... (using differentials)
+  
+  ... So now we have a purely technical question about differentials.
+  What must (the area) *A* be so that *dA = 4x^2dx* ?  Instead of asking how to
+  *d* (differentiate) something, we're asking how to un-*d* something!
+  ... It turns out, contrary to the case of *d* itself, that there is no
+  calculus for this.  That is, there does not (and cannot) exist a systematic,
+  step-by-step procedure for determining the solution to a differential
+  equation.  Which is not to say that there aren't many cases (including our
+  present one) where we *can* succeed, just that there is no universal 
+  formula for success. ...
+
+  Luckily ... We can in fact solve the differential equation *dA = 4x^2dx*.
+  ... Not only that, but I can even offer a general methodology for solving
+  differential equations -- not one that will always (or even often) be
+  successful, to be sure -- but here it is: *guessing*.  Not random, 
+  out-of-the-blue guessing, but intelligent, conscientious guessing, 
+  informed by experience and sensitivity to pattern. ..."
+  (He then shows how he chooses an initial guess, then modifies it and checks
+  it to get the solution *A = (4/3)x^3*)
+
+  "... The big idea here is that geometry -- study of size and shape -- can be
+  subsumed into the study of variables (also called *analysis*). ... The curious
+  thing is why history went the way it did, and why the modern approach has 
+  been so much more successful. ... Why, if these two viewpoints are equivalent,
+  should one of them be so much more powerful and convenient?  There is no question
+  that as visual animals we prefer a picture. ... But I know that when push comes to
+  shove, the truth is in the details, and the details are in the number pattern.
+  Of course, any analytic argument could be painstakingly translated into purely 
+  geometric terms.  This tends, however, to produce very contorted and 
+  artificial explanations in place of concise, almost too-simple-to-believe
+  analytic arguments.
+
+  I suppose what I'm really talking about here is modernism.  The exact 
+  same issues -- abstraction, the study of pattern for its own sake, 
+  and (sadly) the resulting alienation of the layperson -- are all present
+  in modern art, music, and literature.  I would even venture to say that we
+  mathematicians have gone the furthest in this direction ... Mathematics
+  is the only true abstract art.  
+
+  For me, the psychological fact of the matter is that however aesthetically
+  and emotionally satisfying the geometric view may be, the analytic
+  approach is, in the end, far more elegant and powerful."
 
 10 Mar 2020
 
@@ -251,7 +332,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   presented as consequences of the rules rather than as justifications
   for them."
 
-  This book is not online but the author has some similar material here:
+  This book is not online but the author has some related essays here:
   https://www.dpmms.cam.ac.uk/~wtg10/vsipage.html
 
  2 Mar 2020
