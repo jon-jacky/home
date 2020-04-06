@@ -134,7 +134,7 @@ Companion page on design, typography, and graphics:
   method of exhaustion from scratch.  ..."
 
   "... I was telling you about Archimedes's measurement (of the area) of the
-  parabola.  Archimedes proved this using the method of exhaustion,
+  parabola. ...  Archimedes proved this using the method of exhaustion,
   chopping the parabolic region up into triangles and rearranging them
   cleverly.   It is a masterpiece of classical technique, and the
   details are fairly intricate.  Now I want to show you a different
@@ -143,7 +143,9 @@ Companion page on design, typography, and graphics:
   ... So now we have a purely technical question about differentials.
   What must (the area) *A* be so that *dA = 4x^2dx* ?  Instead of asking how to
   *d* (differentiate) something, we're asking how to un-*d* something!
-  ... It turns out, contrary to the case of *d* itself, that there is no
+  This is a major theme in mathematics.  Anything interesting enough to do
+  is almost always interesting enought to undo. ...
+  It turns out, contrary to the case of *d* itself, that there is no
   calculus for this.  That is, there does not (and cannot) exist a systematic,
   step-by-step procedure for determining the solution to a differential
   equation.  Which is not to say that there aren't many cases (including our

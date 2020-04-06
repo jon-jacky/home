@@ -7,6 +7,17 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 5 Apr 2020
+
+- <https://increment.com/programming-languages/crash-course-in-compilers/> -
+  for the design and artwork, and links to similar pages.
+
+- <https://100r.co/site/left.html> - 
+  "*Left* is distractionless plaintext editor designed to quickly navigate
+  between segments of an essay, or multiple documents. ...
+  The application was initially created to help Rekka with the writing of
+  the upcoming novel ..."
+
 27 Mar 2020
 
 - <http://beyondloom.com/blog/thinkc.html> - "Your First THINK C Program" -
