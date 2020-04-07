@@ -7,6 +7,19 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Apr 2020
+
+- https://toki.increpare.com/ilo-sitelen/ - 
+  "... ilo sona  ale li wile toki kepeken toki Inli. ni li ike tawa mi. mi 
+  wile pali e ilo sona pi toki pona taso! ..."
+  Translated here: https://news.ycombinator.com/item?id=22788461
+
+- https://txt.black/~jack/tty.txt - 
+  "I used only the tty (no X installed) for 5 nights. It was relaxing, and 
+  now I go back to it every time I am overwhelmed. ...
+  Working only on a tty is completely calming experience,
+  there are no ads, no pressure, only code and text. ..."
+
  5 Apr 2020
 
 - https://increment.com/programming-languages/crash-course-in-compilers/ -
