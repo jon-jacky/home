@@ -19,6 +19,7 @@ Companion page, a commonplace book:
   now I go back to it every time I am overwhelmed. ...
   Working only on a tty is completely calming experience,
   there are no ads, no pressure, only code and text. ..."
+  Striking minimal non-design on parent page: <https://txt.black/~jack/>
 
  5 Apr 2020
 
