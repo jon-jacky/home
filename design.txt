@@ -38,7 +38,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Program development on an early Macintosh, demonstrated with the Mini vMac 
   emulator.
 
-- https://itch.io/jam/merveilles-hyperjam - Games written in HyperCard, 
+- https://itch.io/jam/merveilles-hyperjam - Games recently written in HyperCard, 
   the much admired end-user programming tool for the early Macintosh.
   
 25 Mar 2020
