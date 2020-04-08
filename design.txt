@@ -7,6 +7,19 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 8 Apr 2020
+
+- https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/ - 
+  "In this game, you get own version of the natural numbers, called *mynat* ...
+  addition will be defined for you, but nobody has proved that *x + y = y + 
+  x* yet. This is your job. You're going to prove mathematical theorems 
+  using the Lean theorem prover ..."
+
+- https://ahelwer.ca/post/2020-04-05-lean-assignment/ - 
+  "Doing a math assignment with the Lean theorem prover ...
+  it's like the perfect scratch pad, focusing your mind on the goal while 
+  keeping track of all your assumptions and checking your thinking. ..."
+
  7 Apr 2020
 
 - https://toki.increpare.com/ilo-sitelen/ - 
