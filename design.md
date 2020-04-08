@@ -15,6 +15,11 @@ Companion page, a commonplace book:
   x* yet. This is your job. You're going to prove mathematical theorems
   using the Lean theorem prover ..."
 
+- <http://wwwf.imperial.ac.uk/~buzzard/docs/lean/sandwich.html> -
+  "...  if you click on a line in the proof, and then on a little grey
+  rectangle, you will see the state of Lean's brain at that point in the
+  proof. ..."
+
 - <https://ahelwer.ca/post/2020-04-05-lean-assignment/> - 
   "Doing a math assignment with the Lean theorem prover ...
   it's like the perfect scratch pad, focusing your mind on the goal while
