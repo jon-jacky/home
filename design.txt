@@ -32,11 +32,14 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   The application was initially created to help Rekka with the writing of 
   the upcoming novel ..."
 
-27 Mar 2020
+27 Mar, 7 Apr 2020
 
 - http://beyondloom.com/blog/thinkc.html - "Your First THINK C Program" -
   Program development on an early Macintosh, demonstrated with the Mini vMac 
   emulator.
+
+- https://itch.io/jam/merveilles-hyperjam - Games written in HyperCard, 
+  the much admired end-user programming tool for the early Macintosh.
   
 25 Mar 2020
 
