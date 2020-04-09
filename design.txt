@@ -7,6 +7,14 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 9 Apr 2020
+
+- https://alternativebit.fr/posts/ultimate-writer/ - 
+  ""A digital typewriter based on a Raspberry Pi and an E-Ink screen. ...
+  The case has been made from a locally grown cypress. ... I love this wood. ...
+  I started the whole prototype build with an assertion in mind: I need to 
+  reach a usable state for this project as quick as possible. ..."
+
  8 Apr 2020
 
 - https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/ - 
