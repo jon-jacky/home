@@ -7,6 +7,12 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+10 Apr 2020
+
+- <https://zserge.com/posts/j/> - "Ode to J" - expansion and explanation 
+  of Arthur Whitney's *Incunabulum*, his interpreter for the J language
+  written in C, in his own idiosyncratic, very compressed style.
+
  9 Apr 2020
 
 - <https://alternativebit.fr/posts/ultimate-writer/> - 
