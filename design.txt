@@ -7,11 +7,18 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+11 Apr 2020
+
+- http://worrydream.com/dbx/ - "The Future of Programming", a talk in
+  2013 by Bret Victor.  The conceit: it is 1973, and the speaker gives
+  a talk (with an overhead projector and transparencies) about some 
+  then-recent developments that promise an exciting future.
+
 10 Apr 2020
 
 - https://zserge.com/posts/j/ - "Ode to J" - expansion and explanation 
-  of Arthur Whitney's *Incunabulum*, his interpreter for the J language 
-  written in C, in his own idiosyncratic, very compressed style.
+  of the *Incunabulum*, an interpreter for the J language 
+  in one page of C, written in an idiosyncratic, very compressed style.
 
  9 Apr 2020
 
