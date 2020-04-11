@@ -16,7 +16,7 @@ Companion page, a commonplace book:
 
 - <https://github.com/watson/awesome-computer-history> - 
   "list of computer history videos, documentaries and related folklore",
-  with links.
+  with links.  Also, <https://news.ycombinator.com/item?id=22692281> on books.
 
 10 Apr 2020
 
