@@ -14,6 +14,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   a talk (with an overhead projector and transparencies) about some 
   then-recent developments that promise an exciting future.
 
+- https://github.com/watson/awesome-computer-history - 
+  "list of computer history videos, documentaries and related folklore",
+  with links.
+
 10 Apr 2020
 
 - https://zserge.com/posts/j/ - "Ode to J" - expansion and explanation 
