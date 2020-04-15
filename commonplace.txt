@@ -28,7 +28,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   thing we are measuring to the thing we are measuring it with.  
   In other words, *measuring is relative*. ... what sort of units do we 
   want for our imaginary mathematical universe?  For instance, how are we 
-  goint to measure the lengths of these two sticks?  Let's suppose ...
+  going to measure the lengths of these two sticks?  Let's suppose ...
   that the first stick is exactly twice as long as the second.
   Does it really matter
   how many inches or centimeters they come out to be?  I certainly don't want
