@@ -11,8 +11,7 @@ Companion page, a commonplace book:
 
 - <https://imgs.xkcd.com/comics/rip_john_conway.gif> - John Conway
 
-- <https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/22/1437585075275/0874b6b2-7ace-4752-b81d-dbf5282946cd-2060x1236.jpeg?width=620>&quality=45&auto=format&fit=max&dpr=2&s=d1905baf3c55b861f567992eb2af6b76 -
-
+- <https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/22/1437585075275/0874b6b2-7ace-4752-b81d-dbf5282946cd-2060x1236.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=d1905baf3c55b861f567992eb2af6b76> -  
   John Conway playing Life on a PDP-1, from this article:
   <https://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world>
 
