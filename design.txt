@@ -7,15 +7,22 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+17 Apr 2020
+
+- https://github.com/shreevatsa/knuth-literate-programs/blob/master/programs/advent.pdf -
+  "The ur-game for computers, Adventure ... I have taken (Crowther and) 
+  Wood's original FORTRAN program ... and recast it in the CWEB idiom."
+  Typeset from Knuth's CWEB code at https://cs.stanford.edu/~knuth/programs.html
+  
+- https://philosopher.life/ - Bizarre.
+  Apparently built from this: https://tiddlywiki.com/
+
 16 Apr 2020
 
 - https://tools.ietf.org/html/rfc1180 - "RFC 1180, A TCP/IP Tutorial"
-  ASCII-only RFC converted to HTML, still in typewriter font
-  but with internal and external hyperlinks.
-  Use *[txt]* and *[pdf]* links to see those formats, use *[Docs]* link 
-  to reach the home page for other IETF documents including all the RFCs,
-  for example https://tools.ietf.org/html/rfc871, "A Perspective on the 
-  ARPANET Reference Model"
+  ASCII-only RFC converted to HTML, still in its original typewriter font
+  and formatting, but with internal and external hyperlinks.  
+  Via this page for all the RFCs etc. https://tools.ietf.org/html/
 
 14 Apr 2020
 
