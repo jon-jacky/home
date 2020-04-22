@@ -7,15 +7,21 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+21 Apr 2020
+
+- <https://text.nxg.me.uk/archive.html> - "Python methods are not functions" and more.
+
+- <https://www.pippinbarr.com/category/words/> - "It is as if you were doing work" and more.
+
+- <https://philosopher.life/> - "I need a constantly updating set of logs ..."
+  Built from <https://tiddlywiki.com/>
+
 17 Apr 2020
 
 - <https://github.com/shreevatsa/knuth-literate-programs/blob/master/programs/advent.pdf> -
   "The ur-game for computers, Adventure ... I have taken (Crowther and)
   Wood's original FORTRAN program ... and recast it in the CWEB idiom."
   Typeset from Knuth's CWEB code at <https://cs.stanford.edu/~knuth/programs.html>
-
-- <https://philosopher.life/> - Bizarre.
-  Apparently built from this: <https://tiddlywiki.com/>
 
 16 Apr 2020
 
