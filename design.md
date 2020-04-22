@@ -13,6 +13,8 @@ Companion page, a commonplace book:
 
 - <https://www.pippinbarr.com/category/words/> - "It is as if you were doing work" and more.
 
+- <http://linux.topology.org/> - "linux micro-howto notes ... share the pain" and links to more.
+
 - <https://philosopher.life/> - "I need a constantly updating set of logs ..."
   Built from <https://tiddlywiki.com/>
 
