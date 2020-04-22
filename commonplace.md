@@ -8,6 +8,23 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
+22 Apr 2020
+
+- <https://news.ycombinator.com/item?id=20241138> - 
+  comments on Smoltcp: A small TCP/IP stack in Rust -
+  "I designed smoltcp (and wrote most of the code currently in it). The
+  original TCP/IP RFC (RFC 793) contains several ambiguous requirements,
+  and as a result they do not specify a well-defined system. ...
+  By using this collection of TCP/IP RFCs that grew over the years, it is
+  indeed possible to implement a stack from first principles and have it
+  interoperate with other existing stacks without much trouble. ...
+  However, being able to transmit some bytes reliably, and having a high-
+  performance stack that works well in real world conditions are
+  different. You might be able to do the former from RFCs, but the latter
+  absolutely requires a nontrivial amount of tribal knowledge that you
+  have to collect crumb by crumb, and often quite painfully, too.
+  Smoltcp is somewhere halfway between."
+
 21-29 Mar 2020
 
 - *Measurement* by Paul Lockhart, pages 1, 5, 50, 32-33, 36-37, 42-45, 125-127,
@@ -28,7 +45,7 @@ Companion page on design, typography, and graphics:
   thing we are measuring to the thing we are measuring it with.
   In other words, *measuring is relative*. ... what sort of units do we
   want for our imaginary mathematical universe?  For instance, how are we
-  goint to measure the lengths of these two sticks?  Let's suppose ...
+  going to measure the lengths of these two sticks?  Let's suppose ...
   that the first stick is exactly twice as long as the second.
   Does it really matter
   how many inches or centimeters they come out to be?  I certainly don't want
@@ -3632,7 +3649,7 @@ Companion page on design, typography, and graphics:
   "... There's this emphasis on simple, sane ways of fulfilling tasks
   on plan9 that permeates the whole system. It's beautiful."
 
-- <https://marc.info/?l=9fans>&m=111558822710356&w=2 - "From: Russ Cox
+- <https://marc.info/?l=9fans&m=111558822710356&w=2> - "From: Russ Cox
   Date: 2001-10-25 ... Why plan 9?"
   <https://news.ycombinator.com/item?id=11882797>
 
@@ -4442,7 +4459,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
  5 Jul 2017
 
-- <http://www.springer.com/gp/marketing/turing-award-50-years?utm_campaign=CON32079_4>&utm_medium=newsletter&utm_source=email&wt_mc=email.newsletter.8.CON32079.internal_4  
+- <http://www.springer.com/gp/marketing/turing-award-50-years?utm_campaign=CON32079_4&utm_medium=newsletter&utm_source=email&wt_mc=email.newsletter.8.CON32079.internal_4>  
   Papers by Turing award winners to download (not their Turing award speeches/papers, though)
 
 - www.saminiir.com - "Let's code a TCP/IP stack" series, also
@@ -5249,7 +5266,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   memory), it is well within the ability of a student to construct and
   understand." "fully static, it can be run at slow clock speeds or manually single-stepped"
      includes schematic but apparently never built?
-also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595>&context=compsci
+also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context=compsci>
      4-bit TTL processor for the classroom - with photo on solderless breadboard
      parts list but no schematic.
 
