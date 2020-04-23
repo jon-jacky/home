@@ -12,7 +12,9 @@ Companion page on design, typography, and graphics:
 
 - <https://queue.acm.org/detail.cfm?id=1039523> - A Conversation with Alan Kay 
   (2004) -
-  "Our plan and our hope was that the next generation of kids would come
+  "Perhaps it was commercialization in the 1980s that killed off the next
+  expected new thing.
+  Our plan and our hope was that the next generation of kids would come
   along and do something better than Smalltalk around 1984 or so. ...
   But a variety of different things conspired together, and
   that next generation actually didn't show up. One could actually argue ...
@@ -21,7 +23,9 @@ Companion page on design, typography, and graphics:
   many, many respects.
   You could think of it as putting a low-pass filter on some of the good
   ideas from the 60s and 70s, as computing spread out much, much faster
-  than educating unsophisticated people can happen. ...
+  than educating unsophisticated people can happen.
+  In the last 25 years or so, we actually got something like a pop
+  culture, similar to what happened when television came on the scene ...
 
   ... a lot of the problems that computing has had in the last 25 years
   comes from systems where the designers were trying to fix some short-
