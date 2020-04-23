@@ -8,6 +8,37 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
+23 Apr 2020
+
+- <https://queue.acm.org/detail.cfm?id=1039523> - A Conversation with Alan Kay 
+  (2004) -
+  "Our plan and our hope was that the next generation of kids would come
+  along and do something better than Smalltalk around 1984 or so. ...
+  But a variety of different things conspired together, and
+  that next generation actually didn't show up. One could actually argue ...
+  that the success of commercial personal computing and
+  operating systems has actually led to a considerable retrogression in
+  many, many respects.
+  You could think of it as putting a low-pass filter on some of the good
+  ideas from the 60s and 70s, as computing spread out much, much faster
+  than educating unsophisticated people can happen. ...
+
+  ... a lot of the problems that computing has had in the last 25 years
+  comes from systems where the designers were trying to fix some short-
+  term thing and didn't think about whether the idea would scale if it were
+  adopted. There should be a half-life on software so old software just
+  melts away over 10 or 15 years.  It was a different culture in the 60s
+  and 70s; the ARPA (Advanced Research Projects Agency) and PARC culture
+  was basically a mathematical/scientific kind of culture and was
+  interested in scaling, and of course, the Internet was an exercise in
+  scaling. ...
+
+  So the problem is -- I've said this about both Smalltalk and Lisp --
+  they tend to eat their young. What I mean is that both Lisp and
+  Smalltalk are really fabulous vehicles, because they have a meta-system.
+  ... it's very, very difficult for people who like
+  Lisp or Smalltalk to imagine anything else."
+
 22 Apr 2020
 
 - <https://news.ycombinator.com/item?id=20241138> - 
@@ -15,7 +46,8 @@ Companion page on design, typography, and graphics:
   "I designed smoltcp (and wrote most of the code currently in it). The
   original TCP/IP RFC (RFC 793) contains several ambiguous requirements,
   and as a result they do not specify a well-defined system. ...
-  By using this collection of TCP/IP RFCs that grew over the years, it is
+  By using this (later, complete) collection of
+  TCP/IP RFCs that grew over the years, it is
   indeed possible to implement a stack from first principles and have it
   interoperate with other existing stacks without much trouble. ...
   However, being able to transmit some bytes reliably, and having a high-
@@ -1565,7 +1597,7 @@ Companion page on design, typography, and graphics:
   You see I've decided to butch it out, to go in the opposite direction
   to that suggested by yoga and meditation.  The yoga-meditation-zen path leads
   to peace with the world and oneness with the infinite.  Petty annoyances fade
-  into insignificance, the ego dissolves, and you are left in state of unruffled
+  into insignificance, the ego dissolves, and you are left in a state of unruffled
   serenity and calm.  Or so I gather.  It's never worked for me.  Faced with the
   thousands of petty annoyances and grievances encountered in the course of a
   week ... (I'm) shaking my fist at the world.  I won't let even the smallest
