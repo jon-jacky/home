@@ -25,26 +25,7 @@ Companion page on design, typography, and graphics:
   ideas from the 60s and 70s, as computing spread out much, much faster
   than educating unsophisticated people can happen.
   In the last 25 years or so, we actually got something like a pop
-  culture, similar to what happened when television came on the scene ...
-
-  I think a lot of the success of various programming languages is
-  expeditious gap-filling. ... filling a tiny,
-  short-term need, and then being a real problem in the longer term.
-  Basically, a lot of the problems that computing has had in the last 25 years
-  comes from systems where the designers were trying to fix some short-
-  term thing and didn't think about whether the idea would scale if it were
-  adopted. There should be a half-life on software so old software just
-  melts away over 10 or 15 years.  It was a different culture in the 60s
-  and 70s; the ARPA (Advanced Research Projects Agency) and PARC culture
-  was basically a mathematical/scientific kind of culture and was
-  interested in scaling, and of course, the Internet was an exercise in
-  scaling. ...
-
-  So the problem is -- I've said this about both Smalltalk and Lisp --
-  they tend to eat their young. What I mean is that both Lisp and
-  Smalltalk are really fabulous vehicles, because they have a meta-system.
-  ... it's very, very difficult for people who like
-  Lisp or Smalltalk to imagine anything else."
+  culture, similar to what happened when television came on the scene ..."
 
 22 Apr 2020
 
