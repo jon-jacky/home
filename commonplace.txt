@@ -8,6 +8,41 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 Companion page on design, typography, and graphics:
 https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
+24 Apr 2020 
+
+- https://www.pippinbarr.com/2017/03/03/maybe-its-important-to-hate-what-you-do/ -
+  "Kind of hate (my project) *v r 3*  these days, just so you know. Its not an uncommon 
+  experience for me with any project that takes longer than a week or so, 
+  and I think its probably not uncommon for many of us working on any 
+  creative project. ...
+  One way I've found helpful for dealing with this, especially for *v r 3* 
+  actually, has been forcing myself to kind of fall in love with all the 
+  problems by finding them 'interesting'. ...
+  things are going wrong constantly, but ... that can be seen as a kind of 
+  insight into the nature of making a videogame, or the nature of the 
+  engine I'm using, ... and so on.
+  That strategy worked very well for quite a long time for what has been a 
+  deeply frustrating and humbling project. ...
+  But .. now it just feels like the ground truth here is that I'm a bit of 
+  a bumbling incompetent trying to do things that aren't very difficult and 
+  failing.
+
+  However, some small encouragement came the other day from ... (another artist).
+  ...  he talks about how he always feels at his most unhappy working when 
+  he's working on something important. That could just be yet another nice 
+  psychological trick, like finding hardship interesting, but it's cheering 
+  to think that maybe if you hate what you do it's because what you do is 
+  just SO IMPORTANT. Too important to stop doing, for example.
+
+  But then, if we're being brutally honest, you can't stop even if it's not 
+  all that important, can you? You're making the stupid thing because at 
+  some level that's just what you need to do right now. Throwing it in the 
+  trash would be glorious, but you'd just be back a few minutes later 
+  fishing it out."
+
+  (Compare to Geoff Dyer's excerpt under 17 Feb 2019, the last two paragraphs
+  about trying to write his book on D. H. Lawrence.)
+
 23 Apr 2020
 
 - https://queue.acm.org/detail.cfm?id=1039523 - A Conversation with Alan Kay 
