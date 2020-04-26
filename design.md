@@ -18,6 +18,8 @@ Companion page, a commonplace book:
 - <https://philosopher.life/> - "I need a constantly updating set of logs ..."
   Built from <https://tiddlywiki.com/>
 
+- <https://www.mentalnodes.com/folders-kill-creativity> - a very different TiddlyWiki site.
+
 17 Apr 2020
 
 - <https://github.com/shreevatsa/knuth-literate-programs/blob/master/programs/advent.pdf> -

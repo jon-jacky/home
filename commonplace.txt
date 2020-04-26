@@ -23,7 +23,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   engine I'm using, ... and so on.
   That strategy worked very well for quite a long time for what has been a 
   deeply frustrating and humbling project. ...
-  But .. now it just feels like the ground truth here is that I'm a bit of 
+  But ... now it just feels like the ground truth here is that I'm a bit of 
   a bumbling incompetent trying to do things that aren't very difficult and 
   failing. ...
 
