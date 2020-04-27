@@ -2426,7 +2426,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   Via https://news.ycombinator.com/item?id=18044785 - "What happened
   to this future?  I miss it."
 
-19 Sep 2018
+19 Sep 2018, 27 Apr 2020
 
 - http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf - "The Ubiquitous File Server in Plan 9 ... 
   the design of a given component, whether device driver, system
@@ -2447,6 +2447,36 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   server can be used *ad lib* just by typing *echo* or *cat* commands at
   the shell prompt.  This 18-page paper is the most thorough explanation of
   Plan 9 I have seen.
+
+- https://news.ycombinator.com/item?id=21712072 -
+  "You have to think about 9p as an RPC protocol with files representing
+  objects ... Reading/writing those files is how you interact with said
+  objects. This is why you can do a lot of neat tricks using just a shell
+  script as you can directly interact with a program using a standardized
+  interface. No other operating system can claim such a high level of
+  homogeneity.
+
+  As a hypothetical example, take the game Doom. We modify it to serve a
+  file system to expose all of the players stats as a file tree. So a file
+  called *health* is an rpc call to read and write the players health. This
+  means you can *'% echo 100 >/n/doom/player/health'* to set your health to
+  100. It also means you eliminated the need to reinvent the wheel and
+  integrate a console shell in the game. ... Now we can use shell
+  scripts or helper programs to interact with the game. And they can be in
+  any language as all they have to do is *open(/path/to/file)* and *read()*
+  *write()*. Imagine how much code you can eliminate and how much
+  flexibility you gain by exposing your programs innards in such a
+  standard manner? ... The level of flexibility is intoxicating and I
+  don't care if it doesn't play youtube ..."
+
+- https://news.ycombinator.com/item?id=21709950
+  "So like the window manager is manipulated by creating fake files (fake
+  as in they don't exist in any persistent storage device) and writing
+  text to them that describes the state of the windows. Rather than
+  *socket()* and *setsockopt()*, under the hood it's opening something
+  like  */dev/net/tcp/google.com/80/ctrl* and reading and writing text
+  about the  state of the connection.   Because of this the whole system
+  is introspectable via *cat*ing interesting files."
 
 - http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf -
   "Why Some Dead OSes Still Matter - Plan 9 does not have an

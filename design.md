@@ -16,9 +16,10 @@ Companion page, a commonplace book:
 - <http://linux.topology.org/> - "linux micro-howto notes ... share the pain" and links to more.
 
 - <https://philosopher.life/> - "I need a constantly updating set of logs ..."
-  Built from <https://tiddlywiki.com/>
+  built from <https://tiddlywiki.com/>
 
-- <https://www.mentalnodes.com/folders-kill-creativity> - a very different TiddlyWiki site.
+- <https://www.mentalnodes.com/folders-kill-creativity> - another tiddlywiki site,
+  but different.
 
 17 Apr 2020
 
