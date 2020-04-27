@@ -2428,7 +2428,8 @@ Companion page on design, typography, and graphics:
 
 19 Sep 2018, 27 Apr 2020
 
-- <http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf> - "The Ubiquitous File Server in Plan 9 ... 
+- <http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf> - 
+  "The Ubiquitous File Server in Plan 9 ...
   the design of a given component, whether device driver, system
   service or application, often begins by designing a suitable name
   space, at a level of abstraction above that of (say) the API for any
@@ -2443,10 +2444,11 @@ Companion page on design, typography, and graphics:
   storage formats ... The exposing of data interfaces through the name
   space has a further advantage. ... ordinary system commands can
   operate on it, including *ls*, *cmp*, and *cp*.  ... The server is
-  often tested using shell commands or shell scripts ..." Also, any
-  server can be used *ad lib* just by typing *echo* or *cat* commands at
-  the shell prompt.  This 18-page paper is the most thorough explanation of
-  Plan 9 I have seen.
+  often tested using shell commands or shell scripts ..."
+
+  Also, any server can be used *ad lib* just by typing *echo* or *cat*
+  commands at the shell prompt.  This 18-page paper is the most thorough
+  explanation of Plan 9 I have seen.
 
 - <https://news.ycombinator.com/item?id=21712072> -
   "You have to think about 9p as an RPC protocol with files representing
@@ -2466,8 +2468,10 @@ Companion page on design, typography, and graphics:
   any language as all they have to do is *open(/path/to/file)* and *read()*
   *write()*. Imagine how much code you can eliminate and how much
   flexibility you gain by exposing your programs innards in such a
-  standard manner? ... The level of flexibility is intoxicating and I
-  don't care if it doesn't play youtube ..."
+  standard manner? ...
+
+  The level of flexibility is intoxicating and I don't care if it doesn't
+  play youtube ..."
 
 - <https://news.ycombinator.com/item?id=21709950>
   "So like the window manager is manipulated by creating fake files (fake
@@ -2475,8 +2479,10 @@ Companion page on design, typography, and graphics:
   text to them that describes the state of the windows. Rather than
   *socket()* and *setsockopt()*, under the hood it's opening something
   like  */dev/net/tcp/google.com/80/ctrl* and reading and writing text
-  about the  state of the connection.   Because of this the whole system
-  is introspectable via *cat*ing interesting files."
+  about the  state of the connection.
+
+  Because of this the whole system is introspectable via *cat*ing
+  interesting files."
 
 - <http://doc.cat-v.org/plan_9/misc/dead_OSes_still_matter/login.pdf> -
   "Why Some Dead OSes Still Matter - Plan 9 does not have an
