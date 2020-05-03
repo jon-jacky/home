@@ -8,6 +8,46 @@ Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 201
 Companion page on design, typography, and graphics:
 https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
+ 2 May 2020
+
+- *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link):
+  "Arithmetic is the skillful arrangement of numerical information
+  for ease of communication and comparison ... 
+
+  ... let's understand that *7 x 8* is not a question and *56* is not an
+  answer.  Seven times eight is a *number*, and it is capable of being 
+  represented a great many ways.  At the moment it is held as seven groups of
+  eight, and a user of an octal system would be quite pleased and would not
+  feel the need to "do" anything to it.  When we ask, "What is seven times 
+  eight?" what we are really asking is, "How can seven groups of eight be 
+  rearranged into groups of ten for ease of comparison with other numbers that
+  are similarly grouped?"  Numbers couldn't care less what grouping system you
+  happen to use and neither do mathematicians.  Numbers are what they are, and 
+  they do what they do; your desire to *compare* is the issue, and your 
+  culturally determined choice of representation system is quite secondary.
+  Another thing to notice is that when we say something like "seven times ten
+  is seventy," there is an amusing content-free circularity to such a 
+  statement.  After all, the word *seventy* is simply an abbreviated form of
+  seven tens. ...
+
+  So the practical problem of arithmetic has been completely and utterly
+  solved. ... The long historical saga of representation systems and 
+  abacuses has come to an end.  So you can take your tabula and your calculus
+  stones, your counting coins and soroban and throw them all away.  Leave the
+  pencil and paper in the drawer.  If you need to do some Hindu-Arabic 
+  decimal place-value arithmetic, simply take out your phone and push some
+  buttons.
+
+  There is no cause for weeping and moaning; it is simply the way of all
+  things.  Where is your family spinning wheel? ... you can still do arithmetic 
+  by hand if you want to.  Perhaps this may even rekindle your relationship
+  to pencil-and-paper arithmetic, seeing it anew as a quaint, outmoded
+  thirteenth-century folk art.  Whatever.  The point is that the story of 
+  arithmetic, at least from a mundane practical points of view, is over.
+  Now we can turun our attention to the more conceptual, theoretical 
+  aspects of this beautiful subject.  Our goal is not utility or practicality
+  but intellectual pleasure and understanding."
+  
 24 Apr 2020 
 
 - https://www.pippinbarr.com/2017/03/03/maybe-its-important-to-hate-what-you-do/ -
@@ -2473,7 +2513,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   The level of flexibility is intoxicating and I don't care if it doesn't
   play youtube ..."
 
-- https://news.ycombinator.com/item?id=21709950
+- https://news.ycombinator.com/item?id=21709950 -
   "So like the window manager is manipulated by creating fake files (fake
   as in they don't exist in any persistent storage device) and writing
   text to them that describes the state of the windows. Rather than
@@ -2517,10 +2557,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
   while it may have helped get science off the ground, is today
   responsible not only for the confusion at the foundations of quantum
   mechanics, but also for a broader misunderstanding of the nature of
-  science in general."  In addition to this argument, much of the
-  value here is in the review of the opinions of many physicists and
-  others, expressed in their own words (via quotations).  But this
-  paper didn't resolve any quantum mysteries for me.
+  science in general."  
+
+  In addition to this argument, much of the value here is in the review of
+  the opinions of many physicists and others, expressed in their own words
+  (via quotations).  But this paper didn't resolve any quantum mysteries
+  for me.
 
 15 Sep 2018
 
