@@ -10,7 +10,7 @@ Companion page on design, typography, and graphics:
 
  2 May 2020
 
-- *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link):
+- *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link): -
   "Arithmetic is the skillful arrangement of numerical information
   for ease of communication and comparison ...
 
@@ -43,8 +43,8 @@ Companion page on design, typography, and graphics:
   by hand if you want to.  Perhaps this may even rekindle your relationship
   to pencil-and-paper arithmetic, seeing it anew as a quaint, outmoded
   thirteenth-century folk art.  Whatever.  The point is that the story of
-  arithmetic, at least from a mundane practical points of view, is over.
-  Now we can turun our attention to the more conceptual, theoretical
+  arithmetic, at least from a mundane practical point of view, is over.
+  Now we can turn our attention to the more conceptual, theoretical
   aspects of this beautiful subject.  Our goal is not utility or practicality
   but intellectual pleasure and understanding."
 

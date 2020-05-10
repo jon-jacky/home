@@ -21,6 +21,9 @@ Companion page, a commonplace book:
 - <https://www.mentalnodes.com/folders-kill-creativity> - another tiddlywiki site,
   but different.
 
+- <https://alligatorbrowser.github.io/voidnill.github.io/a/a32.1.html> - a Zettelkasten, 
+  see  *I* link in top line.
+
 17 Apr 2020
 
 - <https://github.com/shreevatsa/knuth-literate-programs/blob/master/programs/advent.pdf> -
