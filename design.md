@@ -7,6 +7,10 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+14 May 2020
+
+- <https://inverse.website/> - *in:verse* a poetic programming language 
+
 21 Apr 2020
 
 - <https://text.nxg.me.uk/archive.html> - "Python methods are not functions" and more.
