@@ -11,19 +11,20 @@ Companion page, a commonplace book:
 
 - <https://www.upress.umn.edu/book-division/books/the-interface> - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
-  1976* by John Harwood.  How industrial designers Eliot Noyes, Paul Rand,
-  Charles and Ray Eames, and others gave IBM products a consistent,
-  instantly recognizable and authoritative look, from buildings through
-  computers and typewriters to publications and letterhead.
+  1976* by John Harwood.  How architects and designers Eliot Noyes, Edgar
+  Kaufmann Jr., Paul Rand, Charles and Ray Eames, and many others gave IBM
+  products a consistent, instantly recognizable look, from buildings
+  and exhibits through computers and typewriters to publications and
+  letterhead.
 
 - <https://www.italianways.com/the-olivetti-store-set-to-conquer-fifth-avenue/> - 
   "(IBM CEO Thomas) Watson (Jr.) determined that IBM should adopt a new
   look. Following a pair of chance encounters with the sleek modern design
   of  Olivetti's Manhattan showroom and advertisements in 1954, Watson
-  summoned Noyes ..." (Ch 1, p.24 in Harwood).  The famous Olivetti
-  showrooms in Venice, New York, and San Francisco are also thought to be
-  models for the Apple stores much later.  Scroll all the way down to see
-  color photos with fascinated New Yorkers peering in.
+  summoned Noyes ..." (Ch 1, p.24 in Harwood).  The Olivetti showrooms are
+  also thought to be an inspiration for the Apple stores that came much
+  later.  Scroll all the way down to see color photos with curious New
+  Yorkers peering in.
 
 - <https://www.paulrand.design/work/IBM.html> -
   On his design for IBM's logo, Paul Rand wrote, "IBM's products are too
@@ -50,6 +51,8 @@ Companion page, a commonplace book:
 
 - <https://alligatorbrowser.github.io/voidnill.github.io/a/a32.1.html> - a Zettelkasten, 
   see I link in top line.
+
+- <https://heatherbooker.github.io/blog/archive/> - "im not a programmer" and more.
 
 17 Apr 2020
 
