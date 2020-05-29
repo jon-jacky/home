@@ -7,15 +7,23 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+28 May 2020
+
+- https://elliott.computer/ - "Elliott is looking to work on the 
+  Mister Rogers' Neighborhood of the internet."
+
+- https://special.fish/ - "I like to think of us all swimming together 
+  in a school. Where are we headed?"
+
 18 May 2020
 
 - https://www.upress.umn.edu/book-division/books/the-interface - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
   1976* by John Harwood.  How architects and designers Eliot Noyes, Edgar
-  Kaufmann Jr., Paul Rand, Charles and Ray Eames, and many others gave IBM
-  products a consistent, instantly recognizable look, from buildings
-  and exhibits through computers and typewriters to publications and
-  letterhead.
+  Kaufmann Jr., Paul Rand, Charles and Ray Eames, Eero Saarinen and many
+  others gave IBM products a consistent look that expressed the corporate
+  philosophy, from buildings and exhibits through computers and
+  typewriters to publications and letterhead.
 
 - https://www.italianways.com/the-olivetti-store-set-to-conquer-fifth-avenue/ - 
   "(IBM CEO Thomas) Watson (Jr.) determined that IBM should adopt a new

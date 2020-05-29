@@ -13,6 +13,11 @@ Companion page on design, typography, and graphics:
 - *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link): -
   "Arithmetic is the skillful arrangement of numerical information
   for ease of communication and comparison ...
+  Being good at it doesn't make you particularly smart or
+  mathematically inclined ... Similarly, begin unskilled at arithmetic
+  does not mean you are stupid or that you do not have a mathematical
+  mind.  Arithmetic is just like any other craft; you can get good at it if
+  you want to, but it is no big deal either way. ...
 
   ... let's understand that *7 x 8* is not a question and *56* is not an
   answer.  Seven times eight is a *number*, and it is capable of being
