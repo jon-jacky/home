@@ -1,6 +1,6 @@
 
 Pages with interesting design, typography, or graphics, in addition to
-their content.
+<https://www.eamesoffice.com/the-work/15256163-2/their> content.
 
 More here: <http://jon-jacky.github.io/home/links.html#graphics>
 
@@ -17,7 +17,7 @@ Companion page, a commonplace book:
 
 18 May 2020
 
-- <https://www.upress.umn.edu/book-division/books/the-interface> - 
+- <https://muse.jhu.edu/book/24792> - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
   1976* by John Harwood.  How architects and designers Eliot Noyes, Edgar
   Kaufmann Jr., Paul Rand, Charles and Ray Eames, Eero Saarinen and many
@@ -38,6 +38,8 @@ Companion page, a commonplace book:
   On his design for IBM's logo, Paul Rand wrote, "IBM's products are too
   complex to be understood by the average buyer. [The buyer] must rely on
   IBM's reputable name." (quoted in Ch 1, p. 27 in Harwood).
+  "Don't alter the IBM logo ... even in humor." (quoted in Notes on
+  Conclusion, note 7, p.266 in Harwood).
 
 14 May 2020
 
