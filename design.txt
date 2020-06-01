@@ -49,10 +49,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://www.eamesoffice.com/the-work/15256163-2/ - *A Computer Perspective* - 
   An 8 minute film by the Eames Office based on their 1971 exhibit
-  produced for IBM, a pre-history of computing from 1890 - 1950,
-  with a postscript about then-current electronic computers.
-  Narrated by Hollywood actor Gregory Peck (Atticus Finch!)
-  with music by jazz dummer Shelly Manne.
+  for IBM, about the mechanical pre-history of computing from
+  1890 - 1950, with a postscript about then-current electronic computers.
+  Narrated by Hollywood actor Gregory Peck (Atticus Finch!) with music by
+  jazz dummer Shelly Manne.
   
 14 May 2020
 
