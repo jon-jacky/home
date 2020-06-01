@@ -41,6 +41,19 @@ Companion page, a commonplace book:
   "Don't alter the IBM logo ... even in humor." (quoted in Notes on
   Conclusion, note 7, p.266 in Harwood).
 
+- <https://www.eamesoffice.com/the-work/a-computer-glossary-2/> - 
+  *A Computer Glossary* - A 10 minute film by the Eames office shown in
+  1968 in the IBM Corporations pavilion at Hemisfair in San Antonio,
+  Texas.  Despite its dated style,  this introduction to
+  computers and programming is still technically accurate today.
+
+- <https://www.eamesoffice.com/the-work/15256163-2/> - *A Computer Perspective* - 
+  An 8 minute film by the Eames Office based on their 1971 exhibit
+  produced for IBM, a pre-history of computing from 1890 - 1950,
+  with a postscript about then-current electronic computers.
+  Narrated by Hollywood actor Gregory Peck (Atticus Finch!)
+  with music by jazz dummer Shelly Manne.
+
 14 May 2020
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
