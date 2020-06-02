@@ -24,6 +24,7 @@ Companion page, a commonplace book:
   others gave IBM products a consistent look that expressed the corporate
   philosophy, from buildings and exhibits through computers and
   typewriters to publications and letterhead.
+  Color plates from the book: <https://muse.jhu.edu/chapter/897088/pdf>
 
 - <https://www.italianways.com/the-olivetti-store-set-to-conquer-fifth-avenue/> - 
   "(IBM CEO Thomas) Watson (Jr.) determined that IBM should adopt a new
@@ -36,23 +37,40 @@ Companion page, a commonplace book:
 
 - <https://www.paulrand.design/work/IBM.html> -
   On his design for IBM's logo, Paul Rand wrote, "IBM's products are too
-  complex to be understood by the average buyer. [The buyer] must rely on
+  complex to be understood by the average buyer. [They] must rely on
   IBM's reputable name." (quoted in Ch 1, p. 27 in Harwood).
   "Don't alter the IBM logo ... even in humor." (quoted in Notes on
   Conclusion, note 7, p.266 in Harwood).
 
+- <https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/> -
+  "This 1973 IBM Selectric typeball recorded dancers' body movements ..."
+  Noyes: "I got in there and started designing typewriters and I then
+  had to fight for my foothold in (architecture) ... I'm really an
+  architect and industrial designer ..." (quote in Conclusion, p. 218
+  in Harwood).
+
+- <http://www.righto.com/2019/04/iconic-consoles-of-ibm-system360.html> -
+  "The IBM System/360 was a ... family of mainframe computers announced on
+  April 7, 1964. ... Although the S/360 models shared a common
+  architecture, internally they were completely different to support the
+  wide range of cost and performance levels ... This article describes the
+  various S/360 models and how to identify them from the front panels."
+  "IBM industrial designer C. F. Glaser ... played a crucial role in the
+  design of System/360 ..." (quoted in Conclusion, p. 223 in Harwood).
+
 - <https://www.eamesoffice.com/the-work/a-computer-glossary-2/> - 
   *A Computer Glossary* - A 10 minute film by the Eames office shown in
-  1968 in the IBM Corporations pavilion at Hemisfair in San Antonio,
-  Texas.  Despite its dated style,  this introduction to
-  computers and programming is still technically accurate today.
+  1968 at the IBM pavilion at Hemisfair in San Antonio,
+  Texas.  Despite its 50+ year age and dated style, this introduction to
+  computers and programming is still surprisingly accurate on the topics
+  it covers.
 
-- <https://www.eamesoffice.com/the-work/15256163-2/> - *A Computer Perspective* - 
-  An 8 minute film by the Eames Office based on their 1971 exhibit
-  for IBM, about the mechanical pre-history of computing from
-  1890 - 1950, with a postscript about then-current electronic computers.
-  Narrated by Hollywood actor Gregory Peck (Atticus Finch!) with music by
-  jazz dummer Shelly Manne.
+- <https://www.eamesoffice.com/the-work/15256163-2/> - 
+  *A Computer Perspective* -  An 8 minute film by the Eames Office based
+  on their 1971 exhibit for IBM, about the mechanical pre-history of
+  computing 1890 - 1950, with a postscript about then-current electronic
+  computers. Narrated by Hollywood actor Gregory Peck (Atticus Finch!)
+  with music by film composer Elmer Bernstein and jazz dummer Shelly Manne.
 
 14 May 2020
 
