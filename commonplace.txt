@@ -11,12 +11,24 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
  2 Jun 2020
 
 - https://www.buzzfeednews.com/article/brandontaylor/i-dont-miss-being-a-scientist-except-when-i-do -
-  Working In Science Was A Brutal Education. Thats Why I Left.  
+  Working In Science Was A Brutal Education. That's Why I Left.  
   By Brandon Taylor, author of the novel *Real Life*.
 
-  *Does science influence your writing?*
+  "*Do you miss being a scientist?* some people ask.
 
-   "... People presume that science and writing are quite different. But they
+  ... Science was beautiful and it was wild and it was unknowable. Science
+  was spending days and weeks on a single experiment with no way to know
+  if it would work and no real way to tell if it had worked. Science was
+  like trying to find your way to a dark forest only to realize that you
+  had always been inside of the forest and that the forest is inside of
+  another, greater, darker forest. ... Science was being taught to think.
+  Taught to speak. Science was a finishing school. Science was a brutal
+  education. Science made me ruthless. Science made me understand the vast
+  beauty of the world. ..."
+
+  "*Does science influence your writing?*
+
+   ... People presume that science and writing are quite different. But they
    are both ways of knowing. They are ways of understanding the greater
    mystery of the world. They are systems of knowledge and inquiry. I do
    not understand something until I have written it, or more accurately
@@ -38,11 +50,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
    iteration. You develop a thick skin. You learn to seek criticism. You
    treat criticism like kindness. You churn the raw material of life into
    something that can be understood, and when you fail, you marvel at the
-   mystery of things.
+   mystery of things."
 
-   *Do you miss science?*
+   "*Do you miss science?*
 
-   "... I think if people knew what it was that I left, then they'd know better
+   ... I think if people knew what it was that I left, then they'd know better
    than to ask. It would be like asking someone if they were sad to have
    left their home with no prospect of returning. It would be like asking
    someone if they were sad to have left their faith behind. It would be

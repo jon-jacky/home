@@ -7,6 +7,15 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 3 Jun 2020
+
+- http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/ - 
+  "... one question led to the next and eventually I was asking: how do
+  pixels end up on the monitor? ..."
+
+  Via https://news.ycombinator.com/item?id=23392194 with more
+  information and advice.
+
 28 May 2020
 
 - https://elliott.computer/ - "Elliott is looking to work on the 
@@ -56,7 +65,18 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   wide range of cost and performance levels ... This article describes the
   various S/360 models and how to identify them from the front panels."
   "IBM industrial designer C. F. Glaser ... played a crucial role in the 
-  design of System/360 ..." (quoted in Conclusion, p. 223 in Harwood).
+  design of System/360 ..." (from Conclusion, p. 223 in Harwood).
+
+- https://www.worthpoint.com/worthopedia/lot-vintage-1960s-ibm-system-model-1812848598 -
+  IBM System/360 manuals, covers and title pages.
+
+- http://bitsavers.trailing-edge.com/pdf/ibm/360/princOps/A22-6821-0_360PrincOps.pdf -
+  *IBM System/360 Principles of Operation* - all 168 pages except for its
+  signature red cover, like *A PL/I Primer* in the preceding link.
+                                                                                     
+- http://weblog.ceicher.com/archives/IBM360greencard.pdf -
+  *IBM System/360 Reference Data* - called the "green card", even when it was
+  a different color.  Summarizes some contents from *Principles of Operation*.
 
 - https://www.eamesoffice.com/the-work/a-computer-glossary-2/ - 
   *A Computer Glossary* - A 10 minute film by the Eames office shown in
