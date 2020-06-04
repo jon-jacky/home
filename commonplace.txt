@@ -18,9 +18,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
   ... Science was beautiful and it was wild and it was unknowable. Science
   was spending days and weeks on a single experiment with no way to know
-  if it would work and no real way to tell if it had worked. Science was
+  if it would work and no real way to tell if it *had* worked. Science was
   like trying to find your way to a dark forest only to realize that you
-  had always been inside of the forest and that the forest is inside of
+  had always been *inside* of the forest and that the forest is inside of
   another, greater, darker forest. ... Science was being taught to think.
   Taught to speak. Science was a finishing school. Science was a brutal
   education. Science made me ruthless. Science made me understand the vast
