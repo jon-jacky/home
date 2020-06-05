@@ -13,8 +13,9 @@ Companion page, a commonplace book:
   "... one question led to the next and eventually I was asking: how do
   pixels end up on the monitor? ..."
 
-  Via <https://news.ycombinator.com/item?id=23392194> with more
-  information and advice.
+  Via <https://news.ycombinator.com/item?id=23392194> with more information
+  and advice. Also <https://news.ycombinator.com/item?id=23394750> with
+  still more about graphics without X11.
 
 28 May 2020
 
@@ -24,7 +25,7 @@ Companion page, a commonplace book:
 - <https://special.fish/> - "I like to think of us all swimming together 
   in a school. Where are we headed?"
 
-18 May 2020
+18 May - 4 Jun 2020
 
 - <https://muse.jhu.edu/book/24792> - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
@@ -43,6 +44,16 @@ Companion page, a commonplace book:
   also thought to be an inspiration for the Apple stores that came much
   later.  Scroll all the way down to see color photos with curious New
   Yorkers peering in.
+
+- <https://unicoprop.com/properties/ibm-building/> - 
+  IBM building in downtown Seattle, built in 1963.  Designed by Minoru
+  Yamasaki, who also designed the pencil-standing-on-its-point Rainier
+  Tower across the street in 1977, the Pacific Science Center with its
+  graceful arches for the Seattle World's Fair in 1962, and the original
+  World Trade Center towers in New York City in 1970. During the 1960s,
+  IBM had a working System/360 machine room behind the glass windows
+  facing the plaza, where the computer and its operators could
+  be seen by shoppers and passers by.
 
 - <https://www.paulrand.design/work/IBM.html> -
   On his design for IBM's logo, Paul Rand wrote, "IBM's products are too
