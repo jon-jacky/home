@@ -105,7 +105,7 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020
+21 Apr 2020 and ongoing ...
 
 - <https://text.nxg.me.uk/archive.html> - "Python methods are not functions" and more.
 
@@ -124,9 +124,8 @@ Companion page, a commonplace book:
 
 - <https://heatherbooker.github.io/blog/archive/> - "im not a programmer" and more.
 
-- <https://christine.website/blog/why-i-use-suckless-tools-2020-06-05> -
-  "... optimized for understandability and hacking, which is a huge breath
-  of fresh air these days."
+- <https://christine.website/blog/why-i-use-suckless-tools-2020-06-05> - 
+  markdown source as a style in itself
 
 17 Apr 2020
 
