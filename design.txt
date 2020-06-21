@@ -25,7 +25,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://special.fish/ - "I like to think of us all swimming together 
   in a school. Where are we headed?"
 
-18 May - 4 Jun 2020
+18 May - 20 Jun 2020
 
 - https://muse.jhu.edu/book/24792 - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
@@ -59,6 +59,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   IBM's reputable name." (quoted in Ch 1, p. 27 in Harwood).
   "Don't alter the IBM logo ... even in humor." (quoted in Notes on
   Conclusion, note 7, p.266 in Harwood).
+
+- https://www.ibm.com/design/language/ibm-logos/8-bar - IBM Design Language
+  (2020). "The IBM logo is one of our most valuable corporate assets. ...
+  The IBM core colors, consisting of the blue and gray families, are used
+  when applying color specifically to the 8-bar logo.  Please refer to the
+  color specifications for precise values. ... Don't use unapproved
+  color combinations ..."
 
 - https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/ -
   "This 1973 IBM Selectric typeball recorded dancers' body movements ..."
@@ -125,7 +132,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://heatherbooker.github.io/blog/archive/ - "im not a programmer" and more.
 
 - https://christine.website/blog/why-i-use-suckless-tools-2020-06-05 - 
-  markdown source as a style in itself
+  markdown source as a style in itself.
 
 17 Apr 2020
 
