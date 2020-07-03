@@ -244,7 +244,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   fundamentals of music theory, to edit musical notation, study music and 
   the brain, and to compose music ..."
 
-23,25,27 Mar 2020
+23,25,27 Mar 2020, 2 Jul 2020
+
+- https://kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx?mkt_tok=eyJpIjoiTXpFMU5qSmxNR0ppWXpNdyIsInQiOiJqdjlNVDNjMmFldExuSVpIdkpqQWVVN0hEM3FDV09Hb0VMbFdydlRGK2hBenI4TjEwaW1iZExDNE9uSFwvejFsQlgxaTI0VXViNUJWZ1dBSGlvZlRpU0Y3RkZIcEFlV0FkZWJmT3NpaUlhMEFYQnhZcEw0bjBJODhNUXo1dzJaUHUifQ%3D%3D
+  King County, WA (Seattle etc.) - Daily COVID-19 outbreak summary 
 
 - https://covid19.healthdata.org/projections - Projected hospital resource use,
   deaths per day, and total deaths, for the US and every state.  COVID-19 
