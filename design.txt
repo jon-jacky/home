@@ -7,6 +7,12 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Jul 2020
+
+- https://wizardzines.com/comics/ - "programming zines by Julia Evans ...
+  here are some of my favorite pages ..."   Brief hand-drawn and
+  hand-lettered tutorials on many technical topics.
+
  3 Jun 2020
 
 - http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/ - 
