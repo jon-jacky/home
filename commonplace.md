@@ -8,6 +8,23 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
+ 7 Jul 2020
+
+- *Hellgoing* by Lynn Coady, from the story 'The Natural Elements' p. 142, 149
+  (no link): -
+  "... Big money! Big payoff! To own property that close to the university,
+  was, this past year, like sitting in your backyard and having the ground
+  suddenly start to rumble and spew oil like on *The Beverly Hillbillies*.
+  It was a city of Beverly Hillbillies lately -- everyone cashing in. ...
+  It was like with construction these days -- too much work, too few
+  companies.  There were always bigger, more lucrative jobs.  Workmen tore
+  holes in people's walls, went away, and never returned.
+
+  What was the good of all this money?  If it made no one responsible
+  to anyone else?  If it made life not easier, but in some cases
+  impossible?  He thought of this as he pulled up to the non-existent
+  sidewalk ... buried, like everything, in snow. ..."
+
  2 Jun 2020
 
 - <https://www.buzzfeednews.com/article/brandontaylor/i-dont-miss-being-a-scientist-except-when-i-do> -
