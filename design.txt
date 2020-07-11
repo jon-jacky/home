@@ -11,7 +11,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://wizardzines.com/comics/ - "programming zines by Julia Evans ...
   here are some of my favorite pages ..."   Brief hand-drawn and
-  hand-lettered tutorials on many technical topics.
+  hand-lettered tutorials on many technical topics.  Another index 
+  to the same content (not Twitter despite title): 
+  https://jvns.ca/blog/2020/07/10/twitter-summary-from-2020-so-far/
 
  3 Jun 2020
 
