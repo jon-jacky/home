@@ -9,7 +9,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 26 Jul 2020
 
-- http://wittgensteinrepository.org/agora-ontos/article/view/2076 - 
+- http://tractatus.lib.uiowa.edu/map/ -
   Visualization of Wittgensteins' *Tractatus*, like the London subway map.
   If you just want to read the text:
 
