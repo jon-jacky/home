@@ -9,9 +9,8 @@ Companion page, a commonplace book:
 
 26 Jul 2020
 
-- <http://wittgensteinrepository.org/agora-ontos/article/view/2076> - Vis
+- <http://wittgensteinrepository.org/agora-ontos/article/view/2076> - 
   Visualization of Wittgensteins' *Tractatus*, like the London subway map.
-
   If you just want to read the text:
 
   <http://tractatus-online.appspot.com/Tractatus/jonathan/index.html>
