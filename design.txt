@@ -7,6 +7,26 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+26 Jul 2020
+
+- http://wittgensteinrepository.org/agora-ontos/article/view/2076 - Vis
+  Visualization of Wittgensteins' *Tractatus*, like the London subway map.
+  
+  If you just want to read the text:
+
+  http://tractatus-online.appspot.com/Tractatus/jonathan/index.html
+
+  Both via https://news.ycombinator.com/item?id=23953857 with many others.
+  
+- Michele Pasin's PhiloSurfical web app did a visualization of the *Tractatus*
+  in the early 2000s: 
+
+  http://philosurfical.open.ac.uk/tractatus/tabs.html
+
+  https://github.com/lambdamusic/PhiloSurfical
+
+  http://wittgensteinrepository.org/agora-ontos/article/view/2076
+
  7 Jul 2020
 
 - https://wizardzines.com/comics/ - "programming zines by Julia Evans ...
