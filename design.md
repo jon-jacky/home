@@ -10,12 +10,13 @@ Companion page, a commonplace book:
 26 Jul 2020
 
 - <http://tractatus.lib.uiowa.edu/map/> -
-  Visualization of Wittgensteins' *Tractatus*, like the London subway map.
-  If you just want to read the text:
+  Visualization of Wittgenstein's *Tractatus*, like the London subway map.
 
   <http://tractatus-online.appspot.com/Tractatus/jonathan/index.html>
+  If you just want to read the text.
 
-  Both via <https://news.ycombinator.com/item?id=23953857> with many others.
+  Both via <https://news.ycombinator.com/item?id=23953857> with links to 
+  others also.
 
 - Michele Pasin's PhiloSurfical web app did a visualization of the *Tractatus*
   in the early 2000s:
