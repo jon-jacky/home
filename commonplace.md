@@ -8,10 +8,29 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
+27 Jul 2020
+
+- *A History of Histories* by John Burrow, on *The Civilization of the
+  Renaissance in Italy* by Jacob Burckhardt (1860). p. 391 - 3022 (no link):
+
+  "Burckhardt (considers them) ... the bearers of Renaissance civilization:
+  artists and architects, humanist scholars and men of letters. ...
+  in Burckhardt's picture, (they) are typically without the supports and
+  constraints of traditional institutions -- of guilds or universities --
+  or are only very loosely attached to them. ... (he writes:)
+
+      For an ambitious youth, the fame and brilliant position of the
+      humanists were a perilous temptation. ... He was thus led to plunge
+      into a life of excitement and vicissitude, in which exhausting studies,
+      tutorships, secretaryships, professorships, offices in princely
+      households, mortal enemies and perils, luxury and beggary,
+      boundless admiration and boundless contempt, followed confusedly
+      one upon the other. (Part III)"
+
  7 Jul 2020
 
 - *Hellgoing* by Lynn Coady, from the story 'The Natural Elements' p. 142, 149
-  (no link): -
+  (no link):
   "... Big money! Big payoff! To own property that close to the university,
   was, this past year, like sitting in your backyard and having the ground
   suddenly start to rumble and spew oil like on *The Beverly Hillbillies*.
@@ -86,7 +105,7 @@ Companion page on design, typography, and graphics:
 
  2 May 2020
 
-- *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link): -
+- *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link):
   "Arithmetic is the skillful arrangement of numerical information
   for ease of communication and comparison ...
   Being good at it doesn't make you particularly smart or
