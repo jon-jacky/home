@@ -10,8 +10,8 @@ Companion page on design, typography, and graphics:
 
 27 Jul 2020
 
-- *A History of Histories* by John Burrow, on *The Civilization of the
-  Renaissance in Italy* by Jacob Burckhardt (1860). p. 391 - 3922 (no link):
+- *A History of Histories* by John Burrow (2007), on *The Civilization of the
+  Renaissance in Italy* by Jacob Burckhardt (1860). p. 391 - 392 (no link):
   "Burckhardt (considered them) ... the bearers of Renaissance civilization:
   artists and architects, humanist scholars and men of letters. ...
   in Burckhardt's picture, (they) are typically without the supports and
