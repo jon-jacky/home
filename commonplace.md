@@ -11,12 +11,12 @@ Companion page on design, typography, and graphics:
 27 Jul 2020
 
 - *A History of Histories* by John Burrow, on *The Civilization of the
-  Renaissance in Italy* by Jacob Burckhardt (1860). p. 391 - 3022 (no link):
-  "Burckhardt (considers them) ... the bearers of Renaissance civilization:
+  Renaissance in Italy* by Jacob Burckhardt (1860). p. 391 - 3922 (no link):
+  "Burckhardt (considered them) ... the bearers of Renaissance civilization:
   artists and architects, humanist scholars and men of letters. ...
   in Burckhardt's picture, (they) are typically without the supports and
   constraints of traditional institutions -- of guilds or universities --
-  or are only very loosely attached to them. ... (Burckhardt writes:)
+  or are only very loosely attached to them. ..." Burckhardt wrote:
 
       For an ambitious youth, the fame and brilliant position of the
       humanists were a perilous temptation. ... He was thus led to plunge
@@ -24,7 +24,7 @@ Companion page on design, typography, and graphics:
       studies, tutorships, secretaryships, professorships, offices in
       princely households, mortal enemies and perils, luxury and beggary,
       boundless admiration and boundless contempt, followed confusedly one
-      upon the other. (Part III)"
+      upon the other. (Part III)
 
  7 Jul 2020
 
