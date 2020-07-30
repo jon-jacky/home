@@ -12,7 +12,7 @@ Companion page on design, typography, and graphics:
 
 - *A History of Histories* by John Burrow (2007) quoting
   *The Civilization of the Renaissance in Italy* by Jacob Burckhardt (1860),
-  p. 391 - 392 in Burrow (no link): "Burckhardt (considered t
+  p. 391 - 392 in Burrow (no link):
 
   "For an ambitious youth, the fame and brilliant position of the
   humanists were a perilous temptation. ... He was thus led to plunge
