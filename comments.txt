@@ -1,0 +1,123 @@
+
+Some comments I have posted on web sites.
+
+Any web site could disappear at any time, taking all its users'
+contributions with it.  I have copied some of my longer comments here,
+where I can be sure of keeping them -- I have a local copy of this
+repository.
+
+Each of these comments was an answer to a question or a contribution to a 
+discussion.  The URL shows the comment in context where I posted it (for
+comments on *Hacker News*, click *parent* to see more context).
+
+Mar 2020
+
+- https://news.ycombinator.com/item?id=22226396 on *A Mathematicians Apology*
+
+  It's not much about maths, it's a memoir by a particular mathematician
+  written at an unhappy point in his life, reflecting back on what he has
+  done. It belongs more to the literature about artists and creativity, than
+  to books of mathematical content. For that, see instead Hardy's *Course of
+  Pure Mathematics* [1] If you do read the *Apology*, be sure to get an edition
+  with C.P. Snow's forward, which gives the back story that puts Hardy's
+  memoir in context. It also includes the wonderful story of Hardy and
+  Ramanujan.
+
+  [1] https://en.wikipedia.org/wiki/A_Course_of_Pure_Mathematics
+
+Feb 2020
+
+- https://news.ycombinator.com/item?id=22176769 on Ted versus The Media Lab
+  
+   Ted Nelson's best-known and most influential contribution was not Xanadu,
+   but his book *Computer Lib/Dream Machines*, which appeared in 1974. Doesn't
+   anyone remember this? It was ubiquitous at the beginning of the personal
+   computer era. This self-published book was very much of its time - it had
+   the same oversize-on-newsprint format and DIY look as *The Whole Earth
+   Catalog*, which was popular at the same time. It was important because it
+   pursuasively made the case that computing was about to become a medium
+   for self-expresson - a "dream machine" - that was an unheard-of concept
+   at the time. You can use a computer to produce graphics! To play games!
+   How about that! He told about Sutherland's Sketchpad and Englebart's NLS
+   and at a time when these were completely invisible to almost everyone.
+   Xanadu gets a few pages in the book but it is not at all a work of self-
+   promotion - almost the whole book is about the work of others. It's a
+   survey of the computing scene right before personal computers appeared.
+   This book was very timely and I think it provided a lot of inspiration
+   for the personal computer movement. It made you want to try out
+   computing! It has one page about microprocessors: "Here they come ...
+   Microprocessors are what's happening" (the MITS Altair appeared the next
+   year, in 1975).
+  
+   I think Ted Nelson is one of those people whose main effects are through
+   their influence on others, rather than through what they directly
+   produce themselves.
+ 
+Nov 2019
+ 
+- https://news.ycombinator.com/item?id=21705360 on Say it's 1962 ...
+ 
+  These old photos do not convey the noise and spectacle. The guys are in
+  white shirts and ties, but those old machine rooms were more like a
+  factory floor than an office. Part of the reason they were separated off
+  was to try to contain the noise. Those line printers struck the page with
+  132 characters at once - WHAP! WHAP! WHAP! - and the paper is almost
+  flying out the top. Those high speed card readers consumed a stack of
+  thousands of cards in a minute - it reminded you of a log moving into the
+  whirling blade at a sawmill. Then there was the roar (not hum) of the
+  fans and the banging of the keypunches and teletypes - much louder than
+  typewriters. You really got the sense that computation was a physical,
+  mechanical process that consumed a lot of energy.
+
+- https://news.ycombinator.com/item?id=21542644 on So the internet didn't
+  turn out the way we hoped
+
+  1979 - !? Your challenge might pose a dilemma if you said 1879 or 1479 -
+  but 1979 was just yesterday. Instead of Hacker News, you would have
+  Usenet. Instead of Google and Amazon and Microsoft and Apple you would
+  have IBM and DEC ... and Microsoft and Apple. Instead of programming in
+  Javascript and Python and Lisp and C you would use BASIC and Pascal ...
+  and Lisp and C. Instead of running on Windows or Linux it would run on VMS
+  or Unix.  
+
+  For HN readers, what makes an era's technology appealing are the
+  opportunities it presents to be creative and make a contribution. By that
+  measure 1979 was not worse than today, in some ways it was more
+  interesting because there was more variety and it wasn't clear which few
+  technologies would shake out. Look at a 1979 issue of BYTE - in addition
+  to Apple and Microsoft there were hundreds of other companies of similar
+  size pursuing promising, eccentric, and/or dead-end ideas.  
+
+  For another view of computing as seen from the 1970s, including many
+  roads not taken, see Bret Victor's "The Future of Programming":
+  http://worrydream.com/dbx/
+
+Sep 2019
+
+- https://news.ycombinator.com/item?id=20812124 on I love my paper dictionary
+
+  In *The Autobiography of Malcolm X*, he tells how he learned to read and
+  write by copying out, *by hand*, the *entire dictionary* from the prison
+  library, copying a page a day. (It's in chapter 11 of the *Autobiography*).
+
+July 2019
+
+- https://news.ycombinator.com/item?id=20351399 on Books that blend math
+  and fiction
+  
+  There was a burst of this in the 1950s and 1960s, inspired by interest
+  in/anxiety about science and math prompted by Sputnik, the space race, and
+  nuclear war. So these are period pieces but you still might enjoy them --
+  I did:
+  
+  *Fantasia Mathematica* (1958) and *The Mathematical Magpie* (1962), two short
+  story collections edited by Clifton Fadiman
+  
+  *Mathenauts* (1967), short story collection edited by Rudy Rucker
+  
+  *The Space Child's Mother Goose* (1958?), poetry
+  
+  Come to think of it, *A Wrinkle In Time* by Madeline L'Engle (1962) fits
+  right in with this group. The math and cold war anxiety themes are
+  stronger in the book than in the recent movie.
+
