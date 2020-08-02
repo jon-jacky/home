@@ -121,3 +121,249 @@ July 2019
   right in with this group. The math and cold war anxiety themes are
   stronger in the book than in the recent movie.
 
+Sep 2018
+
+- <https://news.ycombinator.com/item?id=17937862> on What can we learn from
+  TempleOS?
+
+  Davis demonstrated that it is possible to build a complete system from
+  scratch that expresses your own philosophy and preferences, no matter how
+  eccentric. He showed you can build a complete system just for yourself
+  with no compromises arising from dependencies on other systems. There is
+  some similarity in motivation with Wirth et al's Oberon system and Kay et
+  al's Smalltalk and VPRI systems, but unlike them Davis was working
+  entirely without professional or institutional connections, all the while
+  beset by demons most of us cannot imagine. Davis showed that almost anyone
+  starting out with modest technical skills and few resources, but enormous
+  focus and motivation and time available, can do what Wirth et al and Kay
+  et al can do.
+
+  Davis' work shows the way to a completely different path than the
+  prevailing hegemonic trend to try to build this or that system that
+  everyone will use, that will take over the world. Maybe everyone deserves
+  their own completely idiosyncratic and personalized system that can keep
+  on working for them despite whatever the industry behemoths do. Perhaps an
+  interesting research project might be to try to find ways to enable
+  ordinary developers or even ordinary people to make such personalized
+  stand-alone systems with no dependencies, without requiring years of
+  fanatical single-minded effort.
+
+April 2018
+
+- <https://news.ycombinator.com/item?id=16950905> on A Laymans Intro to
+  Western Classical Music
+
+  Today's rock/pop music is a direct descendant of classical music. The
+  similarity to baroque sonatas and concertos is the clearest - that is why
+  Bach Handel Teleman etc. make the easiest path into classical music to
+  someone familiar with modern rock/pop. Baroque music has the same
+  structure as modern rock/pop - a tune on top of a chord progression. It's
+  a running joke in music circles that Pachelbel's Canon in D sounds
+  familiar the first time you hear it because its chord progression appears
+  in countless modern pop tunes. The basic baroque ensemble is like an
+  unamplified rock band without drums. There is a rhythm section called the
+  "continuo" constisting of a bass instrument like a cello or viola da gamba
+  or bassoon - that's like the bass guitar - and a chordal instrument like a
+  harpsichord or organ or lute or theorbo or ... that's like the rhythm
+  guitar or piano or organ. Then there is a violin and/or flute or other
+  melody instruments - that's like the lead guitar and/or saxophone or
+  singer. The continuo part was usually written in a notation called
+  'figured bass' that was analogous to modern chord charts. Besides that,
+  the soulful singer songwriter goes back at least to the medieval
+  troubadours, but appears in essentially modern form with the lute song
+  composers of the 16th and 17th century - the model here is John Dowland,
+  who in addition to composing a lot of melancholy songs, also composed some
+  guitar-god-like solo instrumentals. And, this lute music was typically
+  published in a tabular notation a lot like modern guitar tab.
+
+Feb 2018
+
+- <https://news.ycombinator.com/item?id=16462731> on earn Physics by
+  Programming in Haskell
+
+  I recently looked at SICP again after first reading it many years ago. I
+  had retained the overall impression that SICP demonstrates how to build
+  many of the celebrated creations of computer science - interpreters,
+  compilers, databases, logic programming systems, circuit simulators -
+  using a very simple programming language with just a few constructs.
+
+  But I had forgotten many of the details. Here is just one: in 3.1.1, Local
+  State Variables, SICP shows how to, in effect, define classes and create
+  objects using only function definition with *lambda* and *set!* (that is,
+  assignment) in the definition body. The function you define this way is a
+  like a class, the functions it returns are like instances. So you can do
+  all this without any specifically object-oriented language features. This
+  occupies just a few pages near the beginning of a long book - the whole
+  book is dense with worked-out ideas like this.
+
+  The cumulative effect of all these examples in SICP is to demonstrate that
+  you can solve any programming problem from first principles - that is, by
+  combining a few simple but powerful constructs in the several ways they
+  describe. Moreover, a solution constructed this way might be simpler and
+  easier to understand than a solution made the more usual way: by looking
+  for a specialized language construct or library that seems to offer an
+  already-made solution to the problem.
+
+- <https://news.ycombinator.com/item?id=16356313> on *Techniques of Systems
+  Analysis* (1957)
+
+  One of the co-authors here is Herman Kahn, the nuclear strategist. He
+  wrote *On Thermonuclear War* in 1960, which made him one of the models for
+  Dr. Strangelove - some of the lines in the movie are direct quotes from
+  that book. Later he became a utopian (or dystopian) futurist - when he
+  wrote a book called *The Coming Boom* (which title provoked ironic comment,
+  given his earlier book).
+
+  A biography appeared several years ago, *The Worlds of Herman Kahn* by
+  Sharon Ghamari Tabrizi. She concludes that Kahn was a sort of performer, a
+  monologist working in a then-popular genre called "sick comedy".
+
+Jan 2018
+
+- <https://news.ycombinator.com/item?id=16160104> on How America Fractured
+  in 1968
+
+  I graduated from high school in 1968 and I find that media and its
+  contents including the internet are more centralized and homogeneous now
+  than they were then. The internet did not not just add to the mainstream
+  media, it replaced some of its most interesting parts and replaced much
+  the underground media that existed alongside it. In those days it was not
+  just Time/Life/Newsweek/ABC/NBC/CBS, you could also find on the newstand
+  left- and dissident journals like Ramparts and Evergreen Review, and their
+  right wing counterparts. And, some of the contents of the mainstream media
+  itself were higher quality and more varied. Compare a current issue of
+  Esquire or Rolling Stone - now mostly entertainment industry promotion and
+  fluff - with a 1968 issue, where they had very long articles by authors
+  like Hunter Thompson, Tom Wolfe, Joan Didion, Oriana Fallaci, and many
+  more.
+
+  Beyond that there was a thriving world of underground papers and
+  newsletters with contents ranging from sharp and pertinent to crackpot,
+  with odd and sometimes wonderful DIY production and design. Not just print
+  media - the FM radio station I listened to was literaly underground, their
+  studio was in a church basement. People organized huge demostrations using
+  these DIY media.
+
+  Yes, it is probably easier now for a random person to get
+  their opinions in front of a lot of eyes, but most of these carry little
+  information, they mostly just repeat what the writer has seen/read
+  elsewhere - and it appears on the same homogeneous platform with
+  everything else. It takes a bit more energy and ingenuity to express your
+  opinions or self-expression in a self-published mimeographed or xeroxed
+  newsletter, but it contributes more variety and might even make a bigger
+  impression.
+
+Oct 2017
+
+- <https://news.ycombinator.com/item?id=15519861> on The story of the 1968
+  "Fuck the Draft" poster
+
+  Nobody interviewed me, I was just a high school kid, but here's what I
+  remember. A few years before this poster appeared, normal people wouldn't
+  consider opposing the war or the draft. The effect of this poster (and
+  many other things like it) was to show that wasn't unthinkable, lots of
+  people did think it and even did it -- so maybe you could too. Many people
+  don't hold strong opinions on most issues --- they just go along with the
+  received opinion out of inertia or peer pressure. Something like this
+  poster can help jog them out of that.
+
+Sep 2017
+
+- <https://news.ycombinator.com/item?id=15276941> on Xanadu
+
+  Regarding payment processing etc -- the Xanadu proposal dates from the
+  mid-20th century so it includes a quaint assumption from that era: people
+  expect to be paid for the work they do. What, people are supposed to spend
+  hours typing at a computer for no payment in order to make some
+  billionaire even richer? Who would do that? It's nuts.
+
+Aug 2016
+
+- <https://news.ycombinator.com/item?id=12248085> on Alonzo Church
+
+  This essay [1] includes Gian-Carlo Rota's recollections of Church as a
+  teacher at Princeton. Rota writes, "It may be asked why anyone would
+  bother to sit in a lecture which was the literal repetition of an
+  available text. Such a question would betray an oversimplified view of
+  what goes on in a classroom. What one really learns in class is what one
+  does not know at the time one is learning. The person lecturing to us was
+  logic incarnate. ..."
+
+  [1] <https://www.princeton.edu/mudd/finding_aids/mathoral/pmcxrota.htm>
+
+Feb 2016
+
+- <https://news.ycombinator.com/item?id=11141138> on Write your own
+
+  "... in programming there is a widespread first order theory that one
+  shouldn't build one's own tools, languages, and especially operating
+  systems. This is true --- an incredible amount of time and energy has
+  gone down these ratholes. On the second hand, if you can build your own
+  tools, languages, and operating systems you absolutely should because
+  the leverage that can be obtained (and often the time not wasted in
+  trying to fix other people's not quite right tools) can be incredible."
+
+  Alan Kay, in <http://www.vpri.org/pdf/m2004001_power.pdf>
+
+Jan 2016
+
+- <https://news.ycombinator.com/item?id=10852352> on Are Flat Earthers Being
+  Serious?
+
+  I have always suspected that the Flat Earth society was a put-on - a
+  joke. There is a certain very British kind of humor where you assume
+  some absurd position and stick to it with a straight face no matter what
+  - you never crack a smile or break character. The pet store owner in the
+  Monty Python parrot routine is a good example.
+
+  I recall when I was a kid, a Flat Earth guy was interviewed on TV after
+  John Glenn's orbital flight. The interviewer pointed out that Glenn
+  could see the round earth out his window and he could see he was passing
+  over the entire circumference of the Earth every ninety minutes and
+  ground stations around the world could track him coming over the horizon
+  and passing overhead and ... etc. etc. The flat earth guy earnestly
+  explained that Glenn was just circling around the edge - the perimeter -
+  of the flat Earth, don't you see? - all the while making circular hand
+  motions around the edge of the the flat table top where he was seated. I
+  figured even then that the flat earth guy was just putting on the
+  interviewer, daring him to say what he was no doubt thinking: "Oh for
+  pity's sake, come off it". But both of them played along, neither of
+  them let on that he thought the whole interview was just a joke.
+
+Apr 2013
+
+- <https://news.ycombinator.com/item?id=5499584> on Why did John McCarthy
+  "discover" lisp?
+
+  John McCarthy himself said,
+
+  "Pure Lisp was a discovery, everything that has been done with it since
+  has been an invention."
+
+  McCarthy said this while visiting a class at Stanford on May 7 2008 ---
+  according to an eyewitness report here on Hacker News!
+
+  <https://news.ycombinator.com/item?id=185348>
+
+Aug 2010
+
+- <https://news.ycombinator.com/item?id=1631556> on What is Gravity?
+
+  "Thats a description dad. I wanted an explanation."
+
+  It might be helpful to explain that a description at one level is an
+  explanation at the next level up. For example with gravity, the
+  description of the force between masses (etc.) is (part of) the
+  explanation of the observed motions of the planets (etc.). At the very
+  bottom, at the most fundamental level, we might have only description.
+
+Jan 2010
+
+- <https://news.ycombinator.com/item?id=1085544> on J.D. Salinger Dead at 91
+
+  Those books were startling when they came out, both in content and style.
+  They were so influential they have been imitated thousands of times; their
+  themes and styles have permeated popular culture until now they have
+  become cliches. It is no longer possible for a contemporary reader to
+  experience them as the original readers did.
+
