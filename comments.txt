@@ -10,6 +10,9 @@ Each of these comments was an answer to a question or a contribution to a
 discussion.  The URL shows the comment in context where I posted it (for
 comments on *Hacker News*, click *parent* to see more context).
 
+I also keep a commonplace book of writings by others:
+https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
+
 Mar 2020
 
 - https://news.ycombinator.com/item?id=22226396 on *A Mathematicians Apology*
@@ -120,6 +123,13 @@ July 2019
   Come to think of it, *A Wrinkle In Time* by Madeline L'Engle (1962) fits
   right in with this group. The math and cold war anxiety themes are
   stronger in the book than in the recent movie.
+
+Jun 2019
+
+- https://news.ycombinator.com/item?id=20130709 on On the Pleasures and
+  Sorrows of Life Without Screens
+
+  "No one is bored, everything is boring." -- K-Punk
 
 Sep 2018
 
@@ -312,8 +322,8 @@ Jan 2016
 
   I have always suspected that the Flat Earth society was a put-on - a
   joke. There is a certain very British kind of humor where you assume
-  some absurd position and stick to it with a straight face no matter what
-  - you never crack a smile or break character. The pet store owner in the
+  some absurd position and stick to it with a straight face no matter 
+  what - you never crack a smile or break character. The pet store owner in the
   Monty Python parrot routine is a good example.
 
   I recall when I was a kid, a Flat Earth guy was interviewed on TV after
