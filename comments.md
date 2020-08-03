@@ -316,7 +316,7 @@ Jan 2018
   in 1968
 
   I graduated from high school in 1968 and I find that media and its
-  contents including the internet are more centralized and homogeneous now
+  contents *including the internet* are more centralized and homogeneous now
   than they were then. The internet did not not just add to the mainstream
   media, it replaced some of its most interesting parts and replaced much
   the underground media that existed alongside it. In those days it was not
@@ -390,8 +390,8 @@ Feb 2016
   "... in programming there is a widespread first order theory that one
   shouldn't build one's own tools, languages, and especially operating
   systems. This is true --- an incredible amount of time and energy has
-  gone down these ratholes. On the second hand, if you can build your own
-  tools, languages, and operating systems you absolutely should because
+  gone down these ratholes. On the second hand, if you *can* build your own
+  tools, languages, and operating systems you *absolutely should* because
   the leverage that can be obtained (and often the time not wasted in
   trying to fix other people's not quite right tools) can be incredible."
 
