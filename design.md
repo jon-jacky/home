@@ -7,6 +7,14 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 3 Aug 2020
+
+- <https://anagalvan.com/> - Ana Galvan, for example:
+
+  <https://anagalvan.com/Pulse-Enter>
+
+  <https://anagalvan.com/Juegos-reunidos-feministas>
+
 26 Jul 2020
 
 - <http://tractatus.lib.uiowa.edu/map/> -
@@ -160,7 +168,7 @@ Companion page, a commonplace book:
 - <https://heatherbooker.github.io/blog/archive/> - "im not a programmer" and more.
 
 - <https://christine.website/blog/why-i-use-suckless-tools-2020-06-05> - 
-  markdown source as a style in itself.
+  markdown source as a style in its own right.
 
 17 Apr 2020
 

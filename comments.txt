@@ -2,7 +2,7 @@
 Some comments I have posted on web sites.
 
 Any web site could disappear at any time, taking all its users'
-contributions with it.  I have copied some of my longer comments here,
+contributions with it.  I have copied some of my comments here,
 where I can be sure of keeping them -- I have a local copy of this
 repository.
 
@@ -270,7 +270,7 @@ April 2018
 
 Feb 2018
 
-- https://news.ycombinator.com/item?id=16462731 on earn Physics by
+- https://news.ycombinator.com/item?id=16462731 on Learn Physics by
   Programming in Haskell
   
   I recently looked at SICP again after first reading it many years ago. I
