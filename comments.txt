@@ -13,6 +13,17 @@ comments on *Hacker News*, click *parent* to see more context).
 I also keep a commonplace book of writings by others:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+Aug 2020
+
+- https://ask.metafilter.com/347090/Book-recommendations-for-sensitive-interiority#4969025
+
+  I just reread some passages from *Real Life* (by Brandon Taylor).  It is
+  stunning. Another bunch of students, but this time they are biochemistry
+  grad students in Madison, Wisconsin. It certainly depicts its
+  protagonist's inner life and relations with others vividly -- sometimes
+  painfully so. I found it darker and more heart-rending than Rooney's
+  books.
+
 Mar 2020
 
 - https://news.ycombinator.com/item?id=22226396 on *A Mathematicians Apology*
@@ -29,6 +40,16 @@ Mar 2020
   [1] https://en.wikipedia.org/wiki/A_Course_of_Pure_Mathematics
 
 Feb 2020
+
+- https://www.metafilter.com/185850/Freeman-Dyson-1923-2020#7886497
+
+  *In 1949, Dr. Dyson wrote a landmark paper ...*
+
+  A book called something like 'Quantum Mysteries for Bluffers' put it
+  this way:
+
+  - "Feynman, Schwinger and Tomonaga independently discovered quantum
+    electrodynamics. Then Freeman Dyson explained it -- to the first three!"
 
 - https://news.ycombinator.com/item?id=22176769 on Ted versus The Media Lab
   
@@ -95,6 +116,34 @@ Nov 2019
   roads not taken, see Bret Victor's "The Future of Programming":
   http://worrydream.com/dbx/
 
+Oct 2019
+
+- https://ask.metafilter.com/338351/How-to-Introduce-Someone-to-the-Fab-Four#4861316
+
+  You have to distinguish the Beatles' innovation and influence -- which are
+  indisputable -- from whether some particular person might enjoy their
+  music. A person can't really appreciate their importance unless they can
+  remember what pop music and pop culture were like before they appeared.
+  Pop music and pop culture changed enormously in the few years 1963 -- 1967
+  and the Beatles led the charge. A lot of their influence was cultural, not
+  musical at all.
+  
+  For example their 'bad haircuts' -- the important thing was that they were
+  the first celebrity men in mainstream western culture to have long hair in
+  the 20th century. It is hard to believe now how shocking this was at the
+  time. Men couldn't have long hair -- it just wasn't done! I remember
+  editorials claiming it indicated the end of western civilization. But then
+  it changed almost overnight - everyone imitated them, if you were in a
+  rock band you had to have long hair, and it became an option for everyone.
+  
+  This was just one aspect of a big shift in pop culture from encouragement
+  of duty and conformity to permission for self-expression and hedonism, and
+  the Beatles were in the vanguard of that. For those of us who remember it,
+  it is difficult to separate the importance of all this from the quality
+  (or lack of it) in the Beatles' music. But for young people now the
+  Beatles' music doesn't have any of these connotations -- it has to stand
+  on its own.
+
 Sep 2019
 
 - https://news.ycombinator.com/item?id=20812124 on I love my paper dictionary
@@ -102,6 +151,39 @@ Sep 2019
   In *The Autobiography of Malcolm X*, he tells how he learned to read and
   write by copying out, *by hand*, the *entire dictionary* from the prison
   library, copying a page a day. (It's in chapter 11 of the *Autobiography*).
+
+- https://www.metafilter.com/183340/Things-change-literary-edition#7793811
+
+  *Catcher in the Rye* was startling when it appeared. There just weren't
+  many books then from the point of view of a troubled high school kid,
+  told in the language he spoke. It might have been the first. It
+  influenced thousands and thousands of YA books that seem more up-to-
+  date, whose readers might not even recognize the source. Its innovations
+  have become so pervasive it is no longer possible for a contemporary
+  reader to experience its originality as readers once did. If it now
+  seems out-of-date, it is because its once innovative devices have been
+  so widely imitated they have become cliches.
+
+- https://www.metafilter.com/182930/The-coming-death-of-just-about-every-rock-legend#7776996
+
+  - "Now, like the cowboy, the cavalier, the wandering minstrel, the
+    chorus girl, the burglar in the striped sweater, the top-hatted banker,
+    the painter with his beret, and the writer in his smoking jacket, the
+    rock star must finally be consigned to the wardrobe of anachronistic
+    stereotypes. ... His power has been destroyed by the disappearance of
+    the record industry, his magic fleeting before the twenty-four hour
+    daylight of social media. ... "
+
+  from *Uncommon People: The Rise and Fall of the Rock Stars*, David
+  Hepworth, Henry Holt and Company, NY 2017
+  
+  This book is amusing, but makes a real point - the rock star persona could
+  only exist for a moment in history, the forty years from about 1954 to
+  1994. People no longer experience popular music the way they did in that
+  era, so rock stars in that sense can no longer appear. The deaths of
+  musicians from that era make the impression they do because they are
+  reminders of that experience, which cannot be recreated in the present any
+  more.
 
 July 2019
 
