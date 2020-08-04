@@ -8,7 +8,7 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
-Some of my own brief writings:
+Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
 27 Jul -- 2 Aug 2020
