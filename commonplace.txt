@@ -11,6 +11,51 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+10 Aug 2020
+
+- https://news.ycombinator.com/item?id=24083738 - comments on 
+  The Psychedelic Inspiration for Hypercard
+
+  *api* writes: "I really miss the *thoughtfulness* of human-computer
+  interfaces of the 1980s and 1990s. Serious amounts of thought and in
+  many cases actual research was put into designing computer interfaces to
+  maximize productivity and (get this) *minimize distraction*.
+
+  The idea back then was that a computer existed to augment human
+  intelligence, not to trap you in a dopamine loop Skinner box to maximize
+  "engagement." In fact, the phrase "augmented human intelligence" was
+  present in the actual name of the SRI research program that originally
+  developed early GUIs, hypertext, and the mouse among other things.
+
+  GUIs are an area where I think computing has gone very significantly
+  downhill ... Modern interfaces are superficially prettier than those old
+  GUIs, but ... If you ignore the superficial eye candy, many if not most
+  modern GUIs are objectively worse on almost every metric.
+  They're inconsistent, disorganized, unintuitive, and often distracting.
+  Sometimes distraction is the actual objective, such as with mobile apps
+  trying to dominate your attention to "go viral" or anything touching
+  social media. ..."
+
+  *zackmorris* writes: "HyperCard was the single greatest inspiration in
+  my programming career. I learned it when I was about 12 ... You could
+  dial the modem, speak text, make your own calculator or rolodex, just on
+  and on and on, in probably the smallest amount of code that I've ever
+  encountered. And my parents could even read the code, without ever
+  learning how to program! ...
+
+  The only downside is that it opened my eyes to how tech could serve
+  humanity, only to see that vision inverted so that we ended up at the
+  present day where humanity serves tech. I know that the direction that
+  tech is going is wrong, but I have trouble articulating how or why. And
+  it kind of haunts me that something as revolutionary as HyperCard could
+  be written in the 80s in Pascal, such a primitive language by today's
+  standards, but we keep missing the mark with all of our modern tools.
+
+  What's the next tool like HyperCard that could free humanity from this
+  tedious labor? I just don't know, and that bothers me. ..."
+
+  (More on HyperCard at 24 Feb 2020 and 28 Feb 2019, below)
+
 27 Jul -- 2 Aug 2020
 
 - *A History of Histories* by John Burrow (2007) quoting
