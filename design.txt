@@ -7,6 +7,14 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+14 Aug 2020
+
+- https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html
+
+- https://richardjharris.github.io/unicode-in-five-minutes.html
+
+- http://lovelanguages.melaniehoff.com/
+
  3 Aug 2020
 
 - https://anagalvan.com/ - Ana Galvan, for example:
