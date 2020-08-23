@@ -9,18 +9,15 @@ Companion page, a commonplace book:
 
 22 Aug 2020
 
-- <http://rotormind.com/blog/2020/Analog-Synthesis-Workshop/>
-
-- <https://www.mixily.com/event/439411557036204886>
-
-- <https://www.are.na/hannah-knights/the-snake-and-the-mouse>
-  also <https://github.com/HannahKnights/the-snake-and-the-mouse>
-
-all via
-
 - <https://medium.com/sfpc/sfpc-teaching-as-art-summer-2020-showcase-8e1a9818ab1>
+  for example:
 
-also, unrelated
+  <http://rotormind.com/blog/2020/Analog-Synthesis-Workshop/>
+
+  <https://www.mixily.com/event/439411557036204886>
+
+  <https://www.are.na/hannah-knights/the-snake-and-the-mouse>
+  also <https://github.com/HannahKnights/the-snake-and-the-mouse>
 
 - <https://github.com/tamg/zaha>
 
