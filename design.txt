@@ -9,16 +9,16 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 22 Aug 2020
 
-- https://medium.com/sfpc/sfpc-teaching-as-art-summer-2020-showcase-8e1a9818ab1
-  for example:
-
-  http://rotormind.com/blog/2020/Analog-Synthesis-Workshop/
+- http://rotormind.com/blog/2020/Analog-Synthesis-Workshop/
 
   https://www.mixily.com/event/439411557036204886
 
   https://www.are.na/hannah-knights/the-snake-and-the-mouse
   also https://github.com/HannahKnights/the-snake-and-the-mouse
 
+  All three via 
+  https://medium.com/sfpc/sfpc-teaching-as-art-summer-2020-showcase-8e1a9818ab1
+  
 - https://github.com/tamg/zaha
 
 14 Aug 2020
