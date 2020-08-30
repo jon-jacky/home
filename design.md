@@ -7,6 +7,16 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+30 Aug 2020
+
+- <https://tilde.town/~severak/gallery/> - Click on any entry to load that page.
+
+  hosted at <https://tilde.town/>
+
+  explanation <https://news.ycombinator.com/item?id=24302887>
+
+  via <https://news.ycombinator.com/item?id=24300907>
+
 22 Aug 2020
 
 - <http://rotormind.com/blog/2020/Analog-Synthesis-Workshop/>
