@@ -13,14 +13,14 @@ Some of my own comments:
 
 30 Aug 2020
 
-- *A Mixture of Frailties*, a novel by Robertson Davies, p. 210 - 211 (
+- *A Mixture of Frailties*, a novel by Robertson Davies, p. 210 - 211
   (no link):
 
   "... What's the good of fighting critics?  Mind you, some of them are
   very able, particularly when judging performances.  But only a few can
   form any opinion of a new work.   Most of them are simply on the lookout
   for novelty.  They hear too much, and they hear it in the wrong way.
-  They get like children who are peevish from having too many toys; They are
+  They get like children who are peevish from having too many toys; they are
   always tugging at the skirts of music, whining 'Amuse me; give me something
   new.'  Giles hasn't shown them anything particularly new.  He's not an
   innovator.  But he has an extraordinary melodic gift.  Now you just watch

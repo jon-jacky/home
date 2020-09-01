@@ -10,6 +10,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 30 Aug 2020
 
 - https://tilde.town/~severak/gallery/ - Click on any entry to load that page.
+` For example, https://tilde.town/~dustin/projects/tilde-social/
 
   hosted at https://tilde.town/
 
