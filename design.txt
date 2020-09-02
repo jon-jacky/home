@@ -18,7 +18,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   via https://news.ycombinator.com/item?id=24300907
 
-  comment at https://lobste.rs/s/dap0ay/tilde_social_is_flat_file_social_network#c_yvztmk
+  comment at https://lobste.rs/s/dap0ay/tilde_social_is_flat_file_social_network
+
+  "There's something cool about having a whole community on one machine.
+  It's like were all on one space-ship. ..."
 
   "The beautiful thing about the tilde-verse, which you'd never know until
   you have an account there and use it, is that it's like a giant art
