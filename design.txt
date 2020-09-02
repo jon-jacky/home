@@ -10,13 +10,23 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 30 Aug 2020
 
 - https://tilde.town/~severak/gallery/ - Click on any entry to load that page.
-` For example, https://tilde.town/~dustin/projects/tilde-social/
+  For example, https://tilde.town/~dustin/projects/tilde-social/
 
   hosted at https://tilde.town/
 
   explanation https://news.ycombinator.com/item?id=24302887
 
   via https://news.ycombinator.com/item?id=24300907
+
+  comment at https://lobste.rs/s/dap0ay/tilde_social_is_flat_file_social_network#c_yvztmk
+
+  "The beautiful thing about the tilde-verse, which you'd never know until
+  you have an account there and use it, is that it's like a giant art
+  experiment.  People build things out of sheer whimsy, and other people
+  use them and share in that whimsy. The result can often be quite
+  beautiful in ways that are hard to find on the larger intertubes. ...
+  There's something beautiful about creating a real honest to god community
+  based around UNIX, plain text, and nothing else. ..."
 
 22 Aug 2020
 
