@@ -18,10 +18,10 @@ Companion page, a commonplace book:
 
   via <https://news.ycombinator.com/item?id=24300907>
 
-  comment at <https://lobste.rs/s/dap0ay/tilde_social_is_flat_file_social_network>
+  comments at <https://lobste.rs/s/dap0ay/tilde_social_is_flat_file_social_network>
 
   "There's something cool about having a whole community on one machine.
-  It's like were all on one space-ship. ..."
+  It's like we're all on one space-ship. ..."
 
   "The beautiful thing about the tilde-verse, which you'd never know until
   you have an account there and use it, is that it's like a giant art
@@ -30,6 +30,10 @@ Companion page, a commonplace book:
   beautiful in ways that are hard to find on the larger intertubes. ...
   There's something beautiful about creating a real honest to god community
   based around UNIX, plain text, and nothing else. ..."
+
+  Similar, but distributed: <https://github.com/plomlompom/htwtxt>
+
+  Similar, proposal for Plan 9: <https://marc.info/?l=9fans&m=145938929813894&w=2>
 
 22 Aug 2020
 
