@@ -31,9 +31,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   There's something beautiful about creating a real honest to god community
   based around UNIX, plain text, and nothing else. ..."
 
-  Similar, but distributed: https://github.com/plomlompom/htwtxt
+  Similar, but for people not all on one computer:
+  https://github.com/plomlompom/htwtxt
 
-  Similar, proposal for Plan 9: https://marc.info/?l=9fans&m=145938929813894&w=2
+  Similar, proposal for Plan 9:
+  https://marc.info/?l=9fans&m=145938929813894&w=2
 
 22 Aug 2020
 
@@ -200,7 +202,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://inverse.website/ - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing ...
+21 Apr 2020 and ongoing: designs for blogs and personal web pages.
 
 - https://text.nxg.me.uk/archive.html - "Python methods are not functions" and more.
 
@@ -221,6 +223,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://christine.website/blog/why-i-use-suckless-tools-2020-06-05 - 
   markdown source as a style in its own right.
+
+- https://www.eigenbahn.com/ - uncrowded, nice use of color.
 
 17 Apr 2020
 
