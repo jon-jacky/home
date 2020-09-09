@@ -7,6 +7,14 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 8 Sep 2020
+
+- <https://geometryexpressions.com/gxweb/help/intro/Hypotenuse/index.html>
+
+  "Pythagorean Theorem.  First draw a triangle, don't worry about the
+  right angle, that comes later. ...  Now we'll worry about the right angle...
+  Set the lengths of AB and BC to be x and y. ... " (etc.)
+
 30 Aug 2020
 
 - <https://tilde.town/~severak/gallery/> - Click on any entry to load that page.
@@ -31,11 +39,11 @@ Companion page, a commonplace book:
   There's something beautiful about creating a real honest to god community
   based around UNIX, plain text, and nothing else. ..."
 
-  Similar, but for people not all on one computer:
+  Similar to tilde-social, but for people not all on one computer:
   <https://github.com/plomlompom/htwtxt>
 
-  Similar, proposal for Plan 9:
-  <https://marc.info/?l=9fans&m=145938929813894&w=2>
+  Similar to tilde-social, tongue-in-check proposal for Plan 9 distributed
+  operating system: <https://marc.info/?l=9fans&m=145938929813894&w=2>
 
 22 Aug 2020
 
