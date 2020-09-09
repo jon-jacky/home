@@ -13,7 +13,7 @@ Companion page, a commonplace book:
 
   "Pythagorean Theorem.  First draw a triangle, don't worry about the
   right angle, that comes later. ...  Now we'll worry about the right angle...
-  Set the lengths of AB and BC to be x and y. ... " (etc.)
+  Set the lengths of AB and BC to be x and y. ... "
 
 30 Aug 2020
 
@@ -42,7 +42,7 @@ Companion page, a commonplace book:
   Similar to tilde-social, but for people not all on one computer:
   <https://github.com/plomlompom/htwtxt>
 
-  Similar to tilde-social, tongue-in-check proposal for Plan 9 distributed
+  Similar to tilde-social, tongue-in-cheek proposal for Plan 9 distributed
   operating system: <https://marc.info/?l=9fans&m=145938929813894&w=2>
 
 22 Aug 2020
