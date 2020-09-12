@@ -36,13 +36,87 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   forms that are easy to communicate, rather than in conceptual forms that
   are easy to understand once communicated. Translation in the direction
   conceptual -> concrete and symbolic is much easier than translation in
-  the reverse direction, and symbolic forms often replaces the conceptual
+  the reverse direction, and symbolic forms often replace the conceptual
   forms of understanding. ...
 
   .. All of us have clear understanding of a few things and murky concepts of
   many more. There is no way to run out of ideas in need of clarification. ..."
 
   (Compare to Eugenia Cheng excerpt, 10 Mar 2019)
+
+- https://arxiv.org/abs/math/0503081 - Mathematical Education by Bill Thurston
+
+  "One feature of mathematics which requires special care in education is
+  its height, that is, the extent to which concepts build on previous
+  concepts. Reasoning in mathematics can be very clear and certain, and,
+  once a principle is established, it can be relied on. This means it is
+  possible to build conceptual structures which are at once very tall,
+  very reliable, and extremely powerful.
+
+  The structure is not like a tree, but more like a scaffolding, with
+  many interconnected supports. Once the scaffolding is solidly in
+  place, it is not hard to build it higher, but it is impossible to build
+  a layer before previous layers are in place.
+
+  Difficulties arise because students taking a particular course are in
+  different stages of mastery of the earlier learning. They also tend to
+  be secretive about exactly what they know and what they dont know. ...
+  students feel guilty that they are shaky ... and are slow to admit it
+  and ask how and why ... even to themselves.
+
+  ... It is not so hard, when talking with students individually, to find
+  out what parts of the structure need shoring up and to deal with those
+  parts individually. But it is quite difficult to find a level of
+  teaching which is comprehensible and at the same time interesting to an
+  entire class with heterogeneous background."
+
+  "Mathematics is amazingly compressible: you may struggle a long time,
+  step by step, to work through some process or idea from several
+  approaches. But once you really understand it and have the mental
+  perspective to see it as a whole, there is often a tremendous mental
+  compression. You can file it away, recall it quickly and completely when
+  you need it, and use it as just one step in some other mental process.
+  The insight that goes with this compression is one of the real joys of
+  mathematics.
+
+  After mastering mathematical concepts, even after great effort, it
+  becomes very hard to put oneself back in the frame of mind of someone to
+  whom they are mysterious.
+
+  One of my students wrote about visiting an elementary school and being
+  asked to tutor a child in subtracting fractions. He was startled and
+  sobered to see how much is involved in learning this skill for the first
+  time, a skill which had condensed to a triviality in his mind.
+
+  Mathematics is full of this kind of thing, on all levels. It never stops.
+
+  The hard-earned and powerful tools which are available almost
+  unconsciously to mathematicians, but not to students, make it hard for
+  mathematicians to learn from their students. This puts a psychological
+  barrier in the way of listening fully to students.
+  It is important in teaching mathematics to work hard to overcome this
+  barrier and to get out of the way enough to give students the chance to
+  work things out for themselves."
+
+  "To me, utilitarian goals are important, but secondary.
+  Mathematics has a remarkable beauty, power, and coherence, more than we
+  could have ever expected. It is always changing, as we turn new corners
+  and discover new delights and unexpected connections with old familiar
+  grounds. The changes are rapid, because of the solidity of the kind of
+  reasoning involved in mathematics.
+
+  Mathematics is like a flight of fancy, but one in which the fanciful
+  turns out to be real and to have been present all along. Doing
+  mathematics has the feel of fanciful invention, but it is really a
+  process of sharpening our perception so that we discover patterns that
+  are everywhere around. ...
+
+  My experience as a mathematician has convinced me that the aesthetic
+  goals and the utilitarian goals for mathematics turn out, in the end, to
+  be quite close. Our aesthetic instincts draw us to mathematics of a
+  certain depth and connectivity. The very depth and beauty of the
+  patterns makes them likely to be manifested, in unexpected ways, in
+  other parts of mathematics, science, and the world."
 
 - https://arxiv.org/abs/math/9404236 - 
   Proof and Progress in Mathematics by Bill Thurston
@@ -55,6 +129,15 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   correctness and completeness necessary to get a computer program to work
   at all is a couple of orders of magnitude higher than the mathematical
   community's standard of valid proofs. ...
+
+  I think that mathematics is one of the most intellectually gratifying of
+  human activities. Because we have a high standard for clear and
+  convincing thinking and because we place a high value on listening to
+  and trying to understand each other, we don't engage in interminable
+  arguments and endless redoing of our mathematics. We are prepared to be
+  convinced by others. Intellectually, mathematics moves very quickly.
+  Entire mathematical landscapes change and change again in amazing ways
+  during a single career.
 
   Mathematics as we practice it is much more formally complete and precise
   than other sciences, but it is much less formally complete and precise
