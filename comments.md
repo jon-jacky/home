@@ -369,6 +369,16 @@ Sep 2017
   hours typing at a computer for no payment in order to make some
   billionaire even richer? Who would do that? It's nuts.
 
+Sep 2016
+
+- <https://news.ycombinator.com/item?id=12615539> on Our IQs have never been 
+  higher ...
+
+  "I was impressed for the ten thousandth time by the fact that literature
+  illuminates life only for those to whom books are a necessity. Books are
+  unconvertible assets, to be passed on only to those who possess them
+  already." -- Nick Jenkins
+
 Aug 2016
 
 - <https://news.ycombinator.com/item?id=12248085> on Alonzo Church

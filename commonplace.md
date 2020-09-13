@@ -11,6 +11,21 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+12 Sep 2020
+
+- *The Valley of Bones*, a novel by Anthony Powell, p. 233 (no link)
+
+  "'A French writer who'd been a regular officer said the whole point of
+  soldiering was its bloody boring side.  The glamour, such as it was,
+  was just a bit of exceptional luck if it came your way.'
+
+  'Did he?' said Gwatkin.
+
+  He spoke without a vestige of interest. I was impressed for the ten
+  thousandth time by the fact that literature illuminates life only for
+  those to whom books are a necessity.  Books ae unconvertible assets, to
+  be passed on only to those who possess them already."
+
 11 Sep 2020
 
 - <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do> - 
