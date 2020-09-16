@@ -19,7 +19,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   "Autobiographies are more popular, these days, than fiction, even 
   autobiographical fiction.  When I was young and even in my early middle 
   age, only famous people wrote their memoirs. ... I suppose that's one
-  reason why in 1982 I wrote an autobiographical novel, *A Boy's Own Story*,
+  reason why in 1982 I wrote an autobiographical novel, *A Boy's Own Story*
   -- a proper non-fictional memoir would have seemed presumptuous back then.
 
   Incidentally, the project of writing a novel gave me a different goal --
