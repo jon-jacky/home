@@ -11,6 +11,47 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+14 Sep 2020
+
+- Lost in the Funhouse by Edmund White, in *TLS* May 19 2006, p. 15
+  (no link):
+
+  "Autobiographies are more popular, these days, than fiction, even
+  autobiographical fiction.  When I was young and even in my early middle
+  age, only famous people wrote their memoirs. ... I suppose that's one
+  reason why in 1982 I wrote an autobiographical novel, *A Boy's Own Story*,
+  -- a proper non-fictional memoir would have seemed presumptuous back then.
+
+  Incidentally, the project of writing a novel gave me a different goal --
+  the need to create interest on the part of the  reader -- whereas a memoir
+  assumes that interest already exits.  Finally, the writer's contract with the
+  reader in a memoir is to tell the truth and nothing but the truth, whereas
+  a novelist has made clear his intention to invent, compress, rearrange,
+  and streamline. ..."
+
+  "... As a true American I do believe in identity politics, I believe that
+  the personal can be political and I believe that, for better or for worse,
+  my sexual identity is crucial to who I am. ...  But I hold this view
+  only because I feel that to grow up in a religious society that oppresses
+  and stigmatizes homosexuals *creates* a gay identity, and that one can only
+  liberate oneself by affirming that identity, by transforming what was despised
+  into what is valued.
+
+  I'm not an essentialist; I don't think that gay men today are like gay men
+  in ancient Rome or even in nineteenth-century England, and I certainly don't
+  think that this essence must be declared or avowed.  I do, however, believe
+  that a definition that has been imposed on the individual must be defended
+  and transcended.
+
+  I write at length abut my sexual experiences and inclinations because for a
+  gay man sexuality is inevitably more formative than for a heterosexual.
+  If a man is gay he belongs to a minority; his entire social status and
+  psychological make-up will be altered by that orientation, as will his
+  habits and and tastes and friendships, even his home address.  Heterosexuality
+  is normative and inclusive ... it imposes no, as it were, extra weight on
+  the individual; it certainly doesn't keep him out of any clubs, except a
+  few gay ones. ..."
+
 12 Sep 2020
 
 - Variations on Looney Tunes by Allen H. Nelson, review of *Shakespeare
@@ -52,7 +93,7 @@ Some of my own comments:
 
   He spoke without a vestige of interest. I was impressed for the ten
   thousandth time by the fact that literature illuminates life only for
-  those to whom books are a necessity.  Books ae unconvertible assets, to
+  those to whom books are a necessity.  Books are unconvertible assets, to
   be passed on only to those who possess them already."
 
 11 Sep 2020

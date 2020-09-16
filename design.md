@@ -7,6 +7,15 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+14 Sep 2020
+
+- <https://www.typelit.io/>
+
+  "Improve your typing for free online by practicing on classic
+  literature. Choose a book below to get started ..."
+
+  *1984, Anne of Green Gables, Moby Dick, Sense and Sensibility,* several others.
+
  8 Sep 2020
 
 - <https://geometryexpressions.com/gxweb/help/intro/Hypotenuse/index.html>
