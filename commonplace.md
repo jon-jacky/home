@@ -11,6 +11,31 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+17 Sep 2020
+
+- Our Hand Reaches Far by Patrick McGuinness, review of *Burying the
+Typewriter: Childhood Under the Eyes of the Secret Police* by Carmen Bugan,
+in *TLS*, Nov 9 2012, p. 10 (no link):
+
+"Bugan and her family leave Romania in late October 1989 ... We are less than
+two months from the regime's violent downfall, yet all the structures of
+repression are still intact.  Totalitarianism, in Romania's case at least,
+doesn't wear itself away at the edges: it works full throttle until the moment
+it breaks down, and then it breaks down completely.
+
+The scenes in Prague or at the Berlin Wall become symbols of the peaceful
+end of Communism, but the haunting, brutal images of the Romanian
+revolution and the Ceausescus' grubby trial and execution symbolize
+something bloodier and darker about Europe's recent history.
+
+Looking at those images now -- the confused, blinking dictator and his
+deluded wife being shouted at by lawyers who two days before had been
+saluting their portraits, and then shot like dogs by soldiers who
+twenty-four hours earlier had been enforcing their brutal orders -- it
+is hard not to think that when regimes end, they end the Romanian way:
+in a chaos of pent-up violence, mixed motives, self-preservation, hypocrisy,
+side-switching and herd mentality. ..."
+
 14 Sep 2020
 
 - Lost in the Funhouse by Edmund White, in *TLS* May 19 2006, p. 15
@@ -19,8 +44,8 @@ Some of my own comments:
   "Autobiographies are more popular, these days, than fiction, even
   autobiographical fiction.  When I was young and even in my early middle
   age, only famous people wrote their memoirs. ... I suppose that's one
-  reason why in 1982 I wrote an autobiographical novel, *A Boy's Own Story*,
-  -- a proper non-fictional memoir would have seemed presumptuous back then.
+  reason why in 1982 I wrote an autobiographical novel ...
+  a proper non-fictional memoir would have seemed presumptuous back then.
 
   Incidentally, the project of writing a novel gave me a different goal --
   the need to create interest on the part of the  reader -- whereas a memoir
