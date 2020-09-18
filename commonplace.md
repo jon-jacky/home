@@ -76,9 +76,13 @@ Some of my own comments:
   lost victory.
 
   It is this link between mass murder of civilians and brutal modern
-  warfare that is missing from Stahel's book. ... All this vast shedding
-  of blood by Germany and its allies had but one ultimate goal --
-  the systematic murder of entire populations ..."
+  warfare that is missing from Stahel's book. Instead we read the familiar
+  account of frantic, at times heroic fighting, brilliant, but at times
+  also stupid leadership, lost victories and dreadful defeats. ... it
+  tells us little about the world these soldiers had almost succeeded  in
+  building.   All this vast shedding of blood by Germany and its allies
+  had but one ultimate goal --  the systematic murder of entire
+  populations ..."
 
 14 Sep 2020
 
