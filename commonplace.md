@@ -70,8 +70,10 @@ Some of my own comments:
   David Stahel's new book .. provides more information on war crimes
   committed by the German military than many similar accounts, yet fails
   to link them in any meaningful manner to the overall conduct of the war
-  ... what is needed most in the current state of scholarship is to
-  analyze the relationship between war and genocide ...
+  ... For what is needed most in the current state of scholarship is to
+  analyze the relationship between war and genocide, rather than to ride
+  once more on one of Guderan's Panzers toward an increasingly predictable
+  lost victory.
 
   It is this link between mass murder of civilians and brutal modern
   warfare that is missing from Stahel's book. ... All this vast shedding
