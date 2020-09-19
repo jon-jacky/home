@@ -11,6 +11,24 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+18 Sep 2020
+
+- NB by J.C. in *TLS*, Apr 22 2011, p. 32 (no link):
+
+  "Old English.  Who speaks it now?  Just about everyone who speaks English.
+  We do not know how the Anglo-Saxons sounded in the sixth century, but
+  in a recently published book, *How To Read a Word* (OUP), Elizabeth
+  Knowles provides a list of 'Old English words still in use today'.
+  It includes:
+
+  ale, bird, black, blood, bread, bride, calf, child, chin,
+  church, clothes, corn, cow, day, death, deer, drink, eat, eye, fat,
+  father, feather, field, five, fox, glass, good, gold, goose, hammer,
+  hand, harvest, hawk, heaven, hell, ivy, jowl, kettle, key, king, lady,
+  man, meat, mouse, murder, nail, name, night, nose, oak, pound, queen,
+  rain, salt, sea, seven, silk, snake, snow, song, sword, teach, ten,
+  thief, thigh, thumb, thunder, tongue, walk, wife, woman, worm, year, youth."
+
 17 Sep 2020
 
 - Our Hand Reaches Far by Patrick McGuinness, review of *Burying the
