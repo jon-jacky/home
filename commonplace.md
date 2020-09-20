@@ -11,6 +11,61 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+19 Sep 2020
+
+- Buckets of Blud by Peter Thoneman, review of *The Oxford Handbook of
+  Warfare in the Classical World*, *Roman Seige Warfare*,  and several other
+  books in *TLS*,   May 9, 2014, p. 7-8 (no link):
+
+  "... Livy on Hannibal, Caesar's *Gallic Wars*.  For those of a certain
+  age, memories of O level or School Certificate Latin will be filled with
+  grammar and men killing one another. ...
+
+  Today's GSE Latin is a gentler, less martial world.  *The Cambridge
+  Latin Course* no longer requires you to translate mysterious sentences
+  like 'The camp had been fortified with a palisade so high that the enemy
+  did not try to cross it'.  Hannibal has given way to mildly racy bits of
+  Ovid, and the AQA exam board would no more dare to set Caesar's *Civil
+  Wars* than they would Augustine's *City of God*.
+
+  Still, the old emphasis on camps and cavalry did have one thing to be
+  said for it: it was true to a central element of ordinary in the ancient
+  world. ... The fall of great cities, the violent death of their menfolk
+  and slavery for their women, was part of the common stock of human
+  experience in antiquity. ... So in a sense the old O level syllabus
+  had it right: starting with Caesar's *Gallic Wars* at least has the
+  merit of forcing us to confront the casual, unreflective militarism
+  of the ancient world.
+
+  ... from Thucydides to Ammianus, there survives a vast ancient literature
+  of surging legionaries, desperate valour, and generals throwing their
+  cavalry thousands of paces over the river.  The trouble is that, as
+  historians have gradually come to recognize, almost all of this stuff
+  is idealizing fantasy, not reportage.  When a particular battle is described
+  by more than one author, more often than not the accounts are wildly
+  contradictory.
+
+  Josh Leviathan's *Roman Seige Warfare* is a fairly typical sample of the
+  surging-legionaries school of military history. ... assaults, sallies,
+  sallies taking the form of assaults,  Gauls attacking ditches with
+  arrows.  Need one emphasize that all this is the purest fiction?
+  Caesar's self-serving 'narrative' of the seige of Alesia is so
+  delibrately bland and stereotyped as to be completely meaningless --
+  indeed, ... it is hard to think of a more systematically dishonest
+  ancient text than Caesar's *Gallic Wars*, the work of a very clever and
+  unscrupulous aristocrat pretending to be a plain-speaking soldier.
+
+  The embedding of military history into the broader cultural history of
+  the ancient world is clearly the best way out of the subject's current
+  intellectual ghetto. ... Thucydides has no particular interest in
+  battles, weapons, or cavalry tactics.  For him, the Peloponnesian War
+  was interesting  because it revealed, in the starkest form, the
+  subterranean tensions and ethical faultlines of Greek *polis*-society.
+  Warfare is always  part of a larger social system.  Or, to paraphrase
+  Molesworth: just what was it about Greek and Roman society than
+  encouraged so many people to spend so much of their time attacking
+  ditches?"
+
 18 Sep 2020
 
 - NB by J.C. in *TLS*, Apr 22 2011, p. 32 (no link):
