@@ -7,6 +7,19 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+
+22 Sep 2020
+
+- <https://www.leshenko.net/p/ugit/> - ugit: DIY Git in Python 
+
+  "... We're going to implement Git in Python to learn more about how Git
+  works on the inside. ..."
+
+  Literate program in side-by-side format, in many separate pages with
+  navigation buttons.
+
+  Contrast to <http://gitlet.maryrosecook.com/docs/gitlet.html>
+
 14 Sep 2020
 
 - <https://www.typelit.io/>
