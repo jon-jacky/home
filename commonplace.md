@@ -11,6 +11,75 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+24 Sep 2020
+
+- Rock Bottom by Anna Vaux, review of *Wonderful Today* by Pattie Boyd
+  and *Eric Clapton* by Eric Clapton in *TLS*, Apr 11 2008, p. 10-11 (no link):
+
+  "Marriage is hard, but Marriage to a rock star is really hard.  Everyone
+  knows that -- except perhaps the people who do it, like Pattie Boyd, who
+  did it twice, first to George Harrison ... and then to Eric Clapton ...
+
+  Indeed, the irony -- or is it the pity? -- is that it was precisely
+  because marriage to a rock star was so not wonderful that she found
+  herself seeking solace in the arms of another one; and once she'd married
+  the other one, it was so not wonderful all over again that she regretted
+  she'd left the first one.  If anything could be worse than marriage to
+  George -- who by the late days of their relationship was spending long
+  hours chanting in a temple he had built at the top of their house ...
+  it was marriage to Eric, who even in the early days of their
+  relationship was ... getting through a couple of bottles of brandy a day
+  plus 'copious amounts of Special Brew ...' ...
+
+  Alas, Pattie doesn't seem to have had much left in the way of personal
+  volition by this time to rally herself to the realization that she'd made
+  a mistake.  ... Modeling was not much of a preparation for anything.
+  'You need to be told what to do and how to look', she explains when
+  describing what her job entailed. ... Her increasing and then total
+  uselessness was part of what was so problematic in her marriages.  So if
+  her book is instructive in any way, it is as a cautionary tale, on a kind
+  of feminist model. ... she has no money of her own.  She wanders through her
+  pages in an agony of redundancy, taking up knitting, flying, art classes,
+  chanting ... George doesn't even need her for sex. ... (Eric) confesses
+  that once he'd got her home he didn't want her any longer. ...
+
+  *Eric Clapton* is the story of an alcoholic before it is the story of
+  a musician ... His relationship with alcohol is the principal relationship
+  of his life: however much he thought he wanted Pattie, the only thing
+  he couldn't live without was alcohol.  Pattie made the same mistake in
+  believing she was marrying a rock star, when in fact she was marrying
+  someone closer to the derelicts Clapton brought home on his way back
+  from the pub.
+
+  But one can hardly blame her for not working it out, since Clapton
+  himself is confused, unable to decide from the start if he's special or
+  just like everyone else ... Clapton wonders if his confusion has
+  something to do with the famous graffito on the wall of the Underground
+  station declaring  'Clapton is God' ... But you cannot read this book
+  and not notice how often he says he wanted to step back, to blend into
+  the band or just to play rhythm. ... (Unlike) playing with Cream, where
+  you can hear his discomfort in the way he sings, and whose show-off
+  personalities were so difficult for him to manage that he panicked at
+  the thought of ever forming a group again. ...
+
+  It is a defining moment for Clapton when he realizes that he no longer
+  wants or needs to have hits, and yet the hits keep on coming -- a paradox
+  made clear with his 1991 album *Unplugged*, which at last opened the door
+  to his true musical tastes ... and then became the biggest selling album
+  of his career.  However much he thought he was sloughing off the virtuoso
+  image, it seems only to have gone in the opposite direction, bizarrely taking
+  him with it. ...
+
+  But by now everything is tied up with his recovery work (he has set up a
+  rehabilitation clinic ...). Twenty years sober (and sixty-two years old),
+  Clapton is more twelve steps than twelve bars, and narrates his book
+  for the most part with the flattened-out tone of the recovering alcoholic ...
+
+  Pattie Boyd also reports that she writes from a 'healthy perspective' and
+  'position of strength' ... Hers is a recovery story too -- but it is
+  Eric Clapton she had to recover from, to whom she is far more forgiving
+  than readers of her book will be. ..."
+
 19 Sep 2020
 
 - Buckets of Blud by Peter Thoneman, review of *The Oxford Handbook of
@@ -29,7 +98,7 @@ Some of my own comments:
   Wars* than they would Augustine's *City of God*.
 
   Still, the old emphasis on camps and cavalry did have one thing to be
-  said for it: it was true to a central element of ordinary in the ancient
+  said for it: it was true to a central element of ordinary life in the ancient
   world. ... The fall of great cities, the violent death of their menfolk
   and slavery for their women, was part of the common stock of human
   experience in antiquity. ... So in a sense the old O level syllabus

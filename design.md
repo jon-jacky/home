@@ -12,7 +12,7 @@ Companion page, a commonplace book:
 
 - <https://www.leshenko.net/p/ugit/> - ugit: DIY Git in Python 
 
-  "... We're going to implement Git in Python to learn more about how Git
+  "We're going to implement Git in Python to learn more about how Git
   works on the inside. ..."
 
   Literate program in side-by-side format, in many separate pages with
@@ -256,6 +256,9 @@ Companion page, a commonplace book:
   markdown source as a style in its own right.
 
 - <https://www.eigenbahn.com/> - uncrowded, nice use of color.
+
+- <https://chipflip.wordpress.com/2012/02/06/the-working-class-of-computer-art/> -
+  striking abstract logo, well matched to content.
 
 17 Apr 2020
 
