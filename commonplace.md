@@ -11,6 +11,45 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+25 Sep 2020
+
+- Too Sane for Surbiton by Gerard Woodward, review of *Waking up in Toytown*
+  by John Burnside in *TLS*, Mar 5 2010, p. 24 (no link):
+
+  "John  Burnside's second volume of memoirs ... begins by describing the
+  species of schizophrenia fron which he has recently recovered. 'When I
+  was a full-scale lunatic I suffered from a condition called apophenia'
+  ... characterized by 'unmotivated seeing of connections, coupled with the
+  specific experience of abnormal meaningfulness'.  Burnside doesn't say
+  anything about this state of mind and the poetic imagination ... Indeed,
+  there is very little in this memoir about Burnside's creative life at all,
+  even though the period covered must include the years he began writing
+  the poems that were eventually published in his early collections.
+
+  Instead, this is the story of a man who, after years of depression, decline,
+  and DeQuincyesque excess, finds that he desires, more than anything else,
+  normality. 'A normal life. Sober. Drug-free.  Dreamless.  In gainful
+  employment.  A householder.  A taxpayer.  A name on the electoral role.'
+  Perhaps it is a measure of anyone's madness that they should yearn for
+  these things, and the quest is double-edged; what Burnside is really after
+  is a sense of stability, safety and continuity, and this book is an eloquent
+  demonstration that, once actively pursued, the conept of normality mutates,
+  bifurcates, and dissolves.
+
+  ... one of the delights of this book is that, although Burnside takes up
+  residence in the heart of the land of the normal, his fellow suburbanites
+  turn out to be anything but.  ... He ... strikes up a friendship ... only
+  to find himself embroiled in a *Strangers on a Train*-style murder swapping
+  plot.  Burnside has to disappoint his friend by saying there isn't
+  anyone he wants doing in. ...
+
+  Nearly always, Burnside is the more moderate, sane voice among the people
+  he meets ... All the while he grows more dispirited with the type of
+  normality he has found for himself. ...
+
+  There is an urgent, restlessly explicating tone to the writing that
+  can sometimes overshadow the more subtle ironies,
+
 24 Sep 2020
 
 - Rock Bottom by Anna Vaux, review of *Wonderful Today* by Pattie Boyd
@@ -44,7 +83,7 @@ Some of my own comments:
   that once he'd got her home he didn't want her any longer. ...
 
   *Eric Clapton* is the story of an alcoholic before it is the story of
-  a musician ... His relationship with alcohol is the principal relationship
+  a musician ... His relationship with drink is the principal relationship
   of his life: however much he thought he wanted Pattie, the only thing
   he couldn't live without was alcohol.  Pattie made the same mistake in
   believing she was marrying a rock star, when in fact she was marrying
@@ -78,7 +117,7 @@ Some of my own comments:
   Pattie Boyd also reports that she writes from a 'healthy perspective' and
   'position of strength' ... Hers is a recovery story too -- but it is
   Eric Clapton she had to recover from, to whom she is far more forgiving
-  than readers of her book will be. ..."
+  than the readers of her book will be. ..."
 
 19 Sep 2020
 
