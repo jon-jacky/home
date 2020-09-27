@@ -7,6 +7,15 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+26 Sep 2020
+
+- <http://fivedots.coe.psu.ac.th/~ad/computerComics/index.html> - 
+  The First Appearance of a Real Computer in a Comic Book
+
+  <http://fivedots.coe.psu.ac.th/~ad/Y379/> - A Year of 379 Computer Days -   
+
+  "Each date is linked to a beautifully composed PDF document that is
+  absolutely bursting with revelations that will *make you gasp*. ..."
 
 22 Sep 2020
 

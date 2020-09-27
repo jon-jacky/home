@@ -11,29 +11,40 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+26 Sep 2020
+
+- Without Tears In My Heart by Graham Robb, review of *Correspondance* by
+  Balzac in *TLS*, Mar 16 2012, p. 7 (no link):
+
+  "What does a novelist need? Balzac's letters suggest the following:
+  a peaceful place to work; a home full of beautiful, expensive objects
+  'to create happiness and a sense of intellectual freedom'; coffee strong
+  enough to maintain the flow of inspiration for two months; debts and
+  publishers' contracts with draconian penalty clauses to reinforce
+  self-discipline and compulsion; several aliases and hiding places to
+  prevent the creditors' bailiffs from confiscating the expensive objects;
+  and a constant state of romantic excitation without the time-consuming
+  consquences of love.
+
+  The main task Balzac had set himself was to create a complete panorama
+  of French society in a monumental series of novels and studies to be
+  published under the title *La Comedie Humaine*.  Strange to say, the other
+  projects were a form of avoidance, and, as any procrastinator knows,
+  procrastination can be very hard work."
+
 25 Sep 2020
 
 - Too Sane for Surbiton by Gerard Woodward, review of *Waking up in Toytown*
   by John Burnside in *TLS*, Mar 5 2010, p. 24 (no link):
 
-  "John  Burnside's second volume of memoirs ... begins by describing the
-  species of schizophrenia from which he has recently recovered. 'When I
-  was a full-scale lunatic I suffered from a condition called apophenia'
-  ... characterized by 'unmotivated seeing of connections, coupled with the
-  specific experience of abnormal meaningfulness'.  Burnside doesn't say
-  anything about this state of mind and the poetic imagination ... Indeed,
-  there is very little in this memoir about Burnside's creative life at all,
-  even though the period covered must include the years he began writing
-  the poems that were eventually published in his early collections.
-
-  Instead, this is the story of a man who, after years of depression, decline,
+  "... this is the story of a man who, after years of depression, decline,
   and DeQuincyesque excess, finds that he desires, more than anything else,
   normality. 'A normal life. Sober. Drug-free.  Dreamless.  In gainful
   employment.  A householder.  A taxpayer.  A name on the electoral role.'
   Perhaps it is a measure of anyone's madness that they should yearn for
   these things, and the quest is double-edged; what Burnside is really after
   is a sense of stability, safety and continuity, and this book is an eloquent
-  demonstration that, once actively pursued, the conept of normality mutates,
+  demonstration that, once actively pursued, the concept of normality mutates,
   bifurcates, and dissolves.
 
   ... one of the delights of this book is that, although Burnside takes up
@@ -52,11 +63,7 @@ Some of my own comments:
   be sure if Burnside is being funny when, in the middle of all the
   self-analysis, he comes up with a sentence like, 'It was a Saturday
   afternoon and I was trawling around Guildford looking for a new toaster'.
-  ...
-
-  ... This book describes the country from which he has harvested his
-  extraodinary poems and novels over the past two decades -- one feels,
-  in the end, that they couldn't have come from anywhere else."
+  ... "
 
 24 Sep 2020
 
