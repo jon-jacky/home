@@ -11,6 +11,86 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+27 Sep 2020
+
+- Out of Suburbia by Roz Kaveny, review of *The Inner Man: The Life of
+  J. G. Ballard* by John Baxter in *TLS*, Nov 18, 2011 (no link):
+
+  "From a comparatively early stage in his career, Ballard had a clear
+  and consistent view of how the world was and how he wanted us to see it.
+  It was a Hobbesian view, in which gentleness is only a passive-aggressive
+  strategy and to be selfish is simply to be human; it is a view in which
+  things decline toward entropy ...
+
+  One of the reasons why Ballard continued to be engaged with science
+  fiction long after his career had become considerably more mainstream
+  was that he wanted to show those American optimists who thought that the
+  Space Age was an epoch of exploration that it had been a fad that was
+  already over.
+
+  Where a number of earlier British SF writers -- John Wyndham, for example --
+  had played around with catastrophe, they had done so largely in a mode
+  that explored universal blindness and deadly ambulant vegetables as tests
+  of character and morale.  Ballard's novels in this vein -- *The Drowned
+  World* (1962), *The Crystal World (1966) -- return to an older tradition
+  that sees the destruction of civilization by nature as the righteous return
+  of the repressed; his heroes do not retreat to places of safety in an
+  unkind world, but rather strike on, into wilderness, despair, and death.
+
+  The satiric strain in SF -- what his friend Brian W. Aldiss called its
+  "comic infernos" -- was part of what drew Ballard to it.  The fragmentary
+  "condensed novels" of *The Atrocity Exhibition* (1970) would have had a
+  problem finding their audience outside SF magazines whose readers were
+  prepared to put up with a great deal of weirdness with only minimal
+  complaint. ...
+
+  Ballard claimed in what was almost certainly and apocryphal story,
+  that (his novel) *Crash* (1973) had been shown to a publisher's
+  psychiatrist wife, who said that it indicated a derangement beyond help.
+  Ballard, as a young man, had abandoned the study of psychiatry himself;
+  that diagnosis of derangement beyond help might usefully be seen as his
+  final judgment on the world in which he had to live, and which he rightly
+  convinced, against the odds, that he was an important writer."
+
+  His Twists and Turns, On Paper and in Life by Dwight Garner, review
+  of *Miracles of Life: An Autobiography* by J. G. Ballard in *The New
+  York Times*, Feb 6, 2013, p. C6 (no link):
+
+  "In the *New York Times Book Review*, D. Keith Mano didn't just review
+  it (*Crash*); he reacted as if someone had thrown a severed head in his
+  lap. ... Mr. Mano called the novel "the most repulsive book I've yet
+  to come across."  He couldn't help adding, "*Crash* is well written:
+  credit given where due."
+
+  It took the world time to catch up with Ballard (1930 -- 2009).  His
+  name has been fashioned into a useful adjective.  To call something
+  Ballardian is to suggest dystopian landscapes pockmarked by the
+  recurring images from his novels ...
+
+  What's largely new, and savage, in this memoir is the level of
+  disillusionment Ballard came to feel during the war, about both
+  England and his own distant parents.  "The dream of empire died when
+  Shanghai surrendered without a fight," he writes. "Even at the age
+  of 11 or 12 I knew that no amount of patriotic newsreels would put the
+  Union Jack jigsaw together again.  From then on I was slightly suspicious
+  of all British adults."
+
+  The cozy England he loved, he discovers, "was a complete fantasy."  He
+  takes aim at the country's class system, calling it "an instrument of
+  political control."  ...
+
+  I'm not sure I've read a more comprehensive takedown of the postwar
+  British psyche than Ballard's observation that the country's social
+  codes -- "show respect for one's elders, never be too keen, take it on
+  the chin," etc. -- were calculated to create a sense of overpowering
+  deference, and certainly not the qualities that had made Shanghai great,
+  or, for that matter, won the Battle of Britain."  What these things
+  inculcated, he suggests, was "second-rateness and low expectations."
+
+  In his own novels and stories, he says, "I've treated England as if it
+  were a strange fiction."  His early work bent toward science fiction
+  because so-called serious writing was too insular. ..."
+
 26 Sep 2020
 
 - Without Tears In My Heart by Graham Robb, review of *Correspondance* by
