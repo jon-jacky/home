@@ -11,10 +11,19 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+28 Sep 2020
+
+- Book review by Sheena Joughin in *TLS*, Aug 2, 2013, p. 21 (no link):
+
+  "(This novel) is an exhausting book, with no shape, no development, 
+  and very little plot.  ... the whole has a woozy touch-screen feel ...
+  we begin to feel the numbed indifference that comes with a slideshow
+  of a stranger's wedding. ..."
+
 27 Sep 2020
 
 - Out of Suburbia by Roz Kaveny, review of *The Inner Man: The Life of
-  J. G. Ballard* by John Baxter in *TLS*, Nov 18, 2011 (no link):
+  J. G. Ballard* by John Baxter in *TLS*, Nov 18, 2011, p. 5 (no link):
 
   "From a comparatively early stage in his career, Ballard had a clear
   and consistent view of how the world was and how he wanted us to see it.
@@ -44,7 +53,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   prepared to put up with a great deal of weirdness with only minimal 
   complaint. ...
 
-  Ballard claimed in what was almost certainly and apocryphal story, 
+  Ballard claimed in what was almost certainly an apocryphal story, 
   that (his novel) *Crash* (1973) had been shown to a publisher's 
   psychiatrist wife, who said that it indicated a derangement beyond help.
   Ballard, as a young man, had abandoned the study of psychiatry himself;
