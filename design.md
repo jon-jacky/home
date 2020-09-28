@@ -12,7 +12,7 @@ Companion page, a commonplace book:
 - <http://fivedots.coe.psu.ac.th/~ad/computerComics/index.html> - 
   The First Appearance of a Real Computer in a Comic Book
 
-  <http://fivedots.coe.psu.ac.th/~ad/Y379/> - A Year of 379 Computer Days -   
+  <http://fivedots.coe.psu.ac.th/~ad/Y379/> - A Year of 379 Computer Days -
   "Each date is linked to a beautifully composed PDF document that is
   absolutely bursting with revelations that will *make you gasp*. ..."
 
