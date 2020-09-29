@@ -13,6 +13,17 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
 28 Sep 2020
 
+- The Firepower and the Glory by Roz Kaveny, review of *REAMDE* by Neal
+  Stephenson in *TLS*, Oct 28 2011, p. 20 (no link):
+  
+  "As far as (Stephenson) is concerned, most problems can be resolved 
+  by intelligence and pragmatism ... Most of the conflicts in the world
+  can be ended by negotiation ... If there is a weakness to his position,
+  it is that he does not accept imaginatively that a lot of intelligent
+  people are selfish past the point of reason, and that the list of things
+  on which some people will not negotiate is far for extensive than he
+  believes. ..."
+
 - Book review by Sheena Joughin in *TLS*, Aug 2, 2013, p. 21 (no link):
 
   "(This novel) is an exhausting book, with no shape, no development, 
@@ -2046,7 +2057,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
   (See link below to the new Nancy strip by another cartoonist.)
 
-8-11 Apr 2019
+8-11 Apr 2019, 28 Sep 2020
 
 - https://news.ycombinator.com/item?id=1476059, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -2114,6 +2125,31 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   but the language of Emacs users (shortcuts) ...
   the starting point for everything is *M-x command*."
 
+- https://news.ycombinator.com/item?id=24209937 - comments on Mousemacs -
+  *thom*: "Emacs is fundamentally command driven - everything is a command,
+  and can be invoked, edited or replaced the same way. What triggers those
+  is obviously key bindings for a lot of people but it's not really what
+  makes Emacs powerful or extensible. 
+
+  *kqr*: "I agree. Vim is inherently keyboard-focused. That Emacs is not, and
+  instead focuses on the command as the fundamental unit driving everything,
+  is its primary strength."
+  
+- https://news.ycombinator.com/item?id=24560923 comments on The Era of VSCode -
+  *TemMPOraL*: "... Emacs is best viewed not as text editor with
+  plugins, but as a Lisp Machine emulator with a text editor. The joke
+  about it being an OS is more true than people think: what you get is a
+  (2D, not 1D like shell) text-oriented programming environment, back from
+  the times where "a programming environment" meant a fully 
+  end-user-programmable OS.
+
+  This has an important downstream consequence on the "plugin" ecosystem:
+  since these "plugins" are better seen as small applications running on in
+  a shared, restriction-free OS, they don't need a fixed and restrictive API
+  to interoperate. The entire Emacs is the API, and as long as an elisp app
+  follows conventions and plays nice, it will almost seamlessly interoperate
+  with every other app. ...
+  
 - https://news.ycombinator.com/item?id=6322734, comment by *samatman* on
   Start Using Emacs  A Thorough Guide for Beginners:
   "... Emacs is an ancient book of magic spells, with a strange,
