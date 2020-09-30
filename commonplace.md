@@ -11,6 +11,19 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+29 Sep 2020
+
+- Book review by Sheena Joughin in *TLS*, Oct 3, 2003, p. 30 (no link):
+
+  "The memoirist's relationship to his or her central character is
+  inevitably more fraught than the novelist's.  (This author) seems not to
+  know what to make of herself, or what the purpose of her memoir is,
+  which is fatal to the emotional rhythm of her tale and the pace of the
+  writing itself. ...
+
+  (The author) knows a lot she doesn't tell us, or cannot allow herself
+  to make explicit. ... (This) is a disingenuous book. ..."
+
 28 Sep 2020
 
 - The Firepower and the Glory by Roz Kaveny, review of *REAMDE* by Neal
