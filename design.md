@@ -7,6 +7,36 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+11 Oct 2020
+
+- <https://juliamono.netlify.app/>
+
+  "JuliaMono is a monospaced typeface designed for programming in the
+  Julia Programming Language and in other text editing environments that
+  require a wide range of specialist and technical Unicode characters. ...
+  In ... the following code fragment, the range of available Unicode
+  characters can be quite expressive: ..."
+
+10 Oct 2020
+
+- <https://www.instructables.com/Build-A-Fusion-Reactor/>
+
+  "Yes, you can build your very own nuclear fusion reactor in your house!
+  But first, a few warnings:  This project includes lethal voltage levels.
+  ... Potentially hazardous levels of x-rays ... damage to the checking
+  account ..."
+
+  This appears to be for real, with sincere photos of obviously DIY
+  equipment.
+
+- <https://github.com/hatsugai/Fenestra6502>
+
+  "Fenestra6502 is a 6502-based system with an extra circuit to improve
+  the performance of procedure/function calls. ..."
+
+  Includes photos of a handmade 6502 computer system including the
+  described circuit, built on solderless breadboards with colorful wiring.
+
 26 Sep 2020
 
 - <http://fivedots.coe.psu.ac.th/~ad/computerComics/index.html> - 
