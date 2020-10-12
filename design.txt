@@ -7,7 +7,17 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
-11 Oct 2020
+12 Oct 2020
+
+- http://warsus.github.io/lions-/ - A Commentary on the Sixth Edition
+  Unix Operating System (1977)
+
+  "This book is an attempt to explain in detail the nucleus of one of the
+  most interesting computer operating systems to appear in recent years. ..."
+
+  The famous Lions' book, with the commentary side-by-side with the code.
+
+10 Oct 2020
 
 - https://juliamono.netlify.app/
 
@@ -17,8 +27,6 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   In ... the following code fragment, the range of available Unicode
   characters can be quite expressive: ..."
 
-10 Oct 2020
-
 - https://www.instructables.com/Build-A-Fusion-Reactor/
 
   "Yes, you can build your very own nuclear fusion reactor in your house!
@@ -26,7 +34,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   ... Potentially hazardous levels of x-rays ... damage to the checking
   account ..."
 
-  This appears to be for real, with sincere photos of obviously DIY
+  Appears to be for real, with sincere photos of obviously homebuilt
   equipment.
 
 - https://github.com/hatsugai/Fenestra6502
@@ -34,8 +42,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   "Fenestra6502 is a 6502-based system with an extra circuit to improve
   the performance of procedure/function calls. ..."
 
-  Includes photos of a handmade 6502 computer system including the
-  described circuit, built on solderless breadboards with colorful wiring.
+  Includes photos of a handmade 6502 computer including the described
+  circuit, built on solderless breadboards with lots of colorful wires.
 
 26 Sep 2020
 
