@@ -7,6 +7,22 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Oct 2020
+
+- <https://wiki.xxiivv.com/site/plan9.html>
+
+  "an experimental investigation into a different way of computing"
+
+  Running on <https://wiki.xxiivv.com/site/usagi.html>
+
+  So minimal the keyboard doesn't even provide numbers!  Compare to
+
+  <https://www.rs-online.com/designspark/a-pi-powered-plan-9-cluster>
+
+  "The project provided an excuse to make use of a Vortex Core 47-key
+  keyboard, which together with a mini white HDMI monitor, provided a
+  particularly compact and suitably futuristic feeling setup."
+
 12 Oct 2020
 
 - <http://warsus.github.io/lions-/> - A Commentary on the Sixth Edition
@@ -305,6 +321,10 @@ Companion page, a commonplace book:
 
 - <https://chipflip.wordpress.com/2012/02/06/the-working-class-of-computer-art/> -
   striking abstract logo, well matched to content.
+
+- <https://wiki.xxiivv.com/site/home.html> - unique logo and links at the
+  top left, strking use of black and white and empty space, and of
+  photos on linked pages.
 
 17 Apr 2020
 
