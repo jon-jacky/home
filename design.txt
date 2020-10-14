@@ -23,6 +23,14 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   keyboard, which together with a mini white HDMI monitor, provided a
   particularly compact and suitably futuristic feeling setup."
 
+  https://9p.io/wiki/plan9/Expanding_your_Grid/index.html
+
+  "Plan 9 was designed as a distributed system. After you install the
+  distribution from the cd, you have a self-sufficient one machine system,
+  a standalone terminal. We will consider this as "Level 0" - how do you
+  proceed from here to a network of Plan 9 machines and provide Plan 9
+  services to other clients? ..."
+
 12 Oct 2020
 
 - http://warsus.github.io/lions-/ - A Commentary on the Sixth Edition
