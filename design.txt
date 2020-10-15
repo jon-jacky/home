@@ -15,13 +15,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
  
   Running on https://wiki.xxiivv.com/site/usagi.html
 
-  So minimal the keyboard doesn't even provide numbers!  Compare to
+  So minimal the keyboard doesn't even have number keys!  Compare to
 
   https://www.rs-online.com/designspark/a-pi-powered-plan-9-cluster
 
-  "The project provided an excuse to make use of a Vortex Core 47-key
-  keyboard, which together with a mini white HDMI monitor, provided a
-  particularly compact and suitably futuristic feeling setup."
+  "a particularly compact and suitably futuristic feeling setup"
 
   https://9p.io/wiki/plan9/Expanding_your_Grid/index.html
 
