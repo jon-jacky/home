@@ -7,6 +7,15 @@ More here: http://jon-jacky.github.io/home/links.html#graphics
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+16 Oct 2020
+
+- http://screenl.es/why.html - The Screenless Office
+
+  "By getting rid of the display, we force digital text and images back
+  into the old conventions of print culture. ... By calling this creation
+  an "Artistic Operating System", we assert that it should be unique and
+  personal, even peculiar ..."
+
 13 Oct 2020
 
 - https://wiki.xxiivv.com/site/plan9.html
@@ -213,6 +222,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://special.fish/ - "I like to think of us all swimming together 
   in a school. Where are we headed?"
+
+- https://beautiful-company.com/ - designed Elliot School logo, and much more
 
 18 May - 20 Jun 2020
 
