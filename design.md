@@ -16,6 +16,8 @@ Companion page, a commonplace book:
   an "Artistic Operating System", we assert that it should be unique and
   personal, even peculiar ..."
 
+  Comments <https://news.ycombinator.com/item?id=15960056>
+
 13 Oct 2020
 
 - <https://wiki.xxiivv.com/site/plan9.html>
