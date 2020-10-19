@@ -13,6 +13,27 @@ comments on *Hacker News*, click *parent* to see more context).
 I also keep a commonplace book of writings by others:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+Oct 2020
+
+- <https://ask.metafilter.com/349210/Request-Memoir-About-Moving-to-a-New-City#4994655>
+
+  He became famous later, but the last section of Jack Kerouac's mostly
+  ignored first novel *The Town and the City* describes a young man from a
+  small New England town moving to New York city right after World War
+  Two. There is a memorable description of his bus passing through the
+  country, then the suburbs, then the boroughs, then Manhattan. Then his
+  early months there and the people he meets. I wouldn't call it
+  lighthearted/humorous, but there is a lot of vivid description and
+  emotional depth.
+
+  Lots of description and activities of his new friends - some based on
+  Allen Ginsberg and others who became famous later - but here they are
+  not yet The Beats, they are just some people he knows. It is fascinating
+  to see this crowd, who have been so thoroughly covered in gonzo style
+  later, first described by a then-conventional writer in a style that
+  looks back to the thirties, with no foreshadowing of their future fame
+  or cultural influence.
+
 Sep 2020
 
 - <https://www.metafilter.com/188811/We-only-need-each-other#7985221>
