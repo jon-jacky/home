@@ -7,6 +7,38 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+29 Oct 2020
+
+- <https://blog.bela.io/2020/06/05/hacking-the-banjo-jonathan-reus/> -
+  Hacking the Five-String Banjo
+
+  "I'm a big fan of the inlay work done on 19th century American folk
+  instruments and furniture, and the kinds of ornamentation that was
+  popular during the American Fancy movement. I had an Architect friend
+  who told me once that modernist aesthetics have caused us to
+  collectively forget how to be ornamental. I tend to agree. ... After
+  designing some paper prototypes, taped to the banjo ... I moved on to
+  making some copper stick-on inlays using a vinyl cutter and copper foil.
+  I also used the C4DMs laser cutter to fashion a new head for the banjo
+  from blue acrylic, featuring some ornamental patterns inspired by the
+  Fancy aesthetic. ...
+
+  .. it became clear that an old-time knocking banjo player potentially
+  has some free bandwidth in their right hand that could be built upon. To
+  do this I leveraged two technologies that were being prototyped at the
+  Augmented Instruments Lab, the touch-sensing Trill and the magnetic-
+  field sensing tech used to sense guitar picking motions in the Magpick.
+  ... Since I'm using SuperCollider for all my live electronic sound needs,
+  I needed to develop some custom UGens for the Bela to be able to get the
+  Trill sensor's data into my signal chains. ...
+
+  That's a lot of signals going in and out ... I wanted to have a dashboard
+  for the purpose of debugging signals and making sure everything in the
+  banjo was working ... I started building up a signal visualization
+  system. ..."
+
+  With photos, circuit diagrams, code, and videos.
+
 16 Oct 2020
 
 - <http://screenl.es/why.html> - The Screenless Office
