@@ -4,42 +4,11 @@ their content.
 
 More here: <http://jon-jacky.github.io/home/links.html#graphics>
 
+Companion page on computing:
+<https://github.com/jon-jacky/home/blob/gh-pages/computing.md>
+
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
-
-30 Oct 2020
-
-- <https://github.com/mntmn/amiga2000-gfxcard> - an Amiga 2000 Graphics Card - 
-
-  (The Amiga 2000 was a personal computer introduced in 1987 that used
-  the 68000 processor.)
-
-  "I decided in October 2015 in a feat of madness: "I'll just make my own
-  graphics card. How hard can it be?"
-
-  It turned out to be a very, very challenging project ... On the way, I
-  had to learn how to design a PCB and get it manufactured, how to work
-  with SMD parts, how to program in Verilog and synthesize code for an
-  FPGA, how SDRAM and DVI/HDMI work (or how to get them to do at least
-  something). ...
-
-  The Amiga is probably the last 32-bit personal computer that is fully
-  understood, documented and hackable. ... I hope that one day, we can
-  have a simple but powerful modern computer that is at the same time as
-  hackable and friendly as the Amiga was."
-
-  <https://news.ycombinator.com/item?id=24917101>, comments on another Amiga 
-  article:
-
-  jl6: "If ever the modern open source community needed a Manhattan project
-  / holy grail, it is this:
-
-  > ... [a computer] where all the components are well documented.
-
-  I am convinced that the appeal of the Amiga, and retro-computing in
-  general, isn't just nostalgia - it's making a stand against the bottomless
-  complexity and disempowerment of modern computing."
-
 
 29 Oct 2020
 
@@ -579,27 +548,6 @@ Companion page, a commonplace book:
   more streamlined, syntactically consistent replacement for the
   venerable *ed*".  Explained at <https://github.com/arcfide/ALE>
 
- 9 Feb 2020
-
-- <https://kevinlawler.com/prompts> - "Oblique Strategies ...
-  Brian Eno created a collection of strategies to help artists break
-  creative block. We can do something similar for programmers ..."
-
- 9 Feb 2020
-
-- <https://maryrosecook.com/blog/archive> - for example
-  <http://gitlet.maryrosecook.com/docs/gitlet.html> -
-  "Gitlet is an implementation Git in JavaScript ..." -
-  a literate program with annotations and code in side-by-side format.
-
-- <http://c9x.me/edit/> - "Vi + Acme ...  I like Acme a lot, but without
-  vi keybindings, I cannot edit text. So I tried to mix the two
-  together. ..." - run the animation at the bottom of the page.
-
-- <https://kodfabrik.com/happy-hacking-linux/> - 
-  "... takes Arch Linux and adds sane defaults that will work best for
-  developers. ..." - more at <https://kodfabrik.com/journal/>
-
 31 Jan 2020
 
 - https://shapero.xyz/ for example <https://shapero.xyz/posts/variational-calculus/> - 
@@ -629,3 +577,201 @@ Companion page, a commonplace book:
 - http://wenyan-lang.lingdong.works/ also <https://github.com/LingDong-/wenyan-lang> - 
   "... an esoteric programming language ... guaranteed to be readable by
   ancient Chinese people ..."
+
+ 7 Oct 2018
+
+- <http://studyhall.xyz/blog/libraries-coworking-jackdenton> - Writer
+  reports on working at four NYC public library branches. "If I told
+  you that Poets House is a bad place to write a poem, would you
+  believe me?"  Great photos, interesting page design and typography on
+  this and linked pages.
+
+25 Jun 2018
+
+- <http://recodeproject.com/> - "...a community-driven effort to
+  preserve computer art by translating it into a modern programming
+  language (Processing). ... "Computer Graphics and Art" was a
+  quarterly magazine published between 1976 and 1978. We are using PDF
+  copies of the entire run of the magazine as our starting point for
+  the project."
+
+- <https://sfpc.io/recoded/> - Exhibition of works inspired by the ReCode
+  project (above), by students, alumni, and friends of the School for
+  Poetic Computation (this link added 6 Dec 2019).
+
+- <https://monoskop.org/images/b/b3/Dwyer_Terence_Composing_with_Tape_Recorders_Musique_Concrete_for_Beginners.pdf> - 
+  Oxford University Press, 1971.  PDF includes the entire 44 page
+  book. via <https://news.ycombinator.com/item?id=17338092>
+
+11 Jun 2018
+
+- <https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/>
+  Many beautiful pictures and links to more of his work.  More Haeckel
+  drawings at 2 Nov 2017 below.
+
+31 May 2018
+
+- <http://www.bldgblog.com/2018/05/journey-of-a-single-line/> -
+  "... Wacław Szpakowski was a trained architect who dedicated an
+  inordinate amount of his own free time to hand-drawing elaborate
+  mazes and patterns using only a single line. ..."  Several beautiful
+  and striking examples on this page, many more here:
+  <http://miguelabreugallery.com/exhibitions/grounding-vision-waclaw-szpakowski/>
+  (click images link in upper right corner)
+
+22 May 2018
+
+- <http://www.ubuweb.com/> UbuWeb.  "All avant-garde.  All the time."
+  One of many many pages is <http://www.ubu.com/emr/> Electronic Music
+  Resources: "We've taken the filing cabinet as our model, rather
+  than the museum, and our focus is on historical and rare material
+  rather than recent developments."  Interesting austere page design.
+
+26 Apr 2018
+
+- <https://www.popsci.com/quantum-computer-photos> - "Yale University
+  applied physicists Robert Schoelkopf and Michel Devoret pioneered a
+  way to stabilize (qubits). By building qubits out of superconductors
+  ... As a look inside their lab reveals, it takes a huge
+  operation—and a very cold fridge."  Impressive photos of cryogenics
+  and microwave electronics.
+
+16 Apr 2018
+
+- <http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html> - "We have set out to trace the evolution of American comics by
+  looking at 100 pages that altered the course of the field’s
+  history." From 1929 to 2014.
+
+31 Mar 2018
+
+- <https://www.moma.org/interactives/exhibitions/2011/AccesstoTools/> -
+  "Publications from the Whole Earth Catalog, 1968-1974" with
+  nostalgia-inducing content, typography, and design, via
+  <https://news.ycombinator.com/item?id=16720764> which also links to a
+  page by yellowed page scan of the classic Last Whole Earth Catalog:
+  <https://archive.org/details/B-001-013-719>
+
+28 Mar 2018
+
+- <https://www.moma.org/calendar/exhibitions/3863?locale=en> - "Thinking
+  Machines: Art and Design in the Computer Age, 1959–1989, The Museum
+  of Modern Art." Comments at <https://news.ycombinator.com/item?id=16694759>
+
+- <https://1403.slantedhall.com/> - "1403 Vintage Mono Pro ... typeface
+  inspired by the IBM 1403 mainframe line printer from the 1960s"
+  via <https://news.ycombinator.com/item?id=16701009> responding to 
+  <https://www.ibm.com/plex/> - "IBM Plex™ is our new typeface."
+
+20 Jan 2018
+
+- <http://mad4j.github.io/book-mdpc/> - Minimalist movie posters
+  generated using Processing programming language
+
+ 3 Jan 2018
+
+- <http://www.hellophia.com/> web page of comic/graphic artist Sophia
+  Foster-Dimino - unusually good use of color and subtle animation, for
+  example <http://www.hellophia.com/#/animation-personal/> Much more in
+  comic strip format at <http://sophiafosterdimino.tumblr.com/> via
+  comment in MeFi post below.
+
+- <https://www.metafilter.com/171507/2017-was-full-of-great-comics-and-heres-where-to-find-them>,
+  links to
+  <https://www.theverge.com/2017/12/22/16807260/best-comics-of-2017> and
+  several other best-of-2017 lists.
+
+ 3 Dec 2017
+
+- <http://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/>
+  with embedded video and animated GIFs from the film.
+
+ 9 Nov 2017
+
+- <https://www.atlasobscura.com/articles/how-a-retrofuturist-spends-three-days-in-los-angeles>
+  That's just another good recent example of Atlas Obscura, which should
+  really be in there.  See also 7 Mar above.
+
+2 Nov 2017
+
+- <https://www.theguardian.com/books/gallery/2017/nov/01/ernst-haeckel-the-art-of-evolution-in-pictures>
+  Amazing 19th century biological illustrations.  via <http://www.metafilter.com/170327/Stop-Haeckel-time>, may have better links than Guardian
+
+27 Sep 2017
+
+- <http://thin.npr.org/> - Text-only NPR.  HN thread shows lots of variations
+  using minimal CSS etc.
+
+14 Sep 2017
+
+- <https://textonly.website/index.html> - "A text-only list of text-only
+  websites".  BUT they are in "beautiful, unadorned HTML" not ASCII.
+  But, no "fonts, images, stylesheets, images & javascript".
+  This is not the large old text only website with lots of retro stuff
+  we've seen before.
+
+- <https://spin.atomicobject.com/2017/09/14/.....>  on mid-century
+  industrial designer Raymond Loewy.  Links to www.theverge.com
+   "the man who designed everything" and www.raymondleowy.com
+
+11 Aug 2017
+
+- <https://www.youtube.com/watch?v=qqM3McG4-LE> Saul Bass: Famous title
+   sequences from Preminger to Scorsese, 23 movies > 1 hour, via
+   <http://www.metafilter.com/168771/I-want-to-make-beautiful-things-even-if-nobody-cares>
+
+26 May 2017
+
+- <https://labs.rs/en/> - research on privacy, Facebook, security also
+   notable graphic design <http://www.bbc.com/news/business-39947942> -
+   BBC news story about this research
+
+25 May 2017
+
+- <https://mathwithbaddrawings.com/2017/05/17/the-joy-of-slightly-fishy-proofs/>
+
+20 Apr 2017
+
+- <http://www.signsforscience.com/sign/carol-gunn-gunn-graphics> -
+  science march posters
+
+- <http://www.harkavagrant.com/archivecat.php>
+
+10 Apr 2017
+
+- <https://bookillustrations.quora.com/> via Mefi post, for example
+   <https://bookillustrations.quora.com/Boris-Artzybasheffs-Illustrations-for-Creatures>
+
+31 Mar 2017
+
+- <https://i.redd.it/uaab4tb56soy.png>
+  3x3 alphanumeric font, surprisingly legible. (in typography, links.html, 23 Mar 2017)
+
+31 Mar 2017
+
+- <https://www.behance.net/gallery/50164479/WHOS-AFRAID-OF-RED-YELLOW-AND-BLUE>
+  Striking photos of big buildings etc in The Hague decked out like
+  Mondrian paintings for the 100th anniversary of the De Stijl
+  movement.
+
+25 Mar 2017
+
+- <http://www.poster.pl/polish_poster_artists.html>
+
+20 Jan 2017
+
+- <https://omgfacts.com/we-used-to-have-6-more-letters-in-our-alphabet-a7e1a165853d#.pd56w4he6>
+  <https://news.ycombinator.com/item?id=13408797>
+  The lost letters of the English alphabet, 195 HN comments many correcting errors
+
+ 7 Jan 2017
+
+- 2017.sucks simple website JS demo with nice graphic desing
+  via HN <https://2017.sucks/#/>
+  <https://github.com/alexbowers/2017.sucks>
+
+13 Dec 2016
+
+- Ancient languages in 10 lessons at
+  www.openculture.com/2014/01/learn-latin....  Latin Greek Old English
+  etc.
+
