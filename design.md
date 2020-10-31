@@ -7,6 +7,40 @@ More here: <http://jon-jacky.github.io/home/links.html#graphics>
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+30 Oct 2020
+
+- <https://github.com/mntmn/amiga2000-gfxcard> - an Amiga 2000 Graphics Card - 
+
+  (The Amiga 2000 was a personal computer introduced in 1987 that used
+  the 68000 processor.)
+
+  "I decided in October 2015 in a feat of madness: "I'll just make my own
+  graphics card. How hard can it be?"
+
+  It turned out to be a very, very challenging project ... On the way, I
+  had to learn how to design a PCB and get it manufactured, how to work
+  with SMD parts, how to program in Verilog and synthesize code for an
+  FPGA, how SDRAM and DVI/HDMI work (or how to get them to do at least
+  something). ...
+
+  The Amiga is probably the last 32-bit personal computer that is fully
+  understood, documented and hackable. ... I hope that one day, we can
+  have a simple but powerful modern computer that is at the same time as
+  hackable and friendly as the Amiga was."
+
+  <https://news.ycombinator.com/item?id=24917101>, comments on another Amiga 
+  article:
+
+  jl6: "If ever the modern open source community needed a Manhattan project
+  / holy grail, it is this:
+
+  > ... [a computer] where all the components are well documented.
+
+  I am convinced that the appeal of the Amiga, and retro-computing in
+  general, isn't just nostalgia - it's making a stand against the bottomless
+  complexity and disempowerment of modern computing."
+
+
 29 Oct 2020
 
 - <https://blog.bela.io/2020/06/05/hacking-the-banjo-jonathan-reus/> -
