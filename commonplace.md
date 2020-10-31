@@ -11,6 +11,56 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+30 Oct 2020
+
+- *I Married a Communist* by Philip Roth, p. 199 (no link):
+
+  "And so the talk continued, an amiable, quiet conversation with a
+  little laughter ...  I couldn't remember ever having been so unagitated
+  myself in Ira's company.  Nor had I ever seen him so serious about
+  something that wasn't world affairs or American politics or the failings
+  of the human race. ...
+
+  There was something so winning about those two men's good humored
+  absorption in each other ... that I had to wonder afterward if this
+  person who didn't  have to get all stirred up and go through all that
+  Ira-ish emotion to have a conversation wasn't perhaps the real, if
+  unseen, inactive Ira, and the other, the furious radical, an
+  impersonation, an imitation of something ...
+
+  The respect and fondness that Ira had for Horace Bixton suggested even to
+  me, a boy, that there was a very simple world of simple people and simple
+  satisfactions into which Ira might have drifted, where all his vibrating
+  passions, where all that equipped him (and ill equipped him) for society's
+  onslaught might have been remade and even pacified.
+
+  ... And then again, maybe not.  Maybe to be, like Horace, without a great
+  enemy would have made life even more impossible for Ira than it already was."
+
+- Bonfire Night at Powys Terrace by Rosemary Hill, review of *The Ossie Clark
+  Diaries* in *TLS*, Dec 11 1998, p. 26 (no link):
+
+  "Reading Ossie Clark's diaries is like staying sober through a long, terrible
+  party.  At the beginning everyone's there -- David Hockney, Celia, Mick,
+  Bianca -- but most of them have gone home long before the end.  There are
+  some ugly scenes, and you finish up stuck in the kitchen with a maudlin
+  drunk who used to be somebody. ...
+
+  If, as Henrietta Rous suggests in her introduction, something "decent and
+  humble" gradually emerges from all this, it is not Ossie.  It is the friends
+  who offer him chance after chance, most of which he squanders and all of
+  which he resents. ...
+
+  One thing Ossie never lost was the capacity to take offence. ...
+  By the end there is something impressive about this kind of grumbling,
+  a king of heroic tetchiness, which enables him, in the face of real disaster,
+  to find fault with trivialities.  Reduced to Salvation Army handouts,
+  he complains about the "hidden fat" in the cheese pasties.
+
+  ... In manipulating surfaces and pattern he was an artist, but fashion
+  is an applied art and application was one of the many things
+  Ossie Clark lacked."
+
 14 Oct 2020
 
 - King of the Road by J. R. Moehringer, review of *Riding Toward Everywhere*
