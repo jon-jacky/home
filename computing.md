@@ -12,8 +12,6 @@ Companion page, a commonplace book:
 
 30 Oct 2020
 
-30 Oct 2020
-
 - <https://github.com/mntmn/amiga2000-gfxcard> - an Amiga 2000 Graphics Card
 
   The Amiga 2000 was a personal computer introduced in 1987 that still
