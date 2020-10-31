@@ -662,6 +662,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   via https://news.ycombinator.com/item?id=16701009 responding to 
   https://www.ibm.com/plex/ - "IBM Plex™ is our new typeface."
 
+19 Mar 2018
+
+- https://idea-instructions.com/ - "An ongoing series of nonverbal
+  algorithm assembly instructions" - in the style of Ikea
+  instructions!
+
 20 Jan 2018
 
 - http://mad4j.github.io/book-mdpc/ - Minimalist movie posters
@@ -684,6 +690,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - http://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/
   with embedded video and animated GIFs from the film.
+
+13 Nov 2017
+
+- http://nibrahim.net.in/2017/11/04/pycon_india_2017_keynote.html
+  Creating a presentation by hand using calligraphy
 
  9 Nov 2017
 

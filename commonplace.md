@@ -8,6 +8,9 @@ Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2
 Companion page on design, typography, and graphics:
 <https://github.com/jon-jacky/home/blob/gh-pages/design.md>
 
+Companion page on computing:
+<https://github.com/jon-jacky/home/blob/gh-pages/computing.md>
+
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
@@ -2192,99 +2195,12 @@ Some of my own comments:
   <https://www.metafilter.com/166863/Piano-violin-and-cello>
   <https://www.metafilter.com/163338/String-Quartets>
   <https://www.metafilter.com/170478/Piano-Quintets>
-
-- <https://news.ycombinator.com/item?id=17028491> - "Emacs. It's the
-  "best of both worlds" combination of text-based interfaces and
-  GUIs. It supports software that can be interactive, and yet also as
-  interoperable as CLI applications ...", cites
-  <https://ambrevar.bitbucket.io/emacs-everywhere/> - "... any
-  structure, interface element and even code can be passed around and
-  combined between the different interfaces to various programs."  Via
-  <https://news.ycombinator.com/item?id=17026490>, comments on
-  <https://ambrevar.bitbucket.io/emacs-eshell/>
-
-30 Apr 2018
-
-- <https://ericphanson.com/posts/2016/the-traveling-salesman-and-10-lines-of-python/>
-  Traveling Salesman solved by simulated annealing.  The ten lines of
-  Python include two lines to draw a graph of the route.  Demonstrates
-  matplotlib, numpy, random, math, and several comprehension and
-  slicing idioms.  Nice page design: "This site created with the Tufte
-  theme for Jekyll."
-
-- <https://www.pagetable.com/?p=774> - "Microsoft BASIC for 6502
-  Original Source Code [1978] ... currently the oldest publicly
-  available piece of source written by Bill Gates. ... developed on a
-  PDP-10, using the MACRO-10 assembler. A set of macros developed by
-  Paul Allen allowed MACRO-10 to understand and translate 6502
-  assembly, albeit in a modified format to fit the syntax of macros.
-  ... with all original comments, documentation and easter eggs ...
-  6955 lines."  Via <https://news.ycombinator.com/item?id=16938934>,
-  "What are some examples of beautiful x86 assembly code?"
-
-26 Apr 2018
-
-- <https://www.popsci.com/quantum-computer-photos> - "Yale University
-  applied physicists Robert Schoelkopf and Michel Devoret pioneered a
-  way to stabilize (qubits). By building qubits out of superconductors
-  ... As a look inside their lab reveals, it takes a huge
-  operation—and a very cold fridge."  Impressive photos of cryogenics
-  and microwave electronics.
-
-- <https://www.gnu.org/software/guix/blog/2018/guix-on-android/> - Not
-  really practical but provides a description of how Android is
-  configured on top of the Linux kernel, with a photo of terminal
-  running on a tiny phone.  "Android's root filesystem is actually the
-  initramfs so any modification to its content will be lost after a
-  reboot."
-
-25 Apr 2018
-
-- <https://jeffreykegler.github.io/personal/timeline_v3> - "Parsing: a
-  timeline", actually a short but dense review article from Panini in
-  4th BCE then skipping to the early 20th century and on through 2012.
-  Extensive bibliography with links.  Samples: "1991 ... On the
-  written record, the discontent with LALR and yacc is hard to
-  find. ...  But, by 1991, a movement away from LALR has already
-  begun. Parsing practice falls back on recursive descent ..."  "2004:
-  ... PEG takes the old joke that "the code is the documentation" one
-  step further -- with PEG it is often the case that nothing documents
-  the grammar, not even the code."
-
-16 Apr 2018
+1
+6 Apr 2018
 
 - <http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html> - "We have set out to trace the evolution of American comics by
   looking at 100 pages that altered the course of the field’s
   history." From 1929 to 2014.
-
-- <https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now>
-  "... the XO-1: a toylike green-and-white laptop with rounded edges,
-  a swiveling “neck” instead of a standard hinge ...  Its screen
-  folded into the keyboard to create a tablet ... Ear-like antennas
-  flipped up to extend its Wi-Fi range ... hundreds of color
-  permutations, so kids could tell their laptops apart. And a
-  dustproof one-piece rubber keyboard made it easy to print any key
-  layout." (Many large photos with the article show all this.)
-
-  Comments at <https://news.ycombinator.com/item?id=16849374> - "... the
-  OLPC has *tremendous* industrial design, which nothing else I've
-  ever seen matches." "... there still isn't a laptop that I've seen
-  that is a durable as the XO. ... It came with a complete repair
-  manual and you could use standard tools to take it apart and put it
-  back together ..." "The OLPC organization seriously tried to make
-  Alan Kay's Dynabook real ... they got in way over their heads ..."
-
-  Earlier at <https://news.ycombinator.com/item?id=13258261> -
-  "... meant to come with ... a "View Source" button to let you
-  inspect and edit the code to all your apps; UI making it easy to set
-  up ad hoc networks to share/collaborate with anyone around you ..."
-
-  See also <http://laptop.org/8.2.0/manual/> - "There are no files,
-  folders, or applications. ... Activities include an application,
-  data, and history of the interaction that can be used to
-  resume. ... Everything is saved automatically ... A Journal is used
-  for accessing data. ... Some Activities allow users to work and learn
-  cooperatively. For example ... to collaboratively create a document.
 
 15 Apr 2018
 
@@ -2306,12 +2222,6 @@ Some of my own comments:
   the sound of the Wurlitzer and Rhodes, which – perversely – should
   now also be treated as historical instruments."  Interesting
   black-and-white page design and photography.
-
-19 Mar 2018
-
-- <https://idea-instructions.com/> - "An ongoing series of nonverbal
-  algorithm assembly instructions" - in the style of Ikea
-  instructions!
 
 16 Mar 2018
 
@@ -2376,9 +2286,6 @@ Some of my own comments:
   <https://news.ycombinator.com/item?id=15941838>
 
 13 Nov 2017
-
-- <http://nibrahim.net.in/2017/11/04/pycon_india_2017_keynote.html>
-  Creating a presentation by hand using calligraphy
 
 - <https://vimeo.com/89837165> - John Coltrane 'A Love Supreme' only
    live performance July 26, 1965 - only 14 minutes.  via
