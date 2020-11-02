@@ -31,7 +31,7 @@ Companion page, a commonplace book:
   general, isn't just nostalgia - it's making a stand against the bottomless
   complexity and disempowerment of modern computing."
 
-  https://github.com/mntmn/interim and <http://dump.mntmn.com/interim-paper/> -  
+  https://github.com/mntmn/interim and <http://dump.mntmn.com/interim-paper/> -
   Another project from the same author: "a radical new operating
   system with a focus on minimalism. ... I try to describe a computer and
   operating system that takes advantage of modern-day hardware technology
