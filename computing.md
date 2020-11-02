@@ -53,6 +53,22 @@ Companion page, a commonplace book:
   ..." Includes photos of a handmade 6502 computer including the described
   circuit, built on solderless breadboards with lots of colorful wires.
 
+ 6 Oct 2020
+
+- <https://news.ycombinator.com/item?id=24686915> - 
+  If you were to build the web today from scratch how would you design it?
+
+  "I'd make search, and a basic news feed based social network first class
+  citizens part of the infrastructure of the internet, free and available
+  to everyone ...
+
+  In that parallel universe, Zuckerberg would be expelled from Harvard ...
+  Bezos would see no opening for a books retailer, or anything else, and
+  would eventually find his biological father and take over the family
+  bicycle shop and repair business, and would marry a waitress at the
+  local diner who always remembered his order and always flicked him a
+  smile.  ..."
+
 10 Aug 2020
 
 - <https://news.ycombinator.com/item?id=24083738> - comments on 

@@ -104,22 +104,6 @@ Some of my own comments:
   purpose, no destination, no *story*, his epic journey to Everywhere becomes
   a round trip to nowhere ..."
 
- 6 Oct 2020
-
-- <https://news.ycombinator.com/item?id=24686915> - 
-  If you were to build the web today from scratch how would you design it?
-
-  "I'd make search, and a basic news feed based social network first class
-  citizens part of the infrastructure of the internet, free and available
-  to everyone ...
-
-  In that parallel universe, Zuckerberg would be expelled from Harvard ...
-  Bezos would see no opening for a books retailer, or anything else, and
-  would eventually find his biological father and take over the family
-  bicycle shop and repair business, and would marry a waitress at the
-  local diner who always remembered his order and always flicked him a
-  smile.  ..."
-
 29 Sep 2020
 
 - Book review by Sheena Joughin in *TLS*, Oct 3, 2003, p. 30 (no link):
