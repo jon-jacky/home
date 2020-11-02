@@ -37,7 +37,7 @@ Companion page, a commonplace book:
 
 13 Oct 2020
 
--  <https://9p.io/wiki/plan9/Expanding_your_Grid/index.html>
+- <https://9p.io/wiki/plan9/Expanding_your_Grid/index.html>
 
   "Plan 9 was designed as a distributed system. After you install the
   distribution from the cd, you have a self-sufficient one machine system,
