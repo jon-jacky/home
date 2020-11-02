@@ -14,49 +14,26 @@ Companion page, a commonplace book:
 
 - <https://github.com/mntmn/amiga2000-gfxcard> - an Amiga 2000 Graphics Card
 
-  The Amiga 2000 was a personal computer introduced in 1987 that still
-  has a devoted following.
-
   "I decided in October 2015 in a feat of madness: "I'll just make my own
-  graphics card. How hard can it be?"
-
-  It turned out to be a very, very challenging project ... On the way, I
-  had to learn how to design a PCB and get it manufactured, how to work
-  with SMD parts, how to program in Verilog and synthesize code for an
-  FPGA, how SDRAM and DVI/HDMI work (or how to get them to do at least
-  something). ...
+  graphics card. How hard can it be?" It turned out to be a very, very
+  challenging project ... On the way, I had to learn how to design a PCB
+  and get it manufactured, how to work with SMD parts, how to program in
+  Verilog and synthesize code for an FPGA, how SDRAM and DVI/HDMI work (or
+  how to get them to do at least something). ...
 
   The Amiga is probably the last 32-bit personal computer that is fully
   understood, documented and hackable. ... I hope that one day, we can
   have a simple but powerful modern computer that is at the same time as
   hackable and friendly as the Amiga was."
 
-  With circuit diagrams, timing diagrams, many photos, and very detailed
-  explanations.
-
-  <https://news.ycombinator.com/item?id=24917101>, comments on another Amiga 
-  article:
-
-  *jl6* writes: "If ever the modern open source community needed a
-  Manhattan project / holy grail, it is this:
-
-  > ... [a computer] where all the components are well documented.
-
-  I am convinced that the appeal of the Amiga, and retro-computing in
+  <https://news.ycombinator.com/item?id=24917101> - comments on another Amiga 
+  article: "I am convinced that the appeal of the Amiga, and retro-computing in
   general, isn't just nostalgia - it's making a stand against the bottomless
   complexity and disempowerment of modern computing."
 
-  <https://news.ycombinator.com/item?id=10637965> - comments on an article about
-  the Atari ST, another computer of that era:
-
-  *gaius* writes: "When you consider what the Atari ST, Commodore Amiga
-  and Acorn Archimedes were capable of in the late 80s and early 90s, you
-  see how little progress we've really made."
-
-  *rbanfy* writes: "What annoys me is that the machines you mention were
-  remarkably simple and elegant machines (Amiga was elegant, but very
-  simple) while a modern PC is a matryoshka of nested computers all the
-  way down to an 8088-powered IBM PC 5150. ..."
+  https://github.com/mntmn/interim and <http://dump.mntmn.com/interim-paper/> - 
+  Another project from the same author: "a radical new operating system with
+  a focus on minimalism."
 
 10 Aug 2020
 
