@@ -67,14 +67,6 @@ Companion page, a commonplace book:
 
   "a particularly compact and suitably futuristic feeling setup"
 
-  <https://9p.io/wiki/plan9/Expanding_your_Grid/index.html>
-
-  "Plan 9 was designed as a distributed system. After you install the
-  distribution from the cd, you have a self-sufficient one machine system,
-  a standalone terminal. We will consider this as "Level 0" - how do you
-  proceed from here to a network of Plan 9 machines and provide Plan 9
-  services to other clients? ..."
-
 12 Oct 2020
 
 - <http://warsus.github.io/lions-/> - A Commentary on the Sixth Edition
@@ -104,14 +96,6 @@ Companion page, a commonplace book:
 
   Appears to be for real, with sincere photos of obviously homebuilt
   equipment.
-
-- <https://github.com/hatsugai/Fenestra6502>
-
-  "Fenestra6502 is a 6502-based system with an extra circuit to improve
-  the performance of procedure/function calls. ..."
-
-  Includes photos of a handmade 6502 computer including the described
-  circuit, built on solderless breadboards with lots of colorful wires.
 
 26 Sep 2020
 

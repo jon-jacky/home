@@ -35,6 +35,26 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Another project from the same author: "a radical new operating system with
   a focus on minimalism."
 
+13 Oct 2020
+
+-  https://9p.io/wiki/plan9/Expanding_your_Grid/index.html
+
+  "Plan 9 was designed as a distributed system. After you install the
+  distribution from the cd, you have a self-sufficient one machine system,
+  a standalone terminal. We will consider this as "Level 0" - how do you
+  proceed from here to a network of Plan 9 machines and provide Plan 9
+  services to other clients? ..."
+
+10 Oct 2020
+
+- https://github.com/hatsugai/Fenestra6502
+
+  "Fenestra6502 is a 6502-based system with an extra circuit to improve
+  the performance of procedure/function calls. ..."
+
+  Includes photos of a handmade 6502 computer including the described
+  circuit, built on solderless breadboards with lots of colorful wires.
+
 10 Aug 2020
 
 - https://news.ycombinator.com/item?id=24083738 - comments on 
