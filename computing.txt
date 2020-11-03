@@ -46,6 +46,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   proceed from here to a network of Plan 9 machines and provide Plan 9
   services to other clients? ..."
 
+  More about Plan 9 at 21 Nov 2019, 19 Sep 2018, 23 Dec 2017 etc., below.
+
 10 Oct 2020
 
 - https://github.com/hatsugai/Fenestra6502 - "a 6502-based system with an
@@ -112,7 +114,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   What's the next tool like HyperCard that could free humanity from this
   tedious labor? I just don't know, and that bothers me. ..."
 
-  (More on HyperCard at 24 Feb 2020 and 28 Feb 2019, below)
+  More on HyperCard at 24 Feb 2020 and 28 Feb 2019, below.
 
 23 Apr 2020
 
@@ -205,8 +207,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   "... we had a pretty strong opinion on the Newton team that files were 
   not the right thing. ... There were never any 'files' on the Newton."
 
-  (The linked paper by *wrs* et al. describes their "object store (that)
-  has many advantages over a more traditional file system".)
+  The linked paper by *wrs* et al. describes their "object store (that)
+  has many advantages over a more traditional file system".
 
 - https://news.ycombinator.com/item?id=22281987 - comments on HyperCard, 
   the much admired 1980s-90s end-user programming tool for the Mac - 
@@ -240,7 +242,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   representations  of 8 concepts: ..."   Detailed explanation of 
   HyperCard features  and internals follows.
 
-  (More on HyperCard at 28 Feb 2019, below)
+  More on HyperCard at 28 Feb 2019, below.
 
 17 Feb 2020
 
@@ -295,7 +297,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   immediately struck by how directly his words transferred to described
   what I saw as the plight of software."
 
-  (A similar talk by Kell is excerpted at 2 Sep 2019 below.)
+  A similar talk by Kell is excerpted at 2 Sep 2019 below.
 
 14 Feb 2020
 
