@@ -29,9 +29,11 @@ Some of my own comments:
   Copland's studies with Nadia Boulanger continued for the following three
   years ... Boulanger helped him learn and absorb the "Western" tradition,
   while also drawing out of him his first ambitious works in a new kind of
-  idiom: long-lines, transparent, unencumbered; a bracing music of gleaming
-  modernity, directness, power, and character, unashamed to declare its
-  Americanness or to make use of native jazz or folk sources. ...
+  idiom: long-lined, transparent, unencumbered; a bracing music of
+  gleaming modernity, directness, power, and character, unashamed to
+  declare its Americanness or to make use of native jazz or folk sources.
+  Copland returned from Europe not only more trained, but also more
+  American than when he left. ...
 
   Copland's music smells of outdoors.  ... It conveys an America of
   possibilities, but also an America whose openness can be bleak, rootless,
@@ -84,6 +86,23 @@ Some of my own comments:
   especially neurotic to be a great artist; that strong convictions need not
   preclude diplomatic civility; that it is possible to produce important work
   and remain unpretentious."
+
+- Conversations on the Journey by Richard Sennett, review of *On Creativity*
+  by John Tusa and *Parallels and Paradoxes* by Daniel Barenboim and Edward
+  W. Said, in *TLS* June 20 2003, p. 36 (no link):
+
+  "... What Tusa discovers in these interviews is the artists' worry about
+  getting things right; "inspiration" is a word which arouses an ironic
+  shrug. ... But for all Tusa's artists, the creative process stands for
+  the journey from subjective feeling to objective expression; art happens
+  only when they arrive at that destination.
+
+  ... both books reveal people obsessed with getting things right, with
+  arriving at form.  In both books, working artists avoid equating
+  creativity with errant subjectivity; even when contemplating the
+  relation between  silence and sound -- a subject which preoccupies
+  Barenboim -- the goal is a material result: the sound of a  particular
+  crescendo, the length of a particular silence. ...
 
 30 Oct 2020
 
