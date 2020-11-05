@@ -217,7 +217,7 @@ Some of my own comments:
 
 30 Oct 2020
 
-- *I Married a Communist* by Philip Roth, p. 199 (no link):
+- *I Married a Communist* by Philip Roth (1998), p. 199 (no link):
 
   "And so the talk continued, an amiable, quiet conversation with a
   little laughter ...  I couldn't remember ever having been so unagitated
@@ -757,7 +757,7 @@ Some of my own comments:
 
 12 Sep 2020
 
-- *The Valley of Bones*, a novel by Anthony Powell, p. 233 (no link)
+- *The Valley of Bones*, a novel by Anthony Powell (1964), p. 233 (no link)
 
   "I thought of Pennistone and his quotations from Vigny.
 
@@ -930,7 +930,7 @@ Some of my own comments:
 
 30 Aug 2020
 
-- *A Mixture of Frailties*, a novel by Robertson Davies, p. 210 - 211
+- *A Mixture of Frailties*, a novel by Robertson Davies (1958), p. 210 - 211
   (no link):
 
   "... What's the good of fighting critics?  Mind you, some of them are
@@ -979,8 +979,8 @@ Some of my own comments:
 
  7 Jul 2020
 
-- *Hellgoing* by Lynn Coady, from the story 'The Natural Elements' p. 142, 149
-  (no link):
+- *Hellgoing* by Lynn Coady (2013), from the story 'The Natural Elements'
+  p. 142, 149 (no link):
   "... Big money! Big payoff! To own property that close to the university,
   was, this past year, like sitting in your backyard and having the ground
   suddenly start to rumble and spew oil like on *The Beverly Hillbillies*.
@@ -1055,7 +1055,7 @@ Some of my own comments:
 
  2 May 2020
 
-- *Arithmetic* by Paul Lockhart pages vii, 93, 151 (no link):
+- *Arithmetic* by Paul Lockhart (2017), pages vii, 93, 151 (no link):
   "Arithmetic is the skillful arrangement of numerical information
   for ease of communication and comparison ...
   Being good at it doesn't make you particularly smart or
@@ -1135,8 +1135,8 @@ Some of my own comments:
 
 21-29 Mar 2020
 
-- *Measurement* by Paul Lockhart, pages 1, 5, 50, 32-33, 36-37, 42-45, 125-127,
-  223-225, 295, 316-317, 320-327, 349-350 (no link):
+- *Measurement* by Paul Lockhart (2012), pages 1, 5, 50, 32-33, 36-37, 42-45,
+  125-127, 223-225, 295, 316-317, 320-327, 349-350 (no link):
   "There are many realities out there.  There is, of course, the physical
   reality we find ourselves in. ... I want to talk about a different sort of
   place.  I'm going to call it 'mathematical reality.' ... Mathematical
@@ -1464,7 +1464,7 @@ Some of my own comments:
 
 22 Feb 2020
 
-- *Cosmic Profit* by Raymond Mungo, pages 6 - 7 (no link): After describing
+- *Cosmic Profit* by Raymond Mungo (1980), pages 6 - 7 (no link): After describing
   his brief experience working for a scam rental agency in Seattle in
   the early 1970s: "Five months later, the agency disappeared, leaving
   its employees owed several weeks' back pay and its customers in the
@@ -1480,8 +1480,8 @@ Some of my own comments:
 
 22 Feb 2020
 
-- *Essays: One* by Lydia Davis, pages 171, 173-174, 188, 238, 253 (no link):
-  From Revising One Sentence:
+- *Essays: One* by Lydia Davis (2019), pages 171, 173-174, 188, 238,
+  253 (no link): From Revising One Sentence:
   "So there are many ways to justify writing in a notebook, a sentence
   that you may never use. ...  I follow my impulses in writing (in the
   notebook) without asking whether what I am doing is sensible, efficient,
@@ -1712,8 +1712,8 @@ Some of my own comments:
 
 31 Mar 2019
 
-- *The Autobiography of Malcolm X* as told to Alex Haley, Chapter 11, Saved,
-  pages 174-176, 183 (no link):
+- *The Autobiography of Malcolm X* as told to Alex Haley (1965),
+  Chapter 11, Saved, pages 174-176, 183 (no link):
   "It had really begun, back in the Charlestown Prison, when Bimbi made me
   feel envy for his stock of knowledge. ... But any book I picked up had few
   sentences which didn't contain one to nearly all of the words that might
@@ -1762,7 +1762,7 @@ Some of my own comments:
 
 20 Mar 2019
 
-- *But Beautiful: A Book About Jazz* by Geoff Dyer, pages 184-186, 188-189,
+- *But Beautiful: A Book About Jazz* by Geoff Dyer (1991), pages 184-186, 188-189,
   192-193, 194-197, 197-198 (no link):
   personal, imaginative retellings of incidents from
   the lives of musicians: Lester Young, Thelonious Monk and others.
@@ -1828,7 +1828,7 @@ Some of my own comments:
   loss appears.
 
   If at first it seems melodromatic to suggest that there is something
-  iherently dangerous in the form, a little consideration is likely
+  inherently dangerous in the form, a little consideration is likely
   leave us wondering how it could be otherwise.
   ... from the 1940s onward jazz advanced with the power and ferocity of a
   fire sweeping through a forest.   How could an art form have developed so
@@ -1871,8 +1871,8 @@ Some of my own comments:
 
 17 Feb 2019
 
-- *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer, pages 90,
-  137-138, 149, 152-153, 229, 231-232 (no link):
+- *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer (1997),
+  pages 90, 137-138, 149, 152-153, 229, 231-232 (no link):
   "All the work of (Lawrence's) maturity was built on his
   relationship with Frieda. 'Fidelity to oneself means fidelity single and
   unchanging, to one other one.'  His adult life begins with the unalterable
@@ -1951,7 +1951,7 @@ Some of my own comments:
 
  4 Feb 2019
 
-- *How to Write a Thesis* by Umberto Eco, pages x, xxvi, 5-7, 9-10,
+- *How to Write a Thesis* by Umberto Eco (1977), pages x, xxvi, 5-7, 9-10,
   110-111, 125, 142-144, 145, 149-150, 221 (no link). From the forward
   by Francesco Erspamer: "Umberto Eco takes us back to the original
   purpose of theses and dissertations ... They are not a test or exam,
@@ -2057,7 +2057,7 @@ Some of my own comments:
  9-14 Jan 2019
 
 - *Clear and Simple as the Truth: Writing Classical Prose* by
-   Francis-Noel Thomas and Mark Turner, pages 3 - 6, 13 - 14, 63, 81 -
+   Francis-Noel Thomas and Mark Turner (1994), pages 3 - 6, 13 - 14, 63, 81 -
    87 (no link): "The teaching of writing in America is almost
    entirely controlled by the view that teaching writing is teaching
    verbal skills ... Our answer is that writing is an intellectual
