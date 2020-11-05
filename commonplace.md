@@ -14,6 +14,37 @@ Companion page on computing:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+ 5 Nov 2020
+
+- *Uncommon People: The Rise and Fall of the Rock Stars*, David
+  Hepworth (2017), pages 6, 2, 8 (no link):
+
+  Now, like the cowboy, the cavalier, the wandering minstrel, the
+  chorus girl, the burglar in the striped sweater, the top-hatted banker,
+  the painter with his beret, and the writer in his smoking jacket,  the
+  rock star must finally be consigned to the wardrobe of anachronistic
+  stereotypes. ... His power has been destroyed by the disappearance  of
+  the record industry, his magic fleeting before the twenty-four hour
+  daylight of social media.
+
+  Rock stars were the product of an age when music was hard to access
+  and was treasured accordingly.  ... Their products now compete on a
+  level playing field with everything from virtual reality games to
+  streaming movies.  What was once hard to find is now impossible to
+  escape.  Music no longer belongs to a category of otherness.  It is now
+  just another branch of the distraction business ...
+
+  Rock stars were uncommon people.  They came from the masses and got to
+  the top without the help of education, training, family ties, money, or
+  other conventional ladders.  They came from ordinary lives and had no
+  reason to expect that they would ever be special. At the same time they
+  refused to accept that they would ever be anything but exceptional.
+  Most surprising of all, a lot of them had careers that lasted far longer
+  than they had any right to expect, because long after the hits stopped
+  coming their legends continued to endure."
+
+  Other excerpts from *Uncommon People* appear at 6 Oct 2018, below.
+
  4 Nov 2020
 
 - *Revolution in the Head: The Beatles' Records and the Sixties*
@@ -32,7 +63,7 @@ Some of my own comments:
 
   The Beatles' interest in musical developments around them was keen and
   usually productive, but their attempts at emulating the heavy style were
-  without exception embarrassing.  THe quintessential Sixties four-piece,
+  without exception embarrassing.  The quintessential Sixties four-piece,
   their natural inclinations were for balance, form, and attention to detail,
   and in straining to transcend these obsolete values in *Helter Skelter*
   they comically overreached themselves, reproducing the requisite bulldozer
@@ -59,14 +90,17 @@ Some of my own comments:
   track upwards, rather than from a melodic/harmonic idea, as was the case with
   almost all Sixties music ... Within such an ethos, melody is as likely to
   flourish as a rose in concrete, whilst sensitivity to harmonic nuance
-  inevitable withers. ...
+  inevitably withers. ...  What is less obvious is that the absence of
+  rhythmic mechanization in Sixties music released the natural effervescence
+  of the ensemble studio performance, as the subtle acceleration in tracks
+  like *I Want To Tell You* and *Fixing a Hole* demonstrates.
 
   The differences between Sixties pop and what came after it are epitomized
   by the loss of one vital element: the unexpected. ... the lack of
   melodic/harmonic surprise in Nineties music is numbing. ...  By contrast,
   when Sixties listeners heard a new Beatles song -- or good ones by
   Holland-Dozier-Holland, Jagger-Richard, Brian Wilson, Ray Davies,
-  Bacharach-David, Syd Barret, Smokey Robinson, Pete Townshend, etc., etc.,
+  Bacharach-David, Syd Barret, Smokey Robinson, Pete Townshend, etc., etc. --
   they never knew from bar to bar what was coming next.  Sometimes this was
   because these songwriters were musically aware enough to make unusual
   moves on purpose, but mostly it reflected the quintessential quality
@@ -2187,18 +2221,20 @@ Some of my own comments:
   where there was rumored to be a copy of some particular gem; once
   there, they would play both sides again and again, staring
   hypnotized at the spinning labels until both sight and sound had
-  been seared into memory. ... (The rock star) made his name in the
-  vanished world of records you could hold in your hand. ... which we
-  had secured by using all our available cash in one particular week,
-  a record that would, for a while at least, be the most precious
-  thing we owned.  ... We now live in a world of unlimited supply and
-  exhausted demand.  Music can be every bit as good now as it used to
-  be.  However, it can never be as precious as it used to be.  It
-  doesn't have our undivided attention any longer. ... Now that we
-  have easy access to everything, the individual atoms that make up
-  that everything are less significant in themselves.  The same
-  applies to the people associated with those atoms.  That's why we
-  don't have rock stars anymore."
+  been seared into memory. ...
+
+  (The rock star) made his name in the vanished world of records you could
+  hold in your hand. ... which we had secured by using all our available
+  cash in one particular week, a record that would, for a while at least,
+  be the most precious thing we owned.  ...
+
+  We now live in a world of unlimited supply and exhausted demand.  Music
+  can be every bit as good now as it used to be.  However, it can never be
+  as precious as it used to be.  It doesn't have our undivided attention
+  any longer. ... Now that we have easy access to everything, the
+  individual atoms that make up that everything are less significant in
+  themselves.  The same applies to the people associated with those atoms.
+  That's why we don't have rock stars anymore."
 
 30 Sep 2018
 
@@ -2457,7 +2493,7 @@ Some of my own comments:
 9 Dec 2016
 
 - www.rle.mit.edu/rgallager/documents/BooleShannon.pdf - Claude
-  Shannon's methods and accomplishments, lecture by Robert Gallager
+  Shannon's methods and accomplishments, lecture by Robert Gallager:
   "Shannon's genius lay in finding the "right way", the "simple way"
   to look at everyday technical problems" "Searching for simplicity is
   really searching for intuitive understanding of a simplified version
