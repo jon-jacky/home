@@ -33,9 +33,6 @@ Companion page, a commonplace book:
 
   Comments: <https://news.ycombinator.com/item?id=25008554>
 
-- <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
-  64 BASIC
-
 30 Oct 2020
 
 - <https://github.com/mntmn/amiga2000-gfxcard> - an Amiga 2000 Graphics Card

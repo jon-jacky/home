@@ -13,9 +13,7 @@ Companion page, a commonplace book:
  7 Nov 2020
 
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
-  64 BASIC
-
-  "In this interactive article, we will build a breakout game using
+  64 BASIC - "In this interactive article, we will build a breakout game using
   Commodore 64 BASIC in the browser. ..."
 
 - <https://tixy.land/> - "Most minimalist creative coding environment"
