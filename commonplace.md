@@ -14,6 +14,59 @@ Companion page on computing:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+ 8 Nov 2020
+
+- A Joke Too Far by Colin Burrow, review of *Sir John Harrington and the
+  Book as Gift* by Jason Scott-Warren, in *TLS* 22 Aug 2002, p. 10 - 11
+  (no link):
+
+  "... It is not clear why anyone whose prime aim in life is to get on
+  should ever make jokes; too ofen they misfire.  True, the best jokes
+  require a judgment about who they are intended for, and so call on a
+  politic canniness, but the chief characteristic of a really good joke
+  is that having made this judgment you then go a little beyond what you
+  know your audience expects.
+
+  ... But if Harrington was so sensitive to privy meanings, why did his
+  public career fail to take off? ... If Harrington's works were so
+  carefully placed and were intended to advance their author, why did he
+  never land a juicy job?
+
+  The traditional explanation for this would be that Harrington just could
+  not resist a joke, and with a post-theoretical tweak or two I think this
+  remains the best explanation.  Harrington's jokes try to build up a
+  persona of a man who could speak frankly, a 'plaine fellow' (as Harrington
+  describes himself) who could offer advice on how to clean up the privy
+  of Elizabethan politics with a blast of plain-speaking.  ... But his
+  jokes go so far beyond anything his audience would have been comfortable
+  hearing that one has to conclude he was exceptionally bad at judging
+  the tone of voice required to get on, or that in his writing and conduct
+  the need to get on was regularly overshadowed by a suplus of almost
+  uncontrollable mockery.
+
+  Harrington's humour never seems to have done him any good. ... while
+  Harrington may have tried to fashion a career for himself through the
+  giving of books and manuscripts, he was also a man who could not stop himself
+  from teasing people even if it was not in his interests.  This is one of
+  his most admirable features, and it is of a piece with what is good in the
+  things that we wrote.  But he would always press a joke too far.
+
+  The reason Harrington has struck so many biographers as a real person
+  one can identify with is ... he was a person (who like all real people
+  had both a sense of humor and a dog) whose desire for a joke at any cost
+  made him repeatedly break out from, and sometimes make a catastrophic mess
+  of, his desire to charge his works with worldly purposes.
+
+  And that's why ... I would still rather spend an evening with Sir John
+  Harington than with any other Elizabethan.  He was someone who would never
+  quite do what was expected of him, which is why he wrote poems about dogs
+  and mothers-in-law and composed Rabelasian prose fantasies about water closets
+  rather than ever getting a peoper job.  Literature from this period is
+  chiefly a product of material failure, and is written by men (mostly) who
+  failed to get on. ... writers whos works fail to achieve the worldly purposes
+  they intended have a better chance of being fun to read now than the works
+  by people who wrote simply to get what they wanted from the world."
+
  5 Nov 2020
 
 - *Uncommon People: The Rise and Fall of the Rock Stars*, David
