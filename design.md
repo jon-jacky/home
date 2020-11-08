@@ -15,23 +15,8 @@ Companion page, a commonplace book:
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
   64 BASIC
 
-  "This is an interactive article that documents some of the interesting
-  aspects of programming Commodore 64 BASIC. ... We will start with a
-  Hello World example to see how things work and then we'll build a small
-  Breakout game. This illustrates how easy it is to get started, how the
-  environment supports learning and how the Commmodore 64 BASIC mode of
-  interaction lets us gradually build a program in a way that is quite
-  different from modern programming environments.
-
-  ... I believe that interesting ideas on how to interact with a
-  programming environment have been lost, largely because programming
-  research became so focused on languages ... This article is an attempt
-  to recreate some of the interesting past ideas. My choice of starting
-  with Commodore 64 BASIC is a fairly pragmatic one. There are more
-  interesting past programming systems, but this one was relatively easy
-  to recreate."
-
-  Comments: <https://news.ycombinator.com/item?id=25008554>
+  "In this interactive article, we will build a breakout game using
+  Commodore 64 BASIC in the browser. ..."
 
 - <https://tixy.land/> - "Most minimalist creative coding environment"
 
