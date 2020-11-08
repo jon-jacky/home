@@ -1311,7 +1311,7 @@ Some of my own comments:
 
 10 Mar 2020
 
-- *Mathematics: A Very Short Introduction* by Timothy Gowers, preface,
+- *Mathematics: A Very Short Introduction* by Timothy Gowers (2002), preface,
   pages 14-16, 18-24, 86-103, 118-121, 124, 132-133 (no link):
   "(Some readers find) the square root of minus one, the
   twenty-sixth dimension, and curved space (to be) disturbingly
