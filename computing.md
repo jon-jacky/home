@@ -37,7 +37,7 @@ Companion page, a commonplace book:
 
   Comments: <https://news.ycombinator.com/item?id=25008554>
 
-  More about BASIC programming at 28 Feb 2020, below.
+  More about BASIC programming at 28 Feb 2019, below.
 
 30 Oct 2020
 
