@@ -15,7 +15,11 @@ Companion page, a commonplace book:
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
   64 BASIC
 
-  "This is an interactive article that documents some of the interesting
+  "I believe that how we interact with a programming environment when
+  programming is more important than the specific programming language
+  that we are using. ...
+
+  This is an interactive article that documents some of the interesting
   aspects of programming Commodore 64 BASIC. ... We will start with a
   Hello World example to see how things work and then we'll build a small
   Breakout game. This illustrates how easy it is to get started, how the
@@ -32,6 +36,8 @@ Companion page, a commonplace book:
   to recreate."
 
   Comments: <https://news.ycombinator.com/item?id=25008554>
+
+  More about BASIC programming at 28 Feb 2020, below.
 
 30 Oct 2020
 
