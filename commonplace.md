@@ -67,6 +67,11 @@ Some of my own comments:
   they intended have a better chance of being fun to read now than the works
   by people who wrote simply to get what they wanted from the world."
 
+- Signature on post in Usenet *sci.logic* newsgroup, Oct 1999:
+
+  *It is better to suffer wrong than to do it, and happier to be
+  sometimes cheated than not to trust.*  -- Samuel Johnson
+
  5 Nov 2020
 
 - *Uncommon People: The Rise and Fall of the Rock Stars*, David
