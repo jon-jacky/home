@@ -14,6 +14,53 @@ Companion page on computing:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+ 9 Nov 2020
+
+- *As Of This Writing: Essential Essays 1968 - 2002* by Clive James (2003),
+  pages 95, 100 (no link):
+
+  "(This poet) proved, like the visitor to Brigadoon who wished the village
+  into existence on a day it was not scheduled to appear, that if you want
+  something deeply enough anything is possible.  What he wanted to be was
+  a great artist, and by the end of his career there were one or two really
+  great artists (certainly Auden) who were willing to concede that (he) was
+  of their company.
+
+  But just as often as they are right in such judgments, real artists are
+  wrong.  Like anybody else, they tend to admire sincerity, dedication,
+  industry, openness, intellectual generosity, a sense of fun -- and like
+  anybody else they have trouble, once they know him, in getting the man
+  who possesses these attributes separated from his work.  Which is as
+  far as I want to pontificate along this particular line, except to say
+  that it seems probable that in (his) case the general critical view has
+  followed the lead of his fellow poets, who simply liked him  ...
+
+  ... what is now needed is some healthy skepticism, even at the cost of
+  seeming harsh. ... here a sharp nose ought to smell pastiche. A straight
+  read through (his) *Collected Poems* should convince even the moderately
+  informed reader that (his) incipient individualism was  successively
+  broken down by a series of strong influences ... Estimations of (his)
+  poetry which do not confront this problem can't really be of  much use,
+  since the question of originality, if it arises at all, can  never be
+  peripheral: orginality is more than a requirement of good poetry, it is
+  a description of it. ...
+
+  ... (He) waited a long time to be accepted as a poet, and when he had been
+  could never accept that it had happened: he was always waiting for the
+  final reassurance -- a common trait in people uncertain of their work.
+  No amount of Pulitzers, or even Nobels, can satisfy a need like that."
+  -- *TLS, 1972*
+
+  *Postscript, 1992*:  "... these two pieces now look like a single dance on a
+  lonely grave.  Certainly the vocabulary was too harsh ... But there
+  was still good reason to question (his) reputation: it had been brought
+  into existence by his ambition, and criticism soon dies if the artistic
+  will is taken for the deed, whereupon the art dies too.  It was care for
+  poetry, I like to think, that made me so careless about a poet's feelings --
+  and just because he was dead was of course no good reason for speaking as
+  if he couldn't hear.  ...  If poetry and and the criticism of it had
+  agreed standards there would be less bitchery. ..."
+
  8 Nov 2020
 
 - A Joke Too Far by Colin Burrow, review of *Sir John Harrington and the
