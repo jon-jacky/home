@@ -773,7 +773,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   and they can't easily be taken apart and understood in an evening, like they used to.
   So I figured I can just make my own then, just the way I like it."
 
-8-11 Apr 2019, 28 Sep 2020
+8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020
 
 - https://news.ycombinator.com/item?id=1476059, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -841,7 +841,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   but the language of Emacs users (shortcuts) ...
   the starting point for everything is *M-x command*."
 
-- https://news.ycombinator.com/item?id=24209937 - comments on Mousemacs -
+- https://news.ycombinator.com/item?id=24209937 comments on Mousemacs - 
   *thom*: "Emacs is fundamentally command driven - everything is a command,
   and can be invoked, edited or replaced the same way. What triggers those
   is obviously key bindings for a lot of people but it's not really what
@@ -860,11 +860,23 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   end-user-programmable OS.
 
   This has an important downstream consequence on the "plugin" ecosystem:
-  since these "plugins" are better seen as small applications running on in
+  since these "plugins" are better seen as small applications running on
   a shared, restriction-free OS, they don't need a fixed and restrictive API
   to interoperate. The entire Emacs is the API, and as long as an elisp app
   follows conventions and plays nice, it will almost seamlessly interoperate
   with every other app. ...
+
+- https://news.ycombinator.com/item?id=25028157 comment by *submeta* on
+  (the program) Alfred: 
+  "I can open a scratch buffer in Emacs, hack away commands, put them
+  together in a Lisp function, put it in my *init.el* file, bind it to a
+  shortcut very easily and keep extending my Emacs setup.
+  This wasn't easy in any (other) editor I used. And none of these editors were
+  meant to be used like that ..."
+
+- https://news.ycombinator.com/item?id=25038572 comment by *Upvoter* on
+  Why are so many coders still using Vim and Emacs? - 
+  "Because emacs is awesome. Every key press runs a program(!) ..."
   
 - https://news.ycombinator.com/item?id=6322734, comment by *samatman* on
   Start Using Emacs  A Thorough Guide for Beginners:
