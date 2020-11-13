@@ -14,6 +14,22 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+12 Nov 2020
+
+- On Receiving the National Book Award for *JR* (1975) by William Gaddis,
+  in *The Rush for Second Place: Essays and Occasional Writings*,
+  p. 122 (no link):
+
+  "... I feel like part of the vanishing breed that thinks a writer should
+  be read and not heard, let alone seen.  I think that this is because
+  there seems so often today to be a tendency to put the person in the
+  place of his or her work, to turn the creative artist into a performing
+  one, to find what a writer says about writing somehow more valid, or
+  more real, than the writing itself.
+
+  ... it seems to me the only way to keep writers writing well, or trying 
+  to write well, is to read what we write. ..."
+  
  9 Nov 2020
 
 - *As Of This Writing: Essential Essays 1968 - 2002* by Clive James (2003),
@@ -51,15 +67,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   No amount of Pulitzers, or even Nobels, can satisfy a need like that."
   -- *TLS, 1972*
 
-  *Postscript, 1992*:  "... these two pieces now look like a single dance on a
-  lonely grave.  Certainly the vocabulary was too harsh ... But there
-  was still good reason to question (his) reputation: it had been brought
-  into existence by his ambition, and criticism soon dies if the artistic
-  will is taken for the deed, whereupon the art dies too.  It was care for
-  poetry, I like to think, that made me so careless about a poet's feelings --
-  and just because he was dead was of course no good reason for speaking as
-  if he couldn't hear.  ...  If poetry and and the criticism of it had
-  agreed standards there would be less bitchery. ..."
+  *Postscript, 1992*:  "... these two pieces now look like a single dance
+  on a lonely grave.  Certainly the vocabulary was too harsh ...  and just
+  because he was dead was of course no good reason for speaking as if he
+  couldn't hear.  ...  If poetry and and the criticism of it had agreed
+  standards there would be less bitchery. ..."
   
  8 Nov 2020
 
@@ -108,13 +120,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   Harington than with any other Elizabethan.  He was someone who would never
   quite do what was expected of him, which is why he wrote poems about dogs
   and mothers-in-law and composed Rabelasian prose fantasies about water closets
-  rather than ever getting a peoper job.  Literature from this period is 
+  rather than ever getting a proper job.  Literature from this period is 
   chiefly a product of material failure, and is written by men (mostly) who
-  failed to get on. ... writers whos works fail to achieve the worldly purposes
+  failed to get on. ... writers whose works fail to achieve the worldly purposes
   they intended have a better chance of being fun to read now than the works
   by people who wrote simply to get what they wanted from the world."
 
-- Signature on post in Usenet *sci.logic* newsgroup, Oct 1999:
+- Signature on a post in the Usenet *sci.logic* newsgroup, Oct 1999:
 
   *It is better to suffer wrong than to do it, and happier to be 
   sometimes cheated than not to trust.*  -- Samuel Johnson
