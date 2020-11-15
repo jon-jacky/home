@@ -149,7 +149,7 @@ Companion page, a commonplace book:
 - <https://tilde.town/~severak/gallery/> - Click on any entry to load that page.
   For example, <https://tilde.town/~dustin/projects/tilde-social/>
 
-  hosted at <https://tilde.town/>
+  hosted at https://tilde.town/  more at <https://tildeverse.org/>
 
   explanation <https://news.ycombinator.com/item?id=24302887>
 
