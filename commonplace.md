@@ -14,6 +14,86 @@ Companion page on computing:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+17 Nov 2020
+
+- Presence in the Past by Michael Bentley, review of *History Man: The Life of
+  R. G. Collingwood* in *TLS* Sep 25 2009, p. 18 (no link):
+
+  "The stories of thinkers are normally short because they tend not to do
+  very much.  R. G. Collingwood's is soon told, at one level. ...
+
+  That is one, "public", story.  But Inglis wants to place alongside it a
+  second that illuminates the private person, and also supplies what he
+  considers a key to the life of the mind ... in which philosophy, art,
+  and mind commingled.  No matter how "technical" or "abstract" the thought
+  might become in Collingwood's philosophical writing, it has its basis for
+  Inglis in a longing to communicate a connected vision.
+
+  However, because Collingwood was a philosopher and because Inglis isn't,
+  there are bound to be problems at those points where technical philosophical
+  knowledge, and an understanding of its apparatus criticus, are necessary for
+  clear exposition.
+
+  The feeling recurs that Inglis, elsewhere a tough-minded man, does not
+  get going when the going gets tough.  Rather, he reassures the reader
+  that the tough parts of the texts are needlessly technical, too abstract
+  by half. ... But wherever they sail, whomever they love and be they
+  surrounded by never so many bees, what philosophers do is philosophize
+  and when writing about them one has to analyze the philosophy.  What
+  Inglis does at critical moments is to uncomplicate it when the
+  complication is, to use an Inglis word,  constitutive. ..."
+
+- What Philosophers Should Do, review by Edouard Machery of two philosophy
+  books by a single author in *TLS*, June 21 2013, p. 8 (no link):
+
+  "Philosophy is not work, says (the author) in (the first book): it is
+  intrinsically valuable, and it is a form of play.  Reading (the first book)
+  and (even more so) (the second book) did not feel like playing at all.
+  It felt more like work, in fact. ..."
+
+- Texts For Our Times by David Hawkes, review of *Fiction Sets You Free:
+  Literature, Liberty, and Western Culture* by Russell A. Berman in *TLS*
+  Oct 24 2008, p 24-25 (no link):
+
+  "It is paradoxical for an advocate of the Western cultural tradition
+  to laud market capitalism. ... There have been many societies in which
+  large numbers of people dedicated their lives to the pursuit of economic
+  self-interest through the market.   But there have been no societies in
+  which the pursuit of economic self-interest through the market was held to
+  be an admirable way to spend one's life.  Our society is unique in having
+  produced that philosophy.  One of the reasons to read the literature of the
+  past is to learn how anomalous our society is in its self-interested
+  single-mindedness. ..."
+
+- Backwards Into The Future by David Hawkes, review of *The Silence of Animals:
+  On Progress and Other Modern Myths* by John Gray in *TLS*, Aug 30 2013, p. 7
+  (no link):
+
+  "To lose faith in progress is to lose the ability to see meaning in life.
+  It is to abandon the notion, central to rationalism and religion alike,
+  that empirical appearances conceal substantial essences. ... To lose faith
+  in progress is to view the world as a depthless simulacrum with no
+  underlying significance.
+
+  ... If we no longer see essence beneath appearance, referent behind sign,
+  or subject behind object, that must reflect a development in human history,
+  not the discovery on an eternal verity about the world.  The world can only
+  have meaning conferred upon it, or be deprived of it, by human beings.
+
+  ... Gray never considers that it may be the performative power of
+  representation, manifested in fictional financial figures, that has stopped
+  people from perceiving meaning behind the signs of history.  He has little
+  to say about the influence of money on the mind, which is an eloquent
+  absence from any twenty-first century philosophy with aspirations to social
+  relevance.
+
+  ... History happens, and change takes place, whether or not we choose to
+  give it meaning.  ... If the Western intelligentsia no longer acknowledges
+  any significance to life, that does not mean that we have discovered a
+  timeless truth that had been hidden from Aristotle, Plato, and the
+  prophets of monotheism.  It means that we can no longer see meaning where
+  others once did."
+
 13 Nov 2020
 
 - <https://sites.lsa.umich.edu/gordonkane/wp-content/uploads/sites/117/2014/07/THE-FUTURE-OF-THE-University.pdf> - 

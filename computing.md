@@ -35,7 +35,22 @@ Companion page, a commonplace book:
   interesting past programming systems, but this one was relatively easy
   to recreate."
 
-  Comments: <https://news.ycombinator.com/item?id=25008554>
+  Comments: <https://news.ycombinator.com/item?id=25008554.>  Pertinent
+  comments from months ago, <https://news.ycombinator.com/item?id=23393548> - 
+
+  *I've always thought that using BASIC as the default command line was
+  really weird. ... You could type in a command to load something from a
+  disk or run a program, or type a line number to start programming. How
+  did that make sense to anyone??*
+
+  "But that makes perfect sense to me!
+
+  The commands you type in are, themselves, basic code. Line numbers just
+  tell the computer to start storing those commands for later use. Chain
+  them together and you have your own program, which you can save and load
+  and run later.
+
+  I find it all aesthetically beautiful, actually."
 
   More about BASIC programming at 28 Feb 2019, below.
 
