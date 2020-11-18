@@ -14,6 +14,88 @@ Companion page on computing:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+
+18 Nov 2020
+
+- Making A Figure by Daniel Hitchens, review of three books about Edmund
+  Burke in *TLS*, May 24 2013, p. 7 (no link):
+
+  "... (Burke's) masterpiece *Reflections on the Revolution in France*
+  (1790), has been celebrated for its somber premonitions of the decade
+  after the fall of the Bastille. ... Burke predicted executions, social
+  chaos, terrifying inhumanity, and the eventual rise of a figure who sounds
+  remarkably like Napoleon.
+
+  To a social conservative, the lesson is clear: Burke has percieved that if
+  you sweep away existing hierarchies, ignore custom and ceremony, despise
+  orthodox religion, and show no respect for the traditions you have received,
+  then you will leave nothing but the will to power, which all these things
+  were meant to mediate, and which can now only be reined in by despotism.
+
+  One standard response is: but what if the revolution degenerated not
+  thanks to some inner logic of violence, but because of massive political
+  and military hostility from the rest of Europe?  And what if that hostility
+  was whipped up in no small part by the author of the internationally
+  bestselling *Reflections on the Revolution in France*?  You do not need
+  to take sides to see what a tangled issue it soon becomes."
+
+- Backwards Into The Future by David Hawkes, review of *The Silence of Animals:
+  On Progress and Other Modern Myths* by John Gray in *TLS*, Aug 30 2013, p. 7
+  (no link):
+
+  "*The Silence of Animals* continues (Gray's) extended critique of
+  "meliorism": the belief that the moral and material condition of
+  humanity will improve over time ...  Gray notes that this myth is far
+  more fundamental,  consistent, and tenacious than its seminal
+  manifestation in the salvation and apocalyptic myths of Christianity.
+  In the guises of Enlightenment rationalism, Romantic individualism,
+  liberal humanism, nationalism, Marxism and neo-liberal capitalism, the
+  spectre of progress continues to haunt an ostensibly secularized
+  humanity ...
+
+  To lose faith in progress is to lose the ability to see meaning in life.
+  It is to abandon the notion, central to rationalism and religion alike,
+  that empirical appearances conceal substantial essences. ... It assumes
+  ... that signs do not refer to an external reality, but create their own
+  referents.  To lose faith in progress is to view the world as a
+  depthless simulacrum with no  underlying significance.
+
+  ... If we no longer see essence beneath appearance, referent behind sign,
+  or subject behind object, that must reflect a development in human history,
+  not the discovery on an eternal verity about the world.  The world can only
+  have meaning conferred upon it, or be deprived of it, by human beings.
+
+  There is surely no great difficulty in tracing the power of symbols to
+  its source today, when the spiraling abstractions of finance bestow
+  uprecedented practical power on ... signs.  Gray never considers that it
+  may be the performative power of ... fictional financial figures, that has
+  stopped people from perceiving meaning behind the signs of history.  He
+  has little to say about the influence of money on the mind, which is an
+  eloquent  absence from any twenty-first century philosophy with
+  aspirations to social relevance.
+
+  ... History happens, and change takes place, whether or not we choose to
+  give it meaning.  ... If the Western intelligentsia no longer acknowledges
+  any significance to life, that does not mean that we have discovered a
+  timeless truth that had been hidden from Aristotle, Plato, and the
+  prophets of monotheism.  It means that we can no longer see meaning where
+  others once did."
+
+
+- Texts For Our Times by David Hawkes, review of *Fiction Sets You Free:
+  Literature, Liberty, and Western Culture* by Russell A. Berman in *TLS*
+  Oct 24 2008, p 24-25 (no link):
+
+  "It is paradoxical for an advocate of the Western cultural tradition
+  to laud market capitalism. ... There have been many societies in which
+  large numbers of people dedicated their lives to the pursuit of economic
+  self-interest through the market.   But there have been no societies in
+  which the pursuit of economic self-interest through the market was held to
+  be an admirable way to spend one's life.  Our society is unique in having
+  produced that philosophy.  One of the reasons to read the literature of the
+  past is to learn how anomalous our society is in its self-interested
+  single-mindedness. ..."
+
 17 Nov 2020
 
 - Presence in the Past by Michael Bentley, review of *History Man: The Life of
@@ -51,48 +133,14 @@ Some of my own comments:
   and (even more so) (the second book) did not feel like playing at all.
   It felt more like work, in fact. ..."
 
-- Texts For Our Times by David Hawkes, review of *Fiction Sets You Free:
-  Literature, Liberty, and Western Culture* by Russell A. Berman in *TLS*
-  Oct 24 2008, p 24-25 (no link):
+- I'm Not Myself by Charlie Huenemann, review of *The Ego Trick: What Does It
+  Mean To Be You?* by Julian Baggini in *TLS*, Oct 21 2011, p. 25 (no link):
 
-  "It is paradoxical for an advocate of the Western cultural tradition
-  to laud market capitalism. ... There have been many societies in which
-  large numbers of people dedicated their lives to the pursuit of economic
-  self-interest through the market.   But there have been no societies in
-  which the pursuit of economic self-interest through the market was held to
-  be an admirable way to spend one's life.  Our society is unique in having
-  produced that philosophy.  One of the reasons to read the literature of the
-  past is to learn how anomalous our society is in its self-interested
-  single-mindedness. ..."
-
-- Backwards Into The Future by David Hawkes, review of *The Silence of Animals:
-  On Progress and Other Modern Myths* by John Gray in *TLS*, Aug 30 2013, p. 7
-  (no link):
-
-  "To lose faith in progress is to lose the ability to see meaning in life.
-  It is to abandon the notion, central to rationalism and religion alike,
-  that empirical appearances conceal substantial essences. ... To lose faith
-  in progress is to view the world as a depthless simulacrum with no
-  underlying significance.
-
-  ... If we no longer see essence beneath appearance, referent behind sign,
-  or subject behind object, that must reflect a development in human history,
-  not the discovery on an eternal verity about the world.  The world can only
-  have meaning conferred upon it, or be deprived of it, by human beings.
-
-  ... Gray never considers that it may be the performative power of
-  representation, manifested in fictional financial figures, that has stopped
-  people from perceiving meaning behind the signs of history.  He has little
-  to say about the influence of money on the mind, which is an eloquent
-  absence from any twenty-first century philosophy with aspirations to social
-  relevance.
-
-  ... History happens, and change takes place, whether or not we choose to
-  give it meaning.  ... If the Western intelligentsia no longer acknowledges
-  any significance to life, that does not mean that we have discovered a
-  timeless truth that had been hidden from Aristotle, Plato, and the
-  prophets of monotheism.  It means that we can no longer see meaning where
-  others once did."
+  "There is no shortage of philosophers, from antiquity to today, arguing
+  for this view of the self as an illusion sponsored by a dynamic bundle of
+  elements.  But Baggini's book is set apart by ... his interest in thinking
+  through the practical consequences.  For it is one thing to say, "The self
+  is an illusion", and quite another to confess, "I am an illusion". ..."
 
 13 Nov 2020
 
