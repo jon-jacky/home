@@ -28,7 +28,7 @@ Some of my own comments:
   There was a time, at *Might* (Eggers' magazine) when we hated a lot of
   people, and scorned this writer and that actor and those bands because
   the products of their labors didn't appeal to us.  But the problem wasn't
-  so much that these people were incredible frauds, or evil-born, or or
+  so much that these people were incredible frauds, or evil-born, or
   deserved to be run out of their chosen media, but that we, the critics,
   were bitter. ... But really, in the end, anger towards any creator or product
   of creativity says a good deal more about the angry person than it does
@@ -106,7 +106,7 @@ Some of my own comments:
 
   Reading the whole book has a depressing effect.  Very soon you realize
   that it is possible to be well educated, well connected, articulate,
-  distinguished, to have led and interesting life, and still be a bore."
+  distinguished, to have led an interesting life, and still be a bore."
 
 18 Nov 2020
 

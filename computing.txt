@@ -10,6 +10,165 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+20 Nov 2020
+
+- http://akkartik.name/akkartik-convivial-20200607.pdf - 
+  Bicycles for the Mind Have to Be See-Through by Kartik Agaram
+
+  "Ivan Illich ... proposes (what) he calls
+  *convivial* tools. According to him, the primary goal when making a tool
+  shouldn't be to just make some tactical activity more convenient.
+  Instead, it should be to preserve the degrees of freedom of individuals
+  ... if a tool doesn't do quite what you need, don't try to paper over
+  its deficiencies with a second tool. The maintenance burden of both will
+  lead to compounding claims on your time, and on the time of others ...
+  Instead, take the first tool out, and think about the problem anew.
+
+  Taking tools out of existing workflows is difficult. ... If we grow used
+  to something that we don't know how to build or manage, the prospect of
+  losing it is painful. ...
+
+  How do we build tools that can be maintained by end users in the field,
+  without support from authors and experts?  The Mu project explores one
+  approach in the domain of software: to support modification in the
+  field, keep everything simple enough to be comprehensible by anyone,
+  without exception.  Mu is a computing stack designed ... to have a
+  strict complexity budget, to "fit in a single brain"; to not grow complex
+  over time; and to reward curiosity, and encourage people to understand
+  its internals.
+
+  Our hypothesis is that using fewer abstractions ... can can make the
+  maintenance task more approachable to end users. ... our plan (is) to
+  expose implementation details but keep them simple.
+
+  We'd like for Mu to demonstrate an alternative way for people to
+  collaborate over software: by exchanging complete working stacks (all
+  software running on a computer ...) designed to be manually merged for
+  individual contexts.
+
+  (Mu) implements high-level constructs out of lower-level ones.
+  Dependencies flow down, and we avoid cycles in the dependency graph as
+  far as possible.  It uses as little mainstream code (interface-driven,
+  built with whatever's handy, indirectly depending on C) as possible. It
+  uses as few notations (languages, syntaxes, intermediate
+  representations) as possible. It prioritizes safety over syntactic
+  convenience.
+
+  Deemphasizing syntax causes source code to be closer to generated code,
+  and the programmer's mental model to be closer to the machine. The
+  programmer is habituated to communicate precise intent (and discover it
+  in the process) rather than expect the machine to make (inevitably
+  fallible) assumptions.
+
+  Mu is parsimonious with its dependencies. At run time, Mu packages
+  programs either as ELF binaries running on Linux or as bootable disk
+  images bundled with a third-party Unix-like kernel.   Mu programs don't
+  rely on *libc* or any other mainstream libraries. Eventually we will
+  build the OS kernel in Mu as well.
+
+  The Mu computing stack provides two notations: an unsafe notation for
+  machine code (called SubX) and a type-safe and memory-safe statement-
+  oriented language (eponymously called Mu) that mostly translates 1:1 to
+  machine code.
+
+  Currently Mu supports only the Intel x86 instruction set. Portability is
+  explicitly a non- goal. ... Programmers working at this level are
+  exposed to the constraints and complexities of the instruction set. ...
+
+  The crucial hypothesis in designing (SubX) was that the *implementation
+  properties* of parsimonious dependencies and minimal metacircularity
+  trump superficial aesthetics of the syntax.
+
+  Mu's trajectory follows that of early C to some extent; both languages
+  were implemented without a high-level language, and so implementation
+  simplicity was important. However, Mu learns from the trajectory of C,
+  where compilers became metacircular at the first opportunity, and the
+  availability of a high-level language for implementation has caused
+  ever-smarter compilers, at the cost of explosive growth in compiler
+  complexity. We don't want to make the same trade-off.
+
+  To avoid ever needing a complex compiler, Mu is designed to
+  never need any compiler optimizations. It achieves this aim by staying
+  as close to the machine as possible ... we aim ... for each statement of
+  safe Mu to expand to a single instruction of unsafe SubX.
+
+  One consequence of aspiring to a 1:1 mapping with machine code: we don't
+  abstract away registers. Since x86 machine code constrains instructions
+  to no more than one memory operand, it makes sense to make programmers
+  manage registers explicitly. We'll still verify the register allocation ...
+
+  Mu has a strong but unambitious type system. The only goal is to avoid
+  the memory corruption issues that plague the level below. ... Aborting
+  immediately on memory corruption prevents many security vulnerabilities
+  and simplifies debugging when compared to C.
+
+  I hope I have demonstrated that one can get approximately to the level
+  of C (lower expressiveness but higher safety) with a modest outlay of
+  code and external dependencies, and that it is possible to explain how
+  it all works in a matter of a dozen pages.
+
+  Mu and SubX are statement-oriented and provide minimal syntax, so that
+  translation steps are tractable to present to users. The entire
+  toolchain is designed to be transparent ...
+  
+  Most software today is on a trajectory of ever-increasing complexity.
+  Features are rarely deleted. Over time complexity invariably reaches a
+  threshold where new features take longer and longer to add. At this
+  point the project becomes much more selective about adding new features.
+  ... Much of this trajectory stems from peoples reluctance to modify
+  software, a tendency Mu works hard to counteract. Given a stack that is
+  easy to understand, it's worth revisiting the value of compatibility. If
+  people can modify a project for their needs, the next step is to start
+  deleting features they don't use. In the process they can reclaim
+  vitality that has ossified under a high feature load.  ... Normally
+  features the original authors don't like tend to languish. If forks
+  become easy to create, then it's easy to spin off forks, and to direct
+  demand for specific features to specific forks. ...
+
+  Among programmers there's a long-standing lament about the excessive
+  complexity in software projects. ... The original sin is to try to
+  decompose a system into an "inside" and an "outside". While the instinct is
+  laudable, it invariably leads to specialization. Repeat it over and
+  over, and the number of such boundaries compounds, constraining us all.
+
+  This paper has demonstrated Mu deconstructing the dichotomy between
+  "inside" and "outside" ...  In the process, weve taken on some risks. Mu
+  programs are aesthetically unappealing. ... Mu makes new kinds of errors
+  possible ... But if we truly believe that the software development
+  process should prioritize comprehension over ease of authorship, it's
+  worth exploring what we gain by taking on these drawbacks.
+
+  While Mu's build and runtime environment is fairly independent of
+  mainstream software, it still relies on a host machine for the
+  *development* environment. ... Over time these features will be
+  reimplemented in Mu ... Lots more will hopefully be jettisoned
+  indefinitely. We are willing to avoid expensive high-level features in
+  our quest for convivial tools.
+
+  The presence of run-time checks may well result in a stack that is
+  slower than the mainstream, in spite of the performance benefits of
+  streamlining the stack vertically (fewer layers) and horizontally (more
+  forks, less complexity per fork). Even if it's slower, it's worth
+  questioning what speed buys us. Unconstrained growth in performance is a
+  political and economic goal for those selling computation by volume. If
+  we each had one computer to truly call our own, truly running for our
+  benefit, would it really run at full throttle day in and day out? Our
+  experience with Mu suggests that it might be better to treat
+  performance -- and much else that we tend to obsess over -- as something to
+  satisfice rather than optimize."
+
+  https://news.ycombinator.com/item?id=21268252 has technical discussion
+  including the author's explanations and defense of some design
+  decisions.  The author writes:
+
+  "Indeed, much of Mu's design was motivated by the question, "if we
+  imitated the codesign of OS and language that led to Unix and C, given
+  what we know now, what would we create?" This question doesn't seem to
+  be often asked in recent decades, with languages and OSs evolving
+  separately."
+
+  Other work influenced by Ivan Illich appears at 17 Feb 2020 and 2 Sep 2019.
+
  7 Nov 2020
 
 - http://tomasp.net/commodore64/ - The Lost Ways of Programming: Commodore
