@@ -10,7 +10,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
-20 Nov 2020
+23 Nov 2020
 
 - http://akkartik.name/akkartik-convivial-20200607.pdf - 
   Bicycles for the Mind Have to Be See-Through by Kartik Agaram
@@ -157,6 +157,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   performance -- and much else that we tend to obsess over -- as something to
   satisfice rather than optimize."
 
+  https://github.com/akkartik/mu has the code and much more.
   https://news.ycombinator.com/item?id=21268252 has technical discussion
   including the author's explanations and defense of some design
   decisions.  The author writes:
