@@ -165,7 +165,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   over, and the number of such boundaries compounds, constraining us all.
 
   This paper has demonstrated Mu deconstructing the dichotomy between
-  "inside" and "outside" ...  In the process, weve taken on some risks. Mu
+  "inside" and "outside" ...  In the process, we've taken on some risks. Mu
   programs are aesthetically unappealing. ... Mu makes new kinds of errors
   possible ... But if we truly believe that the software development
   process should prioritize comprehension over ease of authorship, it's
@@ -200,6 +200,15 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   what we know now, what would we create?" This question doesn't seem to
   be often asked in recent decades, with languages and OSs evolving
   separately."
+
+  https://news.ycombinator.com/item?id=22599953 has more philosopical
+  discussion. The author writes:
+
+  "I've tried to distinguish between giving things a name to avoid having
+  to work through details over and over again, and relying on something
+  built by others so one never has to think about the details. ... I
+  usually try to avoid the term 'abstraction' because it's gotten so
+  debased. ..."
 
   Other work influenced by Ivan Illich appears at 17 Feb 2020 and 2 Sep 2019.
 
