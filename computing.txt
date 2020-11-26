@@ -10,6 +10,39 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+25 Nov 2020
+
+- http://akkartik.name/illich.pdf - *Tools for Conviviality* by Ivan Illich
+  (1973), Introduction p. 5, Ch 2 Convivial Reconstruction, p. 13.
+
+  "Society can be destroyed when further growth of mass production renders
+  the milieu hostile, when it extinguishes the free use of the natural
+  abilities of society's members, when it isolates people from each other
+  and locks them into a man-made shell, when it undermines the texture of
+  community by promoting extreme social polarization and splintering
+  specialization, or when cancerous acceleration enforces social change at
+  a rate that rules out legal, cultural, and political precedents as
+  formal guidelines to present behavior. ... At this point it becomes
+  irrelevant whether an enterprise is nominally owned by
+  individuals, corporations, or the state, because no form of management
+  can make such fundamental destruction serve a social purpose.
+
+  It is now difficult to imagine a modern society in which industrial
+  growth is balanced and kept in check ... Our vision of the possible and
+  the feasible is so restricted by industrial expectations that any
+  alternative to more mass production sounds like a return to past
+  oppression or like a Utopian design for noble savages. In fact ...
+  scientific discoveries can be useful in at least two opposite ways. The
+  first leads to ... centralization of power and turns people into the
+  accessories of bureaucracies or machines. The second enlarges the range
+  of each person's competence, control, and initiative, limited only by
+  other individuals' claims to an equal range of power and freedom.
+
+  ... I will suggest ... how modern science and technology can be used to
+  endow human activity with unprecedented effectiveness. This reversal
+  would ... give priority to ... the one resource that is almost equally
+  distributed among all people: personal energy under personal control.
+
 23 Nov 2020
 
 - http://akkartik.name/akkartik-convivial-20200607.pdf - 
