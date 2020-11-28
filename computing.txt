@@ -10,6 +10,59 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+27 Nov 2020
+
+- https://sqlite.org/lpc2019/doc/trunk/briefing.md - SQLite on Linux
+
+  "SQLite is not like pther database engines. SQLite is not a separate
+  process or thread. SQLite is a subroutine. SQLite is embedded in the
+  application and uses the same heap and stack.
+
+  An SQLite database is a single ordinary file on disk. An additional
+  transient journal file may appear from time to time to help implement
+  transactions that are atomic across crashes and power failures. ...
+  Most databases are a few megabytes to a few gigabytes in size, though
+  terabyte-sized SQLite databases are known to be used in production.
+
+  The database file format is stable, well-defined, well-documented, and
+  cross-platform. SQLite databases are commonly used as storage containers
+  for sending structured content across the internet.
+
+  Other database engines are usually found in the datacenter. SQLite is
+  more commonly seen at the edge of the network.  Because the network edge
+  is so broad, there are a vast number SQLite databases in active use -
+  probably over one trillion (1e12).  A typical Android phone has hundreds
+  of SQLite databases and does more than 5 gigabytes of database I/O per
+  day."
+
+  comments at https://news.ycombinator.com/item?id=25167423 -
+
+  *antirez* writes: "The filesystem, and the file itself, are perhaps the
+  *best* abstractions ever designed in computing. ... (but) a different
+  low-level abstraction to access the storage in a way databases need to
+  do is missing from POSIX."
+
+  *Spivak* writes: "I think Ceph has the right model. The only abstraction
+  is physical disk to addressable binary/object storage. Everything else
+  is implemented on top of that so you can do S3, filesystems, databases
+  all close to the metal."
+
+- https://news.ycombinator.com/item?id=25219386 - comments on 
+  What would happen if computers never got any faster? 
+
+  *colechristensen* writes:  "Computer programs are like a gas, they'll
+  fill up whatever container they are put in. This is unfortunate as
+  computers get faster the programs that run on them tend to get slower at
+  nearly the same rate. ... much of what we do on computers is the same
+  exchange of text with a bit of decoration that has been done for
+  decades, and yet nothing seems the 1000x better that one would expect.
+
+  Programs, programmers, and software companies will expand until they run
+  out of resources regardless of how much you give them. There is a real
+  problem there, because there are things which should use negligible
+  resources today which instead use resources akin to yesterday's
+  supercomputers."
+  
 25 Nov 2020
 
 - http://akkartik.name/illich.pdf - *Tools for Conviviality* by Ivan Illich
@@ -41,7 +94,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   ... I will suggest ... how modern science and technology can be used to
   endow human activity with unprecedented effectiveness. This reversal
   would ... give priority to ... the one resource that is almost equally
-  distributed among all people: personal energy under personal control.
+  distributed among all people: personal energy under personal control."
+
+  Work influenced by Ivan Illich appears at 23 Nov 2020, 17 Feb 2020, and
+  2 Sep 2019.
 
 23 Nov 2020
 
