@@ -14,7 +14,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://sqlite.org/lpc2019/doc/trunk/briefing.md - SQLite on Linux
 
-  "SQLite is not like pther database engines. SQLite is not a separate
+  "SQLite is not like other database engines. SQLite is not a separate
   process or thread. SQLite is a subroutine. SQLite is embedded in the
   application and uses the same heap and stack.
 
@@ -66,7 +66,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 25 Nov 2020
 
 - http://akkartik.name/illich.pdf - *Tools for Conviviality* by Ivan Illich
-  (1973), Introduction p. 5, Ch 2 Convivial Reconstruction, p. 13.
+  (1973), Introduction p. 5, Ch 4 Recovery, p. 54.
 
   "Society can be destroyed when further growth of mass production renders
   the milieu hostile, when it extinguishes the free use of the natural
@@ -89,12 +89,17 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   first leads to ... centralization of power and turns people into the
   accessories of bureaucracies or machines. The second enlarges the range
   of each person's competence, control, and initiative, limited only by
-  other individuals' claims to an equal range of power and freedom.
+  other individuals' claims to an equal range of power and freedom."
 
-  ... I will suggest ... how modern science and technology can be used to
-  endow human activity with unprecedented effectiveness. This reversal
-  would ... give priority to ... the one resource that is almost equally
-  distributed among all people: personal energy under personal control."
+  "The world does not contain any information. It is as it is. Information
+  about it is created in the organism through its interaction with the
+  world. To speak about storage of information outside the human body is
+  to fall into a semantic trap. Books or computers are part of the world.
+  They can yield information when they are looked upon. We move the
+  problem of learning and of cognition nicely into the blind spot of our
+  intellectual vision if we confuse vehicles for potential information
+  with information itself. We do the same when we confuse data for
+  potential decision with decision itself."
 
   Work influenced by Ivan Illich appears at 23 Nov 2020, 17 Feb 2020, and
   2 Sep 2019.
