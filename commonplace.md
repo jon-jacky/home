@@ -1222,7 +1222,7 @@ Some of my own comments:
   those to whom books are a necessity.  Books are unconvertible assets, to
   be passed on only to those who possess them already."
 
-11 Sep 2020
+11 Sep 2020, 8 Dec 2020
 
 - <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do> - 
   What's a mathematician to do? answer by Bill Thurston:
@@ -1377,6 +1377,13 @@ Some of my own comments:
   primarily come from mathematicians formally checking formal arguments;
   it comes from mathematicians thinking carefully and critically about
   mathematical ideas."
+
+- <https://leanprover-community.github.io/papers/mathlib-paper.pdf> - 
+  The Lean Mathematical Library
+
+  A project to formalize large parts of mathematics, confronting
+  the difficulties Thurston described above.  More about the project here:
+  <https://leanprover-community.github.io/papers>
 
 30 Aug 2020
 
