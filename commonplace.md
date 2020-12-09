@@ -1379,16 +1379,22 @@ Some of my own comments:
   mathematical ideas."
 
 - <https://www.ams.org/journals/notices/202011/rnoti-p1791.pdf> -
-  Proving Theorems with Computers
+  Proving Theorems with Computers by Kevin Buzzard
 
   About a project to formalize large parts of mathematics, confronting
   the difficulties Thurston described above.
 
-  "... The fact that distinct equivalence classes are disjoint is now
-  obvious. However this is an example, not a proof. The formal proof,
-  which I then go on to show the students, is a series of elementary
-  steps, each of which follows from the rules of logic or the axioms of an
-  equivalence relation.
+  "(In) a course introducing the formal notion of proof ... there   might
+  be a proof that distinct equivalence classes for an equivalence relation
+  are disjoint.  There are many ways that one can attempt to teach this to
+  undergraduates.  Recently I have become fond of  a method where I bring
+  a set of around 100 plastic shapes coloured red, yellow, green, and blue
+  into class. ...  the red shapes form an equivalence class, the blue
+  shapes form another, and so on.  The fact that distinct equivalence
+  classes are disjoint is now obvious. However this is an example, not a
+  proof. The formal proof, which I then  go on to show the students, is a
+  series of elementary steps, each of which follows from the rules of
+  logic or the axioms of an equivalence relation.
 
   In proofs such as these, we are operating very close to the "machine"
   which drives formal mathematics -- the machine which tells us that if
@@ -1425,8 +1431,8 @@ Some of my own comments:
   to prove some of them -- but possibly not all of them.
 
   For example, when I was a PhD student, I had not read the details of the
-  proof of the theorem of Deligne which attached a *p*-adic Galois rep-
-  resentation to a modular form, a key result from the interface to the
+  proof of the theorem of Deligne which attached a *p*-adic Galois
+  representation to a modular form, a key result from the interface to the
   theory of modular forms upon which my entire PhD work was based. In
   fact, at that time there was only really a sketch proof of the result in
   the literature. This was not however a problem, because the proof of
@@ -1438,7 +1444,7 @@ Some of my own comments:
   In the rest of this article, I would like to discuss the idea that
   computers can be taught mathematics in much the same sort of way. ..."
 
-  More about the formalization project here:
+  More about this formalization project:
   <https://leanprover-community.github.io/papers>
 
 30 Aug 2020
