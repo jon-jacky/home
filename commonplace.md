@@ -17,7 +17,7 @@ Some of my own comments:
 28 Nov 2020
 
 - *Let's Talk About Love: A Journey to the End of Taste* by Carl Wilson
-  (2007, no link). p. 122:
+  (2007), p. 122, 123 (no link):
 
   "For a century or more, sentimentality has been the cardinal aesthetic
   sin. ... To be  sentimental is to be kitsch, phony, exaggerated,
@@ -31,7 +31,7 @@ Some of my own comments:
     be judged as an ethically base being, a malefactor who profoundly
     desires evil."
 
-  p. 123: "... is the problem that kitsch sentimentality ... takes everyday
+  "Is the problem that kitsch sentimentality ... takes everyday
   hopes and affections and inflates them into life-or-death melodramas?
   Consider Zen scholar R. H. Blyth's elegant definition,
 
