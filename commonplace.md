@@ -1222,7 +1222,7 @@ Some of my own comments:
   those to whom books are a necessity.  Books are unconvertible assets, to
   be passed on only to those who possess them already."
 
-11 Sep 2020, 8 Dec 2020
+11 Sep 2020, 9 Dec 2020
 
 - <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do> - 
   What's a mathematician to do? answer by Bill Thurston:
@@ -1378,17 +1378,73 @@ Some of my own comments:
   it comes from mathematicians thinking carefully and critically about
   mathematical ideas."
 
-- <https://leanprover-community.github.io/papers/mathlib-paper.pdf> - 
-  The Lean Mathematical Library
+- <https://www.ams.org/journals/notices/202011/rnoti-p1791.pdf> -
+  Proving Theorems with Computers
 
-  A project to formalize large parts of mathematics, confronting
-  the difficulties Thurston described above.  More about the project here:
+  About a project to formalize large parts of mathematics, confronting
+  the difficulties Thurston described above.
+
+  "... The fact that distinct equivalence classes are disjoint is now
+  obvious. However this is an example, not a proof. The formal proof,
+  which I then go on to show the students, is a series of elementary
+  steps, each of which follows from the rules of logic or the axioms of an
+  equivalence relation.
+
+  In proofs such as these, we are operating very close to the "machine"
+  which drives formal mathematics -- the machine which tells us that if
+  *P* is true, and if *P* implies *Q*, ,then *Q* is true, and other such
+  logical rules. ... At this stage in the development of mathematics,
+  every proof can be chased right down to the axioms of the system we are
+  considering, and students are expected to learn from such courses that
+  mathematics can be done in this way.  Much (but as we are about to see,
+  not all) undergraduate pure mathematics is of this form.
+
+  After a while it becomes inconvenient to do mathematics in a purely
+  axiomatic fashion.  For example, proving that if we remove a finite set
+  of points from *R2* the resulting topological space is still path
+  connected could of course *in theory* be done from the axioms, but in
+  practice ... one would just draw a picture. ... Over time, students
+  learning mathematics begin to understand our unwritten rules of "what is
+  allowed in practice." ... Arguments in lectures may take place high
+  above the axioms, with technical details being dismissed as obvious or
+  easy to verify, and left to the reader (perhaps with some hints). This
+  is the beginning of what Terry Tao has called the *post-rigorous* stage
+  of mathematics. To borrow aphrase from computer science, students begin
+  to learn the intuitive *front end* of mathematics.
+
+  Those students who convince us that they can steer their mathematical
+  arguments correctly are rewarded by being given PhD places. ...
+  They are allowed access to the mathematical literature, and from now on
+  they can assume any result they like, as long as it is published in a
+  reasonably prestigious journal and their advisor believes it. ...
+  By the time they graduate, a PhD student will typically know many
+  theorem statements concerning the objects they chose to study ...
+  Again to borrow a phrase from computer science, the student knows
+  the *interface* to each object in their area of expertise.  The student is
+  allowed to assume any results in the interface, and might well know how
+  to prove some of them -- but possibly not all of them.
+
+  For example, when I was a PhD student, I had not read the details of the
+  proof of the theorem of Deligne which attached a *p*-adic Galois rep-
+  resentation to a modular form, a key result from the interface to the
+  theory of modular forms upon which my entire PhD work was based. In
+  fact, at that time there was only really a sketch proof of the result in
+  the literature. This was not however a problem, because the proof of
+  Deligne's theorem was "known to the experts."  Students are expected to
+  get their own intuition of their area, and after a while should have a
+  feeling about what is accessible given known results, and what requires
+  genuinely new ideas.
+
+  In the rest of this article, I would like to discuss the idea that
+  computers can be taught mathematics in much the same sort of way. ..."
+
+  More about the formalization project here:
   <https://leanprover-community.github.io/papers>
 
 30 Aug 2020
 
-- *A Mixture of Frailties*, a novel by Robertson Davies (1958), p. 210 - 211
-  (no link):
+- *A Mixture of Frailties*, a novel by Robertson Davies (1958), p. 210 - 211,
+  274 (no link):
 
   "... What's the good of fighting critics?  Mind you, some of them are
   very able, particularly when judging performances.  But only a few can
@@ -1399,6 +1455,9 @@ Some of my own comments:
   new.'  Giles hasn't shown them anything particularly new.  He's not an
   innovator.  But he has an extraordinary melodic gift.  Now you just watch
   the critics and see how many of them are able to spot that."
+
+  "... Like many people when they suddenly get their own way, she saw the
+  hand of God in it."
 
 27 Jul -- 2 Aug 2020
 
