@@ -10,6 +10,28 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+19 Dec 2020
+
+- <https://www.masswerk.at/spacewar/> - "This is a virtual DEC PDP-1 emulated
+  in HTML5/JavaScript running the original code of "Spacewar!",
+  the earliest known digital video game. ...
+
+  Spacewar! was conceived in 1961 ... The DEC PDP-1 was introduced in 1959
+  as one of the first commercial machines using core memory and transitors
+  only. ...
+
+  Some importance was put in the recreation of the appearance of the
+  original CRT display and the unique experience conveyed by it. ... The
+  PDP-1 was one of the first computers to come with an (optional) CRT
+  display. The DEC Type 30 Visual CRT Display featured a round tube in a
+  distinctive, hexagonal housing in a concentric layout. The make of the
+  tube was originally intended for radar scopes and employed a dual P7
+  coating with two layers of phosphor, a bright, light-blue one displaying
+  freeshly activated blips, and a dimmer, greenish-yellowish one
+  displaying the decaying blips in a fading afterglow. These characters
+  are also responsible for the iconic trails drawn by any moving object on
+  the screen. ..."
+
  7 Nov 2020
 
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
