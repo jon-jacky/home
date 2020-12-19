@@ -10,6 +10,18 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+18 Dec 2020
+
+-  <https://news.ycombinator.com/item?id=25462043> -     
+   comments on the Original Dartmouth College BASIC manual (1964)
+
+   "Appendix B (Limitations on BASIC) gives a rule-of-thumb for the
+   maximum length of a program as "in general about 2 feet".
+   It was evidently possible to create a complex program in 2 feet  ..."
+
+   In that system, you typed your program on a roll of teletype paper.
+   More about BASIC programming at 7 Nov 2020 and 28 Feb 2019, below.
+
 27 Nov 2020
 
 - <https://sqlite.org/lpc2019/doc/trunk/briefing.md> - SQLite on Linux
@@ -209,7 +221,7 @@ Companion page, a commonplace book:
   Features are rarely deleted. Over time complexity invariably reaches a
   threshold where new features take longer and longer to add. At this
   point the project becomes much more selective about adding new features.
-  ... Much of this trajectory stems from peoples reluctance to modify
+  ... Much of this trajectory stems from people's reluctance to modify
   software, a tendency Mu works hard to counteract. Given a stack that is
   easy to understand, it's worth revisiting the value of compatibility. If
   people can modify a project for their needs, the next step is to start

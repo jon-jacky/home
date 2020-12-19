@@ -13,7 +13,70 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
-  
+
+18 Dec 2020
+
+- *Going To Extremes* by Joe McGinnis (1980), p. 222 (no link):
+
+  "You know," John Seiberling said, "one man's freedom is the freedom to
+  mess up another man's freedom.  And the only way you can protect and
+  have a rational society is to put some rules down ..."
+
+  John Seiberling, congressman from Ohio, in hearings in Anchorage on an
+  Alaska wilderness preservation bill.
+
+- *The Best Minds of My Genration: A Literary History of the Beats* by Allen
+  Ginserg, edited by Bill Morgan.  Grove Press, NY. 2017. p. 245-246 (no link):
+
+  "There are moments of intimacy between men and women and men and men,
+  soul to soul.  ...  It is not well known and not much written about
+  except in Whitman, but think it is probably universal.
+
+  It's a staple of the American character, but it isn't very often
+  presented.  Whitman thought it was the salvation of the nation and that
+  unless the nation were made up of comrades democracy couldn't work.  A
+  bunch of macho competitors all hating each other, or indifferent to each
+  other, or scared of each other emotionally, would leave no possibility
+  of a cooperative, democratic, functioning political system.   Only with
+  basic friendliness would it be possible for a nation to create a
+  political world that was livable. ..."
+
+- Lord of Misrule by Rory Stewart, review of *Boris Johnson: The Gambler*
+  in *TLS*, Nov 6 2020, p. 4-5 (no link):
+     
+  "(Bower) minimizes Johnson's misdemeanors -- not by omitting them, but rather
+  by listing so many that they lose their power to shock. ... Bower concludes
+  therefore, that those who criticize him -- as I am about to do -- are 
+  narrow-minded, prudish, inadequate, or envious.
+
+  Johnson is after all the most accomplished liar in public life --
+  perhaps the best liar ever to serve as prime minister.  ...  This lack
+  of moral conviction is not a secret.  Rather than fooling everyone, he
+  has in a sense never fooled anyone.  Siblings, parents, teachers,
+  bosses, subordinates, colleagues and friends have always seen through
+  him. ...
+
+  And the public are fully aware of this.  Nevertheless, millions voted for him
+  to be prime minister -- some with great enthusiasm.  Is this because many
+  assume that no politician could actually be diligent, competent or sincerely
+  dedicated to public service?  And that if someone -- a Theresa May or Keir 
+  Starmer, for examples -- claims to be one of these things, they must be 
+  deceiving us?  Johnson believes so, and this frames his political approach.
+  ... he explains, "(It is) all about understanding that basically people regard
+  politicians as a bunch of shysters." ...
+
+  Why is this so particularly appealing?  Is it that voters want him to confirm
+  their distrust of all elites and high-minded stories?  Or to vaidate some
+  conviction that there can be no true moral or political purpose, no sincere
+  vision of self or country? ...
+
+  Johnson may have a bust of Pericles on his desk.  But he is not, as he pretends,
+  a man suffering from akrasia -- someone who struggles, with shame, to live up
+  to the ideals of a complex classical civilization.  Rather, he is an amoral
+  figure operating in a much bleaker and coarser culture.  And it is in his
+  interest -- and that of other similar politicians around the world -- to 
+  make that culture ever coarser. ..."
+
 28 Nov 2020
 
 - *Let's Talk About Love: A Journey to the End of Taste* by Carl Wilson
@@ -1415,7 +1478,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   above the axioms, with technical details being dismissed as obvious or
   easy to verify, and left to the reader (perhaps with some hints). This
   is the beginning of what Terry Tao has called the *post-rigorous* stage
-  of mathematics. To borrow aphrase from computer science, students begin
+  of mathematics. To borrow a phrase from computer science, students begin
   to learn the intuitive *front end* of mathematics.
 
   Those students who convince us that they can steer their mathematical

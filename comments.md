@@ -13,6 +13,16 @@ comments on *Hacker News*, click *parent* to see more context).
 I also keep a commonplace book of writings by others:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+Dec 2020
+
+- <https://ask.metafilter.com/350786/Recommendations-for-more-subtle-dystopia-and-cyberpunk-stories#5014126>
+
+  *The Flame Alphabet* by Ben Marcus is about an epidemic where language
+  is literally toxic -- hearing or reading speech makes people sick. I
+  found it vivid, convincing,and memorable, but it contains so many weird
+  and disturbing elements that I think a lot of people wouldn't like it.
+  It was marketed (in 2012) as literary fiction, not sci-fi.
+
 Oct 2020
 
 - <https://ask.metafilter.com/349210/Request-Memoir-About-Moving-to-a-New-City#4994655>
