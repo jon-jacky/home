@@ -30,7 +30,7 @@ Some of my own comments:
 
   "There are moments of intimacy between men and women and men and men,
   soul to soul.  ...  It is not well known and not much written about
-  except in Whitman, but think it is probably universal.
+  except in Whitman, but I think it is probably universal.
 
   It's a staple of the American character, but it isn't very often
   presented.  Whitman thought it was the salvation of the nation and that

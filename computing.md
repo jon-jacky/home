@@ -12,7 +12,7 @@ Companion page, a commonplace book:
 
 18 Dec 2020
 
--  <https://news.ycombinator.com/item?id=25462043> -     
+-  <https://news.ycombinator.com/item?id=25462043> -
    comments on the Original Dartmouth College BASIC manual (1964)
 
    "Appendix B (Limitations on BASIC) gives a rule-of-thumb for the
