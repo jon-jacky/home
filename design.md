@@ -18,7 +18,8 @@ Companion page, a commonplace book:
 
   Spacewar! was conceived in 1961 ... The DEC PDP-1 was introduced in 1959
   as one of the first commercial machines using core memory and transitors
-  only. ...
+  only. ... (It) was one of the first computers to come with an (optional)
+  CRT display.
 
   Some importance was put in the recreation of the appearance of the
   original CRT display and the unique experience conveyed by it. ... the
