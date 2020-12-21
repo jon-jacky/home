@@ -32,6 +32,9 @@ Companion page, a commonplace book:
 
   The code is explained here: <https://www.masswerk.at/spacewar/inside/>
 
+  More history and background, and many more pictures:
+  <https://www.masswerk.at/spacewar/SpacewarOrigin.html>
+
  7 Nov 2020
 
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
