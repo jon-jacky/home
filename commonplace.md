@@ -223,6 +223,35 @@ Some of my own comments:
   bestselling *Reflections on the Revolution in France*?  You do not need
   to take sides to see what a tangled issue it soon becomes."
 
+- The Age of Revolution 1789 - 1848 by Eric Hobsbawm (1962), p. 91-92,
+  268 (no link):
+
+  "It was now known that revolution in a single country could be a
+  European phenomenon; that its doctrines could spread across frontiers,
+  and, what was worse, its crusading armies could blow away the political
+  systems of a  continent.  It was now known that social revolution was
+  possible; that nations existed as something independent of states,
+  peoples as something independent of their rulers, and even that the poor
+  existed as something independent of the ruling classes. The French
+  Revolution ... was a universal event.  No country was immune from it.
+  ... as the governments knew, and as the peoples themselves were soon to
+  know also. A Greek bandit and patriot expressed their feelings
+  completely:
+
+  - 'According to my judgment', said Kolokotrones, 'the French Revolution and the
+    doings of Napoleon opened the eyes of the world.  The nations knew nothing
+    before, and the people thought that kings were gods upon the earth and that
+    they were bound to say that whatever they did was well done.  Through the
+    present change it is more difficult to rule the people.'
+
+  "By the later years of the Napoleonic wars new generations of young men began
+  to grow up for whom the great liberating flame of the Revolution was visible
+  across the years, the ashes of its excesses and corruptions having dropped out
+  of sight ... And as Europe advanced year by year more deeply into the low
+  featureless plains of reaction, censorship and mediocrity and the pestilential
+  swamps of poverty, unhappiness and oppression, the image of the revolution
+  became ever more luminous."
+
 - Backwards Into The Future by David Hawkes, review of *The Silence of Animals:
   On Progress and Other Modern Myths* by John Gray in *TLS*, Aug 30 2013, p. 7
   (no link):
