@@ -14,6 +14,28 @@ Companion page on computing:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+22 Dec 2020
+
+- *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), p. 1, ix (no link):
+
+  "Words are witnesses which often speak louder than documents.  Let us consider
+  a few English words which were invented, or gained their modern meanings,
+  substantially in the sixty years with which this volume deals. They are such
+  words as 'industry', 'industrial', 'factory', 'middle class', 'working class',
+  'capitalism' and 'socialism'.  They include 'aristocracy' as well as 'railway',
+  'liberal' and 'conservative' as political terms, 'nationality, 'scientist' and
+  'engineer', 'proletariat' and (economic) 'crisis'.  'Utilitarian' and
+  'statistics', 'sociology' and several other names of modern sciences,
+  'journalism' and 'ideology', are all coinages or adaptations of this period.
+  So is 'strike' and 'pauperism'.
+
+  To imagine the modern world without these words (i.e. without the things and
+  concepts for which they provide names) is to measure the profundity of the
+  revolution which broke out between 1789 and 1848 -- the French Revolution of
+  1789 and the contemporaneous (British) Industrial Revolution ..."
+
+  For more excerpts from *The Age of Revolution*, see under 18 Nov 2020, below.
+
 18 Dec 2020
 
 - *Going To Extremes* by Joe McGinnis (1980), p. 222 (no link):
@@ -199,7 +221,7 @@ Some of my own comments:
   that it is possible to be well educated, well connected, articulate,
   distinguished, to have led an interesting life, and still be a bore."
 
-18 Nov 2020
+18 Nov 2020, also 22 Dec 2020
 
 - Making A Figure by Daniel Hitchens, review of three books about Edmund
   Burke in *TLS*, May 24 2013, p. 7 (no link):
@@ -223,7 +245,7 @@ Some of my own comments:
   bestselling *Reflections on the Revolution in France*?  You do not need
   to take sides to see what a tangled issue it soon becomes."
 
-- The Age of Revolution 1789 - 1848 by Eric Hobsbawm (1962), p. 91-92,
+- *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), p. 91-92,
   268 (no link):
 
   "It was now known that revolution in a single country could be a
