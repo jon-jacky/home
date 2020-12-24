@@ -10,10 +10,35 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+24 Dec 2020
+
+-  <https://news.ycombinator.com/item?id=21396662> - Oberon Operating System
+
+   *eterps* writes: "What I like about Oberon's module system is that
+   there is no distinction between a library and an app or command.
+
+   In Oberon an 'executable' has 1 or more commands, somewhat similar to
+   how git has more commands like pull, push & commit.
+
+   But everything is reusable you don't need a libgit at some point if you
+   need support for it in another application. Neither do you need to
+   invoke a command in a process and capture its output.
+
+   In Oberon git and libgit would be the same thing. Everything you
+   execute as a command is directly reusable as native functional calls
+   from other apps.
+
+   In Oberon there is no distinction between a .DLL and an .EXE so to
+   speak. A compiled module is (or can be) both."
+
+   *pjmlp* writes: "... In Oberon not only is every module an application, the
+   exported procedures are available as commands on the REPL and callable
+   via mouse actions as well."
+
 18 Dec 2020
 
 -  <https://news.ycombinator.com/item?id=25462043> -
-   comments on the Original Dartmouth College BASIC manual (1964)
+   comments on the Original Dartmouth College BASIC manual (1964):
 
    "Appendix B (Limitations on BASIC) gives a rule-of-thumb for the
    maximum length of a program as "in general about 2 feet".
