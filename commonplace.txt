@@ -5,18 +5,20 @@ are copied for personal use.
 Begun November 2016.
 Successor to http://jon-jacky.github.io/home/links.html, Spring 2001 -- July 2017
 
-Companion page on design, typography, and graphics:
-https://github.com/jon-jacky/home/blob/gh-pages/design.md
-
 Companion page on computing:
 https://github.com/jon-jacky/home/blob/gh-pages/computing.md
+
+Companion page on design, typography, and graphics:
+https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
 22 Dec 2020
 
-- *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), p. 1, ix (no link):
+- *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), (no link):
+
+  *Introduction* p. 1:
 
   "Words are witnesses which often speak louder than documents.  Let us consider
   a few English words which were invented, or gained their modern meanings,
@@ -31,8 +33,228 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
   To imagine the modern world without these words (i.e. without the things and
   concepts for which they provide names) is to measure the profundity of the
-  revolution which broke out between 1789 and 1848 -- the French Revolution of
-  1789 and the contemporaneous (British) Industrial Revolution ..."
+  revolution which broke out between 1789 and 1848 (the French Revolution of
+  1789 and the contemporaneous (British) Industrial Revolution) ..."
+
+  Chapter 2, *The Industrial Revolution*, p. 27 - 29, 36, 38, 41, 46, 48:
+
+  - *From this foul drain the greatest stream of human industry flows out to
+    fertilize the whole world.  From this filthy sewer pure gold flows.
+    Here humanity attains its most complete development and its most brutish,
+    here civilization works its miracles and civilized man is turned almost
+    into a savage.* - A de Toqueville on Manchester in 1835.
+
+  Let us begin with the industrial revolution. ... some time in the 1780s,
+  and for the first time in human history, the shackles were taken off the
+  productive power of human societies, which henceforth became capable of
+  the constant, rapid and up to the present limitless multiplication of
+  men, goods, and services. ... By any reckoning this was probably the
+  most important event in world  history, at any rate since the invention
+  of agriculture and cities. ...
+
+  ... The expansion of industry produced fantastic rates of profit.  
+  'It was not five per cent or ten per cent', a later English politician
+  was to say, with justice, 'but hundreds per cent and thousands per cent
+  that made the fortunes of Lancashire.' ...
+
+  Its most serious consequences were social.  The transition to the new
+  economy created misery and discontent. ... (Wages) could be compressed
+  by direct wage-cutting, by the substitution of cheaper machine-tenders
+  for dearer skilled workers, and by the competition of the machine.
+  ... And indeed money wages fell steadily ... But there was a physiological
+  limit to such reductions, unless the laborers were actually to starve,
+  as of course the 500,000 handloom weavers did. ... Virtually untaxed,
+  the middle classes continued to accumulate among the hungry populace,
+  whose hunger was the counterpart to their accumulation.  ... 
+
+  In terms of economic productivity this social transformation was an
+  immense success, in terms of human suffering, a tragedy ..."
+
+  Chapter 10, *The Career Open to Talent*, p. 185 - 186, 189, 198:
+
+  "... the iron plough of industrialization multiplied its hardfaced crops of 
+  businessmen under the rainy clouds of the North.  ... The new men from
+  the provinces were a formidable army ... organized against both
+  proletariat and landlords. ... They were self-made men, or at least 
+  men of modest origins who owed little to birth, family or formal 
+  higher education ... They were rich and getting richer by the year.
+  They were above all imbued with the ferocious and dynamic self-confidence
+  of those whose careers prove to them that divine providence, science and
+  history have combined to present the earth to them on a platter.
+
+  The crucial achievement of the two revolutions was thus that they
+  opened careers to talent, or at any rate to energy, shrewdness, 
+  hard work and greed. ... how extraordinary were the opportunities,
+  how remote from the nineteenth century the static hierarchical ideal
+  of the past!
+
+  The massive contempt of the 'civilized' for the 'barbarians' (who 
+  included the bulk of the laboring poor at home) rested on this feeling
+  of demonstrated superiority.  The middle-class world was freely open to 
+  all.  Those who failed to enter its gates therefore demonstrated a lack
+  of personal intelligence, moral force or energy which automatically
+  condemned them; or at best a historical or racial heritage which must
+  permanently cripple them, or else they would have already made use of
+  their opportunities.  The period which culiminated about the middle of 
+  the century was therefore once of unexampled callousness, not merely 
+  because the poverty which surrounded middle class respectability was
+  so shocking that the native rich learned not to see it ... but because
+  the poor, like the outer barbarians, were talked of as if they were
+  not properly human at all. ..."
+    
+  Chapter 13, *Ideology: Secular*, p. 234 - 245:
+
+  "Here we shall concentrate on ... the nature of society and the way it
+  was going or ought to go. ... On this question there were two major
+  divisions of opinion: ... those who believed in progress and the others.
+  (The first group believed in) the triumphant, rationalist, humanist
+  'Enlightenment' of the eighteenth century.  Its champions believed
+  firmly (and correctly) that human history was an ascent ... On these
+  points bourgeois liberals and revolutionary proletarian socialists were
+  at one.
+  
+  ... It was a narrow, lucid, and sharp-edged philosophy ... It was rigorously
+  rationalist and secular ... convinced of the ability of men in principle to
+  understand all and solve all questions by the use of reason ...
+
+  In brief, for classical liberalism, the human world consisted of 
+  self-contained individual atoms with certain built-in passions and drives,
+  each seeking above all to maximize his satisfactions and minimize his
+  dissatisfactions, equal in this to all others, and 'naturally' recognizing
+  no limits or rights of interference with his urges. ... In the course
+  of pursuing this self-interest, each individual in this anarchy of equal
+  competitors, found it advantageous or unavoidable to enter into certain
+  relations with other individuals, and this complex of useful relationships
+  ... constituted society and social or political groups. ... Social aims
+  were therefore the arithmetical sum of individual aims.  Happiness ... was
+  each individual's supreme object; the greatest happiness of the greatest
+  number, was plainly the aim of society.
+
+  In fact, pure *utilitarianism*, which franky reduced *all* human relations
+  entirely to the pattern just sketched, was confined to very tactless 
+  philosophers like the great Thomas Hobbes in the seventeenth century or 
+  very confident champions of the middle class like ... Jeremy Bentham 
+  (1748-1832), James Mill (1773-1836), and above all the classic political
+  economists. ... Benthamites themselves championed bureaucratic state 
+  management when they thought it secured the greatest happiness of the
+  greatest number ... Consequently those seeking to safeguard private 
+  property, enterprise and individual freedom often preferred to give it
+  the metphysical sanction of a 'natural right' rather than the vulnerable
+  one of 'utility'.  Moreover, a philosophy which so completely eliminated
+  morality and duty by reducing them to rational calculation, might well
+  weaken that sense of the eternal fitness of things among the ignorant 
+  poor on which social stability rested.
+
+  Utilitarianism, for reasons such as these, therefore never monopolized
+  middle class liberal ideology.  It provided the sharpest radical axes
+  with which to chop down traditional institutions ... But it was strong
+  enough neither to inspire a revolution nor to safeguard against one ...
+
+  In its political thought classical liberalism thus swerved from the
+  daring and rigour which made it so powerful a revolutionary force. In
+  its economic thought, however, it was less inhibited. ... Consequently
+  classical political economy forms the most impressive intellectual
+  monument to liberal ideology.  ... The publication of Adam Smith's
+  (1723-90) *Wealth of Nations* in 1776 marks its beginning, that of David
+  Ricardo's *Principles of Political Economy* in 1817 its peak ...
+
+  The social argument of Adam Smith's political economy was both elegant
+  and comforting.  It is true that humanity consisted essentially of 
+  sovereign individuals ... pursuing their self-interest in competition
+  with one another.   But it could be shown that these activities ...
+  produced ... the most rapid possible increase in 'the wealth of nations',
+  i.e. the comfort and wellbeing, and therefore the happiness, of all men.
+  The basis of this natural order was the social division of labour.  It 
+  could be scientifically *proved* that the existence of a class of 
+  capitalists owning the means of production benefited all, including the
+  class of labourers ... Morever, the economically very unequal society which
+  resulted inevitably from the operations of human nature, was not 
+  incompatible with the natural equality of all men or with justice. ...
+
+  The power of this Panglossian view ... began to falter ... because the
+  actual economic and social results of capitalism proved to be less 
+  happy than forecast. ... Naturally it might still be held that the misery 
+  of the poor who were condemned to linger on the verge of starvation ...
+  still constituted the greatest happiness of the greatest number, which 
+  merely happened to be much less than one might have hoped.  But such 
+  facts ... damped optimism and stimulated critical enquiry, especially 
+  into *distribution* as against *production*, which had chiefly preoccupied
+  the generation of Smith.
+
+  In politics ... the liberal ideology was neither as coherent nor as
+  consistent.  ... For if the government really were popular, and the
+  majority really ruled (i.e. if minority interests were sacrificed to it
+  ...) could the actual majority -- 'the most numerous and poorest
+  classes' -- be  relied upon to safeguard freedom and to carry out ...
+  the programme of middle class liberals?
+
+  The social discontents, revolutionary movements and socialist ideologies
+  of the post-Napoleonic period intensified the dilemma ... Liberalism and
+  democracy appeared to be adversaries rather than allies; the triple slogan
+  of the French Revolution, liberty, equality, fraternity to express a 
+  contradiction rather than a combination. ...
+
+  While the liberal ideology thus lost its original confident swoop ...
+  a new ideology, socialism, reformulated the old eighteenth century 
+  verities ... the very arguments of classical liberalism were turned
+  against the capitalist society which they had helped to build. ...
+  nothing was easier than to observe that the greatest happiness for the
+  greatest number, which was clearly not begin achieved, was that of the
+  labouring poor. ... 
+
+  More to the point, classical political economy in its Ricardian form
+  could be turned against capitalism. ... If, as  political economy
+  argued, labour was the source of all value, then why did the bulk of its
+  producers live on the edge of destitution?  Because, as Ricardo showed
+  ... the capitalist appropriated in the form of profit the surplus which
+  the worker produced over and above what he received  in wages.  In fact,
+  the capitalist exploited the worker.   It only  remained to do without
+  capitalists and thus abolish exploitation. ...
+
+  So far the new socialists merely made their case by pushing the arguments
+  of classical Franco-British liberalism beyond the point where bourgeois
+  liberals were prepared to go. ... What distinguishes the various members
+  of the ideological family descended from humanism and the Enlightenment,
+  liberal, socialist, communist or anarchist, is not the gentle anarchy
+  which is the utopia of all of them, but the methods of achieving it.
+  At this point, however, socialism parted company with the classical
+  liberal tradition.
+
+  In the first place it broke radically with the liberal assumption that 
+  society was a mere aggregate or combination of individual atoms, and that
+  their motive force was their self-interest and competition.  In doing so
+  the socialists returned to the oldest of all human ideological traditions,
+  the belief that man is naturally a communal being.  Men naturally live
+  together and help one another.  Society was not a necessary by regrettable
+  diminution of man's unlimited natural right to do as he liked, but the 
+  setting of his life, happiness and individuality.  The Smithian idea that
+  the exchange of equivalents in the market somehow assured social justice,
+  struck them as either incomprehensible or immoral.  The bulk of the common
+  people held this view even when they could not express it. ...
+
+  In the second place socialism adopted a form of argument which, if not
+  outside the range of the classical liberal tradition, had not been greatly
+  stressed within it; the evolutionary and historical.  ... There was an 
+  element of historic evolution in the classical rationalist case for the 
+  good society; for an ideology of progress implies one of evolution ...
+  But it was not until Karl Marx (1818-83) transferred the centre of gravity
+  of the argument for socialism from its rationality or desirablity to its
+  historic inevitability that socialism acquired its most formidable 
+  intellectual weapon ...
+
+  For Marx human society had inevitably broken primitive communism into
+  classes; inevitably evolved through a succession of class societies,
+  each in spite of its injustices in its time 'progressive', each 
+  containing the 'internal contradictions' which at a certain point made 
+  it an obstacle to further progress and generating the forces for its
+  supercession.  Capitalism was the last of these, and Marx, so far from
+  merely attacking it, used all his world-shaking eloquence to trumpet forth
+  its historic achievements.  But capitalism ... would plunge into a crisis
+  from which it could not emerge.  Capitalism, moreover, .. inevitably created
+  its own gravediggers, the proletariat whose numbers and discontent would
+  grow while the concentration of economic power in fewer and fewer hands
+  made it more vulnerable to overthrow.  Proletarian revolution must 
+  therefore inevitably overthrow it. ..."
 
   For more excerpts from *The Age of Revolution*, see under 18 Nov 2020, below.
 
@@ -47,7 +269,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   John Seiberling, congressman from Ohio, in hearings in Anchorage on an
   Alaska wilderness preservation bill.
 
-- *The Best Minds of My Genration: A Literary History of the Beats* by Allen
+- *The Best Minds of My Generation: A Literary History of the Beats* by Allen
   Ginserg, edited by Bill Morgan.  Grove Press, NY. 2017. p. 245-246 (no link):
 
   "There are moments of intimacy between men and women and men and men,
@@ -64,7 +286,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   political world that was livable. ..."
 
 - Lord of Misrule by Rory Stewart, review of *Boris Johnson: The Gambler*
-  in *TLS*, Nov 6 2020, p. 4-5 (no link):
+  by Tom Bower in *TLS*, Nov 6 2020, p. 4-5 (no link):
      
   "(Bower) minimizes Johnson's misdemeanors -- not by omitting them, but rather
   by listing so many that they lose their power to shock. ... Bower concludes
