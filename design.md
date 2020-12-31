@@ -10,7 +10,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-19 Dec 2020
+30 Dec 2020
+
+- <https://www.readingdesign.org/> - 
+  "Reading Design is an online archive of critical writing about design.
+  ... The texts featured here date from the nineteenth century right up to
+  the present moment ..."
+
+19 Dec 2020 c
 
 - <https://www.masswerk.at/spacewar/> - "This is a virtual DEC PDP-1 emulated
   in HTML5/JavaScript running the original code of "Spacewar!",

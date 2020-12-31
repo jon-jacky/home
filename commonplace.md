@@ -14,7 +14,7 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
-22 Dec 2020
+22 - 28 Dec 2020
 
 - *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), (no link):
 
@@ -42,7 +42,7 @@ Some of my own comments:
     fertilize the whole world.  From this filthy sewer pure gold flows.
     Here humanity attains its most complete development and its most brutish,
     here civilization works its miracles and civilized man is turned almost
-    into a savage.* - A de Toqueville on Manchester in 1835.
+    into a savage.* - A. de Toqueville on Manchester in 1835.
 
   Let us begin with the industrial revolution. ... some time in the 1780s,
   and for the first time in human history, the shackles were taken off the
@@ -96,7 +96,7 @@ Some of my own comments:
   condemned them; or at best a historical or racial heritage which must
   permanently cripple them, or else they would have already made use of
   their opportunities.  The period which culiminated about the middle of
-  the century was therefore once of unexampled callousness, not merely
+  the century was therefore one of unexampled callousness, not merely
   because the poverty which surrounded middle class respectability was
   so shocking that the native rich learned not to see it ... but because
   the poor, like the outer barbarians, were talked of as if they were
@@ -225,7 +225,7 @@ Some of my own comments:
   their motive force was their self-interest and competition.  In doing so
   the socialists returned to the oldest of all human ideological traditions,
   the belief that man is naturally a communal being.  Men naturally live
-  together and help one another.  Society was not a necessary by regrettable
+  together and help one another.  Society was not a necessary but regrettable
   diminution of man's unlimited natural right to do as he liked, but the
   setting of his life, happiness and individuality.  The Smithian idea that
   the exchange of equivalents in the market somehow assured social justice,
