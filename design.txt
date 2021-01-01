@@ -1,6 +1,7 @@
 
 Pages with interesting design, typography, or graphics, in addition to 
-their content.
+their content.  Includes 'literate programs': experiments in presentation of
+code with explanations. 
 
 More here: http://jon-jacky.github.io/home/links.html#graphics
 
@@ -10,6 +11,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 1 Jan 2020
+
+- https://github.com/marcpaq/arpilisp/blob/master/arpilisp.s -
+  Lisp Interpreter for Raspberry Pi in a Single ASM File -    
+  Most of the contents of the single file are explanation, not code.
+  It includes an introduction to Lisp and an introduction to ARM assembly.
+    
 30 Dec 2020
 
 - https://www.readingdesign.org/ - 
@@ -17,12 +25,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   ... The texts featured here date from the nineteenth century right up to
   the present moment ..."
 
-- https://gossipsweb.net/ - "the directory of handmade webpages"
-
+- https://gossipsweb.net/ - "the directory of handmade webpages" -  
   Compare to https://thecreativeindependent.com/archive/
   and https://special.fish/ and https://www.eigenbahn.com/
   
-19 Dec 2020 c
+19 Dec 2020
 
 - https://www.masswerk.at/spacewar/ - "This is a virtual DEC PDP-1 emulated
   in HTML5/JavaScript running the original code of "Spacewar!",
