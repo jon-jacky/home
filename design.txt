@@ -17,6 +17,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   ... The texts featured here date from the nineteenth century right up to
   the present moment ..."
 
+- https://gossipsweb.net/ - "the directory of handmade webpages"
+
+  Compare to https://thecreativeindependent.com/archive/
+  and https://special.fish/
+  
 19 Dec 2020 c
 
 - https://www.masswerk.at/spacewar/ - "This is a virtual DEC PDP-1 emulated
@@ -403,6 +408,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://wiki.xxiivv.com/site/home.html - unique logo and links at the
   top left, strking use of black and white and empty space, and of
   photos on linked pages.
+
+- https://xxyxyz.org/ - font complements the open, simple appearance.
+
+- https://twobithistory.org/timeline.html - table of contents, plenty of
+  empty space
 
 17 Apr 2020
 
