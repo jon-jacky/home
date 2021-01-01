@@ -20,7 +20,7 @@ Companion page, a commonplace book:
 - <https://gossipsweb.net/> - "the directory of handmade webpages"
 
   Compare to <https://thecreativeindependent.com/archive/>
-  and <https://special.fish/>
+  and https://special.fish/ and <https://www.eigenbahn.com/>
 
 19 Dec 2020 c
 
