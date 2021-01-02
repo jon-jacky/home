@@ -1,7 +1,9 @@
 
 Pages with interesting design, typography, or graphics, in addition to
-their content.  Includes 'literate programs': experiments in presentation of
-code with explanations.
+their content.
+
+Includes some 'literate programs' that present code with explanations in a
+variety of styles.
 
 More here: <http://jon-jacky.github.io/home/links.html#graphics>
 
@@ -14,9 +16,9 @@ Companion page, a commonplace book:
  1 Jan 2020
 
 - <https://github.com/marcpaq/arpilisp/blob/master/arpilisp.s> -
-  Lisp Interpreter for Raspberry Pi in a Single ASM File -
-  Most of the contents of the single file are explanation, not code.
-  It includes an introduction to Lisp and an introduction to ARM assembly.
+  Lisp Interpreter for Raspberry Pi -
+  A 'literate program' presented in a single source program file,
+  includimg an introduction to Lisp and an introduction to ARM assembly.
 
 30 Dec 2020
 
@@ -25,7 +27,7 @@ Companion page, a commonplace book:
   ... The texts featured here date from the nineteenth century right up to
   the present moment ..."
 
-- <https://gossipsweb.net/> - "the directory of handmade webpages" -  
+- <https://gossipsweb.net/> - "the directory of handmade webpages" -
   Compare to <https://thecreativeindependent.com/archive/>
   and https://special.fish/ and <https://www.eigenbahn.com/>
 
@@ -59,6 +61,7 @@ Companion page, a commonplace book:
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
   64 BASIC - "In this interactive article, we will build a breakout game using
   Commodore 64 BASIC in the browser. ..."
+  An example of a 'literate program'.
 
 - <https://tixy.land/> - "Most minimalist creative coding environment"
 
@@ -128,6 +131,7 @@ Companion page, a commonplace book:
   most interesting computer operating systems to appear in recent years. ..."
 
   The famous Lions' book, with the commentary side-by-side with the code.
+  An example of a 'literate program'.
 
 10 Oct 2020
 
