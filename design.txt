@@ -17,8 +17,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://github.com/marcpaq/arpilisp/blob/master/arpilisp.s -
   Lisp Interpreter for Raspberry Pi -
-  A 'literate program' presented in a single source program file,
-  includimg an introduction to Lisp and an introduction to ARM assembly.
+  A 'literate program' presented in a single assembly language source
+  program file, including an introduction to Lisp and an introduction to
+  ARM assembly.
     
 30 Dec 2020
 
