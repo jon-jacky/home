@@ -17,7 +17,7 @@ Companion page, a commonplace book:
 
 - <https://www.are.na/blog/commonplace-books> - Commonplace Books - 
 
-  * ... by keeping an account of your readings, you made a book of your own,
+  ... *by keeping an account of your readings, you made a book of your own,
   one stamped with your personality.* - Robert Danton
 
  1 Jan 2020
