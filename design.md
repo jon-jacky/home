@@ -13,6 +13,13 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 5 Jan 2020
+
+- <https://www.are.na/blog/commonplace-books> - Commonplace Books - 
+
+  * ... by keeping an account of your readings, you made a book of your own,
+  one stamped with your personality.* - Robert Danton
+
  1 Jan 2020
 
 - <https://github.com/marcpaq/arpilisp/blob/master/arpilisp.s> -
