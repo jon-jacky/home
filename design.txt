@@ -13,6 +13,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Jan 2020
+
+- http://taeyoonchoi.com/poetic-computation/handmade-computers/handmade-computer/ - Handmade Computer Workshop - 
+  "I've been making primitive computers with discrete components and logic
+  gates. ... What can we do with very little computational power? Are
+  there space for poetry in those machines?"
+
  5 Jan 2020
 
 - https://www.are.na/blog/commonplace-books - Commonplace Books - *by
