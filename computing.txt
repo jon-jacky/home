@@ -10,6 +10,20 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Jan 2010
+
+- https://www.are.na/blog/taeyoon-choi - Taeyoon Choi, co-founder of School for Poetic Computation -   
+
+  "We struck up a conversation around 2013 because student debt was such
+  a big issue for teachers. We thought that there must be other ways of
+  sharing what we do without charging that much. We wanted to make the
+  SFPC because it's the kind of thing that's not offered in other places
+  -- that intersection between poetry and code. ... We had these two
+  things in mind when we started: our general dissatisfaction with the
+  structure of academia, and wanting to teach something that we really
+  care about and we want to research for our own purposes, but that was
+  not possible in our existing structure. ..."
+
 24 Dec 2020
 
 -  https://news.ycombinator.com/item?id=21396662 - Oberon Operating System
