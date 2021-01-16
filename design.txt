@@ -431,9 +431,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   striking abstract logo, well matched to content.
 
 - https://wiki.xxiivv.com/site/home.html - unique logo and links at the
-  top left, striking use of black and white and empty space, and of
-  black and white photos on linked pages.  Unconventional appearance of
-  links makes the ordinary typography look unusual.
+  top left, striking use of black and white and empty space, and of   black
+  and white photos on linked pages.  Text slightly smaller than typical, and
+  unconventional appearance of links, make the ordinary typography look
+  unusual.
 
 - https://100r.co/site/home.html - similar to *xxiivv* above, by the same
   authors.
