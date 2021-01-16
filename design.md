@@ -432,7 +432,9 @@ Companion page, a commonplace book:
 
 - <https://wiki.xxiivv.com/site/home.html> - unique logo and links at the
   top left, strking use of black and white and empty space, and of
-  photos on linked pages.
+  black and white photos on linked pages.
+
+- <https://100r.co/site/home.html> - similar to *xxiivv* above.
 
 - <https://xxyxyz.org/> - font complements the open, simple appearance.
 
