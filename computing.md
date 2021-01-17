@@ -24,7 +24,7 @@ Companion page, a commonplace book:
   care about and we want to research for our own purposes, but that was
   not possible in our existing structure. ..."
 
-24 Dec 2020
+24 Dec 2020, 17 Jan 2021
 
 -  <https://news.ycombinator.com/item?id=21396662> - Oberon Operating System
 
@@ -48,6 +48,14 @@ Companion page, a commonplace book:
    *pjmlp* writes: "... In Oberon not only is every module an application, the
    exported procedures are available as commands on the REPL and callable
    via mouse actions as well."
+
+- <https://news.ycombinator.com/item?id=25786470> - Oberon OS Walkthrough 
+
+  *mikelevens* writes: " ... In (Symbolics) Genera (a Lisp-machine OS),
+  any output to a repl window was not dead text; it was a live and mouse-
+  sensitive reference to the actual object in memory. You could mouse on
+  it to get a dynamically-generated menu of operations supported by the
+  pointed-to value, or call functions on it, or whatever. ..."
 
 18 Dec 2020
 
@@ -2209,7 +2217,7 @@ Companion page, a commonplace book:
   clever masterpiece of digital design. ... It’s mindbendingly
   brilliant."  Compare to Uzebox with 2 ICs, 24 May 2018 below.
 
- 3 Jun 2018
+ 3 Jun 2018, 17 Jan 2021
 
 - <https://web.archive.org/web/20110723033542/http%3A//www.burlingtontelecom.net/~ashawley/gnu/emacs/doc/emacs-1978.html>
   An Introduction to the Emacs Editor by Eugene Ciccarelli, AI Memo
@@ -2225,6 +2233,23 @@ Companion page, a commonplace book:
   WHOIS program: :WHOIS XYZ.  If WHOIS didn't find any regular user
   XYZ, you can use that name.  :LOGIN XYZ.  You are now talking to
   DDT, the top-level, monitor program ..."
+
+- <https://news.ycombinator.com/item?id=25760381> - A rabbit hole full of Lisp -
+
+  *adamnew123456* writes: "the context in which Emacs was originally
+  developed ... emphasized user power and lack of restriction to a much
+  greater degree than much of the current computing landscape does. Why
+  would you lock users or developers into a fixed, defined plugin API when
+  you could write the application in such a way that they have access to
+  whatever they need?
+
+  ... most of the Javascript you encounter is going to
+  be executed by a browser which has a whole ton of sandboxing and
+  mitigation mechanisms to prevent the big bad web from abusing your
+  computer. I don't blame it for working that way given how few
+  trustworthy ... actors exist on the web these days ... but there's a
+  cost to trying to guarantee security through mechanism rather than
+  trust."
 
  2 Jun 2018
 
