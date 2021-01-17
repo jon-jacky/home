@@ -2225,6 +2225,7 @@ Companion page, a commonplace book:
   Massachusetts Institute of Technology (not the same as Richard
   Stallman's 1979 AI Memo 519 on Emacs,
   <https://ia601004.us.archive.org/32/items/MITAIMemo519/MIT-AIMemo519.pdf>).
+
   "This memo is aimed at users unfamiliar not only with the Emacs
   editor, but also with the ITS operating system. ...  Emacs runs on
   the ITS machines, AI, ML, MC, and DM.  For people coming from an
@@ -2243,13 +2244,12 @@ Companion page, a commonplace book:
   you could write the application in such a way that they have access to
   whatever they need?
 
-  ... most of the Javascript you encounter is going to
-  be executed by a browser which has a whole ton of sandboxing and
-  mitigation mechanisms to prevent the big bad web from abusing your
-  computer. I don't blame it for working that way given how few
-  trustworthy ... actors exist on the web these days ... but there's a
-  cost to trying to guarantee security through mechanism rather than
-  trust."
+  ... most of the Javascript you encounter is going to be executed by a
+  browser which has a whole ton of sandboxing and mitigation mechanisms to
+  prevent the big bad web from abusing your computer. I don't blame it for
+  working that way given how few trustworthy ... actors exist on the web
+  these days ... but there's a cost to trying to guarantee security
+  through mechanism rather than trust."
 
  2 Jun 2018
 
