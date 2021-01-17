@@ -535,7 +535,7 @@ Companion page, a commonplace book:
   "*Left* is distractionless plaintext editor designed to quickly navigate
   between segments of an essay, or multiple documents. ...
   The application was initially created to help Rekka with the writing of
-  the upcoming novel ..."
+  the upcoming novel ..."  Code: <https://github.com/hundredrabbits/Left>
 
 27 Mar, 7 Apr 2020
 
