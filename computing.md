@@ -10,7 +10,23 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 7 Jan 2010
+21 Jan 2021
+
+- <https://canvas.harvard.edu/courses/34992/assignments/syllabus> - 
+  Classics of Computer Science -
+
+  "This course examines papers every computer scientist should have read,
+  from the 1930s to the present. It is meant to be a synthesizing
+  experience for advanced students in computer science: a way for them to
+  see the field as a whole, not through a survey, but by reliving the
+  experience of its creation. The idea is to create a unified view of the
+  field of computer science, for students who already know something about
+  it, by replaying its entire evolution at an accelerated frame rate."
+
+  Links to these papers and many more:
+  <https://docs.google.com/spreadsheets/d/1wS6O7-ZoFL7Cfjgt-akdhYxfg0qHdXyzpjJxikiqNPZg/edit#gid=65049622>
+
+ 7 Jan 2021
 
 - <https://www.are.na/blog/taeyoon-choi> - Taeyoon Choi, co-founder of School for Poetic Computation -   
 
