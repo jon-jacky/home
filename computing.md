@@ -14,7 +14,6 @@ Companion page, a commonplace book:
 
 - <https://canvas.harvard.edu/courses/34992/assignments/syllabus> - 
   Classics of Computer Science -
-
   "This course examines papers every computer scientist should have read,
   from the 1930s to the present. It is meant to be a synthesizing
   experience for advanced students in computer science: a way for them to
@@ -23,8 +22,8 @@ Companion page, a commonplace book:
   field of computer science, for students who already know something about
   it, by replaying its entire evolution at an accelerated frame rate."
 
-  Links to these papers and many more:
-  <https://docs.google.com/spreadsheets/d/1wS6O7-ZoFL7Cfjgt-akdhYxfg0qHdXyzpjJxikiqNPZg/edit#gid=65049622>
+  Links to these papers and many more: <https://docs.google.com/spreadsheets/d/1wS6O7-ZoFL7Cfjgt-kdhYxfg0qHdXyzpjJxikiqNPZg/edit#gid=65049622>
+  <https://docs.google>
 
  7 Jan 2021
 
