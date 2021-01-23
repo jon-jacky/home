@@ -453,11 +453,12 @@ Companion page, a commonplace book:
 - <https://chipflip.wordpress.com/2012/02/06/the-working-class-of-computer-art/> -
   striking abstract logo, well matched to content.
 
-- <https://wiki.xxiivv.com/site/home.html> - unique logo and links at the
-  top left, striking use of black and white and empty space, and of   black
+- <<https://wiki.xxiivv.com/site/home.html>> - simple elements combine to
+  make a distinctive look: unique logo and links at the
+  top left, striking use of black and white and empty space, and of black
   and white photos on linked pages.  Text slightly smaller than typical, and
   unconventional appearance of links, make the ordinary typography look
-  unusual.
+  unusual.  Many many associated pages: <<https://webring.xxiivv.com/>>
 
 - <https://100r.co/site/home.html> - similar to *xxiivv* above, by the same
   authors.
