@@ -13,14 +13,37 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 7 Jan 2020
+22 Jan 2021
+
+- <http://www.gutenberg.org/files/49965/49965-h/49965-h.htm> - 
+  Dao De Jing by Lao Zi, A Minimalist Translation -
+  "... an exact translation of every Chinese
+  symbol in the original text, with as few added words and paraphrasing as
+  possible.  This results in sentences which hopefully provide a more
+  literal translation, but are bare and minimalist, sometimes awkward, and
+  often doesnt make sense.  You, the reader, will have to wrestle with
+  some sentences, trying to wring out of them whatever meaning their
+  author was trying to express 2300 years ago, instead of my simply
+  telling you what I think they mean. ..."
+
+  Each chapter is laid out in four adjacent panels, Chinese characters in
+  the upper left, translation in the upper right, notes on the translation
+  in the two lower panels.
+
+- <https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/> - *Halt
+  and Catch Fire* syllabus - "This site features a curriculum developed
+  around the television series, *Halt and Catch Fire* (2014-2017), a
+  fictional narrative about people working in tech during the 1980s-1990s.
+  ..."
+
+ 7 Jan 2021
 
 - <http://taeyoonchoi.com/poetic-computation/handmade-computers/handmade-computer/> - Handmade Computer Workshop - 
   "I've been making primitive computers with discrete components and logic
   gates. ... What can we do with very little computational power? Are
   there space for poetry in those machines?"
 
- 5 Jan 2020
+ 5 Jan 2021
 
 - <https://www.are.na/blog/commonplace-books> - Commonplace Books - *by
   keeping an account of your readings, you made a book of your own,   one
@@ -430,12 +453,11 @@ Companion page, a commonplace book:
 - <https://chipflip.wordpress.com/2012/02/06/the-working-class-of-computer-art/> -
   striking abstract logo, well matched to content.
 
-- <https://wiki.xxiivv.com/site/home.html> - simple elements combine to
-  make a distinctive look: unique logo and links at the
-  top left, striking use of black and white and empty space, and of black
+- <https://wiki.xxiivv.com/site/home.html> - unique logo and links at the
+  top left, striking use of black and white and empty space, and of   black
   and white photos on linked pages.  Text slightly smaller than typical, and
   unconventional appearance of links, make the ordinary typography look
-  unusual.  Many many associated pages: <https://webring.xxiivv.com/>
+  unusual.
 
 - <https://100r.co/site/home.html> - similar to *xxiivv* above, by the same
   authors.
