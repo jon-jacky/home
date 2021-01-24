@@ -36,12 +36,20 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   fictional narrative about people working in tech during the 1980s-1990s.
   ..."
 
- 7 Jan 2021
+ 7 Jan 2021, 24 Jan 2021
 
 - http://taeyoonchoi.com/poetic-computation/handmade-computers/handmade-computer/ - Handmade Computer Workshop - 
   "I've been making primitive computers with discrete components and logic
   gates. ... What can we do with very little computational power? Are
   there space for poetry in those machines?"
+
+- http://www.ireneposch.net/the-embroidered-computer/ - 
+  "The Embroidered Computer is an exploration into using historic gold
+  embroidery materials and knowledge to craft a programmable 8 bit
+  computer. Solely built from a variety of metal threads, magnetic, glass
+  and metal beads ...  Technically, the piece consists of (textile)
+  relays, similar to early computers before the invention of
+  semiconductors. ...
 
  5 Jan 2021
 
