@@ -21,7 +21,7 @@ Companion page, a commonplace book:
   symbol in the original text, with as few added words and paraphrasing as
   possible.  This results in sentences which hopefully provide a more
   literal translation, but are bare and minimalist, sometimes awkward, and
-  often doesnt make sense.  You, the reader, will have to wrestle with
+  often doesn't make sense.  You, the reader, will have to wrestle with
   some sentences, trying to wring out of them whatever meaning their
   author was trying to express 2300 years ago, instead of my simply
   telling you what I think they mean. ..."
@@ -35,6 +35,10 @@ Companion page, a commonplace book:
   around the television series, *Halt and Catch Fire* (2014-2017), a
   fictional narrative about people working in tech during the 1980s-1990s.
   ..."
+
+  Author's comments on the page design:
+  <https://news.ycombinator.com/item?id=25917632> and 
+  <https://news.ycombinator.com/item?id=25912863>
 
  7 Jan 2021, 24 Jan 2021
 
