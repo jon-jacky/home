@@ -176,7 +176,7 @@ Companion page, a commonplace book:
   Work influenced by Ivan Illich appears at 23 Nov 2020, 17 Feb 2020, and
   2 Sep 2019.
 
-23 Nov 2020
+23 Nov 2020, 31 Jan 2021
 
 - <http://akkartik.name/akkartik-convivial-20200607.pdf> - 
   Bicycles for the Mind Have to Be See-Through by Kartik Agaram
@@ -342,6 +342,27 @@ Companion page, a commonplace book:
   built by others so one never has to think about the details. ... I
   usually try to avoid the term 'abstraction' because it's gotten so
   debased. ..."
+
+- <http://akkartik.name/post/mu-2020> - The Mu Computer in 2020 -
+
+  "It seems to me that modern computers trap people in a vicious cycle.
+  ... Over the decades this vicious cycle leads to even professional
+  programmers understanding only a tiny fraction of the software
+  infrastructure that runs their computers. As a result, our world is
+  increasingly captured by software that is unaccountable to people.
+
+  For several years now I've had a vision for a computer that allows
+  anyone to audit its inner workings ...
+  Ideally it would do this in a way that rewards curiosity, leading to a
+  virtuous cycle where an order of magnitude more people grow to
+  understand how their computer works as they use it.
+
+  Nowhere in this picture are compatibility guarantees, version numbers or
+  forced upgrades. At any point your computer should be internally
+  consistent and free of known historical accidents. Even if this means
+  upgrades are more work and so more infrequent, and that our computers
+  must be slower. Or do less. That seems like a worthwhile trade for a
+  more sustainable world. ..."
 
   Other work influenced by Ivan Illich appears at 17 Feb 2020 and 2 Sep 2019.
 
