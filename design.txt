@@ -481,9 +481,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   empty space
 
 - http://cap-lore.com/Hardware/ - no-style as a style in its own right.
-  Just a long long list of topics, each a link to an essay by the
-  author, crammed into an absolutely unadorned single page.  
-  The parent home page http://cap-lore.com/ links to many more pages like this.
+  Just a long list of topics, each a link to an essay by the
+  author, crammed into an unadorned single page.  
+  The parent home page http://cap-lore.com/ links to more pages like this.
   Most of the essays are recollections and opinions about computers, networks,
   and programming reaching back to the 1950s.
 
