@@ -27,7 +27,6 @@ Companion page, a commonplace book:
  7 Jan 2021
 
 - <https://www.are.na/blog/taeyoon-choi> - Taeyoon Choi, co-founder of School for Poetic Computation -   
-
   "We struck up a conversation around 2013 because student debt was such
   a big issue for teachers. We thought that there must be other ways of
   sharing what we do without charging that much. We wanted to make the
@@ -496,7 +495,7 @@ Companion page, a commonplace book:
 
   More on HyperCard at 24 Feb 2020 and 28 Feb 2019, below.
 
-23 Apr 2020
+23 Apr 2020, 30 Jan 2021
 
 - <https://queue.acm.org/detail.cfm?id=1039523> - A Conversation with Alan Kay 
   (2004) -
@@ -514,6 +513,61 @@ Companion page, a commonplace book:
   than educating unsophisticated people can happen.
   In the last 25 years or so, we actually got something like a pop
   culture, similar to what happened when television came on the scene ..."
+
+- <https://link.springer.com/content/pdf/bbm>:978-3-319-90008-7/1.pdf -
+  Dr. Dobb's Interview with Alan Kay by Andrew Binstock, July 10, 2012 -
+  ".. I also happen to believe in history. The lack of interest, the
+  disdain for history is what makes computing not-quite-a-field.
+
+  *You once referred to computing as pop culture.*
+
+  It is. Complete pop culture. I'm not against pop culture. Developed
+  music, for instance, needs a pop culture. There's a tendency to over-
+  develop.  Brahms and Dvorak needed gypsy music ...
+  The big problem with our culture is that it's being dominated, because the
+  electronic media we have is so much better suited for transmitting pop-
+  culture content than it is for high-culture content.
+
+  .. pop culture holds a disdain for history. Pop culture is all about
+  identity and feeling like you're participating. It has nothing to do with
+  cooperation, the past or the future -- it's living in the present. I think
+  the same is true of most people who write code for money. They have no
+  idea where (their culture came from) and the Internet was done so well
+  that most people think of it as a natural resource like the Pacific
+  Ocean, rather than something that was man-made. When was the last time a
+  technology with a scale like that was so error-free?"
+
+- <https://www.cioinsight.com/print/c/a/Expert-Voices/Alan-Kay-The-PC-Must-Be-Revamped151Now>
+  Alan Kay: The PC Must be Revamped Now -
+  "... the computing profession acts as if there isn't anything to learn
+  from the past ...
+
+  The things that are wrong with the Web today are due to this lack of
+  curiosity in the computing profession. And it's very characteristic of a
+  pop culture. Pop culture lives in the present; it doesn't really live in
+  the future or want to know about great ideas from the past. I'm saying
+  there's a lot of useful knowledge and wisdom out there for anybody who
+  is curious, and who takes the time to do something other than just
+  executing on some current plan. Cicero said, "Who knows only his own
+  generation remains always a child." People who live in the present often
+  wind up exploiting the present to an extent that it starts removing the
+  possibility of having a future."
+
+- <http://www.vpri.org/pdf/m2004001_power.pdf> - The Power of Context - 
+  Alan Kay recalls the ARPA/PARC heyday, with pictures and bibliography.
+
+  "... in programming there is a widespread first order theory that one
+  shouldn't build one's own tools, languages, and especially operating
+  systems.  This is true --- an incredible amount of time and energy has
+  gone down these ratholes.  On the second hand, if you *can* build your
+  own tools, languages, and operating systems you *absolutely should*
+  because the leverage that can be obtained (and often the time not
+  wasted in trying to fix other people's not quite right tools) can be
+  incredible."
+
+- <https://www.quora.com/profile/Alan-Kay-11/answers> - Alan Kay on Quora -
+  Includes recollections and opinions about many influential systems from
+  the past.
 
 22 Apr 2020
 
