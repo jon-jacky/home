@@ -480,6 +480,13 @@ Companion page, a commonplace book:
 - <https://twobithistory.org/timeline.html> - table of contents, plenty of
   empty space
 
+- <http://cap-lore.com/Hardware/> - no-style as a style in its own right.
+  Just a long long list of topics, each a link to an essay by the
+  author, crammed into an absolutely unadorned single page.
+  The parent home page <http://cap-lore.com/> links to many more pages like this.
+  Most of the essays are recollections and opinions about computers, networks,
+  and programming reaching back to the 1950s.
+
 17 Apr 2020
 
 - <https://github.com/shreevatsa/knuth-literate-programs/blob/master/programs/advent.pdf> -

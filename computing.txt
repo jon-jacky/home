@@ -537,7 +537,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Ocean, rather than something that was man-made. When was the last time a
   technology with a scale like that was so error-free?"
 
-- https://www.cioinsight.com/print/c/a/Expert-Voices/Alan-Kay-The-PC-Must-Be-Revamped151Now
+- https://www.cioinsight.com/print/c/a/Expert-Voices/Alan-Kay-The-PC-Must-Be-Revamped151Now -
   Alan Kay: The PC Must be Revamped Now -
   "... the computing profession acts as if there isn't anything to learn
   from the past ...
@@ -568,6 +568,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://www.quora.com/profile/Alan-Kay-11/answers - Alan Kay on Quora -
   Includes recollections and opinions about many influential systems from
   the past.
+
+  More from Alan Kay at 9 Sep 2019 and 24 Sep 2018.
 
 22 Apr 2020
 
