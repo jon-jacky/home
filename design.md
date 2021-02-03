@@ -438,32 +438,20 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing: designs for blogs and personal web pages.
+21 Apr 2020 and ongoing: designs for blogs and personal web pages,
+   most recent at the top.
 
-- <https://text.nxg.me.uk/archive.html> - "Python methods are not functions" and more.
+- <https://c9x.me/> - double column table of contents.
 
-- <https://www.pippinbarr.com/category/words/> - "It is as if you were doing work" and more.
+- <http://cap-lore.com/Hardware/> - no-style as a style in its own right.
+  Just a long list of topics, each a link to an essay by the
+  author, crammed into an unadorned single page.
+  The parent home page <http://cap-lore.com/> links to more pages like this.
+  Most of the essays are recollections and opinions about computers, networks,
+  and programming reaching back to the 1950s.
 
-- <http://linux.topology.org/> - "linux micro-howto notes ... share the pain" and links to more.
-
-- <https://philosopher.life/> - "I need a constantly updating set of logs ..."
-  built from <https://tiddlywiki.com/>
-
-- <https://www.mentalnodes.com/folders-kill-creativity> - another tiddlywiki site,
-  but different.
-
-- <https://alligatorbrowser.github.io/voidnill.github.io/a/a32.1.html> - a Zettelkasten, 
-  see I link in top line.
-
-- <https://heatherbooker.github.io/blog/archive/> - "im not a programmer" and more.
-
-- <https://christine.website/blog/why-i-use-suckless-tools-2020-06-05> - 
-  markdown source as a style in its own right.
-
-- <https://www.eigenbahn.com/> - uncrowded, nice use of color.
-
-- <https://chipflip.wordpress.com/2012/02/06/the-working-class-of-computer-art/> -
-  striking abstract logo, well matched to content.
+- <https://twobithistory.org/timeline.html> - table of contents, plenty of
+  empty space
 
 - <https://wiki.xxiivv.com/site/home.html> - simple elements combine to
   make a distinctive look: unique logo and links at the
@@ -477,15 +465,30 @@ Companion page, a commonplace book:
 
 - <https://xxyxyz.org/> - font complements the open, simple appearance.
 
-- <https://twobithistory.org/timeline.html> - table of contents, plenty of
-  empty space
+- <https://chipflip.wordpress.com/2012/02/06/the-working-class-of-computer-art/> -
+  striking abstract logo, well matched to content.
 
-- <http://cap-lore.com/Hardware/> - no-style as a style in its own right.
-  Just a long list of topics, each a link to an essay by the
-  author, crammed into an unadorned single page.
-  The parent home page <http://cap-lore.com/> links to more pages like this.
-  Most of the essays are recollections and opinions about computers, networks,
-  and programming reaching back to the 1950s.
+- <https://www.eigenbahn.com/> - uncrowded, nice use of color.
+
+- <https://christine.website/blog/why-i-use-suckless-tools-2020-06-05> - 
+  markdown source as a style in its own right.
+
+- <https://heatherbooker.github.io/blog/archive/> - "im not a programmer" and more.
+
+<!-- - <https://alligatorbrowser.github.io/voidnill.github.io/a/a32.1.html> - a Zettelkasten, 
+  see I link in top line.  BROKEN LINK -->
+
+- <https://philosopher.life/> - "I need a constantly updating set of logs ..."
+  built from <https://tiddlywiki.com/>
+
+- <https://www.mentalnodes.com/folders-kill-creativity> - another tiddlywiki site,
+  but different.
+
+- <https://www.pippinbarr.com/category/words/> - "It is as if you were doing work" and more.
+
+- <https://text.nxg.me.uk/archive.html> - "Python methods are not functions" and more.
+
+- <http://linux.topology.org/> - "linux micro-howto notes ... share the pain" and links to more.
 
 17 Apr 2020
 
