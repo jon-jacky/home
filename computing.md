@@ -19,12 +19,12 @@ Companion page, a commonplace book:
   problems is more efficient than looking for solutions. ...
   We will always choose a lesser home-brewed tool tailored specifically to
   our own needs, over a better generic tool that we have not built and do
-  not understand. ...
+  not understand. ..."
 
   <https://futureofcoding.org/episodes/044> - *Future of Coding*, 2020-02-03,
   interview with Devine Lu Linvega:
 
-  ... I never want to have a stronger computer than the one I have
+  "... I never want to have a stronger computer than the one I have
   today.  There's no reason I shouldn't be able to do what I want with the
   things that I have today. Walking that treadmill of thinking that I need a
   stronger computer to do more things... I think computing capped in the
