@@ -16,8 +16,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
 22 - 28 Dec 2020
 
-- *War and Peace* by Leo Tolstoy, translated by Louise and Aylmer Maude,
-  Book III, Chapter VII (no link):
+- *War and Peace* by Leo Tolstoy (1869), translated by Louise and Aylmer 
+  Maude (1923), Book III, Chapter VII (no link):
   
   "... (Boris) asked him to tell them how and where he got his wound.
   This pleased Rostov and he began talking about it, and as he went on 
@@ -41,7 +41,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   people are rarely capable of it.  His hearers expected a story of how beside
   himself and all aflame from excitement, he had flown like a storm at the 
   square, cut himself in, slashed right and left, how his sabre had tasted
-  flesh, and he had fallen exhausted, and so on.  And so he told them all t
+  flesh, and he had fallen exhausted, and so on.  And so he told them all
   that."
 
 - *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), (no link):
