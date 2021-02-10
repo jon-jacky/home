@@ -12,14 +12,17 @@ Companion page, a commonplace book:
 
  9 Feb 2021
 
-- <https://futureofcoding.org/episodes/044> - *Future of Coding*
-  interview with Devine Lu Linvega -- Making Your Own Tools -- 2020-02-03:
+- <https://esoteric.codes/blog/100-rabbits> - *Esoteric Codes*, 2021-02-04,
+  Interview with 100 Rabbits:
 
-  Our development philosophy comes down to a strong belief that solving
+  "Our development philosophy comes down to a strong belief that solving
   problems is more efficient than looking for solutions. ...
   We will always choose a lesser home-brewed tool tailored specifically to
   our own needs, over a better generic tool that we have not built and do
   not understand. ...
+
+  <https://futureofcoding.org/episodes/044> - *Future of Coding*, 2020-02-03,
+  interview with Devine Lu Linvega:
 
   ... I never want to have a stronger computer than the one I have
   today.  There's no reason I shouldn't be able to do what I want with the
