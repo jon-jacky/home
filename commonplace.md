@@ -14,7 +14,7 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
-22 - 28 Dec 2020
+ 9 Feb 2021
 
 - *War and Peace* by Leo Tolstoy (1869), translated by Louise and Aylmer
   Maude (1923), Book III, Chapter VII (no link):
@@ -43,6 +43,8 @@ Some of my own comments:
   square, cut himself in, slashed right and left, how his sabre had tasted
   flesh, and he had fallen exhausted, and so on.  And so he told them all
   that."
+
+22 - 28 Dec 2020
 
 - *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), (no link):
 

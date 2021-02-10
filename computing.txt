@@ -10,6 +10,28 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 9 Feb 2021
+
+- https://futureofcoding.org/episodes/044 - *Future of Coding*
+  interview with Devine Lu Linvega -- Making Your Own Tools -- 2020-02-03:
+
+  *Devine*: "... I never want to have a stronger computer than the one I have 
+  today.  There's no reason I shouldn't be able to do what I want with the 
+  things that I have today. Walking that treadmill of thinking that I need a
+  stronger computer to do more things... I think computing capped in the
+  80s. Nothing really improved. For me right now, for the few basic things
+  that I need computers for, I don't see why I should want to keep getting
+  more processing power. So what I want to do now is gradually learn how
+  to go a little bit deeper and build the things on a smaller stack of
+  technologies. One of my big hobbies right now is  how can I make
+  everything run on Scheme, or run on vanilla C. ...
+  I also want to be independent from a lot of the things that I find are
+  destroying the environment right now. The treadmill of disposable
+  electronics. I would love to be able to just keep on using disused or
+  secondhand computers, and just keep on doing the things I like to do
+  with them, without having to constantly keep up with the updates of
+  Chrome, and so on."
+
 21 Jan 2021
 
 - https://canvas.harvard.edu/courses/34992/assignments/syllabus - 
