@@ -19,10 +19,29 @@ Companion page, a commonplace book:
   problems is more efficient than looking for solutions. ...
   We will always choose a lesser home-brewed tool tailored specifically to
   our own needs, over a better generic tool that we have not built and do
-  not understand. ..."
+  not understand. ...
+
+  Our philosophy of software development is advised principally by our
+  lifestyle and the internet and power scarcity that it entails. Since we
+  build everything from a sailboat, our power comes principally from the
+  solar energy we collect throughout the day. We normally only work on the
+  computer while the sun is up.
+
+  This restriction forced us to consider ways to extend the life of our
+  computer's batteries by discarding heavy toolchains, such as XCode.
+  Bloated software such as Slack, or DRM-protected software such as
+  Photoshop, were not viable options to us, so we turned to open-source to
+  find software that we could repair ourselves, and that did not require
+  constant internet access.
+
+  We found that even within open-source, a lot of software was poorly-
+  built and did not address our specific needs, so we began building the
+  missing pieces ourselves. We tried using web technologies at first, but
+  the resulting applications were slow and inefficient, we have since
+  rebuilt our tools in plain C."
 
   <https://futureofcoding.org/episodes/044> - *Future of Coding*, 2020-02-03,
-  interview with Devine Lu Linvega:
+  interview with Devine Lu Linvega (of 100 Rabbits):
 
   "... I never want to have a stronger computer than the one I have
   today.  There's no reason I shouldn't be able to do what I want with the
@@ -50,7 +69,7 @@ Companion page, a commonplace book:
   advised the way I interact with the computer. Even though there's less
   and less people that are interested in that kind of stuff, I can still
   try to live in that space and build things for that space. I'm pretty
-  sure it's a completely forgotten demographic. ...
+  sure it's a completely forgotten demographic. ..."
 
 21 Jan 2021
 
