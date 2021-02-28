@@ -13,6 +13,29 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+28 Feb 2021
+
+- https://github.com/nornagon/jonesforth/blob/master/jonesforth.S -   
+  This is a mirror of Richard WM Jones's excellent literate x86 assembly
+  implementation of Forth, more on which here:
+  http://rwmj.wordpress.com/2010/08/07/jonesforth-git-repository/
+
+  "... FORTH is minimal.  You really can write a complete FORTH in, say, 2000
+  lines of code.  I don't just mean a FORTH program, I mean a complete
+  FORTH operating system, environment and language.  You could boot such a
+  FORTH on a bare PC and it would come up with a prompt where you could
+  start doing useful work.  The FORTH you have here isn't minimal and uses
+  a Linux process as its 'base PC' (both for the purposes of making it a
+  good tutorial). ...
+
+  ... FORTH has a peculiar bootstrapping property.  By that I mean that
+  after writing a little bit of assembly to talk to the hardware and
+  implement a few primitives, all the rest of the language and compiler is
+  written in FORTH itself. ..."
+
+  A 'literate program' presented in a single assembly language source
+  program file.
+  
 22 Jan 2021
 
 - http://www.gutenberg.org/files/49965/49965-h/49965-h.htm - 
