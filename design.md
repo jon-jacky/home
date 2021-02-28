@@ -36,6 +36,9 @@ Companion page, a commonplace book:
   A 'literate program' presented in a single assembly language source
   program file.
 
+  See also <https://github.com/organix/pijFORTHos> - A bare-metal operating
+  system for Raspberry Pi, based on *Jonesforth*
+
 22 Jan 2021
 
 - <http://www.gutenberg.org/files/49965/49965-h/49965-h.htm> - 
