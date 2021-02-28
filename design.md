@@ -15,7 +15,7 @@ Companion page, a commonplace book:
 
 28 Feb 2021
 
-- <https://github.com/nornagon/jonesforth/blob/master/jonesforth.S> -   
+- <https://github.com/nornagon/jonesforth/blob/master/jonesforth.S> -
   This is a mirror of Richard WM Jones's excellent literate x86 assembly
   implementation of Forth, more on which here:
   <http://rwmj.wordpress.com/2010/08/07/jonesforth-git-repository/>
