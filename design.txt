@@ -16,8 +16,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 28 Feb 2021
 
 - https://github.com/nornagon/jonesforth/blob/master/jonesforth.S -
-  This is a mirror of Richard WM Jones's excellent literate x86 assembly
-  implementation of Forth, more on which here:
+  A 'literate program' presented in a single assembly language source
+  program file. This is a mirror of Richard WM Jones's excellent literate
+  x86 assembly implementation of Forth, more on which here:
   http://rwmj.wordpress.com/2010/08/07/jonesforth-git-repository/
 
   "... FORTH is minimal.  You really can write a complete FORTH in, say, 2000
@@ -32,12 +33,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   after writing a little bit of assembly to talk to the hardware and
   implement a few primitives, all the rest of the language and compiler is
   written in FORTH itself. ..."
-
-  A 'literate program' presented in a single assembly language source
-  program file.
   
   See also https://github.com/organix/pijFORTHos - A bare-metal operating
-  system for Raspberry Pi, based on *Jonesforth*
+  system for Raspberry Pi, based on *Jonesforth*, and also
+  https://github.com/kragen/stoneknifeforth
 
 22 Jan 2021
 
