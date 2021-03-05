@@ -128,9 +128,9 @@ Companion page, a commonplace book:
   The code is explained here: <https://www.masswerk.at/spacewar/inside/>
 
   More history and background, and many more pictures:
-  <https://www.masswerk.at/spacewar/SpacewarOrigin.html> More about the
-  PDP-1, with explanation and close-up photos of its console:
-  <https://www.masswerk.at/nowgobang/2021/pdp1-spotting>
+  <https://www.masswerk.at/spacewar/SpacewarOrigin.html>
+  More about the first PDP-1s, with explanations and close-up photos of their
+  consoles: <https://www.masswerk.at/nowgobang/2021/pdp1-spotting>
 
  7 Nov 2020
 
