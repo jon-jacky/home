@@ -13,6 +13,15 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Mar 2021
+
+- https://vole.wtf/kilobytes-gambit/ - The Kilobytes Gambit - 
+  "Can you beat 1024 bytes of Javascript?" - Click *Next*, then
+  *How it works*.  
+
+  See also https://github.com/thomasahle/sunfish, a small
+  -- but well-explained -- chess engine in Python.
+
 28 Feb 2021
 
 - https://github.com/nornagon/jonesforth/blob/master/jonesforth.S -
@@ -86,7 +95,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   keeping an account of your readings, you made a book of your own,   one
   stamped with your personality.* - Robert Danton
 
- 1 Jan 2020
+ 1 Jan 2021
 
 - https://github.com/marcpaq/arpilisp/blob/master/arpilisp.s -
   Lisp Interpreter for Raspberry Pi -
