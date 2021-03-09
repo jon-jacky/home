@@ -16,8 +16,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
  7 Mar 2021
 
 - https://vole.wtf/kilobytes-gambit/ - The Kilobytes Gambit - 
-  "Can you beat 1024 bytes of Javascript?" - Click *Next*, then
-  *How it works*.  
+  "Can you beat 1024 bytes of Javascript?" - Click *Next*, then *How it
+  works*.  A typical comment from
+  https://news.ycombinator.com/item?id=26380110: "Sharing other people's
+  amazement that such a tiny amount of code plays so well ... It's not just
+  impressive that this program plays decently while being tiny, but
+  especially that it plays decently *and quickly* while being tiny.
 
   See also https://github.com/thomasahle/sunfish, a small
   -- but well-explained -- chess engine in Python.
