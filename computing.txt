@@ -1745,10 +1745,6 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   environment variables which could be thought as dynamically-scoped
   variables."
 
-- https://www.gocomics.com/nancy/2018/04/09 - Nancy - Contemporary take
-  on the ancient comic strip by a new cartoonist:
-  https://www.vulture.com/2018/11/new-nancy-cartoonist-olivia-jaimes.html
-
 23 Nov 2018
 
 - http://www.jfsowa.com/computer/memo125.htm - Memo 125 by John

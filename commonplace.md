@@ -2580,24 +2580,6 @@ Some of my own comments:
   See also *The Ruin of Britain* by Gildas,
   <https://blogs.bl.uk/digitisedmanuscripts/2019/06/gildas.html>
 
-14 Apr 2019
-
-- <http://www.laffpix.com/howtoreadnancy.pdf> - How To Read Nancy by Mark
-  Newgarden and Paul Karasik - "'How to read Nancy?' you may sneer, 'You
-  might as well explain how to read a stop sign.'  You're half right, but
-  there's a lot more to Enrie Bushmiller's work than meets the eye ... No
-  other cartoonist has worked with such consistent economy ... Nancy only
-  appears to be simple at a casual glance. ... Minimalist? Formalist?
-  Structuralist?  Cartoonist!
-
-  There is little that is beneath Bushmiller in his quest for a gag.
-  A kind of sublime dumbness became Bushmiller's personal territory and
-  he mined it brilliantly. ...  Bushmiller realized that gag knows no
-  I.Q. and that the success or failure of a given gag relies much more
-  on its own inner mechanisms than the sophistication of its premise. ...
-
-  (See link below to the new Nancy strip by another cartoonist.)
-
 31 Mar 2019
 
 - *The Autobiography of Malcolm X* as told to Alex Haley (1965),

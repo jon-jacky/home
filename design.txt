@@ -13,6 +13,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+11 Mar 2021
+
+- https://github.com/tilleul/apple2/tree/master/tools/6502_assembler -
+  "This is a full-featured 6502 assembler with linker in a
+  spreadsheet (works with Excel, Libre Office, etc.)."
+
  7 Mar 2021
 
 - https://vole.wtf/kilobytes-gambit/ - The Kilobytes Gambit - 
@@ -727,6 +733,30 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - http://wenyan-lang.lingdong.works/ also https://github.com/LingDong-/wenyan-lang - 
   "... an esoteric programming language ... guaranteed to be readable by 
   ancient Chinese people ..."
+
+14 Apr 2019
+
+- http://www.laffpix.com/howtoreadnancy.pdf - How To Read Nancy by Mark
+  Newgarden and Paul Karasik - "'How to read Nancy?' you may sneer, 'You
+  might as well explain how to read a stop sign.'  You're half right, but
+  there's a lot more to Enrie Bushmiller's work than meets the eye ... No
+  other cartoonist has worked with such consistent economy ... Nancy only
+  appears to be simple at a casual glance. ... Minimalist? Formalist?
+  Structuralist?  Cartoonist!
+
+  There is little that is beneath Bushmiller in his quest for a gag.
+  A kind of sublime dumbness became Bushmiller's personal territory and
+  he mined it brilliantly. ...  Bushmiller realized that gag knows no
+  I.Q. and that the success or failure of a given gag relies much more
+  on its own inner mechanisms than the sophistication of its premise. ...
+
+  (See link below to the new Nancy strip by another cartoonist.)
+
+27 Nov 2018
+
+- https://www.gocomics.com/nancy/2018/04/09 - Nancy - Contemporary take
+  on the ancient comic strip by a new cartoonist:
+  https://www.vulture.com/2018/11/new-nancy-cartoonist-olivia-jaimes.html
 
  7 Oct 2018
 
