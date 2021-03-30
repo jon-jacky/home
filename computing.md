@@ -1262,7 +1262,7 @@ Companion page, a commonplace book:
   and they can't easily be taken apart and understood in an evening, like they used to.
   So I figured I can just make my own then, just the way I like it."
 
-8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020
+8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021
 
 - <https://news.ycombinator.com/item?id=1476059>, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -1366,6 +1366,13 @@ Companion page, a commonplace book:
 - <https://news.ycombinator.com/item?id=25038572> comment by *Upvoter* on
   Why are so many coders still using Vim and Emacs? -
   "Because emacs is awesome. Every key press runs a program(!) ..."
+
+- <https://news.ycombinator.com/item?id=26581051>, comment by *tharne* on
+  Emacs 27.2:
+  " I prefer vim as an editor, but in terms of being a unique and
+  fascinating piece of software, emacs wins hands down. There's something
+  really cool about the fact that you can't easily answer the question,
+  "What is emacs similar to?", because it's such a total sui generis."
 
 - <https://news.ycombinator.com/item?id=6322734>, comment by *samatman* on
   Start Using Emacs  A Thorough Guide for Beginners:
