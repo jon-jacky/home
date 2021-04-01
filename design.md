@@ -13,13 +13,23 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+31 Mar 2021
+
+- <https://esoteric.codes/blog/jon-corbett> - 
+  "Jon Corbett's languages *Cree#* and *Ancestral Code* allow programming in
+  Cree keywords using Cree concepts and metaphors. ...
+
 11 Mar 2021
 
 - <https://github.com/tilleul/apple2/tree/master/tools/6502_assembler> -
   "This is a full-featured 6502 assembler with linker in a
   spreadsheet (works with Excel, Libre Office, etc.)."
 
- 7 Mar 2021
+- <https://linusakesson.net/scene/a-mind-is-born/> - A Mind is Born - 
+  animated graphics with music, all in 256 bytes of 6502 assembler
+  for Commodore 64, with a byte-by-byte explanation of how it works.
+
+ 7 Mar 2021, 31 Mar 2021
 
 - <https://vole.wtf/kilobytes-gambit/> - The Kilobytes Gambit - 
   "Can you beat 1024 bytes of Javascript?" - Click *Next*, then *How it
@@ -801,13 +811,15 @@ Companion page, a commonplace book:
   <http://miguelabreugallery.com/exhibitions/grounding-vision-waclaw-szpakowski/>
   (click images link in upper right corner)
 
-22 May 2018
+22 May 2018, 31 Mar 2021
 
 - <http://www.ubuweb.com/> UbuWeb.  "All avant-garde.  All the time."
   One of many many pages is <http://www.ubu.com/emr/> Electronic Music
   Resources: "We've taken the filing cabinet as our model, rather
   than the museum, and our focus is on historical and rare material
   rather than recent developments."  Interesting austere page design.
+
+  About: <https://lrb.co.uk/the-paper/v43/n07/gill-partington/your-hat-sucks>
 
 26 Apr 2018
 
