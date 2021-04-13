@@ -57,7 +57,7 @@ Some of my own comments:
   laws.
 
   Anyway, all of the novelists listed here have added something to our
-  knowledge of the human conditions (sleeping or waking), have managed
+  knowledge of the human condition (sleeping or waking), have managed
   language well, have clarified the motivations of action, and have
   sometimes expanded the bounds of imagination.  And they entertain, or
   divert, which means to turn our faces away from the repetitive patterns
