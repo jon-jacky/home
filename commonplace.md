@@ -14,6 +14,57 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+12 Apr 2010
+
+- *99 Novels: The Best in English Since 1939* by Anthony Burgess (1985),
+  *Introduction*, p. 18-20 (no link):
+
+  "George Orwell ... said that, with any author he found sympathetic,
+  a portrait of the author seemed to rise from the page -- not necessarily
+  like the author as he really was but more the author as he ought to be.
+  ... The implication here is that the personaility of the novelist is
+  important to us -- the personality as revealed in his work and not in his
+  private life (the private lives of many artists do not bear looking at).
+  ... Some novelists, like Gustave Flaubert and James Joyce, have tried to
+  obliterate themselves entirely from their fictions, seeking the anonymity
+  of the divine creator, but they reveal themselves in style and imagery and
+  cannot altogether hide their attitudes toward their characters.  It is clear
+  that Joyce is on the side of Bloom, though he never intrudes to make
+  a comment, as Thackeray and Dickens always did. ...
+
+  We do not demand of an author that he be an intellectual ... but we
+  have a right to intelligence, a knowledge of the human soul, a certain
+  decency -- quite apart from professional skill.  Probably this imputation
+  of decency is important: all great novels have been about people trying
+  to be kinder, more tolerant. ...  This does not mean that authors have to
+  be nice to their characters. ... But the way of tragedy is the way of
+  arousing not only terror but pity.  Some characters have to suffer to
+  demonstrate the horror of life, but the author takes only a technical
+  pleasure in delineating those sufferings.  Novels are about the human
+  condition, which is not easy, and how, if possible, to cope with it.
+  The author is concerned about this, and he is concerned that you, the
+  reader, be concerned.
+
+  It is very hard indeed to devise universal parameters for the novel.
+  ... But I do know that we carry a scale of values whereby we know
+  that *Anna Karenina* is a great novel and *The Carpetbaggers* an inferior
+  one, and that our standards have something to do with the management of
+  language and concern with the human personality.  Sometimes the management
+  of language will be so remarkable that we will be prepared to forgive the
+  lack of human interest; sometimes character interest will condone verbal
+  and structural incompetence.  Judging a novel is a rule-of-thumb matter;
+  we cannot appeal to any aesthetic tribunal which will lay down universal
+  laws.
+
+  Anyway, all of the novelists listed here have added something to our
+  knowledge of the human conditions (sleeping or waking), have managed
+  language well, have clarified the motivations of action, and have
+  sometimes expanded the bounds of imagination.  And they entertain, or
+  divert, which means to turn our faces away from the repetitive patterns
+  of daily life and look at humanity and the world with a new interest and
+  even joy. ... We want to entertain, surprise, and present the preoccupations
+  of real human beings through invented ones."
+
  9 Feb 2021
 
 - *War and Peace* by Leo Tolstoy (1869), translated by Louise and Aylmer
