@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+14 Apr 2021
+
+- <https://marinakittaka.com/posts/2021-02-26-Good-Ol-Charlie-B.html> -
+  Good ol' Charlie B - *Peanuts* comic strip artwork and characters
+  brought into the present day.
+
+  See also the *Nancy* comic strip in the present, 27 Nov 2018 below.
+
 31 Mar 2021
 
 - <https://esoteric.codes/blog/jon-corbett> - 
