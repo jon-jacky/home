@@ -46,8 +46,8 @@ Companion page, a commonplace book:
   impressive that this program plays decently while being tiny, but
   especially that it plays decently *and quickly* while being tiny.
 
-  See also <https://leanchess.github.io/> - "The world's smallest chess program"
-  - 288 bytes
+  See also <https://leanchess.github.io/> -
+  "The world's smallest chess program ... 288 bytes long"
 
   See also <https://github.com/thomasahle/sunfish>, a small
   -- but well-explained -- chess engine in Python.
