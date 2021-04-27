@@ -36,7 +36,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   animated graphics with music, all in 256 bytes of 6502 assembler 
   for Commodore 64, with a byte-by-byte explanation of how it works.
 
- 7 Mar 2021, 31 Mar 2021
+ 7 Mar 2021, 31 Mar 2021, 26 Apr 2021
 
 - https://vole.wtf/kilobytes-gambit/ - The Kilobytes Gambit - 
   "Can you beat 1024 bytes of Javascript?" - Click *Next*, then *How it
@@ -45,6 +45,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   amazement that such a tiny amount of code plays so well ... It's not just
   impressive that this program plays decently while being tiny, but
   especially that it plays decently *and quickly* while being tiny.
+
+  See also https://leanchess.github.io/ - "The world's smallest chess program"
+  - 288 bytes
 
   See also https://github.com/thomasahle/sunfish, a small
   -- but well-explained -- chess engine in Python.
