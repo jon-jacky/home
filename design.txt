@@ -391,13 +391,19 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   http://wittgensteinrepository.org/agora-ontos/article/view/2076
 
- 7 Jul 2020
+ 7 Jul 2020, 2 May 2021
 
 - https://wizardzines.com/comics/ - "programming zines by Julia Evans ...
   here are some of my favorite pages ..."   Brief hand-drawn and
   hand-lettered tutorials on many technical topics.  Another index 
   to the same content (not Twitter despite title): 
   https://jvns.ca/blog/2020/07/10/twitter-summary-from-2020-so-far/
+
+  Sacha Chua's Hand-lettered Emacs tutorials: 
+  https://sachachua.com/blog/wp-content/uploads/2013/05/How-to-Learn-Emacs-v2-Large.png
+  and https://sachachua.com/blog/wp-content/uploads/2013/08/20130830-Emacs-Newbie-How-to-Learn-Emacs-Keyboard-Shortcuts.png
+  and https://sachachua.com/blog/wp-content/uploads/2013/08/20130830-The-Grumpy-Guide-How-to-Learn-Emacs-Keyboard-Shortcuts1.png
+  and https://sachachua.com/blog/wp-content/uploads/2013/07/2014-02-27-Map-for-getting-the-hang-of-Emacs-movement-emacs-map-guide.png
 
  3 Jun 2020
 
