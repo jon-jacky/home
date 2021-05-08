@@ -21,7 +21,7 @@ Some of my own comments:
   p. 9 - 31 (no link):
 
   "To the world when it was half a thousand years younger, the outlines
-  off all things seemed more clearly marked than to us.  The contrast
+  of all things seemed more clearly marked than to us.  The contrast
   between suffering and joy, between adversity and happiness, appeared
   more striking.  All experience had yet to the minds of men the directness
   and absoluteness of the pleasure and pain of child-life. ...
@@ -31,10 +31,6 @@ Some of my own comments:
   and tended to produce that perpetual oscillation between despair and
   distracted joy, between cruelty and pious tenderness which characterize
   life in the middle ages."
-
-  "Between hellish oppresion and the most childish amusements, between
-  horrible hard-heartedness and tearful tenderness, the populace staggers
-  like a giant with a child's head ... the people lived in extremes."
 
   The frequent processions, too, were a continual source of pious agitation,
   When the times were evil, as often they were, processions were seen
@@ -149,7 +145,11 @@ Some of my own comments:
   tenderness, between harsh asceticism and insane attachment to the delights
   of this world, between hatred and goodness, always running to extremes."
 
-  That third paragraph above with "like a giant" is quoted from another
+  "Between hellish oppresion and the most childish amusements, between
+  horrible hard-heartedness and tearful tenderness, the populace staggers
+  like a giant with a child's head ... the people lived in extremes."
+
+  That last paragraph with "like a giant" is quoted from another
   translation in Wheel of Fortune by David Horspool in *TLS*, Apr 30,
   2021, p. 10. The following article on p. 11-12, Love and Death by
   Alexander Murray, is a review of the new translaton by Diane Webb,
