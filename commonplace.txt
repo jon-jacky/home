@@ -26,25 +26,54 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   more striking.  All experience had yet to the minds of men the directness
   and absoluteness of the pleasure and pain of child-life. ...
 
+  Calamities and indigence were more afflicting than at present; it was
+  more difficult to guard against them, and to find solace.  Illness and
+  health presented a more striking contrast; the cold and darkness of winter
+  were more real evils.  Honors and riches were relished with greater avidity
+  and contrasted more vividly with the surrounding misery.  We, at the present
+  day, can hardly understand the keenness with which a fur coat, a good fire
+  on the hearth, a soft bed, a glass of wine, were formerly enjoyed.
+
+  Then, again, all things of life were of a proud or cruel publicity.
+  Lepers sounded their rattles and went about in processions, beggars 
+  exhibited their deformity and their misery in churches. ... Executions
+  and other public acts of justice, hawking, marriages and funerals, were
+  all announced by cries and processions, songs and music. ...
+
+  A medieval town did not lose itself in extensive suburbs of factories
+  and villas; girded by its walls, it stood out as a compact whole, bristling
+  with innumerable turrets.  However threatening and tall the houses of
+  noblemen and merchants might be, in the aspect of the town the lofty mass 
+  of the churches always remained dominant.
+
+  The contrast between silence and sound, darkness and light, like that
+  between summer and winter, was more strongly marked than it is in our lives.
+  The modern town hardly knows silence or darkness in their purity, nor the
+  effect of a solitary light or a single distant cry.
+  
   All things presenting themselves to the mind in violent contrasts and
   impressive forms, lent a tone of excitement and passion to everyday life
   and tended to produce that perpetual oscillation between despair and
   distracted joy, between cruelty and pious tenderness which characterize
-  life in the middle ages."
+  life in the middle ages. 
 
-  The frequent processions, too, were a continual source of pious agitation,
-  When the times were evil, as often they were, processions were seen 
-  winding along, day after day, for weeks on end. ... A great many small
-  children were always among them. ...
+  The frequent processions, too, were a continual source of pious
+  agitation, When the times were evil, as often they were, processions
+  were seen winding along, day after day, for weeks on end. ... All
+  went barefooted and fasting. ... A great many small children were
+  always among them. ...
 
-  And lastly, most frequent of all, one might almost say, uninterrupted,
-  the executions.  The cruel excitement and coarse compassion raised by
-  an execution formed an important item in the spiritual food of the common
-  people.  They were spectacular plays with a moral.  For horrible crimes
-  the law invented atrocious punishments ... When the criminals were great 
-  lords, the common people had the satisfaction of seeing rigid justice done,
-  and at the same time finding the inconstancy of fortune exemplified more
-  strikingly than in any sermon or picture. ...
+  Then there were the entries of princes, arranged with all the
+  resources of art and luxury belonging to the age.  And lastly, most
+  frequent of all, one might almost say, uninterrupted, the
+  executions.  The cruel excitement and coarse compassion raised by an
+  execution formed an important item in the spiritual food of the
+  common people.  They were spectacular plays with a moral.  For
+  horrible crimes the law invented atrocious punishments ... When the
+  criminals were great lords, the common people had the satisfaction
+  of seeing rigid justice done, and at the same time finding the
+  inconstancy of fortune exemplified more strikingly than in any
+  sermon or picture. ...
 
   Rarer than processions or executions were the sermons of itinerant
   preachers, coming to shake people by their eloquence.  The modern reader
@@ -92,10 +121,16 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   hardly awaken religious passions in countries distant from Avignon and
   of Rome, in which the two popes were known only by name.  Yet in fact 
   it immediately engendered a fanatical hatred, such as exists between
-  the faithful and infidels. ... The emotional character of party sentiments
-  and of fidelity was further heightened by the powerfully suggestive 
-  effect of all the outward signs of these divergences: liveries, colors, 
-  badges, party cries. ...
+  the faithful and infidels. ...  a French political agent, arriving at
+  Utrecht (in Holland) about Easter, could not find a priest there willing 
+  to admit him to the communion service, "because they said I was a schismatic
+  and believed in Benedict the anti-pope."
+
+  The emotional character of party sentiments and of fidelity was
+  further heightened by the powerfully suggestive effect of all the
+  outward signs of these divergences: liveries, colors, badges, party
+  cries. ...  Even priests, women and children wore distinctive
+  signs. ...
 
   In the blind passion with which people followed their lord or their party,
   the unshakable sentiment of right, characteristic of the Middle Ages,
