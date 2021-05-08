@@ -14,7 +14,153 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
-12 Apr 2010
+ 7 May 2021
+
+- *The Waning of the Middle Ages* by Johan Huizinga (1919), translated by
+  Frederick Hopman (1924).  From Chapter 1, The Violent Tenor of Life,
+  p. 9 - 31 (no link):
+
+  "To the world when it was half a thousand years younger, the outlines
+  off all things seemed more clearly marked than to us.  The contrast
+  between suffering and joy, between adversity and happiness, appeared
+  more striking.  All experience had yet to the minds of men the directness
+  and absoluteness of the pleasure and pain of child-life. ...
+
+  All things presenting themselves to the mind in violent contrasts and
+  impressive forms, lent a tone of excitement and passion to everyday life
+  and tended to produce that perpetual oscillation between despair and
+  distracted joy, between cruelty and pious tenderness which characterize
+  life in the middle ages."
+
+  "Between hellish oppresion and the most childish amusements, between
+  horrible hard-heartedness and tearful tenderness, the populace staggers
+  like a giant with a child's head ... the people lived in extremes."
+
+  The frequent processions, too, were a continual source of pious agitation,
+  When the times were evil, as often they were, processions were seen
+  winding along, day after day, for weeks on end. ... A great many small
+  children were always among them. ...
+
+  And lastly, most frequent of all, one might almost say, uninterrupted,
+  the executions.  The cruel excitement and coarse compassion raised by
+  an execution formed an important item in the spiritual food of the common
+  people.  They were spectacular plays with a moral.  For horrible crimes
+  the law invented atrocious punishments ... When the criminals were great
+  lords, the common people had the satisfaction of seeing rigid justice done,
+  and at the same time finding the inconstancy of fortune exemplified more
+  strikingly than in any sermon or picture. ...
+
+  Rarer than processions or executions were the sermons of itinerant
+  preachers, coming to shake people by their eloquence.  The modern reader
+  of newspapers can no longer conceive the violence of impression caused
+  by the spoken word on an ignorant mind lacking mental food. ...
+  Thinking that (a renowned friar) would preach once more at Saint Denis
+  on Sunday, the people flocked thither on Saturday evening, and passed the
+  night in the open, to secure good seats.
+
+  The diatribes of the preachers against dissoluteness and luxury produced
+  violent excitement which was translated into action. ... At the summons of
+  a famous preacher, men and women would hasten to bring cards, dice, finery,
+  ornaments, and burn them with great pomp. ...
+
+  All this general facility of emotions, of tears and spiritual upheavals,
+  must be borne in mind in order to conceive how fully how violent and
+  high strung was life at that period. ... In more than one respect life
+  still had the colors of a fairy-story, that is to say, it assumed those
+  colors in the eyes of contemporaries.  The court chroniclers were men of
+  culture, and they observed the princes, whose deeds they recorded, at
+  close quarters, yet even they give these records a somewhat archaic,
+  hieratic air. ...
+
+  Although in reality the mechanism of government had already assumed rather
+  complicated forms, the popular mind pictures it in simple and fixed figures.
+  The current political ideas are those of the Old Testament, of the romaunt
+  and the ballad.  The kings of the time are reduced to a certain number of
+  types, every one of which corresponds, more or less, to a literary motif.
+  There is the wise and just prince, the prince deceived by evil counsellors,
+  the prince who avenges the dishonour of his family, the unfortunate prince
+  to whom his servants remain faithful.  In the mind of the people political
+  questions are reduced to stories of adventure. ...
+
+  A present day reader, studying the history of the Middle Ages based on
+  official documents, will never sufficiently realize the extreme excitability
+  of the medieval soul. ... There can be no doubt that no other political
+  motive could be better understood by the people than the primitive motives
+  of hatred and vengeance. ... The desire to discover economic causes is to
+  some degree a craze with us, and sometimes leads us to forget a much simpler
+  psychological explanation of the facts.
+
+  Every page of medieval history proves the spontaneous and passionate
+  character of the sentiments of loyalty and devotion to the prince. ...
+  It might be thought that the schism, which had no dogmatic cause, could
+  hardly awaken religious passions in countries distant from Avignon and
+  of Rome, in which the two popes were known only by name.  Yet in fact
+  it immediately engendered a fanatical hatred, such as exists between
+  the faithful and infidels. ... The emotional character of party sentiments
+  and of fidelity was further heightened by the powerfully suggestive
+  effect of all the outward signs of these divergences: liveries, colors,
+  badges, party cries. ...
+
+  In the blind passion with which people followed their lord or their party,
+  the unshakable sentiment of right, characteristic of the Middle Ages,
+  is trying to find expression.  Man at that time is convinced that right
+  is absolutely fixed and certain.  Justice should prosecute the unjust
+  everywhere and to the end.  Reparaton and retribution have to be extreme,
+  and assume the character of revenge.  In this exagerrated need of justice,
+  primitive barbarism, pagan at bottom, blends with the Christian conception
+  of society.  The Church ... in adding to the primitive need of retribution
+  the horror of sin, had to a certain extent, stimulated the sentiment of
+  justice.  And sin, to violent and impulsive spirits, was only too frequently
+  another name for what their enemies did.  The barbarous idea of retaliation
+  was reinforced by fanaticism.  The chronic insecurity made the greatest
+  possible severity on the part of the public authorities desirable. ... Thus
+  it was natural that the Middle Ages should become the special period of
+  judicial cruelty.  That the criminal deserved his punishment was not
+  doubted for a moment.  The popular sense of justice always sanctioned the
+  most rigorous penalties.  ...
+
+  What strikes us in this judicial cruelty  and the joy the the people
+  felt at it, is rather brutality than perversity. Torture and executions
+  are enjoyed by the spectators like an entertainment at a fair. ...
+
+  The Middle Ages knew nothing of all those ideas which have rendered our
+  sentiment of justice timid and hesitating: doubts as to the criminal's
+  responsibility; the conviction that society is, to a certain extent, the
+  accomplice of the individual; the desire to reform instead of inflicting
+  pain; and, we many even add, the fear of judicial errors. Or rather these
+  ideas were implied, unconsciously, in the very strong and direct feeling
+  of pity and forgiveness which alternated with extreme severity. Instead
+  of lenient penalties, inflicted with hesitation, the Middle Ages knew
+  two extremes: the fulness of cruel punishment, and mercy.  When the
+  condemned criminal is pardoned, the question whether he deserves it for
+  any special reasons is hardly asked; for mercy has to be gratuitous, like
+  the mercy of God. ...
+
+  The contrast of cruelty and of pity return at every turn in the manners
+  and customs of the Middle Ages.  On the one hand, the sick, the poor, the
+  insane, are objects of a deeply moved pity, born of a feeling of fraternity
+  ... on the other hand, they are treated with incredible hardness or cruelly
+  mocked. ...
+
+  In the harshness of those times there is something ingenuous which almost
+  forbids us to condemn it.  ... So violent and motley was life, that it bore
+  the mixed smell of blood and roses.  The men of that time always oscillate
+  between the fear of hell and the most naive joy, between cruelty and
+  tenderness, between harsh asceticism and insane attachment to the delights
+  of this world, between hatred and goodness, always running to extremes."
+
+  That third paragraph above with "like a giant" is quoted from another
+  translation in Wheel of Fortune by David Horspool in *TLS*, Apr 30,
+  2021, p. 10. The following article on p. 11-12, Love and Death by
+  Alexander Murray, is a review of the new translaton by Diane Webb,
+  called *Autumntide of the Middle Ages*.  Murray writes:
+
+  "(*Autumntide*) is all but bare of references to contemporary academics --
+  which may be one reason it escaped their obsolesence.  Instead, Huizinga
+  lived day and night with his medieval witnesses, and wrote what they told
+  him as it struck his own mind and heart. ..."
+
+12 Apr 2021
 
 - *99 Novels: The Best in English Since 1939* by Anthony Burgess (1985),
   *Introduction*, p. 18-20 (no link):
