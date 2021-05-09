@@ -211,7 +211,6 @@ Some of my own comments:
   and are to be pitied because they weren't.  For Fossier, it is not
   so much that medieval life was as rich and diverting as our own, but
   that our world is more wretched than we are willing to admit. ...
-
   *The Axe and the Oath* conveys a sense of the tragedies, or at least
   the discomforts, of medieval life, but it does not consign them
   safely to the past.  Instead Robert Fossier offers a suggestive and
