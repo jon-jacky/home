@@ -199,18 +199,23 @@ Some of my own comments:
   Oath: Ordinary Life in the Middle Ages* by Robert Fossier (2010) in *TLS*,
   date and page lost (no link):
 
-  "Opposing the mainstream tendency of both popular and academic depictions,
-  Fossier emphasizes the similarity between people now and those who lived
-  during the European Middle Ages.  Despite our arrogant assumption of
-  superiority, our lives are hemmed in by the same worries, unpredictability,
-  limitations and even diversions as those experienced by medieval Europeans.
-  ...
+  "Opposing the mainstream tendency of both popular and academic
+  depictions, Fossier emphasizes the similarity between people now and
+  those who lived during the European Middle Ages.  Despite our
+  arrogant assumption of superiority, our lives are hemmed in by the
+  same worries, unpredictability, limitations and even diversions as
+  those experienced by medieval Europeans.  ...
 
   As anyone who has taught the subject knows, students are all too
   willing to hear that people in the distant past wanted to be like us
   and are to be pitied because they weren't.  For Fossier, it is not
   so much that medieval life was as rich and diverting as our own, but
-  that our world is more wretched than we are willing to admit."
+  that our world is more wretched than we are willing to admit. ...
+
+  *The Axe and the Oath* conveys a sense of the tragedies, or at least
+  the discomforts, of medieval life, but it does not consign them
+  safely to the past.  Instead Robert Fossier offers a suggestive and
+  gamely pessimistic view of the basic facts of human frailty."
 
 12 Apr 2021
 
