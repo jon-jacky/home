@@ -13,6 +13,17 @@ comments on *Hacker News*, click *parent* to see more context).
 I also keep a commonplace book of writings by others:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+May 2021
+
+- <https://ask.metafilter.com/354423/Art-that-accidentally-predicted-the-future#5063275>
+
+  Philip K. Dick's novel *Time Out of Joint* predicted nostalgia for the
+  1950s -- *in the 1950s*. (Spoilers follow) The main character is made
+  to believe he is living in an idyllic 1950s America. But then he
+  finds out he is actually living in a dystopic 1990s America. He is
+  frightened when he enounters teenagers with spiked hair and tattoos.
+  This was written in 1959!
+
 Dec 2020
 
 - <https://ask.metafilter.com/350786/Recommendations-for-more-subtle-dystopia-and-cyberpunk-stories#5014126>
