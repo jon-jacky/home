@@ -13,6 +13,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+12 May 2021
+
+- https://www.visualizingsep.com/#/entries/induction-problem/ -
+  "Visualizing SEP is an interactive data visualization for exploring
+  the *Stanford Encyclopedia of Philosophy*. ..."
+
 14 Apr 2021
 
 - https://marinakittaka.com/posts/2021-02-26-Good-Ol-Charlie-B.html -
@@ -514,6 +520,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 21 Apr 2020 and ongoing: designs for blogs and personal web pages,
    most recent at the top.
+
+- https://felleisen.org/matthias/7480-s21/lectures.html - course web page, 
+  nice typography, navigation, and narrative.
 
 - https://c9x.me/ - double column table of contents.
 

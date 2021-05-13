@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+12 May 2021
+
+- <https://www.visualizingsep.com/#/entries/induction-problem/> -
+  "Visualizing SEP is an interactive data visualization for exploring
+  the *Stanford Encyclopedia of Philosophy*. ..."
+
 14 Apr 2021
 
 - <https://marinakittaka.com/posts/2021-02-26-Good-Ol-Charlie-B.html> -
@@ -399,9 +405,9 @@ Companion page, a commonplace book:
   to the same content (not Twitter despite title):
   <https://jvns.ca/blog/2020/07/10/twitter-summary-from-2020-so-far/>
 
-  Sacha Chua's Hand-lettered Emacs tutorials:
-  <https://sachachua.com/blog/wp-content/uploads/2013/05/How-to-Learn-Emacs-v2-Large.png>
-  and <https://sachachua.com/blog/wp-content/uploads/2013/08/20130830-Emacs-Newbie-How-to-Learn-Emacs-Keyboard-Shortcuts.png>
+  <https://sachachua.com/blog/wp-content/uploads/2013/05/How-to-Learn-Emacs-v2-Large.png> -
+  Hand-drawn, hand-lettered Emacs tutorial by Sacha Chua.
+  Also <https://sachachua.com/blog/wp-content/uploads/2013/08/20130830-Emacs-Newbie-How-to-Learn-Emacs-Keyboard-Shortcuts.png>
   and <https://sachachua.com/blog/wp-content/uploads/2013/08/20130830-The-Grumpy-Guide-How-to-Learn-Emacs-Keyboard-Shortcuts1.png>
   and <https://sachachua.com/blog/wp-content/uploads/2013/07/2014-02-27-Map-for-getting-the-hang-of-Emacs-movement-emacs-map-guide.png>
 
@@ -514,6 +520,9 @@ Companion page, a commonplace book:
 
 21 Apr 2020 and ongoing: designs for blogs and personal web pages,
    most recent at the top.
+
+- <https://felleisen.org/matthias/7480-s21/lectures.html> - course web page, 
+  nice typography, navigation, and narrative.
 
 - <https://c9x.me/> - double column table of contents.
 
