@@ -518,11 +518,15 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing: designs for blogs and personal web pages,
+21 Apr 2020 and ongoing: designs for blogs, personal web pages, etc.,
    most recent at the top.
 
-- <https://felleisen.org/matthias/7480-s21/lectures.html> - course web page, 
-  nice typography, navigation, and narrative.
+- <http://clqr.boundp.org/index.html> - small sans-serif font surrounded by
+  lots of white space and very narrow border outlines.
+
+- <https://felleisen.org/matthias/7480-s21/lectures.html> - Course web page.
+  Subdued colors, layout, typography, and navigation help you read
+  the long, dense narrative.
 
 - <https://c9x.me/> - double column table of contents.
 
