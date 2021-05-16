@@ -521,8 +521,15 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 21 Apr 2020 and ongoing: designs for blogs, personal web pages, etc.,
    most recent at the top.
 
-- http://clqr.boundp.org/index.html - small sans-serif font surrounded by
-  lots of white space and very narrow border outlines.
+- http://clqr.boundp.org/index.html - Book web page with a distinctive
+  homemade look.  All black and white, nothing but text in just one
+  smaller than typical sans-serif font, surrounded by lots of space in
+  boxes with thin line borders.
+
+  Compare to http://www.thingsmagazine.net/where-did-you-see-it-last/
+  which adds one more color, uses a heavier typeface for captions, and
+  dispenses with the boxes. (This page has many interesting links of its
+  own)
 
 - https://felleisen.org/matthias/7480-s21/lectures.html - Course web page.
   Subdued colors, layout, typography, and navigation help you read 
