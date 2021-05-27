@@ -13,6 +13,13 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+26 May 2021
+
+- <https://anewsession.com/> - "We're starting over. ...
+  It's not hard, just a matter of examining all the paths not taken.
+  Picking the earliest point at which you could imagine a divergence,
+  something to pull away from a troublesome present. ..."
+
 12 May 2021
 
 - <https://www.visualizingsep.com/#/entries/induction-problem/> -
@@ -31,6 +38,15 @@ Companion page, a commonplace book:
 - <https://esoteric.codes/blog/jon-corbett> - 
   "Jon Corbett's languages *Cree#* and *Ancestral Code* allow programming in
   Cree keywords using Cree concepts and metaphors. ...
+
+13 Mar 2021
+
+- <https://www.volver.ca/genres/> - "An appointment-only record store ...
+  You browse online and pick up in person. I do not ship."
+
+  Use your browser's *Find* function to search for a genre, for example
+  *jazz*. Click on any album cover to enlarge and see both sides, liner
+  notes and more.
 
 11 Mar 2021
 
@@ -528,8 +544,7 @@ Companion page, a commonplace book:
 
   Compare to <http://www.thingsmagazine.net/where-did-you-see-it-last/>
   which adds one more color, uses a heavier typeface for captions, and
-  dispenses with the boxes. (This page has many interesting links of its
-  own)
+  dispenses with the boxes.
 
 - <https://felleisen.org/matthias/7480-s21/lectures.html> - Course web page.
   Subdued colors, layout, typography, and navigation help you read
