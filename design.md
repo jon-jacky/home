@@ -16,8 +16,6 @@ Companion page, a commonplace book:
 26 May 2021
 
 - <https://anewsession.com/> - "We're starting over. ...
-  The world in 2021 is vastly different from what the idealists who used
-  this software when it was originally written imagined it would be ...
   Remember: the internet didn't have to be like this. A better world is
   possible.
 
