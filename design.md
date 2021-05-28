@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+28 May 2021
+
+- <https://fasterthanli.me/articles/a-half-hour-to-learn-rust> - 
+  "... I'll try to go through as many Rust snippets as I can, and explain
+  what the keywords and symbols they contain mean."
+
 26 May 2021
 
 - <https://anewsession.com/> - "We're starting over. ...
