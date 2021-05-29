@@ -15,9 +15,19 @@ Companion page, a commonplace book:
 
 28 May 2021
 
+- <https://swtch.com/lguest/> - "a lightweight x86 virtual machine monitor 
+  for Linux ... written in a literate programming style ..."
+
+  via <https://research.swtch.com/lguest> - "Having to explain the program
+  using English often forces the program itself to be more clearly written
+  too."
+
 - <https://fasterthanli.me/articles/a-half-hour-to-learn-rust> - 
   "... I'll try to go through as many Rust snippets as I can, and explain
   what the keywords and symbols they contain mean."
+
+- <https://www.zenpencils.com/newreaders/> - "Cartoon quotes from 
+  inspirational folks"
 
 26 May 2021
 
