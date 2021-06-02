@@ -14,6 +14,246 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+
+ 1 Jun 2021
+
+- http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf - 
+  Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
+  Superheroines of Computing, by Thomas Haig and Mark Priestly
+  *Communications of the ACM*, Sep 2015, vol 58, no 9, pps. 20 -- 27.,
+
+  "The   fastest-selling   history   of  computing  book  ever  published
+  is  Walter  Isaacson's  *The  Innovators:  How  a Group of Hackers,
+  Geniuses, and Geeks Created  the  Digital  Revolution.* ...
+  (A) distinctive feature of Isaacsons  book  is  his  stress  on
+  the  contribution  of  women  to  innovation  in  computing.  He
+  foregrounds  a  trio  of  coding superwomen, and centered the
+  promotional campaign for the book on the claim that he was avenging
+  brilliant but  defenseless  women  who  had  been  unjustly   erased
+  from   history. ...  
+  According   to   Isaacson,   men   were   good   at   hardware,   but
+  only   women   were  smart  enough  to  appreciate  the  need for
+  software. ...
+
+  *Ada Lovelace*
+
+  ... Lovelace  is  remembered  for  her  collaboration    with    Charles
+  Babbage    to    publicize  the  mechanical  calculators  he  designed
+  and  attempted  to  build  from  the  1820s  onward. ...
+  In  a  promotional  interview  for  the  fashion  section  of  the
+  *New  York  Times*,  Isaacson  claimed   "Ada   Lovelace   defined   the
+  digital age", arguing with a wave that seemed  to  encompass  all  of
+  Silicon  Valley  and  the  techies  sitting  around  us" that "If it wasn't
+  for Ada Lovelace, theres   a   chance   that   none   of   this   would
+  even   exist."   This   hand   waving  is  not  untypical,  as  is  the
+  failure  to    distinguish    between    imagining    something  and
+  causing  that  thing  to  come about. 
+
+  What does it mean for Isaacson to call Lovelace  an  essential
+  precondition  to  the   existence   of   todays   tech   world?
+  Logically,  it  means  those  who  created  later technologies drew
+  directly on her work  with  Babbage,  and  indeed  that  without  them
+  nobody  would  ever  have  thought  of  programming  a  computer. ...
+  However, expert historians  have  been  unable  to  find  any 
+  substantial  influence  of  Babbage  on  the  designers of early computers.
+
+  Lovelace  was  part  of  her  own  time,  not  a  visitor  from  the
+  future  or  a  lone  superhero    who    invented    programming  and
+  created  the  modern  world. ...
+  Her  instincts,  and  her  tragic  personal  story,  were  similarly
+  emblematic   of   their   time.   She  was  Romantic  with  a  capital
+  R,  befitting  her  status  as  a  daughter  of  Byron  and  echoing
+  the  eras  belief  in  centrality  of  tortured  genius  and  creative
+  passion to greatness in both arts and natural science.
+
+  *Grace Hopper*
+
+  ... On  page  117  Isaacson  credits  Hopper  as  the  technical   lead   in
+  coordinating   the   creation   of   COBOL,   a   hugely   important
+  standard  language  for  business  programming ...
+  
+  (Isaacson) slights several women who, unlike  Hopper,  were  on  the
+  techni-cal  committee  in  question.  Among
+  them is Jean Sammett, who made the largest single contribution to the
+  design  of  COBOL.  Sammet  has  stated  that  Hopper  was  not  the
+  mother,  creator,  or  developer  of  COBOL,  an  idea  Hopper
+  reportedly  endorsed  by  calling  herself  the  grandmother  of  COBOL
+  rather than its creator.
+
+  This is an example of what sociologist of science Robert K. Merton
+  called the   Matthew   Effect,   the   tendency   for  the  most  famous
+  person  involved  in  any  collaborative  project,  however
+  peripherally,   to   be   remembered   by   the  public  as  the  key
+  contributor. ...
+  Over time the famous become more famous, while the moderately   well
+  known   are   forgotten. ...
+  This is particularly true of those hold-ing  distinctions  where  the
+  supply  is  deliberately limited, such as ... 
+  the  winners  of  the  Nobel  Prize.  It  seems  to  us  that  a
+  process  of  natural  selection,  in  which  a  large  pool  of
+  eligible  pioneers compete for a handful of positions as female role
+  models, is creating a similar dynamic.
+
+  *The Women of ENIAC*
+
+  Isaacson   writes   at   length   on   The   Women   of   ENIAC,   and
+  excerpted   this  part  of  *The  Innovators*  in *Fortune* magazine  as
+  part  of  his  launch  campaign.    
+  ENIAC,    the    Electronic    Nu-merical  Integrator  and  Computer,
+  is  remembered by historians as the first general-purpose     electronic
+  digital     computer. ...
+  In   recent   years, however, (ENIAC) has   been  best  known  as  a
+  computer  programmed   by   women. ...
+
+  Isaacson's  retelling  of  their  story  is sourced primarily from (Jean)
+  Bartik's engaging  memoir,  *Pioneer  Programmer* and  from  a  number
+  of  oral  history  interviews.  He  observed  that  while  "the   boys
+  with   their   toys   thought   that   assembling   the   hardware   was
+  the  most  important  task,  and  thus  a  man's  job"  in  fact  "all  the
+  programmers  who  created  the  first  general-purpose    computer were
+  women."
+
+  One  startling  fact  was  overlooked  by    Isaacson    and    almost
+  everyone    else   who   has   written   about   ENIAC.   The  cliche
+  that  the  machine  was  assembled   by   men   but   programmed   by
+  women  is  just  not  true.  Dozens  of  women,  employed  as  "wiremen",
+  "assemblers",  and  "technicians"  worked  shifts    through    1944    and
+  1945    to    build  ENIAC,  threading  miles  of  wire  through   the
+  machine   and   soldering   approximately   half   a   million   joints.
+  Other   women   drew   blueprints   and   helped    with
+  administration.    While    Bartik  and  her  colleagues  were  given
+  belated  recognition  for  their  work  on  ENIAC,  more  than  50
+  women  worked  on  the  machine  in  1944  alone.  Their  names  are
+  preserved  only  in  the  project's  accounting  records  and  personnel 
+  forms. They are truly forgotten.
+
+  We   also   believe   the   word   "programming" does not do a good job
+  of capturing  the  actual  work  of  Bartik  and  her  colleagues.  When
+  programming  developed  as  a  distinct  job,  in  the  mid-1950s,  it
+  was  generally  separated  from  the  work  of  operating  the
+  computer  or  any  ancillary  punched  card   units.   Programmers   sat
+  with   pencils  and  coding  pads,  writing  instructions. These were
+  punched onto cards  by  keypunch  women,  the  data  entry  clerks  of
+  their  day.  Operators  tended to the machine itself, preparing  the
+  computer  and  its  peripherals for a job, loading the appropriate card
+  and  tape  media,  and  extracting  printed output. The  women  of
+  ENIAC  combined  elements  of  all  three  roles,  but  operations
+  work   was   what   they   were   hired  to  do  and  it  occupied  most
+  of  their  time  with  the  computer. ...
+
+  The  initial  cohort  of  six  operators  had to understand how ENIAC
+  worked, so  they  could  set  it  up  for  a  new  job,
+  which  involved  many  hours  of  plugging  cables  and  setting
+  switches,  and  monitor  its  progress.  Because  of  this  expertise
+  they  also  played  an  important  preparatory  role  in  many  of  the
+  applications  run  on  ENIAC,  partnering  with  scientific  and
+  mathematical  users to figure out the set-up needed to  configure  the
+  machine  to  carry  out  the  appropriate  series  of  mathematical
+  operations.  These  set-ups  implemented   loops,   subroutines,   and
+  the   other  elements  we  now  associate  with  programs    (although
+  they    were    re-corded  visually,  as  a  schematic  of  the  switch
+  and  wiring  settings  needed  on  ENIACs  various  units,  rather  than
+  as  textual instruction codes). It  is  this  preparatory  work  that
+  has  caused   them   to   be   remembered   as   programmers ...
+
+  Our   intent   is   not   to   belittle   the   very  real
+  contributions  of  the  ENIAC  operators  to  computing  history,  but
+  to  argue  that  forcing  them  into  the  role of the "first
+  programmers," as is commonly  done,  hides  most  of  the  reality  of
+  their  actual  work.  Operating ENIAC, and its ancillary punched card
+  machines,   was   highly   skilled   work  that  was  absolutely  vital
+  to  the  machines  success.  To  this  day  programming accounts for a
+  fairly small proportion of overall IT work, and the demand    for
+  system    administrators,    network   technicians,   facilities
+  management  staff,  and  other  hands-on  IT  practitioners  is  greater
+  than  ever.  By  the  1960s,  however,  computer  operations work was
+  seen as a lower paid and lower  skilled  occupation -- blue-collar  shift
+  work against the white-collar work of  programming.  Perhaps
+  celebrating  hands-on operations work would mislead  impressionable
+  young  women.  As  Wendy  Hui  Kyong  Chun  has  noted,  "reclaiming
+  these  women  as  the  first  programmers... glosses  over  the
+  hierarchies... among   operators,   coders, and analysts."  Remembering
+  the ENIAC   operators   only   as   programmers  implies  gender
+  matters  to  history but social class does not. 
+
+  *Conclusion*
+
+  A great deal is at stake here. Women are conspicuous  by  their  absence
+  in  computer  science  classrooms  and  in  the  programming teams,
+  data centers, and computing  research  labs  of  America. ...
+
+  History  is  playing  an  increasingly  visible  role  in  this
+  struggle. ...
+  One  widely  held  concern  is  that  girls  are  not exposed to images
+  of female programmers   or   information   technology  professionals. ...
+  They have little reason to assume that software devel-opment is work
+  they would find inter-esting or be good at.
+
+  The past has therefore been mined in  search  of  women  who  might
+  provide   girls   with   inspiring   counter-examples.   The   goal
+  of   convincing   women   to   enter   computing   might   sometimes
+  seem   at   odds   with   the   responsibility   of   historians   to
+  provide  accurate  and  nuanced  stories.  In such a battle the force
+  of numbers would   not   be   with   the   historians,   who  find
+  intrinsic  value  in  the  past  of a field that is relentlessly focused
+  on the future. ...
+  
+  We believe good history is not just important  to  specialists,  and
+  that  it  will  ultimately  prove  more  inspiring  and   more relevant
+  than   superhero   stories (like) Isaacson's book ...
+  Stories  of  this  kind  inflate  their  own  importance,  by
+  pretending  a  certain  idea,  person,  or  invention  has  direct  and
+  singular  responsibility  for  some  hugely  complex  chain  of  later
+  events  that   leads   to   our   modern digital   world.  Their
+  authors  are  fixated  on  firsts and origins, and glorify flashes of
+  abstract  insight  over  slow  and  incremental technological change
+  driven by the needs of users.
+
+  The  conception  of  history  as  the  deeds of a few great men has
+  problems that are too fundamental to correct  simply  by  elevating  a
+  few  great  women to the pantheon. Indeed, this strategy devalues many
+  of the contributions made by women. Nobody has
+  chosen  to  celebrate  "The  Key  Punch  Operators  Who  Invented  the
+  Digital  Universe"   or  "The   Lone   Computer   Assembler   Who   Built
+  the   Modern   Computer".  The  obsession  with  discovering the first
+  coders, intended to empower  women,  has  obscured  the  importance  of
+  other  kinds  of  computer-related  labor  that  was  carried  out by
+  women for decades. The quest for "girls who code" is erasing the history
+  of "women who operate". One of the  reasons  such  work  was  seen  as
+  low status and unimportant is that it was carried out by women, and any
+  attempt  to  challenge  historical  sexism  should dispute that
+  assumption rather  than  tacitly  endorsing  it. ...
+  
+  Stories   about   superheroes   make   great entertainment ...
+  The superhero narrative is not,  however,  the  best  way
+  to  understand   history.  Isaacson's  celebration  of  Ada  Lovelace,
+  Grace Hopper,  and  the Women of ENIAC as the creators of  computer
+  programming  is  part  of  a  much  broader  movement  to  make  these
+  women into recruiting sergeants for   computer   science.   The colorful
+  feats  sometimes  attributed  to  these  women  can overshadow  their
+  actual  historical  contributions,  which  were rather  more  nuanced
+  and  rather  less  dependent on superpowers. In particular,  the
+  concept  of  programming  has been awkwardly projected back in time, in
+  a way that misrepresents their accomplishments and squanders the  chance
+  to  celebrate  a  broad  range  of  computer-related occupations    such
+  as  mathematical  analysis,  operations  work, and management.
+
+  More  generally,  we  run  the  risk  of  hiding  a complex  historical
+  tapestry,  full of thousands of little figures carrying   out  many
+  vital  tasks,  behind  a  gaudy  poster  depicting  a small  team  of
+  superheroes.   The   quest   for   genius devalues the vital
+  contributions of  millions  who  are  merely  creative, intelligent,
+  hard-working,  and  lucky  enough to be in the right place at the right
+  time. Superhero stories have little time for ordinary humans, who exist
+  only to be endangered or rescued. Reducing the story of women in
+  computing  to  the  heroics  of  a  handful  of  magical individuals
+  draws  attention  away   from   real   human   experience and,
+  counterproductively,    suggests    that   only   those   with
+  superhuman   abilities need apply."
+  
+  Other articles about computing history at
+  http://www.tomandmaria.com/Tom/Home
+
  7 May 2021
 
 - *The Waning of the Middle Ages* by Johan Huizinga (1919), translated by
