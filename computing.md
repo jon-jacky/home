@@ -10,6 +10,9 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+
+ 1 Jun 2021
+
 - <http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf> - 
   Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
   Superheroines of Computing, by Thomas Haig and Mark Priestly in
