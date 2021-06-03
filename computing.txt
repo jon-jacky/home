@@ -10,6 +10,23 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+- http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf - 
+  Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
+  Superheroines of Computing, by Thomas Haig and Mark Priestly in
+  *Communications of the ACM*, Sep 2015, vol 58, no 9, pps. 20 -- 27.
+
+  "The   fastest-selling   history   of  computing  book  ever  published
+  is  Walter  Isaacson's  *The  Innovators:  How  a Group of Hackers,
+  Geniuses, and Geeks Created  the  Digital  Revolution.* ...
+  He foregrounds  a  trio  of  coding superwomen ..."
+
+  Lengthy excerpts appear under this same date in the Commonplace Book,
+  *commonplace.md*, linked above.  They complement the other entries about
+  history there.
+
+  Many other articles by this author about computing history at
+  http://www.tomandmaria.com/Tom/Home
+
  9 Feb 2021
 
 - https://esoteric.codes/blog/100-rabbits - *Esoteric Codes*, 2021-02-04,

@@ -19,8 +19,8 @@ Some of my own comments:
 
 - <http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf> - 
   Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
-  Superheroines of Computing, by Thomas Haig and Mark Priestly
-  *Communications of the ACM*, Sep 2015, vol 58, no 9, pps. 20 -- 27.,
+  Superheroines of Computing, by Thomas Haig and Mark Priestly in
+  *Communications of the ACM*, Sep 2015, vol 58, no 9, pps. 20 -- 27.
 
   "The   fastest-selling   history   of  computing  book  ever  published
   is  Walter  Isaacson's  *The  Innovators:  How  a Group of Hackers,
@@ -40,9 +40,25 @@ Some of my own comments:
   ... Lovelace  is  remembered  for  her  collaboration    with    Charles
   Babbage    to    publicize  the  mechanical  calculators  he  designed
   and  attempted  to  build  from  the  1820s  onward. ...
+  (Lovelace wrote) a detailed  discussion of how to use (Babbage's) Analytical
+  Engine to calculate the Bernoulli numbers. This work,  summarized  in  a
+  large  table  describing  the  calculation,  has  long  been
+  understood    as    a    computer    program    *avant la lettre*. That
+  made Lovelace "the first  programmer" ...
+
+  Lovelace   has   been   celebrated   as   much  for  her  visionary
+  asides  as  her  mathematical accomplishments. She imagined  a  version
+  of  the  Analytical  Engine  that  would  allow  mechanical
+  representation    of    "the    fundamental   relations   of   pitched
+  sounds   in   the  science  of  harmony"  and  "compose  elaborate  and
+  scientific  pieces  of  music."  These  remarks  carry  an  undeniable
+  frisson    of    prescience,    leading  science  writer  and
+  television  presenter Steven Johnson to the idea that  Lovelace  was  a
+  time  travelling  inventor who, like Leonardo da Vinci and  Charles
+  Darwin,  somehow  existed  outside  her  own  time.
   In  a  promotional  interview  for  the  fashion  section  of  the
   *New  York  Times*,  Isaacson  claimed   "Ada   Lovelace   defined   the
-  digital age", arguing with a wave that seemed  to  encompass  all  of
+  digital age", arguing with a wave that seemed  to  "encompass  all  of
   Silicon  Valley  and  the  techies  sitting  around  us" that "If it wasn't
   for Ada Lovelace, theres   a   chance   that   none   of   this   would
   even   exist."   This   hand   waving  is  not  untypical,  as  is  the
@@ -50,20 +66,36 @@ Some of my own comments:
   causing  that  thing  to  come about.
 
   What does it mean for Isaacson to call Lovelace  an  essential
-  precondition  to  the   existence   of   todays   tech   world?
+  precondition  to  the   existence   of   today's   tech   world?
   Logically,  it  means  those  who  created  later technologies drew
   directly on her work  with  Babbage,  and  indeed  that  without  them
   nobody  would  ever  have  thought  of  programming  a  computer. ...
   However, expert historians  have  been  unable  to  find  any
   substantial  influence  of  Babbage  on  the  designers of early computers.
 
+  Turning      to      the      specifics      of      Lovelace's
+  notes,       we       challenge       the     common
+  characterization     of     Lovelaces tabular presentation of the
+  Bernoulli  calculation  as  a  "program."
+  Babbage  intended  his  computer  to  read  and  execute  instructions
+  one  at  a  time  from  a  deck  of    "operation    cards."    The
+  famous    table  is  not  a  specification  for  a  card  deck  to
+  compute  the  Bernoulli  numbers.  Instead,  as  Lovelace  explained,
+  it  "presents  a  complete  simultaneous  view of all the successive
+  changes the various storage units of the Analytical Engine would pass
+  through" in computing  the  specific  number  B7. ...
+  In    modern    terminology,    the    table    might  best  be
+  described  as  a  trace  of  the machine's expected operation. ...
+  In  fact  the  idea  of  a  program  as  we  now  understand it did not
+  yet exist. ...
+
   Lovelace  was  part  of  her  own  time,  not  a  visitor  from  the
   future  or  a  lone  superhero    who    invented    programming  and
   created  the  modern  world. ...
   Her  instincts,  and  her  tragic  personal  story,  were  similarly
   emblematic   of   their   time.   She  was  Romantic  with  a  capital
-  R,  befitting  her  status  as  a  daughter  of  Byron  and  echoing
-  the  eras  belief  in  centrality  of  tortured  genius  and  creative
+  "R,"  befitting  her  status  as  a  daughter  of  Byron  and  echoing
+  the  era's  belief  in  centrality  of  tortured  genius  and  creative
   passion to greatness in both arts and natural science.
 
   *Grace Hopper*
@@ -73,7 +105,7 @@ Some of my own comments:
   standard  language  for  business  programming ...
 
   (Isaacson) slights several women who, unlike  Hopper,  were  on  the
-  techni-cal  committee  in  question.  Among
+  technical  committee  in  question.  Among
   them is Jean Sammett, who made the largest single contribution to the
   design  of  COBOL.  Sammet  has  stated  that  Hopper  was  not  the
   mother,  creator,  or  developer  of  COBOL,  an  idea  Hopper
@@ -87,7 +119,7 @@ Some of my own comments:
   contributor. ...
   Over time the famous become more famous, while the moderately   well
   known   are   forgotten. ...
-  This is particularly true of those hold-ing  distinctions  where  the
+  This is particularly true of those holding  distinctions  where  the
   supply  is  deliberately limited, such as ...
   the  winners  of  the  Nobel  Prize.  It  seems  to  us  that  a
   process  of  natural  selection,  in  which  a  large  pool  of
@@ -99,7 +131,7 @@ Some of my own comments:
   Isaacson   writes   at   length   on   The   Women   of   ENIAC,   and
   excerpted   this  part  of  *The  Innovators*  in *Fortune* magazine  as
   part  of  his  launch  campaign.
-  ENIAC,    the    Electronic    Nu-merical  Integrator  and  Computer,
+  ENIAC,    the    Electronic    Numerical  Integrator  and  Computer,
   is  remembered by historians as the first general-purpose     electronic
   digital     computer. ...
   In   recent   years, however, (ENIAC) has   been  best  known  as  a
@@ -151,7 +183,7 @@ Some of my own comments:
   machine  to  carry  out  the  appropriate  series  of  mathematical
   operations.  These  set-ups  implemented   loops,   subroutines,   and
   the   other  elements  we  now  associate  with  programs    (although
-  they    were    re-corded  visually,  as  a  schematic  of  the  switch
+  they    were    recorded  visually,  as  a  schematic  of  the  switch
   and  wiring  settings  needed  on  ENIACs  various  units,  rather  than
   as  textual instruction codes). It  is  this  preparatory  work  that
   has  caused   them   to   be   remembered   as   programmers ...
@@ -186,8 +218,8 @@ Some of my own comments:
   struggle. ...
   One  widely  held  concern  is  that  girls  are  not exposed to images
   of female programmers   or   information   technology  professionals. ...
-  They have little reason to assume that software devel-opment is work
-  they would find inter-esting or be good at.
+  They have little reason to assume that software development is work
+  they would find interesting or be good at.
 
   The past has therefore been mined in  search  of  women  who  might
   provide   girls   with   inspiring   counter-examples.   The   goal
@@ -251,7 +283,7 @@ Some of my own comments:
   counterproductively,    suggests    that   only   those   with
   superhuman   abilities need apply."
 
-  Other articles about computing history at
+  Many other articles by this author about computing history at
   <http://www.tomandmaria.com/Tom/Home>
 
  7 May 2021
