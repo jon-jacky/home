@@ -18,7 +18,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Superheroines of Computing, by Thomas Haigh and Mark Priestley in
   *Communications of the ACM*, Sep 2015, vol 58, no 9, pps. 20 -- 27.
 
-  Walter  Isaacson's (book) *The  Innovators* ... foregrounds  a  trio  of
+  "Walter  Isaacson's (book) *The  Innovators* ... foregrounds  a  trio  of
   coding superwomen ...
 
   ... (Ada) Lovelace  was  part  of  her  own  time,  not  a  visitor

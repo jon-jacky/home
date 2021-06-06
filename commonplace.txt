@@ -14,8 +14,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
-
- 1 Jun 2021
+ 1 Jun 2021, 5 Jun 2021
 
 - http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf - 
   Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
@@ -285,6 +284,55 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   
   Many other articles by these authors about computing history at
   http://www.tomandmaria.com/Tom/Home
+
+- *London Lights: The Minds that Moved the City that Shook the World,
+  1805 - 1851* by James Hamilton (2007), from chapter 5, A Mutton-Chop
+  at 5 O'Clock, pps. 110 - 111, 114 - 115 (no link):
+
+  "Babbage's parties were large affairs, designed to entertain friends
+  and influence reluctant politicians in his efforts to raise capital
+  to develop his Difference Engine, the most complex piece of mechanical
+  equipment yet made. ... a calculating engine ... the size of a large 
+  garden shed. 
+
+  There were dozens of people at each of Babbages's events. (Geologist)
+  Charles Lyell confided to Charles Darwin, 'Babbage's parties are the
+  best in the way of literary people in London -- and ... there is
+  a good mixture of pretty women.'  The rooms in his house (contained) a
+  working section of the Difference Engine in polished brass in one of the 
+  rooms, and, after 1834 when he bought her at auction ... a shining silver
+  clockwork woman in the other.  'The figure moved her arms and head most
+  gracefully, and even moved her eyes, and almost smiled, as if she was 
+  aumused with your astonishment.' Most guests preferred the dancing woman
+  to the Difference Engine: on one evening only two foreign visitors admired
+  the Engine, while everyone else crowded to watch the dancer.  'In that room
+  -- Enland,' Babbage remarked.  'Look again at this -- two foreigners.'"
+
+  "Ada must have first attended a Babbage soiree in March 1834 ...
+  Ada (b. 1815) and Babbage (b. 1791) became close friends, and by 
+  November Babbage, having recognized Ada's mathematical dexterity,
+  lent his printed and illustrated account of the Difference Engine for
+  her to study ...
+  
+  Ada Byron began to make a habit of going to Babbage's with the Somervilles
+  (mathematician and popular science author Mary and her husband William).
+  Ada Byron was intense by nature.  A highly articulate, overwrought
+  mathematical genius from a high social background, she attended lectures
+  at the Royal Institute, routs in glittering ballrooms, soirees at Babbage's,
+  and, aged seventeen in 1833, was presented to the King and Queen at court.
+  Her natural brilliance in the abstract language of mathematics that few
+  understood, her disturbed upbringing as Byron's daughter, and the elevated
+  position in society it was her lot to display and maintain created a 
+  confused and uncertain young woman.  'You know I am a d--d odd animal!'
+  she wrote to Mary Somerville's son ... 'But if you knew one-half of the *harum-scarum*
+  extraordinary things I do, you would certainly incline to the idea that 
+  I have a spell of *some* sorts about me.  I am positive that no other 
+  *she* creature of *my years could* possibly attempt many of my everyday
+  performances with any impunity.' It was the rare piece of real good 
+  fortune for Ada, however, that she had the sensible and structured example
+  of Mary and William Somerville's family life to balance her self-absorption,
+  the insistence of her many suitors, and Charles Babbage's frantic 
+  self-certainty. ..."  
 
  7 May 2021
 
