@@ -14,6 +14,44 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+ 7 Jun 2021
+
+- *My Past and Thoughts* by Alexander Herzen (1885), translated
+  by Constance Garnett (1968). Excerpted as 'A Russian Thinker in Exile'
+  in *The Oxford Book of London* ed. Paul Bailey (1995), p. 108 - 109 (no
+  link):
+
+  "... There is no town in the world which is more adapted to training
+  one away from people and training one into solitude than London. ...
+  One who knows how to live alone has nothing to fear from the tedium 
+  of London.  The life here, like the air here, is bad for the weak, for
+  the frail, for one who seeks a prop outside himself, for one who seeks
+  welcome, sympathy, attention; the moral lungs here must be as strong
+  as the physical lungs, whose task it is to separate oxygen from the 
+  smokey fog. ...
+
+  In the evening, when my son had gone to bed, I usually went out for 
+  a walk ... One city, full-fed, went to sleep: the other, hungry, was
+  not yet awake ... where every night a hundred thousand men know not
+  where they will lay their heads, and the police often find women and
+  children dead of hunger beside hotels where one cannot dine for less than
+  two pounds. ...
+
+  ... Though I had made up my mind to work, for a long time I did nothing,
+  or did not do what I wanted to do.   The idea with which I had come
+  to London, to seek the tribunal of my own people, was a sound and right
+  one. ... To whom, in fact, are we to appeal for judgment, for the 
+  re-establishment of truth, for the unmasking of falsehood?  It is not
+  for us to litigate in the court of our enemies, who judge by other
+  principles, by laws which we do not recognize.
+
+  ... To take the law in one's own hands is to snatch back by force what
+  has been taken by force, and so restore the balance; vengeance is just
+  as sound and simple a human feeling as gratitude; but neither revenge nor
+  taking the law into one's own hands explains anything.  It may happen that
+  a clear explanation is what matters most to a man.  The re-establishment
+  of truth may be dearer to him than revenge. ..."
+
  1 Jun 2021, 5 Jun 2021
 
 - http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf - 
@@ -309,7 +347,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   -- Enland,' Babbage remarked.  'Look again at this -- two foreigners.'"
 
   "Ada must have first attended a Babbage soiree in March 1834 ...
-  Ada (b. 1815) and Babbage (b. 1791) became close friends, and by 
+  Ada (b. Dec. 1815) and Babbage (b. 1791) became close friends, and by 
   November Babbage, having recognized Ada's mathematical dexterity,
   lent his printed and illustrated account of the Difference Engine for
   her to study ...
