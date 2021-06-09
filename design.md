@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 8 Jun 2021
+
+- <https://darkmatters.xyz/>
+
+- <http://lovelanguages.melaniehoff.com/>
+
 29 May 2021
 
 - <https://www.zenpencils.com/newreaders/> - "Cartoon quotes from 
@@ -398,8 +404,6 @@ Companion page, a commonplace book:
 - <https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html>
 
 - <https://richardjharris.github.io/unicode-in-five-minutes.html>
-
-- <http://lovelanguages.melaniehoff.com/>
 
  3 Aug 2020
 
