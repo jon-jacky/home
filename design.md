@@ -15,9 +15,16 @@ Companion page, a commonplace book:
 
  8 Jun 2021
 
-- <https://darkmatters.xyz/>
+- <https://darkmatters.xyz/> -
+  "The self-published book you are reading is a ... collaborative
+  people's dictionary ... an abundance of poetry, prose, creative
+  writing, personal history and illustration ..."
 
-- <http://lovelanguages.melaniehoff.com/>
+- <http://lovelanguages.melaniehoff.com/> -
+  "This course covers the building blocks of programming and natural
+  language processing using Python & Javascript in the browser. ...
+  We will look to the history of the love letter as a form ..."
+
 
 29 May 2021
 
@@ -29,10 +36,10 @@ Companion page, a commonplace book:
 
 - <https://swtch.com/lguest/> - "a lightweight x86 virtual machine monitor 
   for Linux ... written in a literate programming style ..."
-
   via <https://research.swtch.com/lguest> - "Having to explain the program
   using English often forces the program itself to be more clearly written
-  too."
+  too."  More at
+  <https://www.kernel.org/doc/ols/2007/ols2007v2-pages-173-178.pdf>
 
 - <https://fasterthanli.me/articles/a-half-hour-to-learn-rust> - 
   "... I'll try to go through as many Rust snippets as I can, and explain
