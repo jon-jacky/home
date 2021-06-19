@@ -1289,7 +1289,7 @@ Companion page, a commonplace book:
   and they can't easily be taken apart and understood in an evening, like they used to.
   So I figured I can just make my own then, just the way I like it."
 
-8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021
+8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021
 
 - <https://news.ycombinator.com/item?id=1476059>, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -1389,6 +1389,30 @@ Companion page, a commonplace book:
   shortcut very easily and keep extending my Emacs setup.
   This wasn't easy in any (other) editor I used. And none of these editors were
   meant to be used like that ..."
+
+- <https://news.ycombinator.com/item?id=27520853> comments on Emacs Love Tale -
+  *cyrialize*: By (the) "magic" (of Emacs) I really just mean having a
+  super low barrier to having your code running and working in Emacs. You
+  just open your config files, put in a line of code, and then you're
+  done. ...  there are no other programs out there like Emacs. You always
+  have to either create your own extension, modify the source code, etc.
+  ... Realizing that you could kinda just make whatever you'd like in
+  Emacs is an amazing feeling ...
+
+  *sillysaurusx*: Believe it or not, a lot of it is due to a shared global
+  namespace with global variables as the norm. It's hard to capture the
+  qualities you mention without that. ... There's more to it than that, of
+  course the design is excellent but convention matters, and elisp has a
+  convention not seen in most other large-scale programming systems.
+
+  *emacsuser31*: Definitely this. It just feels so natural to have all
+  those functions in the same scope without dealing with modules,
+  hierarchies or something involving both. I also believe that none of the
+  languages with module hierarchies are suitable for some kind of REPL
+  driven development. You can't just dump all of your program into the
+  REPL and expect it to work. You need globally unique names for these.
+  And I believe this is a must for a language that is running inside an
+  editor.
 
 - <https://news.ycombinator.com/item?id=25038572> comment by *Upvoter* on
   Why are so many coders still using Vim and Emacs? -
