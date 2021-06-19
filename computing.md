@@ -1386,15 +1386,20 @@ Companion page, a commonplace book:
   (the program) Alfred:
   "I can open a scratch buffer in Emacs, hack away commands, put them
   together in a Lisp function, put it in my *init.el* file, bind it to a
-  shortcut very easily and keep extending my Emacs setup.
-  This wasn't easy in any (other) editor I used. And none of these editors were
-  meant to be used like that ..."
+  shortcut very easily and keep extending my Emacs setup. This wasn't easy
+  in any (other) editor I used. And none of these editors were meant to be
+  used like that ..."
 
 - <https://news.ycombinator.com/item?id=27520853> comments on Emacs Love Tale -
   *cyrialize*: By (the) "magic" (of Emacs) I really just mean having a
   super low barrier to having your code running and working in Emacs. You
   just open your config files, put in a line of code, and then you're
   done. ...
+
+  *yissp*: This is a huge part of the appeal of emacs ... Other
+  editors / IDEs might offer a comparable level of extensibility but it
+  feels like there's so much more friction involved in taking advantage of
+  it. ...
 
   *sillysaurusx*: Believe it or not, a lot of it is due to a shared global
   namespace with global variables as the norm. It's hard to capture the
