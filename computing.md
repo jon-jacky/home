@@ -1394,16 +1394,11 @@ Companion page, a commonplace book:
   *cyrialize*: By (the) "magic" (of Emacs) I really just mean having a
   super low barrier to having your code running and working in Emacs. You
   just open your config files, put in a line of code, and then you're
-  done. ...  there are no other programs out there like Emacs. You always
-  have to either create your own extension, modify the source code, etc.
-  ... Realizing that you could kinda just make whatever you'd like in
-  Emacs is an amazing feeling ...
+  done. ...
 
   *sillysaurusx*: Believe it or not, a lot of it is due to a shared global
   namespace with global variables as the norm. It's hard to capture the
-  qualities you mention without that. ... There's more to it than that, of
-  course the design is excellent but convention matters, and elisp has a
-  convention not seen in most other large-scale programming systems.
+  qualities you mention without that. ...
 
   *emacsuser31*: Definitely this. It just feels so natural to have all
   those functions in the same scope without dealing with modules,
