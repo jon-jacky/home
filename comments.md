@@ -13,6 +13,25 @@ comments on *Hacker News*, click *parent* to see more context).
 I also keep a commonplace book of writings by others:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+Jun 2021
+
+- <https://news.ycombinator.com/item?id=27696311> on 
+  One of the first artistic impressions of a computer (1984) on sale at
+  Christies
+
+  This [0] is certainly *not* "one of the first artistic impressions of a
+  computer".
+
+  For earlier examples, see Boris Artzybasheff's fanciful paintings and
+  drawings from the 1950s and 60s [1]. His Apr 2, 1965 Time magazine cover
+  has features and a pose remarkably similar to the Kieth Haring picture
+  linked here, including the arms, the brain, and the tiny figures along
+  the bottom margin.
+
+  0. <https://www.christies.com/lot/lot-keith-haring-untitled-6328194/?from=searchresults&intObjectID=6328194>
+
+  1. <https://www.google.com/search?q=Boris+Artzybasheff+computer&tbm=isch&sxsrf=ALeKk03FT2Phzr0K2mH5FE28QDVDcGV6yw%3A1625111171414&source=hp&biw=1090&bih=638&ei=gzrdYMrSFb-80PEPy_GYiAw&oq=Boris+Artzybasheff+computer&gs_lcp=CgNpbWcQAzoCCAA6BggAEAUQHjoECAAQHjoECAAQGFCbe1jKiwFggZQBaABwAHgAgAFXiAHOBZIBAjEwmAEAoAECoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ved=0ahUKEwiKoNvw-sDxAhU_HjQIHcs4BsEQ4dUDCAY&uact=51.>
+
 May 2021
 
 - <https://ask.metafilter.com/354423/Art-that-accidentally-predicted-the-future#5063275>
