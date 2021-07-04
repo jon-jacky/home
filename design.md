@@ -23,6 +23,9 @@ Companion page, a commonplace book:
 - <https://jamesl.me/atto/> - "Welcome to atto. Type help to view the guide.
   Ready."
 
+  via <https://news.ycombinator.com/item?id=27724236> with many comments from the
+  author.
+
  8 Jun 2021
 
 - <https://darkmatters.xyz/> -
