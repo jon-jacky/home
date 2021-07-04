@@ -13,12 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 1 Jul 2021
+ 1 Jul 2021, 4 Jul 2021
 
 - <https://txt.fyi/about/> - "Write something, hit publish, and it's live. ...
   The only practical way for anyone to find out about a posting is if the
   author links to it elsewhere. ... Search engines are instructed not to
   index posts ..."
+
+- <https://jamesl.me/atto/> - "Welcome to atto. Type help to view the guide.  
+  Ready."
 
  8 Jun 2021
 
