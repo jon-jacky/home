@@ -20,7 +20,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   author links to it elsewhere. ... Search engines are instructed not to
   index posts ..."
 
-- https://jamesl.me/atto/ - "Welcome to atto. Type help to view the guide.  
+- https://jamesl.me/atto/ - "Welcome to atto. Type help to view the guide.
   Ready."
 
  8 Jun 2021
