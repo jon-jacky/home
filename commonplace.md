@@ -899,6 +899,38 @@ Some of my own comments:
 
   For more excerpts from *The Age of Revolution*, see under 18 Nov 2020, below.
 
+11 Jul 2021 (but it fits best here, after *The Age of Revolution*)
+
+- *What is History?* by E. H. Carr (1961), from Ch 3 *History, Science,
+  and Morality*, p. 80 -- 81 (no link):
+
+  "Let us take the story of the industrialization of Great Britain
+  between, say, about 1780 and 1870.  Virtually every historian will treat
+  the  industrial revolution, probably without discussion, as a great and
+  progressive achievement.  He will also describe the driving of the
+  peasantry off the land, the herding of workers into unhealthy factories
+  and unsanitary dwellings, the exploitation of child labor.  He will
+  probably say that abuses occurred in the working of the system, and that
+  some employers were more ruthless than others, and will dwell with some
+  unction on the gradual growth of a humanitarian conscience once the
+  system had become established.  But he will assume, again probably
+  without saying it, that measures of coercian and exploitation, at any
+  rate in the first stages, were an unavoidable part of the cost of
+  industrialization. Nor have I ever heard of a historian who said that,
+  in view of the cost, it would have been better to stay the hand of
+  progress and not industrialize; if any such exists, he ... will -- quite
+  properly -- not be taken  seriously by serious historians. ...
+
+  ... Unfortunately, it was not (the ones who suffered) who have survived
+  to enjoy whatever glory or profit may have accrued ...  Those who pay the
+  cost are rarely those who reap the benefits ...
+
+  We are born into society, we are born into history.  No moment occurs
+  when we are offered a ticket of admission with the option to accept or
+  reject it. The historian has no more conclusive answer than the
+  theologian to the  problem of suffering.  He, too, falls back on the
+  thesis of the lesser  evil and the greater good."
+
 18 Dec 2020
 
 - *Going To Extremes* by Joe McGinnis (1980), p. 222 (no link):
