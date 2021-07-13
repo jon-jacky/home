@@ -921,15 +921,41 @@ Some of my own comments:
   progress and not industrialize; if any such exists, he ... will -- quite
   properly -- not be taken  seriously by serious historians. ...
 
-  ... Unfortunately, it was not (the ones who suffered) who have survived
+  Unfortunately it was not (the ones who suffered) who have survived
   to enjoy whatever glory or profit may have accrued ...  Those who pay the
-  cost are rarely those who reap the benefits ...
+  cost are rarely those who reap the benefits. ...
 
   We are born into society, we are born into history.  No moment occurs
   when we are offered a ticket of admission with the option to accept or
   reject it. The historian has no more conclusive answer than the
   theologian to the  problem of suffering.  He, too, falls back on the
   thesis of the lesser  evil and the greater good."
+
+  Chapter 2, *Society and the Individual*, p. 35 - 36, 43 - 44 and Chapter 3
+  *History, Science, and Morality*, p. 83 - 84 (no link):
+
+  "We sometimes speak of history as a 'moving procession'.  The metaphor
+  is fair enough, provided it does not tempt the historian to think of
+  himself as an eagle surveying the scene from a lonely crag, or a V.I.P.
+  at the saluting base.  Nothing of the kind!  The historian is just another
+  dim figure trudging along in another part of the procession. ... The
+  thought of historians, as of other human beings, is moulded by the
+  environment of the time and place. ...
+
+  But the only point I wish to make at the moment is the impossibility of
+  erecting an abstract and super-historical standard by which historical
+  actions can be judged. ... whether that standard derives from some
+  divine authority postulated by theologians, or from a static Reason or
+  Nature postulated by the philosophers of the Enlightenment. ... (The
+  error of doing that is not due to) defects in the standard itself. It is
+  that the attempt to erect such a standard is unhistorical and
+  contradicts the very essence of history.  It provides a dogmatic answer
+  to questions which the historian is bound by his vocation incessantly to
+  ask. ... Moreover, when we examine these supposedly absolute and extra-
+  historical values, we find that they too are rooted to history. ... The
+  beliefs which we hold and the standards of judgment which we set up are
+  part of history, and are as much subject to historical investigation as
+  any other aspect of human behavior. ..."
 
 18 Dec 2020
 
