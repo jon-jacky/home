@@ -899,7 +899,25 @@ Some of my own comments:
 
   For more excerpts from *The Age of Revolution*, see under 18 Nov 2020, below.
 
-11 Jul 2021 (but it fits best here, after *The Age of Revolution*)
+13 Jul 2021 (but it fits best here, after *The Age of Revolution*)
+
+- Repression's Rewards by Bob Harris, review of *The Savage Storm:
+  Britain on the Brink in the Age of Napoleon* by David Andress in *TLS*,
+  May 17, 2013 p. 11 (no link):
+
+  "Andress argues that, domestically in this period, Britain was a
+  starkly divided society, afflicted by growing and intermittently intense
+  social, political and economic tensions. ... Only ruthless displays of
+  military and legal repression by the authorities kept the lid on these
+  pressures, and kept the threat of revolution simply a threat. ...
+  The Luddite disturbances of 1811-12 are discussed at some length ...
+  highlighting, again, the ruthless side of the British ruling elite,
+  and its willingness to disregard its own language of freedom, if this
+  stood in the way of stamping out any threat to its interests, imagined
+  or real."
+
+11 Jul 2021 (but it fits best here, after *The Age of Revolution* and
+   *The Savage Storm*)
 
 - *What is History?* by E. H. Carr (1961), from Ch 3 *History, Science,
   and Morality*, p. 80 -- 81 (no link):
