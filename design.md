@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+19 Jul 2021
+
+- <https://ozake.com/> - A website entirely from SVG.
+
+- <https://alienmelon.itch.io/electric-zine-maker> - 
+  "... seriousness is not always the best way to fight back against
+  a system that doesn't care about you ..."
+
  1 Jul 2021, 4 Jul 2021
 
 - <https://txt.fyi/about/> - "Write something, hit publish, and it's live. ...
