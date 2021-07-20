@@ -15,7 +15,7 @@ Companion page, a commonplace book:
 
 19 Jul 2021
 
-- <https://ozake.com/> - A website entirely from SVG.
+- <https://ozake.com/> - A website made entirely from SVG.
 
 - <https://alienmelon.itch.io/electric-zine-maker> - 
   "... seriousness is not always the best way to fight back against
