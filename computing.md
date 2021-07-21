@@ -10,6 +10,39 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+20 Jul 2021
+
+- <http://cultureandcommunication.org/galloway/derridas-macintosh> -
+  Derrida's Macintosh by Alexander R. Galloway, Jul 19 2021 -
+
+  "(French deconstructionist philosopher Jacques) Derrida grew to love his
+  computer. "I can't do without it any more now, this little Mac ...," he
+  confessed.  ... Derrida adamantly avoided using Microsoft Word, instead
+  preferring MacWrite, the application that came bundled for free with his
+  Macintosh.
+
+  Derrida was indeed obsessed with the cut-and-paste feature. The
+  Macintosh allowed him to cut and reassemble his text with seemingly
+  infinite variability. Would this new machine more fully realize what
+  Derrida had found in other forms of textuality, like the trace and the
+  copy, or the operations of proliferation and dissemination, if not also
+  the compulsion to repeat, what he himself titled *mal d'archive* or
+  "archive fever"?
+
+  (Literary scholar Friedrich) Kittler reported in an interview: "I was
+  very pleased that Jacques Derrida ... actually uttered the sentence
+  (after some questioning): 'If there had been no computer, deconstruction
+  could never have happened.'"
+
+  The computer ... frequently had a disciplinary role, re-enforcing
+  Derrida's own superego, telling him what to do ... A harmless and
+  slightly amusing example was the "long paragraph error" ... Derrida
+  recounted ... "when I got to the end of a paragraph of such and such a
+  length, roughly twenty- five lines, [the software] told me: 'The
+  paragraph is going to be too long; you should press the Return button.'
+  Like an order coming from I know not whom, from the depths of what time
+  or what abyss, this slightly threatening warning would appear on the
+  screen"
 
  1 Jun 2021
 
