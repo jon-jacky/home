@@ -1,0 +1,68 @@
+outtakes.txt - considered but rejected for recent.txt
+
+22 Jul 2021
+
+- From Annette Groschner's essay about gentrification and eviction,
+  quoted in From Checkpoint Charlie: Essays on Europe's youth capital,
+  by Jane Yeager, review of *The Passenger: Berlin* in *TLS*, July 16,
+  2021, p. 11 (no link):
+
+  "I am a renter out of conviction, and it is a fact that Berlin is a
+  city for renters that has always made it such a great place to live.
+  I feel this way not just because of the obligations that property brings,
+  but because of what acquiring property through credit does to people --
+  it makes cowards of them.  The fear of losing jobs or orders and then no
+  longer being able to service their loans causes them to put up with anything
+  -- or worse, to use the fact that they own a property as a basis on which
+  to make demands on the city and on their neighbors."
+
+21 Jul 2021
+
+- Pacifist, soldier, mystic, saint: the complex identity of Simone Weil
+  by Karen Olsson, review of *The Subversive Simon Weil, A Life in Five
+  Ideas* by Robert Zaretsky in *TLS*, July 16, 2021, p. 8 - 9 (no link):
+
+  "As a Parisian teenager in the 1920s, Weil fell into a depression,
+  convinced that she would never reach the kind of intellectual heights
+  to which her brother, the mathematician Andre Weil, had access. She
+  recovered by way of an epiphany, deciding that as long as she devoted
+  herself to the search for truth, to the cultivating of rigourous attention,
+  her life had value.
+
+  ... While others on the left argued and wrote about labour, ... she took
+  a job in a factory, where she discovered the deadening toil that labourers
+  actually undertook.  This in turn reorientated her politics, as she
+  understood that technology itself had come to dictate the arrangement of
+  society -- one that enslaved workers.
+
+  What enslaved them was not just the drudgery, but the way in which such
+  work made it hard even to think. For Weil clear thinking was a necessary
+  precursor to any genuine political resistance: "as thinking creatures we
+  are incapable of accepting servitude", Zaretsky summarizes.  And the
+  importance of intellectual engagement, of wrestling with the truth, went
+  well beyond politics.  She prized the understanding that comes from letting
+  go of the self and extending one's full attention to something or someone
+  else.  As time went on, the ideal became more explicitly spiritual."
+
+ 7 Aug 2018
+
+- <https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8>
+  "... it’s odd that Facebook is valued at over $400B while nearly all
+  users of the platform make $0 for producing its content. ... The
+  ultimate vision for Cent is to become an income source for anyone
+  who wants to provide their value to society via a digital network."
+  Prototype at https://beta.cent.co/ Promotion at <https://www.cent.co/>
+  Via <https://news.ycombinator.com/item?id=17694135> "... paying users
+  for providing responses that are no different than FB posts or
+  Tweets. The difference between Cent and FB and Twitter though is
+  that users on Cent are responding to posts that have a monetary
+  bounty attached to them..."
+
+  Interesting idea, but poor implementation with a weird community.
+  The tweet format does not lend itself to high-value content -- most
+  tweets are worthless.  Much of the activity at the prototype site is
+  chitchat from enthusiasts for cryptocurrencies and blockchain.
+  According to <https://beta.cent.co/leaderboard>, the top earner made
+  $36.99 in 30 days.  Compare to much higher quality questions,
+  answers, and site design at <https://ask.metafilter.com/>
+
