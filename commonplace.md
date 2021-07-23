@@ -14,6 +14,51 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+22 Jul 2021
+
+- The Empire Writes Back by William Dalrymple, review of *The Autobiography
+  of an Unknown Indian* by Nirad C. Chaudhuri in *TLS* Jul 23 1999, p. 11
+  (no link):
+
+  "The high point of the book ... is the opening section describing
+  Chaudhuri's upbringing in remote rural Bengal at the turn of the century
+  ...  Here Chaudhuri writes with startling clarity about his physical
+  surroundings: ... a green Eden of monsoon rain, thatched huts, and
+  rotting vegetation ... It is in these descriptions of his own life, his
+  own sensations and memories, that Chaudhuri is at his most mesmerizing ...
+
+  Yet Chaudhuri is not content to merely describe the private, and
+  ambitiously aims to give "more of a national than a personal history".
+  ... These digressions are invariably a mistake. ... For Chaudhuri's
+  historical and teleological digressions are almost always lecturesome
+  and often pedantic and plain tiresome; the reader's heart sinks ...
+
+  In his capacity for terminally self-indulgent meandering (if in no other),
+  Chauduri's work bears an unexpected resemblance to that of a later and
+  equally difficult Indian genius: Salman Rushdie.  With both, one has the
+  feeling that one is reading something that is important and improving as
+  it is unquestionably unpalatable -- like drinking literary cod liver oil.
+  These two very different writers also share a tendency to show off their
+  learning and erudition in the most wearisome way.
+
+  Yet if Chaudhuri can be hard work, then he is, like Rushdie, usually
+  worth the effort.  Part of it is the sheer obstinate integrity and near-
+  heroic defiance of convention that Chaudhuri represents.  Partly it is
+  the testament this book gives to the long years of lonely isolation
+  undergone by this strange maverick; the hectoring and preening of the
+  historical digressions speak powerfully of a man unused to conversation,
+  of someone starved of sympathetic intellectual company, or any sort of
+  receptive audience.
+
+  Partly also it is the sheer oddity of the now lost hybrid culture
+  Chaudhuri represents ... (he was) a figure who could read and enjoy
+  Shakespeare and Milton in the morning, then, in the evening, to the
+  sound of "the beating of drums, cymbals, and gongs, and the frenzied
+  shouts of spectators", piously attend a bloody goat sacrifice ...
+
+  Either way, for all his failings and idiosyncrasies, Chaudhuri is
+  a unique and intermittenly profound voice ..."
+
 14 Jul 2021
 
 - <https://600transformer.blogspot.com/2012/10/professor-grumpys-historical-manifesto.html> -
@@ -68,7 +113,7 @@ Some of my own comments:
   identities   in the present upon myths. That means we don't have to feel
   guilty or apologise, either --- just to be aware; to understand."
 
- 7 Jun 2021
+7 Jun 2021
 
 - *My Past and Thoughts* by Alexander Herzen (1885), translated
   by Constance Garnett (1968). Excerpted as 'A Russian Thinker in Exile'
