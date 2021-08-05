@@ -10,6 +10,72 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 4 Aug 2021
+
+- <https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf> -
+  *The Medium is the Massage* by Marshall McLuhan and Quentin Fiore (1967) -
+
+  This is a picture book Marshall McLuhan made with graphic designer
+  Quentin Fiore to popularize ideas from his earlier books.  It is a
+  small paperback with trippy black and white graphics on every page --
+  it was 1967! -- and short text excerpts superimposed on some pages.
+  Some samples:
+
+  - "The medium, or process, of our time -- electric technology -- is reshaping
+    and  restructuring  patterns of social  interdependence  and  every
+    aspect  of  our personal  life.  It  is  forcing  us  to  reconsider  and
+    re-evaluate  practically  every  thought,  every  action, and  every
+    institution  formerly  taken for  granted.  Everything  is  changing -- you,
+    your  family,  your neighborhood,  your  education,  your job,  your
+    government,  your  relation  to  "the  others."  And  they're changing
+    dramatically. ..."
+
+    "The  alphabet  and  print  technology  fostered  and encouraged  a
+    fragmenting  process,  a  process  of specialism  and  of detachment.
+    Electric technology fosters  and  encourages  unification  and
+    involvement. ..."
+
+    "Innumerable  confusions  and   a  profound  feeling of  despair
+    invariably  emerge  in  periods  of  great technological  and  cultural
+    transitions. ...
+    Youth   instinctively   understands   the   present   environment --
+    the  electric  drama.   It  lives  mythically and   in   depth.    This
+    is  the   reason  for  the  great alienation  between  generations. ..."
+
+    "Electrical   information   devices for universal, tyrannical
+    womb-to-tomb   surveillance   are   causing   a  very serious  dilemma
+    between  our  claim  to privacy  and  the  community's  need  to know.
+    The  older,  traditional   ideas  of private, isolated thoughts and
+    actions -- the  patterns  of  mechanistic  technologies -- are  very
+    seriously  threatened  by new  methods  of  instantaneous
+    electric information  retrieval,  by the  electrically computerized
+    dossier  bank -- that  one big  gossip  column  that  is
+    unforgiving, unforgetful  and  from  which  there  is  noredemption,
+    no  erasure  of  early  "mistakes." ...
+    How  shall  the  new  environment  be  programmed  now that we  have
+    become  so involved  with  each  other,  now  that  all of us  have
+    become  the  unwitting  workforce  for  social  change? ..."
+
+    "(Printing) created the portable book, which men could read in  privacy
+    and  in  isolation from others.  Man  could now inspire and
+    conspire.Like  easel  painting,  the  printed  book  added  much to the
+    new cult of individualism.  The private, fixed point  of  view  became
+    possible  and  literacy  conferred  the  power  of  detachment,
+    non-involvement. ..."
+
+    "The instantaneos world of electric informational media involves all of
+    us, all at once.  No detachment or frame is possible. ...
+
+    Ours  is  a brand-new world  of allatonceness. "Time" has  ceased,
+    "space"  has vanished.  We  now live  ina  global  village... a
+    simultaneous  happening."
+
+  This was written more than fifty years ago.  We have been reading
+  comments like this from many authors ever since -- every time, as if the
+  situation they describe had just recently appeared as a result of some new
+  development.  McLuhan's  ideas have become so pervasive that people do
+  not even realize when they are repeating him.
+
 20 Jul 2021
 
 - <http://cultureandcommunication.org/galloway/derridas-macintosh> -
