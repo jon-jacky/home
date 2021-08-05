@@ -70,7 +70,7 @@ Companion page, a commonplace book:
     simultaneous  happening."
 
   This was written more than fifty years ago.  We have been reading
-  comments like this from promoters and critics ever since -- every time,
+  comments like these from promoters and critics ever since -- every time,
   as if the situation they describe had just recently appeared as a result
   of some new development.  McLuhan's  ideas have become so pervasive that
   people do not even realize when they are repeating him.
