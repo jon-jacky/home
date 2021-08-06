@@ -82,7 +82,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
     pictures  they  are lionizing -- such  as  "The  Knack," "Hard  Day's
     Night,"  "What's  New Pussycat?" -- would  prove unacceptable as mass
     audience films if  the audience   had  not  been  preconditioned  by
-    television  commercials to  abrupt  zooms,  ellipticalediting,  no
+    television  commercials to  abrupt  zooms,  elliptical editing,  no
     story  lines,  flash cuts. ..."
 
     "The instantaneous world of electric informational media involves all of
@@ -94,10 +94,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   This was written more than fifty years ago.  We have been reading
   comments like these ever since, from technology promoters and critics
   alike.  They often write as if the situation they describe has just
-  recently appeared, as a result of some new development.  McLuhan's
-  insights, once so startling, have become cliches.  His ideas have become
-  so pervasive that people do not even realize when they are repeating
-  him.
+  recently appeared, as a result of some new development.   McLuhan was mostly
+  writing about television, but the same observations are now made about
+  computing, especially social media. McLuhan's insights, once so
+  startling, have become cliches.  His ideas have become so pervasive that
+  people do not even realize when they are repeating him.
 
 20 Jul 2021
 
@@ -641,23 +642,21 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   general, isn't just nostalgia - it's making a stand against the bottomless
   complexity and disempowerment of modern computing."
 
-  https://news.ycombinator.com/item?id=28072941 - comments on yet another 
-  Amiga article: 
+  https://news.ycombinator.com/item?id=28072941 - In comments on yet
+  another  Amiga article, *eludwig* writes: "To me, both the Amiga & the
+  original Mac had a "ding an sich", a such-ness that made them feel
+  timeless. They stand alone as objects (art?) that can still be enjoyed
+  today in and of themselves, no excuses needed."
 
-  *eludwig*: "To me, both the Amiga & the original Mac had a "ding an
-  sich", a such-ness that made them feel timeless. They stand alone as
-  objects (art?) that can still be enjoyed today in and of themselves, no
-  excuses needed."
-
-  *krylon*: "would it make sense to port (the Amiga OS) to the PC or maybe
-  Raspberry Pi?" *agent327*: Yes and no. ... its culture was just
-  different.  ... So it can certainly be done. The question is, will you
-  end up with the same joyful platform and the same joyful culture? I sort
-  of doubt that: without a captain on that particular ship, odds are it
-  will quickly turn into a Linux reskin. The world already has enough of
-  those ..."
+  *krylon* asks: "would it make sense to port (the Amiga OS) to the PC or
+  maybe Raspberry Pi?" *agent327* answers: Yes and no. ... its culture was
+  just different.  ... So it can certainly be done. The question is, will
+  you end up with the same joyful platform and the same joyful culture? I
+  sort of doubt that: without a captain on that particular ship, odds are
+  it will quickly turn into a Linux reskin. The world already has enough
+  of those ..."
   
-  *dm319*: "These days everything is better, but also nothing is."
+  *dm319* writes: "These days everything is better, but also nothing is."
 
   https://github.com/mntmn/interim and http://dump.mntmn.com/interim-paper/ -
   Another project from the same author: "a radical new operating
