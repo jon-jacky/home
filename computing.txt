@@ -18,7 +18,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   This is a picture book Marshall McLuhan made with graphic designer
   Quentin Fiore to popularize ideas from his earlier books.  It is a 
   small paperback with trippy black and white graphics on every page --
-  it was 1967! -- and short text excerpts superimposed on some pages.
+  it was 1967 -- and bits of text superimposed on some pages.
   Some samples:
 
   - "The medium, or process, of our time -- electric technology -- is reshaping
@@ -62,18 +62,42 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
     new cult of individualism.  The private, fixed point  of  view  became
     possible  and  literacy  conferred  the  power  of  detachment,  
     non-involvement. ..."
-    
-    "The instantaneos world of electric informational media involves all of
+
+    "Print  technology  created  the  public.  Electric  technology
+    created  the  mass.  The  public  consists  of separate  individuals
+    walking  around  with  separate, fixed  points of view. The  new
+    technology demands that  we  abandon  the  luxury  of  this  posture,
+    this fragmentary outlook. ..."
+
+    "When faced with a totally new situation, we tend always to attach
+    ourselves to the objects, to the flavor of the most recent past.
+    We look at the present through a rear-view mirror.  We march backwards
+    into the future. ..."
+
+    "Most  often  the  few  seconds  sandwiched  between the hours of
+    (television) viewing -- the "commercials" -- reflect a truer
+    understanding  of  the medium.  There  simply is  no  time  for  the
+    narrative  form, borrowed  from earlier  print  technology. ...
+    Critics  of television  have failed  to  realize  that  the  motion
+    pictures  they  are lionizing -- such  as  "The  Knack," "Hard  Day's
+    Night,"  "What's  New Pussycat?" -- would  prove unacceptable as mass
+    audience films if  the audience   had  not  been  preconditioned  by
+    television  commercials to  abrupt  zooms,  ellipticalediting,  no
+    story  lines,  flash cuts. ..."
+
+    "The instantaneous world of electric informational media involves all of
     us, all at once.  No detachment or frame is possible. ...
     Ours  is  a brand-new world  of allatonceness. "Time" has  ceased,
     "space"  has vanished.  We  now live  in a  global  village... a
     simultaneous  happening."
 
   This was written more than fifty years ago.  We have been reading
-  comments like these from promoters and critics ever since -- every time,
-  as if the situation they describe had just recently appeared as a result
-  of some new development.  McLuhan's  ideas have become so pervasive that
-  people do not even realize when they are repeating him.
+  comments like these ever since, from technology promoters and critics
+  alike.  They often write as if the situation they describe has just
+  recently appeared, as a result of some new development.  McLuhan's
+  insights, once so startling, have become cliches.  His ideas have become
+  so pervasive that people do not even realize when they are repeating
+  him.
 
 20 Jul 2021
 
@@ -596,7 +620,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   More about BASIC programming at 28 Feb 2019, below.
 
-30 Oct 2020
+30 Oct 2020, 5 Aug 2021
 
 - https://github.com/mntmn/amiga2000-gfxcard - an Amiga 2000 Graphics Card
  
@@ -616,6 +640,24 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   article: "I am convinced that the appeal of the Amiga, and retro-computing in
   general, isn't just nostalgia - it's making a stand against the bottomless
   complexity and disempowerment of modern computing."
+
+  https://news.ycombinator.com/item?id=28072941 - comments on yet another 
+  Amiga article: 
+
+  *eludwig*: "To me, both the Amiga & the original Mac had a "ding an
+  sich", a such-ness that made them feel timeless. They stand alone as
+  objects (art?) that can still be enjoyed today in and of themselves, no
+  excuses needed."
+
+  *krylon*: "would it make sense to port (the Amiga OS) to the PC or maybe
+  Raspberry Pi?" *agent327*: Yes and no. ... its culture was just
+  different.  ... So it can certainly be done. The question is, will you
+  end up with the same joyful platform and the same joyful culture? I sort
+  of doubt that: without a captain on that particular ship, odds are it
+  will quickly turn into a Linux reskin. The world already has enough of
+  those ..."
+  
+  *dm319*: "These days everything is better, but also nothing is."
 
   https://github.com/mntmn/interim and http://dump.mntmn.com/interim-paper/ -
   Another project from the same author: "a radical new operating
