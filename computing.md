@@ -91,16 +91,17 @@ Companion page, a commonplace book:
     "space"  has vanished.  We  now live  in a  global  village... a
     simultaneous  happening."
 
-  This was written more than fifty years ago.   We have been reading
-  comments like these ever since, from technology promoters and critics
-  alike.  They often write as if the situation they describe has just
-  recently appeared, as a result of some new development.   McLuhan was
-  mostly writing about television, but the same observations seem even
-  more pertinent to computing, especially social media.  His insights, but
-  also his visionary language and claims of world-changing significance,
-  have become cliches.  McLuhan is not so well known now, but his  ideas
-  have become so pervasive that people do not even realize when they are
-  repeating him.
+  This was written more than fifty years ago.  McLuhan is not so well
+  known anymore, but it is remarkable how prescient and influential he has
+  turned out to be.  We often read comments like these  from technology
+  promoters and critics alike, who write as if the situation they describe
+  has just recently appeared, as a result of some new development. McLuhan
+  was mostly writing about television, but now the same observations seem
+  even more pertinent to computing, especially social media.  His
+  insights, along with the breathless language and claims of
+  world-changing significance in this particular book, have become cliches.
+  McLuhan's ideas have become so pervasive that people do not even realize
+  when they are repeating him.
 
 20 Jul 2021
 
