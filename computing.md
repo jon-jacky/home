@@ -13,8 +13,8 @@ Companion page, a commonplace book:
  4 Aug 2021
 
 - <https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf> -
-  *The Medium is the Massage* by Marshall McLuhan and Quentin Fiore (1967) -
 
+  *The Medium is the Massage* by Marshall McLuhan and Quentin Fiore (1967) -
   This is a picture book Marshall McLuhan made with graphic designer
   Quentin Fiore to popularize ideas from his earlier books.  It is a
   small paperback with trippy black and white graphics on every page --
