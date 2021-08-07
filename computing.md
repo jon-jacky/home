@@ -10,7 +10,7 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 4 Aug 2021
+ 4 Aug 2021, 7 Aug 2021
 
 - <https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf> -
 
@@ -18,8 +18,7 @@ Companion page, a commonplace book:
   This is a picture book Marshall McLuhan made with graphic designer
   Quentin Fiore to popularize ideas from his earlier books.  It is a
   small paperback with trippy black and white graphics on every page --
-  it was 1967 -- and bits of text superimposed on some pages.
-  Some samples:
+  it was 1967 -- and bits of text on some pages.  Some samples:
 
   - "The medium, or process, of our time -- electric technology -- is reshaping
     and  restructuring  patterns of social  interdependence  and  every
@@ -98,10 +97,32 @@ Companion page, a commonplace book:
   has just recently appeared, as a result of some new development. McLuhan
   was mostly writing about television, but now the same observations seem
   even more pertinent to computing, especially social media.  His
-  insights, along with the breathless language and claims of
-  world-changing significance in this particular book, have become cliches.
-  McLuhan's ideas have become so pervasive that people do not even realize
-  when they are repeating him.
+  visionary language and claims of world-changing significance continue to
+  be imitated.  McLuhan's ideas and style have become so pervasive that
+  people do not even realize when they are repeating him.
+
+- What if he is right? by Tom Wolfe, in *The Pump House Gang* (1968).
+  First appeared in *New York* magazine, Nov. 21 1965 (no link):
+
+  - "At the time McLuhan was a teacher working out of a little office on
+    the edge of the University of Toronto that looked like the receiving
+    bin of a second-hand bookstore, grading papers ... teaching English ...
+    *But what if --* ...  Suppose he *is* what he sounds like, the most
+    important thinker since Newton, Darwin, Freud, and Pavlov ... --
+    suppose he *is* the oracle of modern times -- *what if he is right?*
+
+    IBM, General Electric, Bell Telephone, and others had been flying
+    McLuhan from Toronto to New York, Pittsburgh, all over the place,
+    to give private talks to their hierarchs about ... this unseen world
+    of electronic environment that *only he sees fully*. ...
+    ... and this man ... who just got through *grading papers*, for godsake,
+    tells them in an *of-course* voice, and with *I'm being patient* eyes,
+    that, in effect, politely, they all know just about exactly ...
+    nothing ... about the real business they're in ---"
+
+  This article was written when McLuhan had just become famous.  It tells
+  amusing stories of his sudden celebrity, but also discusses his books and
+  ideas.
 
 20 Jul 2021
 
