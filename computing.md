@@ -10,6 +10,55 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 9 Aug 2021
+
+- <https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf> - 
+  The Moral Character of Cryptographic Work by Phillip Rogaway (2015) -
+
+  "Most academic cryptographers seem to think that our field is a
+  fun, deep,  and  politically  neutral  game -- a  set  of  puzzles  involving
+  communicating parties  and  notional  adversaries.  This  vision  of  who
+  we  are  animates  a  field whose  work  is  intellectually  impressive
+  and  rapidly  produced,  but  also  quite inbred and divorced from real-world
+  concerns. Is this what cryptography *should* be like? Is it how
+  we *should* expend the bulk of our intellectual capital?
+
+  For me, these questions came to a head with the Snowden disclosures of
+  2013. If cryptography's most basic aim is to enable secure
+  communications, how could it not be a colossal failure of our field when
+  ordinary people lack even a modicum of communication privacy when
+  interacting electronically?"
+
+  "There  is  a  long  tradition  of  cutesiness  in  our  field. People
+  spin fun and fanciful stories. Protocol participants are a caricatured
+  Alice and Bob. Adversaries are little devils, complete with horns and a
+  pitchfork. Some crypto talks are so packed with clip-art you can hardly
+  find the content. I have never  liked  this,  but,  after  the  Snowden
+  revelations,  it  started  to  vex  me  like never before.
+
+  Cryptography is serious, with ideas often hard to understand. When we
+  try to explain them with cartoons and cute narratives, I dont think we
+  make our contributions easier  to  understand.  What  we actually do  is
+  add  in  a  layer of obfuscation  that  must  be  peeled  away  to
+  understand  what  has actually  been done.  Worse,  the  cartoon-heavy
+  cryptography  can reshape  our  internal  vision of our role. The
+  adversary as a $53-billion-a-year military-industrial-surveillance
+  complex  and  the adversary  as  a  red-devil-with-horns  induce
+  entirely different thought processes. If we see adversaries in one of
+  these ways, we will actually see at a different set of problems to work
+  on than if we see things in the other. Whimsical adversaries engender a
+  chimerical field.
+
+  At this point, I think we would do well to put ourselves in the mindset
+  of a *real* adversary, not a notional one: the well-funded intelligence
+  agency, the profit-obsessed  multinational,  the  drug  cartel.  You
+  have  an  enormous  budget.  You control lots of infrastructure. You have
+  teams of attorneys more than willing to interpret the law creatively. You
+  have a huge portfolio of zero-days.  You have a mountain of self-righteous
+  conviction. Your aim is to *Collect it All, Exploit it All, Know
+  it All.*  What would frustrate you?  What problems do you *not* want a bunch
+  of super-smart academics to solve?"
+
  4 Aug 2021, 7 Aug 2021
 
 - <https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf> -
@@ -116,12 +165,12 @@ Companion page, a commonplace book:
     to give private talks to their hierarchs about ... this unseen world
     of electronic environment that *only he sees fully*. ...
     ... and this man ... who just got through *grading papers*, for godsake,
-    tells them in an *of-course* voice, and with *I'm being patient* eyes,
+    tells them in an *of-course* voice, and with *I'm-being-patient* eyes,
     that, in effect, politely, they all know just about exactly ...
     nothing ... about the real business they're in ---"
 
   This article was written when McLuhan had just become famous.  It tells
-  amusing stories of his sudden celebrity, but also discusses his books and
+  amusing stories about his sudden celebrity, but also discusses his books and
   ideas.
 
 20 Jul 2021
