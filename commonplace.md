@@ -14,6 +14,38 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+10 Aug 2021
+
+- *A Friend of the Earth* by T. C. Boyle (2000), p. 183-4 (no link):
+
+  "There it is, the sun, angry and blistered in a sky the color of
+  a bleached robin's egg, steam rising, catfish wriggling, eighty-seven
+  degrees already and it's only eight in the morning. ...  Anyway, I was
+  up at six, the astonishing wallop of the meteorlogical change registering
+  insistently in my back and hip joints, the pillow gummy with sweat,
+  my glasses misted over the minute I clapped them on the bridge of my nose.
+
+  Global warming.  I remember the time when people debated not only the
+  fact of it but the consequence.  It didn't sound so bad, on the face of it,
+  to someone from Winnipeg, Grand Forks or Sakhalin Island.  The greenhouse
+  effect, they called it.  And what are greenhouses but pleasant, warm,
+  nurturing places, where you can grow sago palms and hyroponic tomatoes
+  during the deep freeze of the winter?  But that's not how it is at all.
+  No, it's like leaving your car in the sun all day with the windows rolled
+  up and then climbing in and discovering they've been sealed shut -- and the
+  doors too.   The hotter it is, the more evaporation; the more evaporation,
+  the hotter it gets, because the biggest greenhouse gas, by far and away,
+  is water vapor.  That's how it is, and that's why for the next six months
+  it's going to get so hot the Pulchris River will evaporate and rise back up
+  into the sky like a ghost in a long trailing shroud and all this muck will
+  be baked to the texture of concrete.  Global warming.  It's a fact."
+
+  This novel was published in 2000; it is set in the years 2025-26.  I
+  thought of this passage during the "once-in-a-millenium heat dome"
+  in June when temperatures in the Pacific Northwest exceeded 100 F,
+  the highest ever recorded here.  Another heat wave is expected later
+  this week.
+
 22 Jul 2021
 
 - The Empire Writes Back by William Dalrymple, review of *The Autobiography
