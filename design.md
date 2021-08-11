@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+10 Aug 2021
+
+- <https://ertdfgcvb.xyz/p2/the-puddle/> - The Puddle -
+  "Posters and flyers for The Puddle, live electronic music and dj sets
+  around Zurich. Processing was used for the production of the rasters."
+
 19 Jul 2021
 
 - <https://ozake.com/> - A website made entirely from SVG.
