@@ -10,10 +10,36 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 9 Aug 2021
+
+14 Aug 2021, 16 Aug 2021
+
+- <https://news.ycombinator.com/item?id=28168663>, comments on 
+  Pythonic Monotonic
+
+  *contravariant* writes: "It's kind of interesting how we're discussing
+  which solution is most pythonic, but nobody has managed to write a
+  solution which actually works. This is partially because the problem is
+  slightly ambiguous, but even then nobody seems to have written a version
+  that works for any of the possible interpretations of the problem. ..."
+
+  <https://news.ycombinator.com/item?id=28192375>, comments on 
+  Programming Idioms
+
+  *thom* writes: Surprisingly many failures of reading comprehension in
+  the implementations here. ...
+
+  *still_grokking* writes: Hmm. There are more wrong implementations than
+  correct ones by now. The core of the problem was noted already:
+  Obviously most people can't read. That's especially funny when
+  thinking about all the fuss that is made about teaching children
+  programming in school. They should start with teaching them reading. I
+  don't even mean this snarky. The state of affairs is actually depressing
+  and I would welcome it very much if more people around would be able to
+  read, understanding what's written.  Would make a lot of things easier
+  for everybody ..."
 
 - <https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf> - 
-  The Moral Character of Cryptographic Work by Phillip Rogaway (2015) -
+  The Moral Character of Cryptographic Work by Phillip Rogaway (2015)
 
   "Most academic cryptographers seem to think that our field is a
   fun, deep,  and  politically  neutral  game -- a  set  of  puzzles  involving

@@ -15,7 +15,7 @@ Companion page, a commonplace book:
 
 10 Aug 2021
 
-- <https://ertdfgcvb.xyz/p2/the-puddle/> - The Puddle -
+- <https://ertdfgcvb.xyz/p2/the-puddle/> -
   "Posters and flyers for The Puddle, live electronic music and dj sets
   around Zurich. Processing was used for the production of the rasters."
 
