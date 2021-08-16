@@ -25,10 +25,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   https://news.ycombinator.com/item?id=28192375, comments on 
   Programming Idioms
 
-  *thom* writes: Surprisingly many failures of reading comprehension in
-  the implementations here. ...  
+  *thom* writes: "Surprisingly many failures of reading comprehension in
+  the implementations here. ..."
 
-  *still_grokking* writes: Hmm. There are more wrong implementations than
+  *still_grokking* writes: "Hmm. There are more wrong implementations than
   correct ones by now. The core of the problem was noted already:
   Obviously most people can't read. That's especially funny when
   thinking about all the fuss that is made about teaching children
