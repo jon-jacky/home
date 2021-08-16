@@ -14,12 +14,6 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
-
-16 Aug 2021
-
-- <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
-  Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
-
 16 Aug 2021
 
 - <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
