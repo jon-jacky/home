@@ -141,6 +141,8 @@ Companion page, a commonplace book:
   read, understanding what's written.  Would make a lot of things easier
   for everybody ..."
 
+ 9 Aug 2021
+
 - <https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf> - 
   The Moral Character of Cryptographic Work by Phillip Rogaway (2015)
 
