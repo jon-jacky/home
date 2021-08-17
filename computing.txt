@@ -10,6 +10,109 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+16 Aug 2021
+
+- https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html - 
+  Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
+
+  "I did my doctoral work in the field of artificial intelligence. ...
+  One way to relate to AI, or to anything really, is the engineering way:
+  if it can solve engineering problems then it's good.  But that's not my
+  way.  I want to know if it's true. ...   (What) I wanted to discern was
+  the underlying structure of AI.  What was it about AI?  Why did it seem
+  so wrong? ... So here I was in the middle of the AI world -- 
+  and yet, day by day, AI started to seem insane. ...
+
+  (After I got my Ph.D) I had no job, no money, and no clue what I
+  wanted to do next.  I was exhausted ... And I was angry. ...   I'd been
+  at war for years, and most of the war was in my own head.  Only with the
+  physical distance, and having the dissertation safely in the library,
+  could I even start to get any perspective on it. ...
+
+  I decided to try an experiment.  In graduate school I had been taken
+  with the method of Derrida.  Never mind all of the American literary
+  critics who have gone to extremes with deconstruction.  I was still
+  basically an engineer, and to my engineer's mind Derrida's method of
+  applying the techniques of literary close-reading to philosophical texts
+  made all kinds of sense.  You don't understand what Derrida's getting at
+  if all you've read is the comic book or op-ed version of his strange
+  conclusions.  It's a discipline he's following, a serious one, and you
+  only understand it if you follow it step by step.  My experiment was to
+  apply these same techniques to technical texts.
+
+  I got out a photocopy of the first chapter of one of the founding
+  texts of AI, Miller, Galanter, and Pribram's "Plans and the Structure of
+  Behavior" (1960), and I read the first paragraph.  Just the first
+  paragraph.  I read it word-by-word, writing endless speculative notes
+  about the metaphors and rhetoric and prosody and so forth of every word.
+  I actually wrote that first paragraph out on a 3-by-5 card and carried
+  it with me wherever I went.  Analyzing that paragraph took weeks.  But a
+  picture emerged.  The paragraph, it turned out, was really about
+  hypnosis.  The paragraph was trying to hypnotize its reader, and it was
+  trying to merge the authors and reader rather than establish a dialogue
+  among them.  This was not just one of those arbitrary just-so stories
+  that bad literary critics tell when they get going into a high-theory
+  interpretive frenzy.  I hate that stuff. No: this was a tight, logical
+  argument about the fancy stuff -- the "economy", as Derrida would say --
+  that was going on beneath the surface of the text. ...
+
+  I was concerned with formalization, which is the process by which
+  mathematizing science and technology fields translate natural language
+  into mathematics.  What happens to language during that translation
+  process?  An awful lot, in fact, and with close reading we can watch
+  language go through characteristic deformations that tell us an awful
+  lot about why so many technical fields are both dangerous nonsense and
+  powerful ways of looking at the world. ...
+
+  I finally comprehended the difference between critical thinking and
+  its opposite.  Technical people are not dumb, quite the contrary, but
+  technical curricula rarely include critical thinking in the sense I have
+  in mind.  
+
+  Critical thinking means that you can, so to speak, see your glasses.
+  You can look at the world, or you can back up and look at the framework
+  of concepts and assumptions and practices through which you look at the
+  world.  Every such framework edits the world in some way; every such
+  framework has its biases.  And no matter how carefully you think you
+  define your words, most of your framework of concepts and assumptions
+  and practices for looking at the world will be inherited from a long
+  disciplinary and cultural tradition.
+
+  If you can't see your glasses then you will have tunnel vision your
+  whole life.  Yet you probably won't even notice, because your ways of
+  looking at the world also define what counts as success, as progress, as
+  a research result, and so on.  Not that critical thinking makes you
+  omniscient: you're still wearing glasses even when you're looking at
+  your glasses.  This (and not any sort of silly idealism) is what Derrida
+  means when he says that a text has no outside.  But through scholarship
+  and analysis you can do a lot better than just stumbling along with the
+  glasses you got in school.
+
+  So I found a way of relating to the technical texts that had   struck me
+  as wrong-headed: they were data, objects of investigation.   I could
+  read   them for all of the baroque stuff that was going on   within
+  them. And let   me tell you, there is a lot of baroque stuff   going on
+  inside your   average AI text.   That's not   because the author of said
+  text is dishonest or crazy; that person is   not trying to be perverse,
+  but has been socialized into a way of   talking and thinking, and has
+  not been socialized into any critical   practice for understanding
+  what's really going on.  ... I see the   crazy stuff, or some of it, and
+  I   thrash myself trying to figure out   how to explain it.  It's like
+  trying   to explain the ocean to a fish;   the concept simply makes no
+  sense to   someone who lives inside the   thing I am trying to explain.
+
+  That's obviously no good.  It doesn't help anyone.  Fortunately,
+  however, and through no conscious planning on my part, the situation
+  evolved further.  I somehow no longer experience a strong, dichotomous
+  opposition between two relations to a text: taking it seriously or
+  holding it at arm's length as an object of critical analysis.  That
+  strong distinction, it turns out, is an artefact of my having started
+  with the worst possible case, the most ambitious of all technical
+  disciplines, AI.  The great virtue of the interpretive social sciences
+  is that whole generations of smart people have applied a critical
+  sensibility to their own work, "reflexively" as they say, so that whole
+  generations of students have grown up being socialized into a relatively
+  conscious relation to their own language and assumptions and practices. ..."
 
 14 Aug 2021, 16 Aug 2021
 
