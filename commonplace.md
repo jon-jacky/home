@@ -26,12 +26,15 @@ Some of my own comments:
   writing for a long time -- *especially* if you have been writing for
   a long time -- it is almost impossible to work through the layers of
   subterfuge, the self-deceptions and self-exonerations that lead you to
-  abandoning a book and to forgive yourself for having done so.  Once you
-  have made the decision to abandon ship, it requires a certain amount of
-  will-power to persist with the abandonmnet, not to lapse back into sneaked
-  looks at the manuscript, to learn to ignore the little glimmers of hope,
-  to not to gnaw away at it until the 'it' becomes that which has been
-  abandoned and that which is in the exhausted process of being revived.
+  abandoning a book and to forgive yourself for having done so.
+
+  Once you have made the decision to abandon ship, it requires a certain
+  amount of will-power to persist with the abandonmnet, not to lapse back
+  into sneaked looks at the manuscript, to learn to ignore the little
+  glimmers of hope, to not to gnaw away at it until the 'it' becomes that
+  which has been abandoned and that which is in the exhausted process of
+  being revived.
+
   At some point complete withdrawal is the only solution.  After which, it
   is possible that some parts of what was abandoned and discarded can be
   used in an entirely different way, in the creation of something new."
