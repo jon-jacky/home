@@ -10,7 +10,7 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-16 Aug 2021
+16 Aug 2021, 22 Aug 2021
 
 - <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
   Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
@@ -113,6 +113,177 @@ Companion page, a commonplace book:
   sensibility to their own work, "reflexively" as they say, so that whole
   generations of students have grown up being socialized into a relatively
   conscious relation to their own language and assumptions and practices. ..."
+
+- <https://pages.gseis.ucla.edu/faculty/agre/critical.html> -
+  Toward a Critical Technical Practice: Lessons Learned in Trying to
+  Reform AI by Phil Agre, in Geof Bowker, Les Gasser, Leigh Star, and Bill
+  Turner, eds, *Bridging the Great Divide: Social Science, Technical
+  Systems, and Cooperative Work*, Erlbaum, 1997.   "Please do not quote
+  from this version, which differs slightly from the version that appears
+  in print." -- but we do anyway.
+
+  "Many of the founders of AI were psychologists, and they explained the
+  field in terms of computer modeling of human thought processes. Others
+  had a more abstract, less empirical interest in intelligence, and they
+  explained the field with formulas such as, "building systems whose
+  behavior would be considered intelligent if exhibited by a human being".
+  Few of them regarded themselves as engineers seeking purely instrumental
+  solutions to technical problems. ...
+
+  ... the early AI pioneers were largely engaged in a revolt against
+  behaviorism. Behaviorism, in its day, had organized itself largely in
+  reaction against the vague and unreproducible nature of introspectionist
+  psychology.   The metaphors provided by new technologies provided a
+  means of placing mentalist psychology on a scientific basis   ...  the
+  stored-program digital computer ...   provided the pioneers of AI with a
+  vocabulary through which rule-based accounts of cognitive rationality
+  could be rendered mechanical while also being meaningfully treated as
+  mental phenomena, as opposed to physical ones.
+
+  ... the (AI) field's most prominent members tended to treat their
+  research as the heir of virtually the whole of intellectual history. I
+  have often heard AI people portray philosophy, for example, as a failed
+  project, and describe the social sciences as intellectually sterile. In
+  each case their diagnosis is the same: lacking the precise and
+  expressive methods of AI, these fields are inherently imprecise, woolly,
+  and vague.
+
+  AI people generally consider that their goals of mechanized intelligence
+  are achievable for the simple reason that human beings are physically
+  realized entities, no matter how complex or variable or sociable they
+  might be, and AI's fundamental commitment (again, in practice, if not
+  always in avowed theory) is simply to the study of physically realized
+  entities, not to (specific technologies such as) production systems or
+  symbolic programming or stored-program computers. ...
+
+   ... Building things was truly the end purpose of the hacker's work, and
+   everything about the methods and language and value system of the AI
+   world was organized around the design and implementation of working
+   systems. This is sometimes called the "work ethic": it has to work. The
+   "result" of an AI research project is a working system whose methods
+   seem original and broadly applicable; an "idea" is a method of building
+   technical systems or a way of analyzing problems that motivates a
+   promising system design; and a research "approach" is a conceptual and
+   technical framework by which problems can be analyzed and transformed
+   into a particular type of technical system. The
+   field, accordingly, reckons its history primarily as a sequence of
+   computer systems and secondarily as a history of debates among
+   different approaches to the construction of systems. ...
+
+   It is commonly supposed that work in technical fields proceeds through
+   sharply defined rational, logical reasoning. Many technical people
+   actually believe this to be the case, but in AI at least, it is not
+   true. ... Whereas industrial computer programming is organized
+   primarily around specifications that govern the input-output behavior
+   of the various modules of a system, research programming in AI is self-
+   consciously virtuosic and experimental. Much of the field's internal
+   discourse has been concerned with the intuitions that guide the design
+   of its complex, ambitious systems. The principle of modularity,
+   for example, might be treated as an axiom or an instrumental expedient
+   in industrial programming. But AI people understand modularity as a
+   powerful but somewhat elusive principle of the universe, akin to a law
+   of nature but much harder to define ... The enormous obstinacy of
+   technical work -- if a method cannot be made to work in a given case
+   then no amount of sloppiness or vagueness will make it work -- seems to
+   back these potentially nebulous intuitions with a "hardness" and
+   irrefutability that philosophical or literary research never seems (to
+   AI people anyway) capable of achieving.
+
+   ... As a practical matter, the purpose of AI is to build computer
+   systems whose operation can be narrated using intentional vocabulary.
+   Innovations frequently involve techniques that bring new vocabulary
+   into the field: reasoning, planning, learning, choosing, strategizing,
+   and so on. Whether the resulting systems are really exhibiting these
+   qualities is hard to say, and AI people generally treat the question as
+   an annoying irrelevance. What matters practically is not the vague
+   issue of what the words "really mean" but the seemingly precise issue
+   of how they can be defined in formal terms that permit suitably
+   narratable systems to be designed. If you disapprove of the way that we
+   formalize the concept of reasoning or planning or learning, they are
+   likely to say, then you are welcome to invent another way to formalize
+   it, and once you have gotten your own system working we will listen to
+   you with rapt attention. If you disapprove of the very project of
+   formalization, or if you insist on sensitivity to the ordinary
+   vernacular uses of the words ... then, they would argue, you are simply
+   an obscurantist who prefers things to remain vague.
+
+   ... AI is a discursive practice. A word such as planning, having been
+   made into a technical term of art, has two very different faces. When a
+   running computer program is described as planning to go shopping, for
+   example, the practitioner's sense of technical accomplishment depends
+   in part upon the vernacular meaning of the word -- wholly arbitrary
+   neologisms would not suffice. On the other hand, it is only possible to
+   describe a program as "planning" when "planning" is given a formal
+   definition in terms of mathematical entities or computational
+   structures and processes. ... the proof is in the programming, and
+   a proper research result consists in a method for casting planning-like
+   tasks as technical problems that running computer systems can solve.
+
+   ... Absolutely any structure or purposivity in anybody's behavior, for
+   example, can be interpreted as the result of planning. This is not a
+   hypothesis -- it is simply how the word is used. Miller, Galanter, and
+   Pribram's *Plans and the Structure of Behavior* (1960), despite its lack
+   of technical demonstrations, is nonetheless the field's original
+   textbook in the rhetoric of planning. Absolutely any enduring
+   competence, likewise, can be interpreted as a manifestation of
+   knowledge ...
+
+   The strategic vagueness of AI vocabulary ... does permit AI's methods
+   to seem broadly applicable, even when particular applications require a
+   designer to make, often without knowing it, some wildly unreasonable
+   assumptions. At the same time, it is also self-defeating. It has the
+   consequence, at least in my own experience, that AI people find it
+   remarkably difficult to conceptualize alternatives to their existing
+   repertoire of technical schemata. The idea that human beings do not
+   conduct their lives by means of planning, for example, is just short of
+   unintelligible. ... AI planning theories interpret a "plan" as a
+   symbolic datastructure that functions essentially as a computer program
+   (another connotation that Miller, Galanter, and Pribram gesture at
+   without formally embracing). As a result of this equivocation, attempts
+   to deny the narrow technical theory sound to the ears of AI researchers
+   like denials that the sequential ordering of human behavior is
+   determined by any coherent process at all.
+
+   I had grown preoccupied with planning research, so I decided to
+   gather some examples of real-life planning. ... I began by filling my
+   notebook with exhaustively detailed stories from my own everyday life.
+   I did this regularly for a couple of years, to such an extent that I
+   was continually noticing various aspects of the mundane mechanics of my
+   daily life. ... the resulting spontaneous observations would push my
+   understanding of everyday life even further away from the concepts that
+   I had been taught. ... It is hard to convey the powerful effect that
+   this experience had upon me; my dissertation (Agre 1988), once I
+   finally wrote it, was motivated largely by a passion to explain to my
+   fellow AI people how our AI concepts had cut us off from an authentic
+   experience of our own lives. I still believe this.
+
+   (AI occupies an) ambiguous location between science and engineering.
+   A scientific theory makes truth-claims about the preexisting universe,
+   and so it is generally considered legitimate to criticize someone
+   else's theory on grounds of methodological weakness, fallacious
+   reasoning, lack of fit with the evidence, or compatibility of the
+   evidence with other theories. Engineering design methods, on the other
+   hand, make claims in the context of practical problems, and so the
+   legitimate criticisms relate solely to issues of utility. AI projects
+   are sometimes scientific in intention, sometimes engineering, and
+   sometimes they shift subliminally from one to the other. AI people
+   often make substantive claims about knowledge or learning or language,
+   and yet many of them will respond with indignation to arguments that
+   their projects fundamentally misconstrue the nature of these phenomena;
+   in most cases ... they will argue *not* that the claims against their
+   work are empirically false but that they are non sequiturs. Pressed to
+   explain the seeming contradiction, they will generally state that their
+   systems exhibit knowledge-as-such, say, as opposed to human knowledge
+   in particular. But then, it seems, they will turn around and compare
+   their systems' behavior to human behavior without further comment. The
+   underlying problem is not mendacity but a conflict of languages: norms
+   and discourses of engineering are applied to terms (knowledge,
+   learning, language, and so on) whose meanings are inextricably rooted
+   in the phenomena of human life. As a consequence, I have often
+   encountered an emphatic, explicitly stated injunction against
+   "criticizing other people's work", the idea being that the only
+   legitimate form of critical argument is that "my system performs better
+   than your system on problem X."
 
 14 Aug 2021, 16 Aug 2021
 
