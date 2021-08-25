@@ -219,14 +219,21 @@ Companion page, a commonplace book:
    a proper research result consists in a method for casting planning-like
    tasks as technical problems that running computer systems can solve.
 
-   ... Absolutely any structure or purposivity in anybody's behavior, for
-   example, can be interpreted as the result of planning. This is not a
-   hypothesis -- it is simply how the word is used. Miller, Galanter, and
-   Pribram's *Plans and the Structure of Behavior* (1960), despite its lack
-   of technical demonstrations, is nonetheless the field's original
-   textbook in the rhetoric of planning. Absolutely any enduring
-   competence, likewise, can be interpreted as a manifestation of
-   knowledge ...
+   AI researchers can build computer models of reasoning in particular
+   domains because their discourse is, in one sense, precise. But they
+   can only make such a wide range of domains commensurable with one
+   another because their discourse is, in another sense, vague. At any
+   given time, AI's discursive repertoire consists of a set of technical
+   schemata, each consisting of a restricted semantic field and a
+   specific family of technical methods. Among the most prominent
+   technical schemata are "planning" and "knowledge". ... Absolutely any
+   structure or purposivity in anybody's behavior, for example, can be
+   interpreted as the result of planning. This is not a hypothesis -- it
+   is simply how the word is used. Miller, Galanter, and Pribram's *Plans
+   and the Structure of Behavior* (1960), despite its lack of technical
+   demonstrations, is nonetheless the field's original textbook in the
+   rhetoric of planning. Absolutely any enduring competence, likewise,
+   can be interpreted as a manifestation of knowledge ...
 
    The strategic vagueness of AI vocabulary ... does permit AI's methods
    to seem broadly applicable, even when particular applications require a
@@ -281,9 +288,9 @@ Companion page, a commonplace book:
    learning, language, and so on) whose meanings are inextricably rooted
    in the phenomena of human life. As a consequence, I have often
    encountered an emphatic, explicitly stated injunction against
-   "criticizing other people's work", the idea being that the only
-   legitimate form of critical argument is that "my system performs better
-   than your system on problem X."
+   'criticizing other people's work', the idea being that the only
+   legitimate form of critical argument is that 'my system performs better
+   than your system on problem X'."
 
 14 Aug 2021, 16 Aug 2021
 
