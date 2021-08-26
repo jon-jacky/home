@@ -220,20 +220,17 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    tasks as technical problems that running computer systems can solve.
 
    AI researchers can build computer models of reasoning in particular
-   domains because their discourse is, in one sense, precise. But they
-   can only make such a wide range of domains commensurable with one
-   another because their discourse is, in another sense, vague. At any
-   given time, AI's discursive repertoire consists of a set of technical
-   schemata, each consisting of a restricted semantic field and a
-   specific family of technical methods. Among the most prominent
-   technical schemata are "planning" and "knowledge". ... Absolutely any
-   structure or purposivity in anybody's behavior, for example, can be
-   interpreted as the result of planning. This is not a hypothesis -- it
-   is simply how the word is used. Miller, Galanter, and Pribram's *Plans
-   and the Structure of Behavior* (1960), despite its lack of technical
-   demonstrations, is nonetheless the field's original textbook in the
-   rhetoric of planning. Absolutely any enduring competence, likewise,
-   can be interpreted as a manifestation of knowledge ...
+   domains because their discourse is, in one sense, precise. But they can
+   only make such a wide range of domains commensurable with one another
+   because their discourse is, in another sense, vague. At any given time,
+   AI's discursive repertoire consists of a set of technical schemata,
+   each consisting of a restricted semantic field and a specific family of
+   technical methods. Among the most prominent technical schemata are
+   "planning" and "knowledge". ... Absolutely any structure or purposivity
+   in anybody's behavior, for example, can be interpreted as the result of
+   planning. This is not a hypothesis -- it is simply how the word is
+   used. ... Absolutely any enduring competence, likewise, can be
+   interpreted as a manifestation of knowledge ...
 
    The strategic vagueness of AI vocabulary ... does permit AI's methods
    to seem broadly applicable, even when particular applications require a
@@ -245,11 +242,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    conduct their lives by means of planning, for example, is just short of
    unintelligible. ... AI planning theories interpret a "plan" as a
    symbolic datastructure that functions essentially as a computer program
-   (another connotation that Miller, Galanter, and Pribram gesture at
-   without formally embracing). As a result of this equivocation, attempts
-   to deny the narrow technical theory sound to the ears of AI researchers
-   like denials that the sequential ordering of human behavior is
-   determined by any coherent process at all.
+   ... As a result of this equivocation, attempts to deny the narrow
+   technical theory sound to the ears of AI researchers like denials that
+   the sequential ordering of human behavior is determined by any coherent
+   process at all.
    
    I had grown preoccupied with planning research, so I decided to
    gather some examples of real-life planning. ... I began by filling my
