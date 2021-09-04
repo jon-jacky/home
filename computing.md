@@ -327,7 +327,7 @@ Companion page, a commonplace book:
    openness to the mind-blowing intricacy of humble phenomena.  An awareness
    lost in projects and goals continually passes over these phenomena.
    To catch sight of them, one must, deep down, find one's own everyday life
-   *interesting*.
+   *interesting*."
 
 14 Aug 2021, 16 Aug 2021
 
