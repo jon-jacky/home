@@ -16,8 +16,8 @@ Some of my own comments:
 
 18 Aug 2021
 
-- The Ballad of Jimmy Garrison by Geoff Dyer, in *White Sands* p. 201 - 202
-  (no link):
+- The Ballad of Jimmy Garrison by Geoff Dyer, in *White Sands* (2016)
+  p. 201 - 202 (no link):
 
   "It is so difficult to know whether you are giving up on a book because
   it really is unwritable or if you are just begin lazy, if you have

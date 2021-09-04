@@ -10,7 +10,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
-16 Aug 2021, 22 Aug 2021
+16 Aug 2021, 22 Aug 2021, 3 Sep 2021
 
 - https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html - 
   Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
@@ -287,7 +287,48 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    'criticizing other people's work', the idea being that the only
    legitimate form of critical argument is that 'my system performs better
    than your system on problem X'."
-   
+
+-  https://dspace.mit.edu/handle/1721.1/6975 - *The Dynamic Structure of 
+   Everyday Life* by Philip E. Agre, Ph.D. thesis, MIT AI-TR 1085 (1988),
+   p. 10, 12, 14, 15:
+
+   "My own interest in theories of activity begins with my dissatisfaction
+   with ideas about action I was taught in classes on artificial
+   intelligence.  These ideas center on the notion of 'planning'. ... they
+   adopted the extreme view that the organization of human  activity
+   results entirely from the execution of Plans. ...
+
+   People certainly use plans.  But real plans are nothing like (the AI
+   researcher's notion of) Plans.   Rational, goal-directed activity need
+   not be organized by a plan.  And plans never serve as direct
+   specifications for action.  Instead, a plan is merely one resource
+   among many that an agent might use in deciding what to do.  Before and
+   beneath any plan use is a moment-to-moment *improvisation*.
+   Improvisation might involve ideas about the future and might employ
+   plans, but  it is fundamentally a matter of deciding what to do *now*.
+   ...
+
+   I propose investigating the everyday activities of human beings and
+   relating the organization of human activites to hypotheses about the
+   workings of human bodies and brains.  While the logic of my proposal
+   might be clear enough, it is difficult to properly appreciate the idea
+   that everyday life is something that needs to be studied. Who is an
+   authority on the nature of everyday life? It is a deep and
+   consequential fact that simply living everyday life does not, in
+   itself, qualify one to theorize about it.   Second-hand intuitions and
+   made-up stories need not, and usually *do* not, bear any relationship
+   to the reality of everyday activity.  One must go looking.
+
+   Using more sophisticated ideas about activity to guide computational
+   model-building is not simply a matter of knowing a correct, finished
+   theory.  Such things don't exist.  Instead, one must forever work at
+   being aware of and articulating one's own experience of everyday life.
+   ... Its basis is not theoretical abstraction but rather a spontaneous
+   openness to the mind-blowing intricacy of humble phenomena.  An awareness
+   lost in projects and goals continually passes over these phenomena.
+   To catch sight of them, one must, deep down, find one's own everyday life
+   *interesting*.
+
 14 Aug 2021, 16 Aug 2021
 
 - https://news.ycombinator.com/item?id=28168663, comments on 
