@@ -10,6 +10,32 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Sep 2021
+
+- https://news.ycombinator.com/item?id=28441887 - comments on 
+  Awk: The Power and Promise of a 40-Year-Old Language:
+  
+  *vyuh* writes: ""A good programmer uses the most powerful tool to do a
+  job. A great programmer uses the least powerful tool that does the job."
+
+- https://www.w3.org/DesignIssues/Principles.html -  Principles of Design by
+  Tim Berners-Lee:
+
+  "*Principle of Least Power*: ... Computer Science in the 1960s to 80s
+  spent a lot of effort making languages which were as powerful as
+  possible. Nowadays we have to appreciate the reasons for picking not the
+  most powerful solution but the least powerful. The reason for this is
+  that the less powerful the language, the more you can do with the data
+  stored in that language. If you write it in a simple declarative from,
+  anyone can write a program to analyze it in many ways. ...  I chose HTML
+  not to be a programming language because I wanted different programs to
+  do different things with it: present it differently, extract tables of
+  contents, index it, and so on."
+
+  "In her talk *The Science of Insecurity*, Meredith Patterson makes the
+  point that the principle of least power is important for security of
+  interfaces which may be exposed to attack."
+
 16 Aug 2021, 22 Aug 2021, 3 Sep 2021
 
 - https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html - 
