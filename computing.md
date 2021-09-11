@@ -26,7 +26,7 @@ Companion page, a commonplace book:
   possible. Nowadays we have to appreciate the reasons for picking not the
   most powerful solution but the least powerful. The reason for this is
   that the less powerful the language, the more you can do with the data
-  stored in that language. If you write it in a simple declarative from,
+  stored in that language. If you write it in a simple declarative form,
   anyone can write a program to analyze it in many ways. ...  I chose HTML
   not to be a programming language because I wanted different programs to
   do different things with it: present it differently, extract tables of
@@ -36,7 +36,7 @@ Companion page, a commonplace book:
   point that the principle of least power is important for security of
   interfaces which may be exposed to attack."
 
-16 Aug 2021, 22 Aug 2021, 3 Sep 2021
+16 Aug 2021, 22 Aug 2021, 3 Sep 2021, 11 Sep 2021
 
 - <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
   Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
@@ -316,7 +316,7 @@ Companion page, a commonplace book:
 
 -  <https://dspace.mit.edu/handle/1721.1/6975> - *The Dynamic Structure of 
    Everyday Life* by Philip E. Agre, Ph.D. thesis, MIT AI-TR 1085 (1988),
-   p. 10, 12, 14, 15:
+   p. 10, 12, 14, 15, 51:
 
    "My own interest in theories of activity begins with my dissatisfaction
    with ideas about action I was taught in classes on artificial
@@ -354,6 +354,15 @@ Companion page, a commonplace book:
    lost in projects and goals continually passes over these phenomena.
    To catch sight of them, one must, deep down, find one's own everyday life
    *interesting*."
+
+   "... the stories I tell can never compel the interpretations I make of
+   them.  Usually I have far more reason for my interpretation than shows
+   up in my narration; past a certain point you just have to have been
+   there. There are no proofs. ... (These interpretations) are uncertain,
+   but their uncertainty is not that of introspective evidence; they are
+   not introspection, in the sense of sitting still and trying to peek
+   into your own head ...  One narrates ordinary routine activity; the
+   narrative simply recounts *what happened*."
 
 14 Aug 2021, 16 Aug 2021
 
