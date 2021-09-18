@@ -13,22 +13,18 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 17 Sep 2021 
 
 - https://search.marginalia.nu/ - An experimental search engine:
-
   "The search engine calculates a score that aggressively favors text-
   heavy websites, and punishes those that have too many modern web design
   features.
-
   This is in a sense the opposite of what most major search engines do,
   they favor modern websites over old-looking ones. Most links you find
   here will be nearly impossible to find on a regular search engine, as
   they aren't sufficiently search engine optimized."
 
   via https://news.ycombinator.com/item?id=28550764, where the author writes:
-
   "Yeah so this is my project. It's very much a work in progress, but
   occasionally I think it works remarkably well for something I cobbled
   together alone out of consumer hardware and home-made code."  
-
   This page has more comments from the author with details about how it works.
 
 16 Sep 2021
