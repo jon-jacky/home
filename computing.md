@@ -10,12 +10,77 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+16 Sep 2021
+
+- <https://news.ycombinator.com/item?id=28522761> - comments on Turing Oversold?
+
+  *pantulis* writes: "But if you need to choose a Founding Father of
+  Computing Science for the general public, I'd say Alan Turing is the
+  best candidate. Scholars will give due credit to Church, Zuse, von
+  Neumann and all the others."
+
+  *OskarS* writes: "And Turing's contributions were genuinely ground-
+  breaking, there's a reason that computer science is lousy with concepts
+  named after or by him (Turing machines, Turing-completeness, even the
+  word "computing" was arguably coined in "On Computable Numbers"). He
+  also thought deeply and hard about the philosophical implications to
+  computing in a way that others didn't (the "Turing test" being the
+  obvious example).
+
+  In addition: when a mathematically inclined person describes any kind of
+  mathematical concept to laymen, the first question is always "Yeah, but
+  what is that actually useful for?", asked with a certain amount of
+  disdain. With Turing, the answer is powerful: "How about defeating the
+  Nazis and laying the foundation for modern society?". That case is
+  harder to make for Church or Gdel: they obviously didn't work for the
+  GCSE, and "lambda calculus" as a concept is a much more abstract thing
+  than Turing machines, which laymen can readily understand (i.e. it's
+  "just" a computer).
+
+  Add to that the fact that Turing's story is not just about computing, or
+  code-breaking, it's also the story of the suffering that society
+  inflicted on gay men. The fact that he was shamed into suicide is just
+  all the more reason to celebrate him now."
+
+  *tsimionescu* writes: "The Turing machine is not designed to be a
+  realistically implementable physical machine, and indeed there are no
+  details in Turing's paper on how such a physical machine could be
+  achieved.
+
+  Instead, the Turing machine model is designed to be a mechanistic model
+  of what a mathematician does (in rote day-to-day tasks at least). The
+  tape is a representation of the notebook where the mathematician writes
+  down notes. The read head is a representation of the mathematician
+  reading from the notebook.
+
+  It's fascinating to read the paper because of this, since it spends
+  quite a few paragraphs showing that this simplification doesn't lose
+  anything of the mathematician's work. It spends some time noting that
+  even though paper is two-dimensional, it can be losslessly compressed on
+  unidimensional tape. It spends time noting that writing/reading one
+  symbol at a time is a good enough approximation for human
+  writing/reading. It spends time noting that the next step doesn't need
+  to depend on more than the current symbol + internal state, as human
+  attention is also focused on a limited number of symbols.
+
+  This is actually why Turing's paper is so convincing on the argument of
+  universal computation - not because the machine is realizable, but
+  because it's hard to invent anything that a mathematician does while
+  calculating that is not captured by the Turing machine model.
+
+  I very much recommend reading the first part of the paper [0] to see
+  this argument (the second part, where it is proven that this abstract
+  machine can in fact compute all known numbers, is more technical and
+  flew over my own head)."
+
+  [0] PDF <https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf>
+
  7 Sep 2021
 
 - <https://news.ycombinator.com/item?id=28441887> - comments on 
   Awk: The Power and Promise of a 40-Year-Old Language:
 
-  *vyuh* writes: ""A good programmer uses the most powerful tool to do a
+  *vyuh* writes: "A good programmer uses the most powerful tool to do a
   job. A great programmer uses the least powerful tool that does the job."
 
 - <https://www.w3.org/DesignIssues/Principles.html> -  Principles of Design by
