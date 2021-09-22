@@ -13,6 +13,13 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+21 Sep 2021
+
+- <https://text.causal.agency/> - Unusual blog design.
+
+- <https://your-editor.org/> - Typography and layout well-matched
+  to a page for a text editor.
+
 10 Aug 2021
 
 - <https://ertdfgcvb.xyz/p2/the-puddle/> -
