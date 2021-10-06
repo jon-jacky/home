@@ -39,7 +39,7 @@ Some of my own comments:
   aferlife of adulthood'.  ... it is also a keen political allegory about
   the day the music died for the generation who came of age between the
   summer of love and the winter of discontent, and who soon afterwards
-  found themselves facing down the ultimate bummer: curdled idealims, loss
+  found themselves facing down the ultimate bummer: curdled idealism, loss
   of promise, acid flashbacks, punk rock and nearly two decades of
   tetragonocracy, the rule of the squares. ..."
 
