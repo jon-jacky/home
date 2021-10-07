@@ -3474,7 +3474,7 @@ Some of my own comments:
   completely dissolve in the face of suffering. For some people this is
   devotion to family, for others it is a life's work, especially one which
   serves the community/culture/biosphere, perhaps in a
-  political/artistic/religious way. Basically, if you dont want to be
+  political/artistic/religious way. Basically, if you don't want to be
   absolutely slayed by suffering, you have to invest your personal
   treasure in something bigger than your own happiness.
 
@@ -3501,7 +3501,7 @@ Some of my own comments:
   divorce, illness or death. It sounds like right now you feel a lot of
   terror about not being able to cope with that loss, which is perfectly
   understandable. But it's also a diagnostic telling you that your life may
-  be imbalanced  that your way of living, and conceptualizing your life,
+  be imbalanced -- that your way of living, and conceptualizing your life,
   may be over focused on happiness/pleasure and underfocused on life-
   meaning/community/devotion.
 
