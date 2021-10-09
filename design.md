@@ -597,8 +597,11 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing: designs for blogs, personal web pages, etc.,
-   most recent at the top.
+21 Apr 2020 and ongoing, most recent 8 Oct 2021:
+   designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://crypto.stanford.edu/~blynn/compiler/> - 
+  "Despite graduating long ago, I remain a computer science student."
 
 - <http://clqr.boundp.org/index.html> - Book web page with a distinctive
   homemade look.  All black and white, nothing but text in just one
