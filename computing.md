@@ -1952,10 +1952,12 @@ Companion page, a commonplace book:
   because I was willing to put in the hours when others weren't. ... (examples
   with links) ..."
 
-23 May 2019
+23 May 2019, 11 Oct 2021
 
 - <https://news.ycombinator.com/item?id=19986126> - Comments on
-  SerenityOS -  "Serenity is an unapologetic remix/mash-up of all the things
+  SerenityOS -
+
+  "Serenity is an unapologetic remix/mash-up of all the things
   I like in software.   Not just visually, but also code-wise. ...
   I would like to make this system good enough that I can spend most of my time on it.
   Without losing track of the original ideas. ...
@@ -1963,6 +1965,32 @@ Companion page, a commonplace book:
   and it's just not like that anymore. Things aren't simple anymore,
   and they can't easily be taken apart and understood in an evening, like they used to.
   So I figured I can just make my own then, just the way I like it."
+
+- <https://news.ycombinator.com/item?id=28817599> - Comments on SerenityOS
+  Year 3 in Review -
+
+  *mythz* writes "One of SerenityOS goals I find most compelling
+  is that it aims to be a "pure" OS free of any 3rd Party
+  libs/binaries so that everything is in the project source tree and
+  nothing needs to rely on or sync with any other upstream project,
+  resulting in anyone can always fix & test any issue or add any feature
+  immediately ...
+
+  I see a number of benefits of this approach, starting with SerenityOS has
+  to be one of the best code-bases to study and learn about OS development
+  where you can see how all components integrate together in a consistent
+  code-base ... it enables cohesive behavior and appearance with
+  everything using the same singular library set, it's easier to implement
+  OS spanning features ..."
+
+  *tejohnso*  writes: "Custom OS, custom GUI, custom browser, custom
+  libraries. All from scratch, c++. All working. Within a few years. Very
+  humbling. ..."
+
+  *squarefoot* writes: "I wonder how good it will be wrt hardware support,
+  drivers etc. It's continuously moving target ...
+
+  *Narishma* writes: "Last time I checked it only ran in qemu."
 
 8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021
 
