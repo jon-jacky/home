@@ -12,10 +12,17 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 21 Oct 2021
 
-- https://news.ycombinator.com/item?id=28568053 - comments on 
-  Building apps in minutes, not months
+- https://news.ycombinator.com/item?id=28839209 - 
+  comments on Ever lost your love for coding?  continued in 
+  https://news.ycombinator.com/item?id=28568053
   
-  *TeMPOraL* writes "... even if you know your language and problem space
+  *TeMPOraL* writes "I've learned to accept the tedium of doing software
+  development at work. But I've grown impatient with the act of coding
+  itself - it just takes *too long* to do anything. Too much
+  accidental complexity one has to wade through, to express even simplest
+  ideas. My coding cannot keep up with my thoughts, and I find it tiring."
+
+  "... even if you know your language and problem space
   inside out, even if you have decades of coding behind you, day-to-day
   coding *still takes way more work than it should.*   To me, existing
   tooling feels conceptually too low-level. *Writing* feels too low-level.
