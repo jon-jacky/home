@@ -10,6 +10,38 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+21 Oct 2021
+
+- https://news.ycombinator.com/item?id=28568053 - comments on 
+  Building apps in minutes, not months
+  
+  *TeMPOraL* writes "... even if you know your language and problem space
+  inside out, even if you have decades of coding behind you, day-to-day
+  coding *still takes way more work than it should.*   To me, existing
+  tooling feels conceptually too low-level. *Writing* feels too low-level.
+  ... I *feel* my brain slowing down. The feedback loop is too slow.
+
+  What I'd currently love to have is code editing environment operating on
+  high-level semantic concepts. One keychord to select a function and
+  display all its callers and callees, in a graph. One keychord to select
+  a parameter and display a diagram of how it flows through code. ... Etc. ...
+
+  In the past two years ... A significant chunk of my coding time was
+  wasted on countless little XML and JSON serializers/deserializers,
+  associated error handlers, error messages, type recasting, etc. This is
+  100% because of bad tooling. ... If I were doing Lisp at work, I could
+  at least macro my way out of this pain, but alas.
+  
+  And the worst thing is, these things aren't just "brain-off" time
+  wasters. In recent months I've noticed I'm getting slowly but surely
+  burned out by this.  I can see myself slowing down halfway to finishing
+  a feature or a bugfix, out of sheer mental exhaustion ..."
+
+  *pdimitar* writes "... it's not even about typing. ... It's about the
+  menial nature of many tasks. They just... kill you. They slowly drain
+  all your creativity and dreams about the future and desire to change
+  things for the better around you. ..."
+
 17 Sep 2021 
 
 - https://search.marginalia.nu/ - An experimental search engine:
