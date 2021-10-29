@@ -16,7 +16,7 @@ Companion page, a commonplace book:
 28 Oct 2021
 
 - <http://www.michael-deforge.com/> Michael DeForge, illustrator and cartoonist -
-  for example <http://www.michael-deforge.com/familiar-face> -  
+  for example <http://www.michael-deforge.com/familiar-face> -
   "With every passing year, our bodies become more and more optimized.
   But optimized how?  It was impossible to say."
 
