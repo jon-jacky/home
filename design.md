@@ -13,6 +13,13 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+29 Oct 2021
+
+- <https://altvis.github.io/> - alt.VIS - 
+  "All accepted submissions have been certified 'sufficiently weird' ...
+  Provocations, manifestos, or other critiques of visualization research
+  and practice ..."
+
 28 Oct 2021
 
 - <http://www.michael-deforge.com/> Michael DeForge, illustrator and cartoonist -
