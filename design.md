@@ -13,6 +13,19 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 1 Nov 2021
+
+- <https://animationobsessive.substack.com/p/our-treat-to-you> - 
+  *Cartoon Modern: Style and Design in Fifties Animation* -
+  "This is a very special edition of the *Animation Obsessive* newsletter.
+  Were treating you to a free copy of *Cartoon Modern*  a rare, out-of-print
+  artbook on mid-century animation. Youll find it linked below ..."
+
+  This page describes the *Cartoon Modern* book and shows some of its
+  charming artwork.  It links to a 319 MB PDF of the book itself --- very
+  large, it freezes the *preview* PDF viewer program on my 2011 Macbook
+  Pro.
+
 29 Oct 2021
 
 - <https://altvis.github.io/> - alt.VIS - 
