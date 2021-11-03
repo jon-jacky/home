@@ -13,7 +13,7 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 1 Nov 2021
+ 2 Nov 2021
 
 - <https://animationobsessive.substack.com/p/what-the-upa-style-actually-is> -
   What the 'UPA Style' Actually Is - "(In the 1930s)
@@ -39,7 +39,9 @@ Companion page, a commonplace book:
 
   This page shows paintings by Dufy, Kandinsky, Leger, Mondrian, Matisse,
   and Klee, and scenes from UPA cartoons *Mr. Magoo*, *Madeline*, and
-  *Gerald McBoing-Boing*.
+  *Gerald McBoing-Boing*.  It also shows scenes from recent cartoons made
+  in the 'UPA Revival' style: *The Powerpuff Girls*, *Rooty Toot Toot*, and
+  *Dexter's Laboratory*.
 
   <https://animationobsessive.substack.com/p/our-treat-to-you> - 
   *Cartoon Modern: Style and Design in Fifties Animation* -
@@ -48,9 +50,12 @@ Companion page, a commonplace book:
   artbook on mid-century animation. You'll find it linked below ..."
 
   This page describes the *Cartoon Modern* book and shows some of its
-  charming artwork.  It links to a 319 MB PDF of the book itself: images
+  artwork.  It links to a 319 MB PDF of the book itself: images
   of 200+ color pages.  Be warned it is very large; it freezes the
   *preview* PDF viewer program on my 2011 Macbook Pro.
+
+  The author uploaded a smaller PDF to the Internet Archive, for much
+  easier browsing: <https://archive.org/details/cartoonmodern/mode/2up>
 
 29 Oct 2021
 
