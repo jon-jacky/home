@@ -52,13 +52,18 @@ Companion page, a commonplace book:
 17 Sep 2021
 
 - <https://search.marginalia.nu/> - An experimental search engine:
-  "The search engine calculates a score that aggressively favors text-
-  heavy websites, and punishes those that have too many modern web design
-  features.
-  This is in a sense the opposite of what most major search engines do,
-  they favor modern websites over old-looking ones. Most links you find
-  here will be nearly impossible to find on a regular search engine, as
-  they aren't sufficiently search engine optimized."
+  "If you are looking for serendipity, you're on the right track. ... The
+  search engine calculates a score that aggressively favors text-heavy
+  websites, and punishes those that have too many modern web design
+  features. This is in a sense the opposite of what most major search
+  engines do, they favor modern websites over old-looking ones. Most links
+  you find here will be nearly impossible to find on a regular search
+  engine, as they aren't sufficiently search engine optimized.
+
+  This may seem a choice from some sort of nostalgia, which in part is
+  true, but there is more to it. ... If a webpage has been around for a
+  long time, then odds are it has fundamental redeeming quality that has
+  motivated keeping it around for all that time. ..."
 
   via <https://news.ycombinator.com/item?id=28550764>, where the author writes:
   "It's very much a work in progress, but

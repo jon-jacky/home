@@ -26,19 +26,6 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   millions of images in our index to find good matches for the seed
   images. You can create feeds in just the same way: save images to create
   a collection of seed images, then look at the recommended images. ..."
-  
-- https://search.marginalia.nu/ - Marginalia - 
-  "So it's a search engine. ... If you are looking for serendipity, you're
-  on the right track.
-
-  The search engine calculates a score that aggressively favors text-heavy
-  websites, and punishes those that have too many modern web design
-  features.  This is in a sense the opposite of what most major search
-  engines do, they favor modern websites over old-looking ones. ...
-  This may seem a choice from some sort of nostalgia, which in part is
-  true, but there is more to it. ... If a webpage has been around for a
-  long time, then odds are it has fundamental redeeming quality that has
-  motivated keeping it around for all that time. ..."
 
  5 Nov 2021
 
