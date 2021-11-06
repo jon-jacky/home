@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 5 Nov 2021
+
+- <https://vis.sciencemag.org/chemhaiku/> - Elemental Haiku - 
+  "A review of the Periodic Table composed of 119 science haiku, one for
+  each element ..."
+
  2 Nov 2021
 
 - <https://animationobsessive.substack.com/p/what-the-upa-style-actually-is> -
