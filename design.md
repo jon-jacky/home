@@ -16,31 +16,25 @@ Companion page, a commonplace book:
  6 Nov 2021
 
 - <https://same.energy/> - Same Energy - 
-  "We believe that image search should be visual, using only a minimum of
-  words. ...
+  "We believe that image search should be visual, using only a minimum  of
+  words. ... our search works without any tags or metadata: all we need is
+  the image.
 
   Same Energy's core search uses deep learning. ... The default feeds
   available on the home page are algorithmically curated: a seed of 5-20
   images are selected by hand, then our system builds the feed by scanning
   millions of images in our index to find good matches for the seed
   images. You can create feeds in just the same way: save images to create
-  a collection of seed images, then look at the recommended images. ...
-
-  The principal advantage of our search is that it works without any tags
-  or metadata: all we need is the image."
+  a collection of seed images, then look at the recommended images. ..."
 
 - <https://search.marginalia.nu/> - Marginalia - 
-  "So it's a search engine. ... If you are looking for facts you can
-  trust, this is almost certainly the wrong tool. If you are looking for
-  serendipity, you're on the right track.
+  "So it's a search engine. ... If you are looking for serendipity, you're
+  on the right track.
 
   The search engine calculates a score that aggressively favors text-heavy
   websites, and punishes those that have too many modern web design
   features.  This is in a sense the opposite of what most major search
-  engines do, they favor modern websites over old-looking ones. Most links
-  you find here will be nearly impossible to find on a regular search
-  engine, as they aren't sufficiently search engine optimized.
-
+  engines do, they favor modern websites over old-looking ones. ...
   This may seem a choice from some sort of nostalgia, which in part is
   true, but there is more to it. ... If a webpage has been around for a
   long time, then odds are it has fundamental redeeming quality that has
