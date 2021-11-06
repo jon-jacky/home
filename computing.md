@@ -69,7 +69,9 @@ Companion page, a commonplace book:
   "It's very much a work in progress, but
   occasionally I think it works remarkably well for something I cobbled
   together alone out of consumer hardware and home-made code."
-  This page has more comments from the author with details about how it works.
+
+  That page has more comments from the author with details about how it
+  works -- search for posts by *marginalia_nu*.
 
 16 Sep 2021
 
