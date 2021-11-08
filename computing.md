@@ -72,7 +72,8 @@ Companion page, a commonplace book:
 
   That page has more comments from the author with details about how it
   works -- search for posts by *marginalia_nu*.  See also their posts here:
-  <https://news.ycombinator.com/item?id=29130017>
+  <https://news.ycombinator.com/item?id=29130017>, 
+  "It's literally just a computer in my living room."
 
 16 Sep 2021
 

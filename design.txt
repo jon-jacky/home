@@ -20,11 +20,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Must Know About Unicode and Character Sets (No Excuses!) (2003)"
 
   https://richardjharris.github.io/unicode-in-five-minutes.html - 
-  Unicode In Five Minutes
+  Unicode In Five Minutes, via https://news.ycombinator.com/item?id=24157201
 
-  via https://news.ycombinator.com/item?id=24157201
-
-  Meta: pages *about* some technology behind typography.
+  Meta: pages *about* some of the technology behind typography.
 
  6 Nov 2021
 
