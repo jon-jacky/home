@@ -13,6 +13,19 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 7 Nov 2021
+
+- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ -
+  The Absolute Minimum Every Software Developer Absolutely, Positively
+  Must Know About Unicode and Character Sets (No Excuses!) (2003)"
+
+  https://richardjharris.github.io/unicode-in-five-minutes.html - 
+  Unicode In Five Minutes
+
+  via https://news.ycombinator.com/item?id=24157201
+
+  Meta: pages *about* some technology behind typography.
+
  6 Nov 2021
 
 - https://same.energy/ - Same Energy - 
