@@ -26,7 +26,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Plan 9 - *Winter 1993 USENIX Conference*. The original implemenation.
 
   https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt - UTF-8 History 
-  (2003, recalls 1992)  
+  (2003, recalls 1992).  via https://news.ycombinator.com/item?id=26735958
 
   Meta: pages *about* some of the technology behind computer typography.
 
