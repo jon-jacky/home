@@ -17,12 +17,18 @@ Companion page, a commonplace book:
 
 - <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
   The Absolute Minimum Every Software Developer Absolutely, Positively
-  Must Know About Unicode and Character Sets (No Excuses!) (2003)"
+  Must Know About Unicode and Character Sets (No Excuses!) (2003)
 
-  <https://richardjharris.github.io/unicode-in-five-minutes.html> - 
+  <https://richardjharris.github.io/unicode-in-five-minutes.html> (2013) - 
   Unicode In Five Minutes, via <https://news.ycombinator.com/item?id=24157201>
 
-  Meta: pages *about* some of the technology behind typography.
+  <https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf> - UTF-8 in
+  Plan 9 - *Winter 1993 USENIX Conference*. The original implemenation.
+
+  <https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt> - UTF-8 History 
+  (2003, recalls 1992)
+
+  Meta: pages *about* some of the technology behind computer typography.
 
  6 Nov 2021
 
