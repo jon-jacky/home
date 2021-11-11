@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+11 Nov 2021
+
+- <http://handprint.com/SC/WIT/wittframe.html> - L
+  Ludwig Wittgenstein, philosopher -
+  On the hundredth anniversary of his *Tractatus*.
+
+  More about Wittgenstein at 26 Jul 2020
+
  7 Nov 2021
 
 - <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
