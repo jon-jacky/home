@@ -13,13 +13,65 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Nov 2021
+
+- <https://www.beyondeasy.net/2017/04/animation-april-rooty-toot-toot-1951.html> -
+  Beyond Easy - "... we've got *Rooty Toot Toot*, United Productions of America's
+  Oscar-nominated 1951 short. ..."
+
+  "UPA (was) the most important cartoon studio you've never heard of. ...
+  To help us get an idea of how UPA changed the animation game, let's do a
+  compare/contrast exercise. Below are three pairs of video links. The
+  first of each pair is a cartoon from 1947, and the second is a cartoon
+  from about ten years later, starring the same character(s) as the first.
+  ... Yes, we're looking at a cheapening of animation, but let's put this
+  into context. ... (After 1947) animation workshops had to adjust their
+  production budgets accordingly or shut their doors ... And the studio
+  that showed the field how to make more economical use of their resources
+  was none other than UPA.
+
+  UPA's aesthetic and its repertoire of economical animation techniques
+  came to be called "limited animation" -- to the chagrin of *Rooty Toot
+  Toot*'s director John Hubley, who preferred "stylized animation." ...
+  Hubley and his colleagues saw limited animation as a
+  way to improve the visual quality of cartoons, not dilute it. ...
+
+  *Rooty Toot Toot* is a brief musical based on "Frankie and Johnny,"  (a
+  song about a jealous woman who shoots her lover). A jazzy Rashomon-
+  structured courtroom drama unfolds, with three characters giving three
+  different accounts of the events preceding Johnny's death. ...  *Rooty
+  Toot Toot* definitely has its highlights ... Frankie's dancing ... (her
+  rival) Nellie Bly's sultry, octopoid voluptuousness ... The strange,
+  alternating transparencies of Frankie and Nelly's limbs and garments are
+  a trick that wouldn't seem out of place in the modernism/cubism section
+  of an art gallery. ...
+
+  What's most interesting to me about Phil Moore and Allen Alch's score is
+  its -- let's call it dissonance. ... The tune is modeled after "Frankie
+  and Johnny" ...  But after the first couple of stanzas, the verses stop
+  scanning ... Verses will be spoken instead of sung; the tempo
+  fluctuates; the singers change; there are pauses and interruptions.
+
+  *Rooty Toot Toot* is the magnum opus of John Hubley's career at UPA, and
+  also his last hurrah. In 1952, he was blacklisted for refusing to name
+  names before the House Un-American Activities Committee. He had no
+  choice but to leave UPA and strike out on his own. He continued working
+  in animation for the rest of his life (frequently partnering with his
+  wife Faith), but virtually nothing as high-profile as his work with UPA. ..."
+
+  This article does not link to a video of *Rooty Toot Toot* itself,
+  but there are several online, for example:
+  <https://www.youtube.com/watch?v=EE8_ddz0XvI>  
+
+  More about UPA cartoons at 2 Nov 2021.
+
 11 Nov 2021
 
-- <http://handprint.com/SC/WIT/wittframe.html> - L
+- <http://handprint.com/SC/WIT/wittframe.html> - 
   Ludwig Wittgenstein, philosopher -
   On the hundredth anniversary of his *Tractatus*.
 
-  More about Wittgenstein at 26 Jul 2020
+  More about *Tractatus* at 26 Jul 2020
 
  7 Nov 2021
 
@@ -44,9 +96,9 @@ Companion page, a commonplace book:
 - <https://same.energy/> - Same Energy - 
   "We believe that image search should be visual, using only a minimum  of
   words. ... our search works without any tags or metadata: all we need is
-  the image.
+  the image." For example: <https://same.energy/search?i=xOCG>
 
-  Same Energy's core search uses deep learning. ... The default feeds
+  "Same Energy's core search uses deep learning. ... The default feeds
   available on the home page are algorithmically curated: a seed of 5-20
   images are selected by hand, then our system builds the feed by scanning
   millions of images in our index to find good matches for the seed
