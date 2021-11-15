@@ -63,7 +63,7 @@ Companion page, a commonplace book:
   but there are several online, for example:
   <https://www.youtube.com/watch?v=EE8_ddz0XvI>  
 
-  More about UPA cartoons at [2 Nov 2021](### 2 Nov 2021).
+  More about UPA cartoons at [2 Nov 2021](#2-Nov-2021).
 
 11 Nov 2021
 
@@ -111,7 +111,7 @@ Companion page, a commonplace book:
   "A review of the Periodic Table composed of 119 science haiku, one for
   each element ..."
 
-### 2 Nov 2021
+###### 2 Nov 2021
 
 - <https://animationobsessive.substack.com/p/what-the-upa-style-actually-is> -
   What the 'UPA Style' Actually Is - "(In the 1930s)
@@ -136,10 +136,10 @@ Companion page, a commonplace book:
   world*, as people in the 50s saw it."
 
   This page shows paintings by Dufy, Kandinsky, Leger, Mondrian, Matisse,
-  and Klee, and scenes from UPA cartoons *Mr. Magoo*, *Madeline*, and
-  *Gerald McBoing-Boing*.  It also shows scenes from recent cartoons made
-  in the 'UPA Revival' style: *The Powerpuff Girls*, *Rooty Toot Toot*, and
-  *Dexter's Laboratory*.
+  and Klee, and scenes from UPA cartoons *Mr. Magoo*, *Madeline*, *Rooty
+  Toot Toot*, and *Gerald McBoing-Boing*.  It also shows scenes from
+  recent cartoons made in the 'UPA Revival' style: *The Powerpuff Girls*
+  and  *Dexter's Laboratory*.
 
   <https://animationobsessive.substack.com/p/our-treat-to-you> - 
   *Cartoon Modern: Style and Design in Fifties Animation* -
