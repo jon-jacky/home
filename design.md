@@ -91,7 +91,7 @@ Companion page, a commonplace book:
 
   Meta: pages *about* some of the technology behind computer typography.
 
- 6 Nov 2021
+#### 6 Nov 2021
 
 - <https://same.energy/> - Same Energy - 
   "We believe that image search should be visual, using only a minimum  of
