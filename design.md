@@ -105,7 +105,7 @@ Companion page, a commonplace book:
   images. You can create feeds in just the same way: save images to create
   a collection of seed images, then look at the recommended images. ..."
 
- 5 Nov 2021
+##### 5 Nov 2021
 
 - <https://vis.sciencemag.org/chemhaiku/> - Elemental Haiku - 
   "A review of the Periodic Table composed of 119 science haiku, one for
