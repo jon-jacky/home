@@ -63,7 +63,7 @@ Companion page, a commonplace book:
   but there are several online, for example:
   <https://www.youtube.com/watch?v=EE8_ddz0XvI>  
 
-  More about UPA cartoons at [2 Nov 2021](#2 Nov 2021).
+  More about UPA cartoons at [2 Nov 2021](#2-Nov-2021).
 
 11 Nov 2021
 
