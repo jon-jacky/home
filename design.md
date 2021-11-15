@@ -63,7 +63,7 @@ Companion page, a commonplace book:
   but there are several online, for example:
   <https://www.youtube.com/watch?v=EE8_ddz0XvI>  
 
-  More about UPA cartoons at [2 Nov 2021](#2-Nov-2021).
+  More about UPA cartoons at [2 Nov 2021](#2 Nov 2021).
 
 11 Nov 2021
 
@@ -105,13 +105,13 @@ Companion page, a commonplace book:
   images. You can create feeds in just the same way: save images to create
   a collection of seed images, then look at the recommended images. ..."
 
-##### 5 Nov 2021
+#### 5 Nov 2021
 
 - <https://vis.sciencemag.org/chemhaiku/> - Elemental Haiku - 
   "A review of the Periodic Table composed of 119 science haiku, one for
   each element ..."
 
-###### 2 Nov 2021
+#### 2 Nov 2021
 
 - <https://animationobsessive.substack.com/p/what-the-upa-style-actually-is> -
   What the 'UPA Style' Actually Is - "(In the 1930s)
