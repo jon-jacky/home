@@ -71,7 +71,7 @@ Companion page, a commonplace book:
   Ludwig Wittgenstein, philosopher -
   On the hundredth anniversary of his *Tractatus*.
 
-  More about *Tractatus* at 26 Jul 2020
+  More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
  7 Nov 2021
 
@@ -617,7 +617,7 @@ Companion page, a commonplace book:
 
 - <https://www.onasunbeam.com/> - On a Sunbeam, by Tillie Walden
 
-26 Jul 2020
+26 Jul 2020 <a name="26-Jul-2020"></a>
 
 - <http://tractatus.lib.uiowa.edu/map/> -
   Visualization of Wittgenstein's *Tractatus*, like the London subway map.
