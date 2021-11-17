@@ -10,7 +10,7 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-21 Oct 2021
+21 Oct 2021  <a name="21-Oct-2021"></a>
 
 - <https://news.ycombinator.com/item?id=28839209> - 
   comments on Ever lost your love for coding?  continued in
@@ -49,7 +49,7 @@ Companion page, a commonplace book:
   all your creativity and dreams about the future and desire to change
   things for the better around you. ..."
 
-17 Sep 2021
+17 Sep 2021  <a name="17-Sep-2021"></a>
 
 - <https://search.marginalia.nu/> - An experimental search engine:
   "If you are looking for serendipity, you're on the right track. ... The
@@ -75,7 +75,7 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=29130017>, 
   "It's literally just a computer in my living room."
 
-16 Sep 2021
+16 Sep 2021  <a name="16-Sep-2021"></a>
 
 - <https://news.ycombinator.com/item?id=28522761> - comments on Turing Oversold?
 
@@ -140,7 +140,7 @@ Companion page, a commonplace book:
 
   [0] PDF <https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf>
 
- 7 Sep 2021
+ 7 Sep 2021  <a name="7-Sep-2021"></a>
 
 - <https://news.ycombinator.com/item?id=28441887> - comments on 
   Awk: The Power and Promise of a 40-Year-Old Language:
@@ -166,7 +166,7 @@ Companion page, a commonplace book:
   point that the principle of least power is important for security of
   interfaces which may be exposed to attack."
 
-16 Aug 2021, 22 Aug 2021, 3 Sep 2021, 11 Sep 2021
+16 Aug 2021, 22 Aug 2021, 3 Sep 2021, 11 Sep 2021  <a name="16-Aug-2021"></a>
 
 - <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
   Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
@@ -494,7 +494,7 @@ Companion page, a commonplace book:
    into your own head ...  One narrates ordinary routine activity; the
    narrative simply recounts *what happened*."
 
-14 Aug 2021, 16 Aug 2021
+14 Aug 2021, 16 Aug 2021  <a name="14-Aug-2021"></a>
 
 - <https://news.ycombinator.com/item?id=28168663>, comments on 
   Pythonic Monotonic
@@ -521,7 +521,7 @@ Companion page, a commonplace book:
   read, understanding what's written.  Would make a lot of things easier
   for everybody ..."
 
- 9 Aug 2021
+ 9 Aug 2021  <a name="9-Aug-2021"></a>
 
 - <https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf> - 
   The Moral Character of Cryptographic Work by Phillip Rogaway (2015)
@@ -570,7 +570,7 @@ Companion page, a commonplace book:
   it All.*  What would frustrate you?  What problems do you *not* want a bunch
   of super-smart academics to solve?"
 
- 4 Aug 2021, 7 Aug 2021
+ 4 Aug 2021, 7 Aug 2021  <a name="4-Aug-2021"></a>
 
 - <https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf> -
 
@@ -684,7 +684,7 @@ Companion page, a commonplace book:
   amusing stories about his sudden celebrity, but also discusses his books and
   ideas.
 
-20 Jul 2021
+20 Jul 2021  <a name="20-Jul-2021"></a>
 
 - <http://cultureandcommunication.org/galloway/derridas-macintosh> -
   Derrida's Macintosh by Alexander R. Galloway, Jul 19 2021 -
@@ -718,7 +718,7 @@ Companion page, a commonplace book:
   or what abyss, this slightly threatening warning would appear on the
   screen"
 
- 1 Jun 2021
+ 1 Jun 2021  <a name="1-Jun-2021"></a>
 
 - <http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf> - 
   Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
@@ -744,7 +744,7 @@ Companion page, a commonplace book:
   Many other articles by these authors about computing history at
   <http://www.tomandmaria.com/Tom/Home>
 
- 9 Feb 2021
+ 9 Feb 2021  <a name="9-Feb-2021"></a>
 
 - <https://esoteric.codes/blog/100-rabbits> - *Esoteric Codes*, 2021-02-04,
   Interview with 100 Rabbits:
@@ -805,7 +805,7 @@ Companion page, a commonplace book:
   try to live in that space and build things for that space. I'm pretty
   sure it's a completely forgotten demographic. ..."
 
-21 Jan 2021
+21 Jan 2021  <a name="21-Jan-2021"></a>
 
 - <https://canvas.harvard.edu/courses/34992/assignments/syllabus> - 
   Classics of Computer Science -
@@ -819,7 +819,7 @@ Companion page, a commonplace book:
 
   Links to these papers and many more: <https://docs.google.com/spreadsheets/d/1wS6O7-ZoFL7Cfjgt-kdhYxfg0qHdXyzpjJxikiqNPZg/edit#gid=65049622>
 
- 7 Jan 2021
+ 7 Jan 2021  <a name="7-Jan-2021"></a>
 
 - <https://www.are.na/blog/taeyoon-choi> - Taeyoon Choi, co-founder of School for Poetic Computation -   
   "We struck up a conversation around 2013 because student debt was such
@@ -832,7 +832,7 @@ Companion page, a commonplace book:
   care about and we want to research for our own purposes, but that was
   not possible in our existing structure. ..."
 
-24 Dec 2020, 17 Jan 2021
+24 Dec 2020, 17 Jan 2021  <a name="24-Dec-2020"></a>
 
 -  <https://news.ycombinator.com/item?id=21396662> - Oberon Operating System
 
@@ -865,7 +865,7 @@ Companion page, a commonplace book:
   it to get a dynamically-generated menu of operations supported by the
   pointed-to value, or call functions on it, or whatever. ..."
 
-18 Dec 2020
+18 Dec 2020  <a name="18-Dec-2020"></a>
 
 -  <https://news.ycombinator.com/item?id=25462043> -
    comments on the Original Dartmouth College BASIC manual (1964):
@@ -875,9 +875,9 @@ Companion page, a commonplace book:
    It was evidently possible to create a complex program in 2 feet  ..."
 
    In that system, you typed your program on a roll of teletype paper.
-   More about BASIC programming at 7 Nov 2020 and 28 Feb 2019, below.
+   More about BASIC programming at [7 Nov 2020](#7-Nov-2020) and 28 Feb 2019, below.      
 
-27 Nov 2020
+27 Nov 2020  <a name="27-Nov-2020"></a>
 
 - <https://sqlite.org/lpc2019/doc/trunk/briefing.md> - SQLite on Linux
 
@@ -930,7 +930,7 @@ Companion page, a commonplace book:
   resources today which instead use resources akin to yesterday's
   supercomputers."
 
-25 Nov 2020
+25 Nov 2020  <a name="25-Nov-2020"></a>
 
 - <http://akkartik.name/illich.pdf> - *Tools for Conviviality* by Ivan Illich
   (1973), Introduction p. 5, Ch 4 Recovery, p. 54.
@@ -968,10 +968,10 @@ Companion page, a commonplace book:
   with information itself. We do the same when we confuse data for
   potential decision with decision itself."
 
-  Work influenced by Ivan Illich appears at 23 Nov 2020, 17 Feb 2020, and
-  2 Sep 2019.
+  Work influenced by Ivan Illich appears at [23 Nov 2020](#23-Nov-2020), 17 Feb 2020, and
+  2 Sep 2019.  <a name="2-Sep-2019"></a>
 
-23 Nov 2020, 31 Jan 2021
+23 Nov 2020, 31 Jan 2021  <a name="23-Nov-2020"></a>
 
 - <http://akkartik.name/akkartik-convivial-20200607.pdf> - 
   Bicycles for the Mind Have to Be See-Through by Kartik Agaram
@@ -1159,9 +1159,9 @@ Companion page, a commonplace book:
   must be slower. Or do less. That seems like a worthwhile trade for a
   more sustainable world. ..."
 
-  Other work influenced by Ivan Illich appears at 17 Feb 2020 and 2 Sep 2019.
+  Other work influenced by Ivan Illich appears at [17 Feb 2020](#17-Feb-2020) and 2 Sep 2019.
 
- 7 Nov 2020
+ 7 Nov 2020  <a name="7-Nov-2020"></a>
 
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
   64 BASIC
@@ -1203,9 +1203,9 @@ Companion page, a commonplace book:
 
   I find it all aesthetically beautiful, actually."
 
-  More about BASIC programming at 28 Feb 2019, below.
+  More about BASIC programming at [28 Feb 2019](#28-Feb-2019), below.
 
-30 Oct 2020, 5 Aug 2021
+30 Oct 2020, 5 Aug 2021  <a name="30-Oct-2020"></a>
 
 - <https://github.com/mntmn/amiga2000-gfxcard> - an Amiga 2000 Graphics Card
 
@@ -1248,7 +1248,7 @@ Companion page, a commonplace book:
   operating system that takes advantage of modern-day hardware technology
   while ideally being fully comprehensible in a couple of days. ..."
 
-13 Oct 2020
+13 Oct 2020  <a name="13-Oct-2020"></a>
 
 - <https://9p.io/wiki/plan9/Expanding_your_Grid/index.html> - "Plan 9 was
   designed as a distributed system. After you install the   distribution
@@ -1257,16 +1257,16 @@ Companion page, a commonplace book:
   proceed from here to a network of Plan 9 machines and provide Plan 9
   services to other clients? ..."
 
-  More about Plan 9 at 21 Nov 2019, 19 Sep 2018, 23 Dec 2017 etc., below.
+  More about Plan 9 at [21 Nov 2019](#21-Nov-2019), 19 Sep 2018, 23 Dec 2017 etc., below.
 
-10 Oct 2020
+10 Oct 2020  <a name="10-Oct-2020"></a>
 
 - <https://github.com/hatsugai/Fenestra6502> - "a 6502-based system with an
   extra circuit to improve the performance of procedure/function calls.
   ..." Includes photos of a handmade 6502 computer including the described
   circuit, built on solderless breadboards with lots of colorful wires.
 
- 6 Oct 2020
+ 6 Oct 2020  <a name="6-Oct-2020"></a>
 
 - <https://news.ycombinator.com/item?id=24686915> - 
   If you were to build the web today from scratch how would you design it?
@@ -1282,7 +1282,7 @@ Companion page, a commonplace book:
   local diner who always remembered his order and always flicked him a
   smile.  ..."
 
-10 Aug 2020
+10 Aug 2020  <a name="10-Aug-2020"></a>
 
 - <https://news.ycombinator.com/item?id=24083738> - comments on 
   The Psychedelic Inspiration for Hypercard
@@ -1325,9 +1325,9 @@ Companion page, a commonplace book:
   What's the next tool like HyperCard that could free humanity from this
   tedious labor? I just don't know, and that bothers me. ..."
 
-  More on HyperCard at 24 Feb 2020 and 28 Feb 2019, below.
+  More on HyperCard at [24 Feb 2020](#24-Feb-2020) and 28 Feb 2019, below.
 
-23 Apr 2020, 30 Jan 2021
+23 Apr 2020, 30 Jan 2021  <a name="23-Apr-2020"></a>
 
 - <https://queue.acm.org/detail.cfm?id=1039523> - A Conversation with Alan Kay 
   (2004) -
@@ -1401,9 +1401,9 @@ Companion page, a commonplace book:
   Includes recollections and opinions about many influential systems from
   the past.
 
-  More from Alan Kay at 9 Sep 2019 and 24 Sep 2018.
+  More from Alan Kay at [9 Sep 2019](#9-Sep-2019) and 24 Sep 2018.
 
-22 Apr 2020
+22 Apr 2020  <a name="22-Apr-2020"></a>
 
 - <https://news.ycombinator.com/item?id=20241138> - 
   comments on Smoltcp: A small TCP/IP stack in Rust -
@@ -1421,7 +1421,7 @@ Companion page, a commonplace book:
   have to collect crumb by crumb, and often quite painfully, too.
   Smoltcp is somewhere halfway between."
 
- 2 Mar 2020
+ 2 Mar 2020  <a name="2-Mar-2020"></a>
 
 - <https://gigatron.io/> - Gigatron TTL Microcomputer - 
   Single-board computer that supports BASIC and video games made from about
@@ -1456,7 +1456,7 @@ Companion page, a commonplace book:
   similar functionality but with microprocessors, and Pong under 11 Jun 2018,
   single-purpose pre-microprocessor video game made from 66 TTL chips.
 
-24 Feb 2020
+24 Feb 2020  <a name="24-Feb-2020"></a>
 
 - <https://news.ycombinator.com/item?id=22398899> - comments by *wrs* on the 
   Newton (1990s Apple handheld computer) -
@@ -1510,9 +1510,9 @@ Companion page, a commonplace book:
   representations  of 8 concepts: ..."   Detailed explanation of
   HyperCard features  and internals follows.
 
-  More on HyperCard at 28 Feb 2019, below.
+  More on HyperCard at [28 Feb 2019](#28-Feb-2019), below.
 
-17 Feb 2020
+17 Feb 2020  <a name="17-Feb-2020"></a>
 
 - <https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19de-escalating-intro-script.txt> -
   De-Escalating Software, a scriped introduction, by Stephen Kell.
@@ -1565,9 +1565,9 @@ Companion page, a commonplace book:
   immediately struck by how directly his words transferred to described
   what I saw as the plight of software."
 
-  A similar talk by Kell is excerpted at 2 Sep 2019 below.
+  A similar talk by Kell is excerpted at [2 Sep 2019](#2-Sep-2019) below.
 
-14 Feb 2020
+14 Feb 2020  <a name="14-Feb-2020"></a>
 
 - <https://news.ycombinator.com/item?id=22303710> - comments by the author on Shell Git -
   "... I said that the internals were so simple that you could implement a
@@ -1582,7 +1582,7 @@ Companion page, a commonplace book:
   Anyway, this is awful, don't use it for anything, don't read the
   code, don't look at it, just don't."
 
- 9 Feb 2020
+ 9 Feb 2020  <a name="9-Feb-2020"></a>
 
 - <https://kevinlawler.com/prompts> - "Oblique Strategies ...
   Brian Eno created a collection of strategies to help artists break
@@ -1601,7 +1601,7 @@ Companion page, a commonplace book:
   "... takes Arch Linux and adds sane defaults that will work best for
   developers. ..." - more at <https://kodfabrik.com/journal/>
 
- 6 Feb 2020
+ 6 Feb 2020  <a name="6-Feb-2020"></a>
 
 - <https://blog.sophaskins.net/blog/my-week-at-the-recurse-center/> -
   "The night before my (visit) started, I was ... having doubts
@@ -1619,7 +1619,7 @@ Companion page, a commonplace book:
   There can be good in programmers. There can be joy in programming.
   I want to find those things - I want to continue to learn and to share ..."
 
- 6 Feb 2020
+ 6 Feb 2020  <a name="6-Feb-2020"></a>
 
 - <https://news.ycombinator.com/item?id=22043042> - response to
   "What has your work taught you ... ?" -
@@ -1637,7 +1637,7 @@ Companion page, a commonplace book:
   primary caucus ... malfunctioned during the caucus, causing mass chaos
   and delaying the public reporting of results until Tuesday evening. ..."
 
-11 Dec 2019
+11 Dec 2019  <a name="11-Dec-2019"></a>
 
 - <https://blog.sfpc.io/post/157624785016/learning-to-teach-teaching-to-learn> -
   report on a Learning to Teach conference at the School for Poetic Computation:
@@ -1647,7 +1647,7 @@ Companion page, a commonplace book:
   programming (and learning) in the classroom. ... Build in a process for
   problem solving. ..."
 
-11 Dec 2019
+11 Dec 2019  <a name="11-Dec-2019"></a>
 
 - <https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships> -
   Computing, Climate Change, and All Our Relationships, a talk by Nabil Hassein:
@@ -1701,7 +1701,7 @@ Companion page, a commonplace book:
   profound human oppression and ecological destruction."
 
 
-21 Nov 2019
+21 Nov 2019  <a name="21-Nov-2019"></a>
 
 - <https://news.ycombinator.com/item?id=1154650>, comments on Plan 9, long 
   explanation includes:
@@ -1744,7 +1744,7 @@ Companion page, a commonplace book:
   Plan 9 did develop several limited browsers, including *Mothra* and *Abaco*.
   See related comments under 4 Oct, below.
 
-27 Oct 2019
+27 Oct 2019  <a name="27-Oct-2019"></a>
 
 - <https://news.ycombinator.com/item?id=21354626>, comments on
   '... User and Programmer': "Sometimes I wonder if the people of the 1960s
@@ -1756,7 +1756,7 @@ Companion page, a commonplace book:
   as programs - make them super composable, and then let the end user design
   their own products that fit them best."
 
- 4 Oct 2019
+ 4 Oct 2019  <a name="4-Oct-2019"></a>
 
 - <https://news.ycombinator.com/item?id=21052915>, comment on 'Why can't browsers
   just be used for browsing': "Browsers are a case of monolithism (and the
@@ -1769,7 +1769,7 @@ Companion page, a commonplace book:
   would not be a second OS on top of the normal one. And all those parts would
   be separate software, with standardized interfaces. ..."
 
- 3 Oct 2019
+ 3 Oct 2019  <a name="3-Oct-2019"></a>
 
 - <https://www.cs.kent.ac.uk/people/staff/srk21/blog/research/end-to-end-razor.html>
   ... by implementing features higher up, we nearly always end up with not one
@@ -1809,7 +1809,7 @@ Companion page, a commonplace book:
   is *constructed* by the runtime implementor in a way that is *prescriptive*.
   ...
 
- 9 Sep 2019
+ 9 Sep 2019  <a name="9-Sep-2019"></a>
 
 - <http://www.math.bas.bg/bantchev/misc/az.pdf> - *The A-Z of Programming
   Languages* (interviews with programming language creators):
@@ -1858,7 +1858,7 @@ Companion page, a commonplace book:
   much better set up to cope than to learn.  So familiar-plus-pain is
   acceptable to most people. ...
 
- 2 Sep 2019
+ 2 Sep 2019  <a name="2-Sep-2019"></a>
 
 - <https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19software-slides.pdf>
   Software Against Humanity? An Illichian perspective on the industrial era
@@ -1903,7 +1903,7 @@ Companion page, a commonplace book:
   The norm is to teach the 1970s industrial view of software,
   without even acknowledging this as a culture! ..."
 
-10 Jul 2019
+10 Jul 2019  <a name="10-Jul-2019"></a>
 
 - <https://news.ycombinator.com/item?id=20398439> - comment by WalterBright on
   Floating Point Routines for the 6502 in Aug 1976 *Dr Dobbs* -
@@ -1915,7 +1915,7 @@ Companion page, a commonplace book:
   Organizing code into functions is a luxury not usually affordable.
   It sounds tedious, but it was fun. ..."
 
- 9 Jul 2019
+ 9 Jul 2019  <a name="9-Jul-2019"></a>
 
 - <http://oldblog.antirez.com/post/redis-manifesto.html> - Redis Manifesto by antirez -
   "Code is like a poem; it's not just something we write to reach some practical
@@ -1936,7 +1936,7 @@ Companion page, a commonplace book:
   writing code, the best thing to do is stop. To prevent this, we'll avoid
   taking paths that will make Redis less of a joy to develop."
 
- 1 Jul 2019
+ 1 Jul 2019  <a name="1-Jul-2019"></a>
 
 - <https://news.ycombinator.com/item?id=20315268>, from author's own comments on
   <http://cowlark.com/2019-06-28-cpm-vi/> - "I find CP/M interesting because it's
@@ -1953,7 +1953,7 @@ Companion page, a commonplace book:
   The CP/M kernel is 3.5kB of 8080 machine code. I think each frame of that
   video consumed more space than that."
 
-15 Jun 2019
+15 Jun 2019  <a name="15-Jun-2019"></a>
 
 - <https://github.com/thomasahle/sunfish> - Python Chess Engine -
   "Sunfish is a simple, but strong chess engine, written in Python,
@@ -1984,7 +1984,7 @@ Companion page, a commonplace book:
   Instructive but incomplete, for a barely working fork see
   <https://github.com/jon-jacky/rc-snake>
 
-15 Jun 2019
+15 Jun 2019  <a name="15-Jun-2019"></a>
 
 - <http://pgbovine.net/research-design-patterns.htm> - Research Design Patterns -
   "... How do people come up with research ideas?
@@ -2000,7 +2000,7 @@ Companion page, a commonplace book:
   because I was willing to put in the hours when others weren't. ... (examples
   with links) ..."
 
-23 May 2019, 11 Oct 2021
+23 May 2019, 11 Oct 2021  <a name="23-May-2019"></a>
 
 - <https://news.ycombinator.com/item?id=19986126> - Comments on
   SerenityOS -
@@ -2182,7 +2182,7 @@ Companion page, a commonplace book:
   hoary culture surrounding it. It is phenomenally powerful,
   and also very, very weird. ..."
 
-18 Mar 2019
+18 Mar 2019  <a name="18-Mar-2019"></a>
 
 - <https://news.ycombinator.com/item?id=19416485> - comments on
   *The Unix-Haters Handbook* -  "I think (this book) still has
@@ -2204,7 +2204,7 @@ Companion page, a commonplace book:
   for encouraging people to develop a bespoke private universe
   that's hard for other people to get a handle on."
 
-10 Mar 2019
+10 Mar 2019  <a name="10-Mar-2019"></a>
 
 - <https://news.ycombinator.com/item?id=19344872> - Comment on The Emacs
   Package Developer's Handbook - "... the highly imperative Logo-like
@@ -2215,7 +2215,7 @@ Companion page, a commonplace book:
   macros.” So there’s no funky abstraction frameworks with models and
   controllers and whatnot, just buffers with cursors basically."
 
-28 Feb 2019
+28 Feb 2019  <a name="28-Feb-2019"></a>
 
 - <https://news.ycombinator.com/item?id=19263295> - Comments on
   *Hypercard Users Guide* (1987) - "Hypercard was a thrust in the
@@ -2273,7 +2273,7 @@ Companion page, a commonplace book:
   systems that didn't have full screen text editors with copy/paste
   built in. It's how you told BASIC where to put new lines in the program. ..."
 
-20 Feb 2019
+20 Feb 2019  <a name="20-Feb-2019"></a>
 
 - <https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html> - The Secret History of Women in Coding - features Mary Ellen
   Wilkes, who worked on the LINC laboratory minicomputer in the 1960s and
@@ -2303,7 +2303,7 @@ Companion page, a commonplace book:
   "playground" created at the splice point provides sufficient ease to
   permit changing the scroll contents dynamically..."
 
-17 Feb 2019
+17 Feb 2019  <a name="17-Feb-2019"></a>
 
 - <https://github.com/hundredrabbits/Orca> - Live Programming Environment -
   via <https://news.ycombinator.com/item?id=19118951> - "What is it?
@@ -2325,7 +2325,7 @@ Companion page, a commonplace book:
   associated art and the connection between the build-up of his own software
   ecosystem."
 
-14 Feb 2019
+14 Feb 2019  <a name="14-Feb-2019"></a>
 
 - <http://sunnyday.mit.edu/16.355/syllabus-355-2017.html> - *System Engineering
   of Software-Intensive Systems* - course at MIT by safety expert
@@ -2344,7 +2344,7 @@ Companion page, a commonplace book:
 
   <http://sunnyday.mit.edu/16.355/> Readings and class notes
 
-14 Feb 2019
+14 Feb 2019  <a name="14-Feb-2019"></a>
 
 - <http://www.1-9-9-1.com/> - *1991 - A server-side web framework written in Forth*
   "The year is 1991. The World Wide Web has just seen public release.
@@ -2362,7 +2362,7 @@ Companion page, a commonplace book:
   via <https://news.ycombinator.com/item?id=19146767> -
   "A microframework in a scant 480 lines of code, plus a postmodern manifesto ..."
 
- 9 Feb 2019
+ 9 Feb 2019  <a name="9-Feb-2019"></a>
 
 - <https://news.ycombinator.com/item?id=19122578> comment by Ron Garret on
   <https://kirit.com/Build%20me%20a%20LISP>  "... An S-expression is a
@@ -2387,7 +2387,7 @@ Companion page, a commonplace book:
   spirit to Lisp, but it's not Lisp. It's a different (toy) language at a
   completely different point in the design space."
 
-25 Jan 2019
+25 Jan 2019  <a name="25-Jan-2019"></a>
 
 - <https://github.com/ktye/iv> - APL interpreter and stream processor - 
   "Next tasks: ... learn APL ... The author has never used APL ..."
@@ -2395,7 +2395,7 @@ Companion page, a commonplace book:
   "Of course it takes less time and effort to write an APL interpreter
   than it does to actually learn APL."
 
- 4 Jan 2019
+ 4 Jan 2019  <a name="4-Jan-2019"></a>
 
 - <https://news.ycombinator.com/item?id=14852625> - comments on the book *Thinking Forth* - 
   "For me the biggest influences underemphasized in other sources are
@@ -2413,7 +2413,7 @@ Companion page, a commonplace book:
   away everything irrelevant from the problem to end up with an easy
   one. ..."
 
-22 Dec 2018
+22 Dec 2018  <a name="22-Dec-2018"></a>
 
 - <https://smallstep.com/blog/everything-pki.html> - Everything you
   should know about certificates and PKI but are too afraid to ask -
@@ -2498,7 +2498,7 @@ Companion page, a commonplace book:
   Authorities are not actually staffed exclusively by incorruptible
   treefolk who live in the mountains. ..."
 
-14 Dec 2018
+14 Dec 2018  <a name="14-Dec-2018"></a>
 
 - <https://humane.computer/in-conversation-with-aza-raskin/> - Interview
   about Archy <https://github.com/DanielFeichtinger/Archy>, also at
@@ -2525,7 +2525,7 @@ Companion page, a commonplace book:
   Leap feature from days gone by."  Explicitly references Archy's
   predecessor, the Canon Cat (see 11-19 Oct below).
 
- 6 Dec 2018
+ 6 Dec 2018  <a name="6-Dec-2018"></a>
 
 - <https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge>  - Profile of Jeff Dean and Sanjay Ghemawat, 
   the pair programming team that created MapReduce, TensorFlow, and
@@ -2533,7 +2533,7 @@ Companion page, a commonplace book:
   McPhee.  Somers is a programmer himself, and a prolific writer with
   a bountiful web site: <http://jsomers.net/>
 
-27 Nov 2018
+27 Nov 2018  <a name="27-Nov-2018"></a>
 
 - <https://news.ycombinator.com/item?id=18525800> - comment on Lisp
   Machine Inc. K-machine by jolmg - "In any case, looking at Lisp OSes
@@ -2554,7 +2554,7 @@ Companion page, a commonplace book:
   environment variables which could be thought as dynamically-scoped
   variables."
 
-23 Nov 2018
+23 Nov 2018  <a name="23-Nov-2018"></a>
 
 - <http://www.jfsowa.com/computer/memo125.htm> - Memo 125 by John
   F. Sowa, on IBM's proposed but unbuilt Future System of the 1970s -
@@ -2587,7 +2587,7 @@ Companion page, a commonplace book:
   those properties), it can never be more than a batch system with
   displays attached."
 
-20 Nov 2018
+20 Nov 2018  <a name="20-Nov-2018"></a>
 
 - <http://homepages.cs.ncl.ac.uk/brian.randell/NATO/> - The NATO
   Software Engineering Conferences - "In the fall of 1968 and again
@@ -2602,7 +2602,7 @@ Companion page, a commonplace book:
   both reports, a new introduction, a memoir by an original
   participant/editor, and photos.
 
-22 Oct 2018
+22 Oct 2018  <a name="22-Oct-2018"></a>
 
 - <https://news.ycombinator.com/item?id=18267445> - An immersive
   programming experience - "I've found a good way to approach
@@ -2623,7 +2623,7 @@ Companion page, a commonplace book:
   view, key-presses or timer ticks would just be like any other data
   flowing through the system."
 
-19 Oct 2018
+19 Oct 2018  <a name="19-Oct-2018"></a>
 
 - <https://news.ycombinator.com/item?id=18256690> - (Common Lisp is) A
   language designed for modifying programs while they
@@ -2679,7 +2679,7 @@ Companion page, a commonplace book:
   I'm using now is Archy ... It's pretty much a copy of the Canon Cat,
   rewritten in python."
 
- 9 Oct 2018
+ 9 Oct 2018  <a name="9-Oct-2018"></a>
 
 - <http://antirez.com/news/74> - Fascinating little programs - "Why is
   it so great to hack a small piece of code? ... It can be totally
@@ -2693,7 +2693,7 @@ Companion page, a commonplace book:
   pile of code that works."  See also his <http://antirez.com/news/108>
   Writing an editor in less than 1000 lines of code
 
- 7 Oct 2018
+ 7 Oct 2018  <a name="7-Oct-2018"></a>
 
 - <http://obsolescence.wixsite.com/obsolescence/pidp-11> - "The PiDP-11
   is a modern replica of the PDP-11/70.  Introduced in 1975, the 11/70
@@ -2712,7 +2712,7 @@ Companion page, a commonplace book:
   where they existed ... to (re)learn the lessons others learned
   before us that we can still benefit from."
 
- 1 Oct 2018
+ 1 Oct 2018  <a name="1-Oct-2018"></a>
 
 - <https://news.ycombinator.com/item?id=12250857> - "... Are there any
   other noteworthy, older computer technologies that are in some ways
@@ -2725,7 +2725,7 @@ Companion page, a commonplace book:
   is to create something expressive instead of something functional."
   via <https://github.com/sindresorhus/awesome>
 
-29 Sep 2018
+29 Sep 2018  <a name="29-Sep-2018"></a>
 
 - <https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/> - "The new blog is designed to radically reduce the energy use
   associated with accessing our content. ... Thanks to a low-tech web
@@ -2739,7 +2739,7 @@ Companion page, a commonplace book:
   graphic design too.  via
   <https://news.ycombinator.com/item?id=18075143>
 
-24 Sep 2018
+24 Sep 2018  <a name="24-Sep-2018"></a>
 
 - <https://mprove.de/diplom/gui/Kay75.pdf> - "Personal Computing by Alan
   Kay" (1975) - Early explanations of the Alto computer and Smalltalk
@@ -2756,7 +2756,7 @@ Companion page, a commonplace book:
   Via <https://news.ycombinator.com/item?id=18044785> - "What happened
   to this future?  I miss it."
 
-19 Sep 2018, 27 Apr 2020
+19 Sep 2018, 27 Apr 2020  <a name="19-Sep-2018"></a>
 
 - <http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf> - 
   "The Ubiquitous File Server in Plan 9 ...
@@ -2835,7 +2835,7 @@ Companion page, a commonplace book:
   the name spaces have the same clean structure, that structure can be
   extended simply to describe the larger space."
 
-15 Sep 2018
+15 Sep 2018  <a name="15-Sep-2018"></a>
 
 - <https://github.com/arwn/9front-paper/blob/master/paper.pdf> - Using
   9front - "Why would anyone want to use 9front? Well chances are you
@@ -2855,7 +2855,7 @@ Companion page, a commonplace book:
   modern languages, Controversial: Not always by design, but often
   because of their design, Fun.
 
-12 Sep 2018
+12 Sep 2018  <a name="12-Sep-2018"></a>
 
 - <https://news.ycombinator.com/item?id=11796650> - Harvey OS – A Fresh
   Take on Plan 9 - "Unix wrinkles: there are so many, but just
@@ -2871,7 +2871,7 @@ Companion page, a commonplace book:
 
   See also <https://github.com/Harvey-OS/harvey>
 
-11 Sep 2018
+11 Sep 2018  <a name="11-Sep-2018"></a>
 
 - <https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html> - 
   "Originally ... it was more meant as a kind of executable
@@ -2892,7 +2892,7 @@ Companion page, a commonplace book:
   <http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html> and
   <https://codewords.recurse.com/issues/seven/dragon-taming-with-tailbiter-a-bytecode-compiler>
 
- 5 Sep 2018
+ 5 Sep 2018  <a name="5-Sep-2018"></a>
 
 - <https://news.ycombinator.com/item?id=17910632>, comments on
   <https://tinyletter.com/jamesbowman/letters/upduino-a-9-99-fpga> -
@@ -2905,7 +2905,7 @@ Companion page, a commonplace book:
   <https://github.com/grahamedgecombe/icicle> and
   <https://github.com/cliffordwolf/picorv32>
 
-31 Aug 2018
+31 Aug 2018  <a name="31-Aug-2018"></a>
 
 - <https://dl.acm.org/citation.cfm?id=806447> - "Z - The 95% Program
   Editor (1981) ... Z is the production editor in the Yale Computer
@@ -2923,7 +2923,7 @@ Companion page, a commonplace book:
   (a few) categories" and "by making a very simple assumption about
   how a programmer formats his program."
 
-29 Aug 2018
+29 Aug 2018  <a name="29-Aug-2018"></a>
 
 - <https://github.com/darklife/darkriscv> - "Open source RISC-V
   implemented from scratch in one night! ... the code is very compact,
@@ -2941,7 +2941,7 @@ Companion page, a commonplace book:
   architecture when compared with others and I dont think the gcc will
   have the same benevolent behaviour in the case of ARM or x86."
 
-27 Aug 2018
+27 Aug 2018  <a name="27-Aug-2018"></a>
 
 - <http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/> - "I want
   you to realize that Common Lisp is a stable, large, practical,
@@ -2949,7 +2949,7 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=17852194>  "This is a
   godsend. Probably the best introductory article on Lisp to date."
 
- 8 Aug 2018
+ 8 Aug 2018  <a name="8-Aug-2018"></a>
 
 - <https://twobithistory.org/2018/08/05/where-vim-came-from.html> - "Vim
   is only the latest iteration of a piece of software—call it the "wq
@@ -2959,7 +2959,7 @@ Companion page, a commonplace book:
   More articles at <https://twobithistory.org/timeline.html> "This is a
   blog about computer history intended primarily for computer people."
 
- 3 Aug 2018
+ 3 Aug 2018  <a name="3-Aug-2018"></a>
 
 - <https://www.mnot.net/blog/2018/07/31/read_rfc> - How to Read an RFC -
   "Requests for Comments (RFCs) are how we specify many protocols on
@@ -2972,7 +2972,7 @@ Companion page, a commonplace book:
   the sites linked in this article, <https://pretty-rfc.herokuapp.com>
   provides the RFCs in a more navigable HTML format.
 
-31 Jul 2018
+31 Jul 2018  <a name="31-Jul-2018"></a>
 
 - <https://news.ycombinator.com/item?id=17607095> - "Where can
   one learn about the history of the internet ... ?"  Many links, for
@@ -2992,7 +2992,7 @@ Companion page, a commonplace book:
   virtualisation, high availability and serious backward compatibility
   were invented."
 
-24 Jul 2018
+24 Jul 2018  <a name="24-Jul-2018"></a>
 
 - <http://exofrills.org/> - "xo - the text editor without frills ...
   designed to just provide the features that you need to program
@@ -3002,7 +3002,7 @@ Companion page, a commonplace book:
   will probably say no!*  Just fork xo yourself."
   <https://github.com/scopatz/xo>
 
-16 Jul 2018
+16 Jul 2018  <a name="16-Jul-2018"></a>
 
 - <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1012.html> -
   "Roughly speaking, there are two ways in which people try to reason
@@ -3030,7 +3030,7 @@ Companion page, a commonplace book:
   while the significance of the mathematical event is essentially
   unrecognized. ..."
 
- 6 Jul 2018
+ 6 Jul 2018  <a name="6-Jul-2018"></a>
 
 - <https://basicengine.org/> - "The BASIC Engine is a very low-cost
   single-board home computer ... can be built at home ... for under 10
@@ -3075,7 +3075,7 @@ Companion page, a commonplace book:
   "... the Y combinator isn't something unique to the Lisp family of
   languages, here's a Python implementation. ..."
 
-27 Jun 2018
+27 Jun 2018  <a name="27-Jun-2018"></a>
 
 - <http://www.aholme.co.uk/6502/Main.htm> - "Here, with full source
   code, is a cycle-accurate 6502 microprocessor core in Verilog HDL,
@@ -3100,7 +3100,7 @@ Companion page, a commonplace book:
   connect to TCP/UDP servers on its own, without using nc/telnet
   ... (by using) /dev/tcp/HOST/PORT" ... (example follows)
 
-25 Jun 2018
+25 Jun 2018  <a name="25-Jun-2018"></a>
 
 - <https://github.com/pervognsen/bitwise/> - "Bitwise is an educational
   project where we create the software/hardware stack for a computer
@@ -3112,7 +3112,7 @@ Companion page, a commonplace book:
   can be synthesized and deployed on a real FPGA. This will include a
   RISC-V CPU ..."
 
-14 Jun 2018
+14 Jun 2018  <a name="14-Jun-2018"></a>
 
 - <https://bootstrapping.miraheze.org/wiki/Main_Page> - "This wiki is
   about bootstrapping. Building up compilers and interpreters and
@@ -3122,7 +3122,7 @@ Companion page, a commonplace book:
   problem with this kind of site ... is that it could take years to
   review each item."
 
-12 Jun 2018
+12 Jun 2018  <a name="12-Jun-2018"></a>
 
 - <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/> -
   What is code? by Paul Ford, much-praised 38,000 word essay with web
@@ -3162,7 +3162,7 @@ Companion page, a commonplace book:
   job of the GIL is to pause the while loop for all threads except for
   a thread that currently owns the GIL."
 
-11 Jun 2018
+11 Jun 2018  <a name="11-Jun-2018"></a>
 
 - <http://www.pong-story.com/LAWN_TENNIS.pdf> - Atari Pong Circuit
   Analysis - Awesomely detailed, 106 pages. "Atari’s Arcade Pong PCB
@@ -3174,7 +3174,7 @@ Companion page, a commonplace book:
   clever masterpiece of digital design. ... It’s mindbendingly
   brilliant."  Compare to Uzebox with 2 ICs, 24 May 2018 below.
 
- 3 Jun 2018, 17 Jan 2021
+ 3 Jun 2018, 17 Jan 2021  <a name="3-Jun-2018"></a>
 
 - <https://web.archive.org/web/20110723033542/http%3A//www.burlingtontelecom.net/~ashawley/gnu/emacs/doc/emacs-1978.html>
   An Introduction to the Emacs Editor by Eugene Ciccarelli, AI Memo
@@ -3208,7 +3208,7 @@ Companion page, a commonplace book:
   these days ... but there's a cost to trying to guarantee security
   through mechanism rather than trust."
 
- 2 Jun 2018
+ 2 Jun 2018  <a name="2-Jun-2018"></a>
 
 - <https://news.ycombinator.com/item?id=17194456> - comments on 'A few
   words on Doug Engelbart' by Bret Victor: "The failure to replicate
@@ -3220,7 +3220,7 @@ Companion page, a commonplace book:
   space in which everyone lived and was trusted, then of course our
   systems are inelegant by comparison. ..."
 
- 1 Jun 2018
+ 1 Jun 2018  <a name="1-Jun-2018"></a>
 
 - <http://obsolescence.wixsite.com/obsolescence/how-to-use-the-pidp-8> -
   Obsolescence Guaranteed - "The PiDP-8/I is a modern replica of the
@@ -3250,7 +3250,7 @@ Companion page, a commonplace book:
   ... Nebulet lets us try ideas that have been left dormant again."
   via <https://news.ycombinator.com/item?id=17187384>
 
-24 May 2018
+24 May 2018  <a name="24-May-2018"></a>
 
 - <http://uzebox.org/wiki/index.php?title=Main_Page> - Uzebox -
   "retro-minimalist homebrew game console. ... video sync generation,
@@ -3263,7 +3263,7 @@ Companion page, a commonplace book:
   and every (scan)line, including the sync code must take exactly 1820 clock
   cycles. ..."
 
-21 May 2018
+21 May 2018  <a name="21-May-2018"></a>
 
 - <https://www.pocketputer.com/> Pocket Puter - via
   <https://news.ycombinator.com/item?id=17114515>, "I want to create the
@@ -3283,7 +3283,7 @@ Companion page, a commonplace book:
   of the tentative agreements reached and some of the open questions
   encountered."
 
-20 May 2018
+20 May 2018  <a name="20-May-2018"></a>
 
 - <http://kakoune.org/why-kakoune/why-kakoune.html> - " ... in insert
   mode most keys insert their character in the buffer ... but in
@@ -3298,7 +3298,7 @@ Companion page, a commonplace book:
   does not just go to the next word, it selects from current position
   to the next word. ..."
 
-18 May 2018
+18 May 2018  <a name="18-May-2018"></a>
 
 - <https://www.scottaaronson.com/blog/?p=524> - "Timeline of computer
   science ... I somehow got roped into creating a timeline of “150
@@ -3326,7 +3326,7 @@ Companion page, a commonplace book:
   Dive into history? Show off your weirdness to your friends? Do nerdy
   things with nerdy software? Acme has it."
 
-14 May 2018
+14 May 2018  <a name="14-May-2018"></a>
 
 - <http://www.tnhh.net/posts/bked-gui-as-tui.html> - "BKED (pronounced
   buh-ked, e as in kept) was the de-facto text editor in Vietnam in
@@ -3342,7 +3342,7 @@ Companion page, a commonplace book:
   suite of national textbooks on every subject in the 90s."  Several
   screenshots in the article demonstrate the features.
 
-13 May 2018
+13 May 2018  <a name="13-May-2018"></a>
 
 - <https://bertfreudenberg.github.io/Smalltalk78/> - Smalltalk78 desktop
   running in the browser.  Looks very accurate but not clear how to
@@ -3352,7 +3352,7 @@ Companion page, a commonplace book:
   web browser. To learn more, please read our paper ... (at)
   <http://freudenbergs.de/bert/publications/Ingalls-2014-Smalltalk78.pdf>"
 
-10 May 2018
+10 May 2018  <a name="10-May-2018"></a>
 
 - <https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda>
   Hyperlinks_in_Terminal_Emulators.md, "Hyperlinks (a.k.a. HTML-like
@@ -3377,7 +3377,7 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=17026490>, comments on
   <https://ambrevar.bitbucket.io/emacs-eshell/>
 
-30 Apr 2018
+30 Apr 2018  <a name="30-Apr-2018"></a>
 
 - <https://ericphanson.com/posts/2016/the-traveling-salesman-and-10-lines-of-python/>
   Traveling Salesman solved by simulated annealing.  The ten lines of
@@ -3396,7 +3396,7 @@ Companion page, a commonplace book:
   6955 lines."  Via <https://news.ycombinator.com/item?id=16938934>,
   "What are some examples of beautiful x86 assembly code?"
 
-26 Apr 2018
+26 Apr 2018  <a name="26-Apr-2018"></a>
 
 - <https://www.gnu.org/software/guix/blog/2018/guix-on-android/> - Not
   really practical but provides a description of how Android is
@@ -3405,7 +3405,7 @@ Companion page, a commonplace book:
   initramfs so any modification to its content will be lost after a
   reboot."
 
-25 Apr 2018
+25 Apr 2018  <a name="25-Apr-2018"></a>
 
 - <https://jeffreykegler.github.io/personal/timeline_v3> - "Parsing: a
   timeline", actually a short but dense review article from Panini in
@@ -3418,7 +3418,7 @@ Companion page, a commonplace book:
   step further -- with PEG it is often the case that nothing documents
   the grammar, not even the code."
 
-16 Apr 2018
+16 Apr 2018  <a name="16-Apr-2018"></a>
 
 - <https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now>
   "... the XO-1: a toylike green-and-white laptop with rounded edges,
@@ -3449,14 +3449,14 @@ Companion page, a commonplace book:
   for accessing data. ... Some Activities allow users to work and learn
   cooperatively. For example ... to collaboratively create a document.
 
-15 Apr 2018
+15 Apr 2018  <a name="15-Apr-2018"></a>
 
 - <http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html>  - "To understand what went wrong — how the Silicon Valley dream of
   building a networked utopia turned into a globalized strip-mall
   casino overrun by pop-up ads and cyberbullies and Vladimir Putin — we
   spoke to more than a dozen architects of our digital present."
 
-10 Apr 2018
+10 Apr 2018  <a name="10-Apr-2018"></a>
 
 - <https://github.com/adamisntdead/QuSimPy> - "a toy multi-qubit quantum
   computer simulator, written in 150 lines of python", uses numpy and
@@ -3475,7 +3475,7 @@ Companion page, a commonplace book:
   introduction to QC in the first twelve pages and skimming the first
   sixty."
 
- 7 Apr 2018
+ 7 Apr 2018  <a name="7-Apr-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16775768> - "Raspberry Pi
   microSD card performance comparison" "I've tested the (several RPi
@@ -3492,7 +3492,7 @@ Companion page, a commonplace book:
   reliability (or not) of various brands/kinds of SD cards, and how
   to boot from server as alternative to SD cards etc.
 
- 6 Apr 2018
+ 6 Apr 2018  <a name="6-Apr-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16775744> - "Ask HN: How to
   self-learn electronics?"  Many many detailed responses with advice
@@ -3507,7 +3507,7 @@ Companion page, a commonplace book:
   whole content and "checkout" the relevant revision on the new
   system. ..."
 
- 5 Apr 2018
+ 5 Apr 2018  <a name="5-Apr-2018"></a>
 
 - <http://cs107e.github.io/> - "CS107e Spring 2018 ... third course in
   Stanford’s introductory programming sequence. ... bare metal
@@ -3533,7 +3533,7 @@ Companion page, a commonplace book:
   swapped to when fbcon happens through a large chain of strange
   events that are hard to describe. ..."   See also 31 Jan 2018.
 
- 2 Apr 2018
+ 2 Apr 2018  <a name="2-Apr-2018"></a>
 
 - <https://github.com/vygr/ChrysaLisp> - "Parallel OS, with GUI,
   Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp
@@ -3541,7 +3541,7 @@ Companion page, a commonplace book:
   to bare metal eventually ...  What we deserve is a modern version of
   what Taos did ..." (author is "Inventor of the Taos OS")
 
-30 Mar 2018
+30 Mar 2018  <a name="30-Mar-2018"></a>
 
 - <https://github.com/ShivamSarodia/ShivyC> - "ShivyC is a hobby C
   compiler written in Python that supports a subset of the C11
@@ -3552,7 +3552,7 @@ Companion page, a commonplace book:
   a somewhat unusual structure ... "exception-oriented programming"
   ... fits that code well."
 
-28 Mar 2018
+28 Mar 2018  <a name="28-Mar-2018"></a>
 
 - <https://try-mts.com/why-try-mts/> - "Try MTS. Exploring the Michigan
   Terminal System. ...  an operating system running on IBM System/360
@@ -3560,20 +3560,20 @@ Companion page, a commonplace book:
   70s there was an explosion of new operating systems and ideas and
   it's important to get a flavour of what was going on then."
 
-19 Mar 2018
+19 Mar 2018  <a name="19-Mar-2018"></a>
 
 - <https://idea-instructions.com/> - "An ongoing series of nonverbal
   algorithm assembly instructions" - in the style of Ikea
   instructions!
 
-16 Mar 2018
+16 Mar 2018  <a name="16-Mar-2018"></a>
 
 - <https://github.com/thoughtbot/write-yourself-a-roguelike> - "Write
   Yourself A Roguelike: Ruby Edition ... compile the contents of the
   book directory into an EPUB-formatted e-book." (contents are .md
   files)
 
-15 Mar 2018
+15 Mar 2018  <a name="15-Mar-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16591918> - "“Write your own” or
   “Build your own” software projects. ... writings/tutorials/videos
@@ -3592,7 +3592,7 @@ Companion page, a commonplace book:
   cards.  (K can do) fast and efficient in memory databases in ~20
   lines, or an npm-style package manger[1] in less than ~400 lines"
 
-12 Mar 2018
+12 Mar 2018  <a name="12-Mar-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16562173> - "How to self-learn
   math?"  Many book suggestions.
@@ -3618,7 +3618,7 @@ Companion page, a commonplace book:
   computers is internet. And one needs to learn how to use it
   defensively. Maybe we need a "Defensive Internet Users" wiki thing?"
 
-10 Mar 2018
+10 Mar 2018  <a name="10-Mar-2018"></a>
 
 - <https://n-o-d-e.net/ubuntu_laptop_overview.html> and
   <https://n-o-d-e.net/ubuntu_laptop_how.html.> "THE DIY $100 MINI
@@ -3628,7 +3628,7 @@ Companion page, a commonplace book:
   ... can easily charge it through a USB charger."  Interesting page
   design and typography.
 
- 4 Mar 2018
+ 4 Mar 2018  <a name="4-Mar-2018"></a>
 
 - <https://www3.nd.edu/~dthain/courses/cse40243/fall2017/intel-intro.html>
   "This is a brief introduction to X86-64 assembly language for novice
@@ -3648,7 +3648,7 @@ Companion page, a commonplace book:
   and typography.  Links to other pages by same author.
   <https://news.ycombinator.com/item?id=16511900> explains the graphs.
 
- 3 Mar 2018
+ 3 Mar 2018  <a name="3-Mar-2018"></a>
 
 - <https://sortix.org/> - "a small self-hosting operating-system aiming
   to be a clean and modern POSIX implementation. It is a hobbyist
@@ -3662,13 +3662,13 @@ Companion page, a commonplace book:
   with several contributions by the author on motivation, design
   decisions, and comparison to other projects.
 
- 2 Mar 2018
+ 2 Mar 2018  <a name="2-Mar-2018"></a>
 
 - <http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ed.html> 
   POSIX specification for ed, from IEEE Std 1003.1-2008, 2016 Edition
   "The input files shall be text files. ..."
 
-28 Feb 2018
+28 Feb 2018  <a name="28-Feb-2018"></a>
 
 - <https://github.com/norvig/paip-lisp> - "Lisp code for the textbook
   'Paradigms of Artificial Intelligence Programming (1992)' ... (also)
@@ -3697,7 +3697,7 @@ Companion page, a commonplace book:
   permanent than a temporary solution." (Many posts show, or link to,
   unobvious uses/abuses of Python)
 
-25 Feb 2018
+25 Feb 2018  <a name="25-Feb-2018"></a>
 
 - <http://lispm.de/springer-lisp-books> - Lisp/AI books from Springer, free
   for download, including:
@@ -3708,7 +3708,7 @@ Companion page, a commonplace book:
   Computer-Aided Reasoning, ACL2 Case Studies, 2000
   many more ...
 
-24 Feb 2018
+24 Feb 2018  <a name="24-Feb-2018"></a>
 
 - <https://news.ycombinator.com/item?id=14076352> - comment in
   <https://news.ycombinator.com/item?id=14075795> "Ask HN: Has anyone
@@ -3722,7 +3722,7 @@ Companion page, a commonplace book:
   piece of the whole is extremely important. ... It's not perfect but
   it's pointed at perfection and it aims to get there."
 
-21 Feb 2018
+21 Feb 2018  <a name="21-Feb-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16423643> about Steven Levy's
   book Hackers: Heroes... (responding to parent post
@@ -3735,7 +3735,7 @@ Companion page, a commonplace book:
   myself to be part of any tribe like the people in Hackers clearly
   do. It all just feels so commoditized and un-magical these days!"
 
-19 Feb 2018
+19 Feb 2018  <a name="19-Feb-2018"></a>
 
 - <https://www.dailycodingproblem.com/blog/archives/> - "Get
   exceptionally good at coding interviews by solving one problem every
@@ -3745,7 +3745,7 @@ Companion page, a commonplace book:
   blog/how-to-formulaically-solve-tree-interview-questions/
   blog/how-to-find-arbitrage-opportunities-in-python/
 
-12 Feb 2018
+12 Feb 2018  <a name="12-Feb-2018"></a>
 
 - <https://blogs.scientificamerican.com/guest-blog/the-evolution-of-the-physicists-picture-of-nature/> - "We are republishing this article by Paul Dirac from the May 1963 issue of Scientific American ..."
 
@@ -3757,7 +3757,7 @@ Companion page, a commonplace book:
   from December 2017. They are in .w format (CWEB) ... I've typeset
   them here (at the above URL).
 
- 9 Feb 2018
+ 9 Feb 2018  <a name="9-Feb-2018"></a>
 
 - <http://rosalind.info/problems/list-view/> - "Rosalind is a platform
   for learning bioinformatics and programming through problem
@@ -3771,7 +3771,7 @@ Companion page, a commonplace book:
   introductory algorithms to accompany "Algorithms", the popular
   textbook by Dasgupta, Papadimitriou, and Vazirani."
 
- 7 Feb 2018
+ 7 Feb 2018  <a name="7-Feb-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16324097> - "LMARV-1: A RISC-V
   processor you can see [video]" - link and discussion on
@@ -3801,7 +3801,7 @@ Companion page, a commonplace book:
   process that can be /very expensive/. ..." (more explanation and
   several other examples follow)
 
- 4 Feb 2018
+ 4 Feb 2018  <a name="4-Feb-2018"></a>
 
 - <https://github.com/arogozhnikov/python3_with_pleasure> - "Migrating
   to Python 3 with pleasure, A short guide on features of Python 3 for
@@ -3816,7 +3816,7 @@ Companion page, a commonplace book:
   is now possible."  Also other interesting unobvious stuff, and links
   to other Python3 pages.
 
- 2 Feb 2018
+ 2 Feb 2018  <a name="2-Feb-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16294594> - "Plan 9 is an
   amazing, inspirational, and futuristic operating system from the
@@ -3833,7 +3833,7 @@ Companion page, a commonplace book:
   interface for the kernel to implement ...  (also) vulnerability to
   file descriptor exhaustion attacks. ..."
 
-31 Jan 2018
+31 Jan 2018  <a name="31-Jan-2018"></a>
 
 - <https://cmcenroe.me/2018/01/30/fbclock.html> - "Programming the Linux
  Framebuffer ... to put a white pixel in the top-left corner of the
@@ -3856,7 +3856,7 @@ Companion page, a commonplace book:
   in the alphabet of the last 5 bits. For example, 1000011 is the
   character “C”. ..." (etc.)
 
-30 Jan 2018
+30 Jan 2018  <a name="30-Jan-2018"></a>
 
 - <https://ask.metafilter.com/318420/Site-to-Read-Real-Code-Like-Python>
   Includes my first Ask Metafilter answer, after 10+ years lurking.
@@ -3883,14 +3883,14 @@ Companion page, a commonplace book:
   Date: 2001-10-25 ... Why plan 9?"
   <https://news.ycombinator.com/item?id=11882797>
 
-20 Jan 2018
+20 Jan 2018  <a name="20-Jan-2018"></a>
 
 - <http://aiju.de/code/tiny> - The Tiny Unix Tools: the shortest
   implementations of common Unix tools.  For example, "ed:
   main(a){for(;;){read(0,&a,1);write(1,"?\n",2);}}" Oh, it's a joke.
 
 
-18 Jan 2018
+18 Jan 2018  <a name="18-Jan-2018"></a>
 
 - <https://www.rand.org/pubs/classics.html> - Classic RAND papers including
   Paul Baran's Distributed Communications series
@@ -3905,7 +3905,7 @@ Companion page, a commonplace book:
   full-blown Python..." (links to other minimal distros for RPi in
   these comments)
 
-15 Jan 2018
+15 Jan 2018  <a name="15-Jan-2018"></a>
 
 - <http://tenex.opost.com/hbook.html> - "Origins and Development of
   TOPS-20 by Dan Murphy" especially sections on "User-oriented Design
@@ -3922,18 +3922,18 @@ Companion page, a commonplace book:
   documentation."  Recall Hank Levy (former DEC engr, UW CSE faculty)
   said (in 198x) that TOPS-20 had the best command line UI of any OS.
 
-14 Jan 2018
+14 Jan 2018  <a name="14-Jan-2018"></a>
 
 - <https://news.ycombinator.com/item?id=13205419> - "What sort of things
   could/can VMS do that Unix couldn't?"
 
-12 Jan 2018
+12 Jan 2018  <a name="12-Jan-2018"></a>
 
 - <https://retrocomputing.stackexchange.com/questions/5341/how-did-people-use-ed>
   Many memoirs of programming in the 1970s and earlier, with printing
   terminals and punched cards.
 
-10 Jan 2018
+10 Jan 2018  <a name="10-Jan-2018"></a>
 
 - <https://news.ycombinator.com/item?id=16118155> links to
   <http://www.oreilly.com/openbook/utp/UnixTextProcessing.pdf> and says,
@@ -3966,14 +3966,14 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=16114724>: "This is great, and
   the code is particularly easy to follow and quite Pythonic. Nice!"
 
- 8 Jan 2018
+ 8 Jan 2018  <a name="8-Jan-2018"></a>
 
 - <https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb> 
   Comments <https://news.ycombinator.com/item?id=16084238>
   "This notebook should be named "how to abuse decorators"..." But worth
   looking at anyway.
 
- 7 Jan 2018
+ 7 Jan 2018  <a name="7-Jan-2018"></a>
 
 - <http://xon.sh/> "the xonsh shell ...  Xonsh is a Python-powered,
   cross-platform, Unix-gazing shell language and command prompt. The
@@ -3995,7 +3995,7 @@ Companion page, a commonplace book:
   took, the exploit can indirectly determine one bit (0 or 1) of
   kernel memory. Scary!"
 
- 6 Jan 2018
+ 6 Jan 2018  <a name="6-Jan-2018"></a>
 
 - <https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/>
   comments <https://news.ycombinator.com/item?id=16084763> - "Bash
@@ -4014,7 +4014,7 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=16085068> "Wow it's a lot slower
   now than it is with 1992 Linux."
 
- 4 Jan 2018
+ 4 Jan 2018  <a name="4-Jan-2018"></a>
 
 - <https://github.com/jlevy/the-art-of-command-line> - "Master the
   command line, in one page" - but it's a very long page!  Much is
@@ -4024,18 +4024,18 @@ Companion page, a commonplace book:
   "Learning math on your own. A guide, heartfelt and opinionated"
   Includes some unusual suggestions.
 
- 3 Jan 2018
+ 3 Jan 2018  <a name="3-Jan-2018"></a>
 
 - <https://rcoh.me/posts/notes-on-cpython-list-internals/> - with links
   to CPython source and docs
 
-25 Dec 2017
+25 Dec 2017  <a name="25-Dec-2017"></a>
 
 - <http://www.nyx.net/~ewilli/edtut.pdf> - A Tutorial Introduction to
   the UNIX Text Editor by Brian W. Kernighan - "Almost all text input
   on the UNIX operating system is done with the text-editor ed."
 
-24 Dec 2017
+24 Dec 2017  <a name="24-Dec-2017"></a>
 
 - <https://bitbucket.org/infpi/inferno-rpi> - Inferno OS for Raspberry
   Pi - via <https://news.ycombinator.com/item?id=15993639>: "... many
@@ -4044,7 +4044,7 @@ Companion page, a commonplace book:
   implemented the original vision for Plan 9, regarding what Pike
   wanted to do with Alef."
 
-23 Dec 2017
+23 Dec 2017  <a name="23-Dec-2017"></a>
 
 - <https://notamonadtutorial.com/harvey-an-operating-system-with-plan-9-s-shadow-3081414e5f0b>
   "Plan 9 implements true resource sharing as opposed to remote
@@ -4058,7 +4058,7 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=15990803> says "it's a Plan9
   fork refreshed for modern build chains plus golang support."
 
-20 Dec 2017
+20 Dec 2017  <a name="20-Dec-2017"></a>
 
 - <http://screenl.es/> - The Screenless Office is a system for working
   with media and networks without using a pixel-based display. It is
@@ -4069,45 +4069,45 @@ Companion page, a commonplace book:
   Comments vary from baffled to admiring:
   <https://news.ycombinator.com/item?id=15960056>
 
-18 Dec 2017
+18 Dec 2017  <a name="18-Dec-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15951288> - A plan to rescue the
   Web from the Internet - much discussion of problems and alternatives -
   didn't look at original article
 
-12 Dec 2017
+12 Dec 2017  <a name="12-Dec-2017"></a>
 
 - <http://warsus.github.io/lions-/> - A Commentary on the Sixth Edition
   Unix Operating System, by J. Lions. Classic book, in a nice HTML
   rendering.
 
- 9 Dec 2017
+ 9 Dec 2017  <a name="9-Dec-2017"></a>
 
 - <https://soupi.github.io/rfc/reading_simple_haskell/>
 
- 8 Dec 2017
+ 8 Dec 2017  <a name="8-Dec-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15877908>, comments on The
   GNUnet System.  "Is anyone knowledgeable that can tell me the
   difference between IPFS, GNUnet, Zeronet, freenet or even something
   like i2p, tor and urbit .. as well as probably others."  Many answers.
 
- 5 Dec 2017
+ 5 Dec 2017  <a name="5-Dec-2017"></a>
 
 - <https://staff.science.uva.nl/c.dominik/hpcalc/emacs/>
   Emacs for HP49G and hp49g+
 
- 4 Dec 2017
+ 4 Dec 2017  <a name="4-Dec-2017"></a>
 
 - <https://dave.cheney.net/2017/12/04/what-have-we-learned-from-the-pdp-11>
   blog post reviews Gordon Bell's paper from 1976.
 
- 2 Dec 2017
+ 2 Dec 2017  <a name="2-Dec-2017"></a>
 
 - <http://python.apichecklist.com/> - Checklist for Python library APIs
   also <https://news.ycombinator.com/item?id=15827945>
 
- 1 Dec 2017
+ 1 Dec 2017  <a name="1-Dec-2017"></a>
 
 - <http://publications.computer.org/annals/2017/11/14/history-of-ibm-branch-offices-1920-1980/> - annals of the history of computing (just an example)
   <http://publications.computer.org/annals/2017/11/14/> - toc for that day
@@ -4121,7 +4121,7 @@ Companion page, a commonplace book:
 - <https://github.com/carlosperate/awesome-microbit#programming>
 
 
-15 Nov 2017
+15 Nov 2017  <a name="15-Nov-2017"></a>
 
 - <http://lcamtuf.coredump.cx/electronics/> - Concise electronics for geeks -
   20,000 words, comprehensive rather than concise.
@@ -4130,7 +4130,7 @@ Companion page, a commonplace book:
   "This is a port of the Living Computer Museum's ContrAlto project to
   JavaScript."
 
-13 Nov 2017
+13 Nov 2017  <a name="13-Nov-2017"></a>
 
 - <https://github.com/everythingwillbetakenaway/DX7-Supercollider>
   Yamaha DX-7 clone. Programmed in Supercollider.  Comments in
@@ -4149,17 +4149,17 @@ Companion page, a commonplace book:
   ... T-Mobile is the only operator of such a thing in the US, and
   they're trying to phase it out"
 
- 7 Nov 2017
+ 7 Nov 2017  <a name="7-Nov-2017"></a>
 
 - <https://github.com/pmaupin/pdfrw> - pdfrw is a pure Python library
   that reads and writes PDFs - quite an opus, notable README on that page
 
- 3 Nov 2017
+ 3 Nov 2017  <a name="3-Nov-2017"></a>
 
 - <http://sfpc.io/spring2018/> - School for Poetic Computation.  Also add
   links to recurse center and criticalengineering.org/courses (above, 21 Jul)
 
-2 Nov 2017
+2 Nov 2017  <a name="2-Nov-2017"></a>
 
 - <https://blog.lizzie.io/linux-containers-in-500-loc.html> - Literate program 
   with lots of explanation - also HN comments at item?id=15608435.
@@ -4168,7 +4168,7 @@ Companion page, a commonplace book:
   (via HN comments above)
 
 
-30 Oct 2017
+30 Oct 2017  <a name="30-Oct-2017"></a>
 
 - <https://archive.org/stream/9780262610261#page/n0/mode/2up> - A
   FORTRAN Coloring Book - other links to download pdf or ebook formats
@@ -4184,7 +4184,7 @@ Companion page, a commonplace book:
   also very pertinent.
 
 
-28 Oct 2017
+28 Oct 2017  <a name="28-Oct-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15565872> - about lively.next -
   "... program similarly to Smalltalk and Self, i.e. instead of a
@@ -4197,24 +4197,24 @@ Companion page, a commonplace book:
    Java application inside Eclipse' (paraphrase).
 
 
-24 Oct 2017
+24 Oct 2017  <a name="24-Oct-2017"></a>
 
 - <https://wiki.debian.org/DontBreakDebian> ...
 
-23 Oct 2017
+23 Oct 2017  <a name="23-Oct-2017"></a>
 
 - <https://technicshistory.wordpress.com/2017/23/the-electronic-computers-part3-eniac>
   and other pages in this series - very nicely designed, nice photos.
   This page cites the book ENIAC in Action, which has its own page
   eniacinaction.com
 
-21 Oct 2017
+21 Oct 2017  <a name="21-Oct-2017"></a>
 
 - <http://xeroxalto.computerhistory.org/xerox_alto_file_system_archive.html> - 
   best page on Alto, links to all the reports papers and code including
   microcode.
 
-19 Oct 2017
+19 Oct 2017  <a name="19-Oct-2017"></a>
 
 - therealmntmn.tumbler.com/.../interim-os... - via /archive
    Photos of interim-os - also confirm we have current link to
@@ -4227,7 +4227,7 @@ Companion page, a commonplace book:
    explains disadvantages of RPi "the board design is closed and
    the main processor is not available for purchase by the public"
 
- 7 Oct 2017
+ 7 Oct 2017  <a name="7-Oct-2017"></a>
 
 - <https://simonwillison.net/2017/Oct/5/django-postgresql-faceted-search/>
    Simon Willison's blog is back!  Looks like it's been there all along -
@@ -4243,12 +4243,12 @@ Companion page, a commonplace book:
    end June 2010, with "getting married".  After that only Q&A posts.
    Oct 2010 has 65 questions!
 
- 3 Oct 2017
+ 3 Oct 2017  <a name="3-Oct-2017"></a>
 
 - <https://www.newyorker.com/magazine/2013/01/14/structure> - Structure,
   by John McPhee, on his use of the KEdit editor.
 
- 2 Oct 2017
+ 2 Oct 2017  <a name="2-Oct-2017"></a>
 
 - metamodular.com/lispos.pdf - LispOs ... by Robert Strandh dated 2013.
   new (working) URL for paper linked in precursors.md.  Any new content?
@@ -4258,19 +4258,19 @@ Companion page, a commonplace book:
   go to get started on ASIC, FPGA, RTL, Verilog et. al?" - lots of
   informed responses
 
-30 Sep 2017
+30 Sep 2017  <a name="30-Sep-2017"></a>
 
 - <http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html> - more recent but
   similar URL to the ones we have.
 
 - <http://hakmem.org/> - nicely formatted single page version
 
-27 Sep 2017
+27 Sep 2017  <a name="27-Sep-2017"></a>
 
 - <http://thin.npr.org/> - Text-only NPR.  HN thread shows lots of variations
   using minimal CSS etc.  Put that in typography section.
 
-25 Sep 2017
+25 Sep 2017  <a name="25-Sep-2017"></a>
 
 -  <https://technicshistory.wordpress.com/2017/09/20/the-electronic-computers-part-2-colossus/> - 
   Informative, nice page design.  via
@@ -4278,7 +4278,7 @@ Companion page, a commonplace book:
   comments on Colossus, also reviews 1930s 40s 50s special-purpose or
   non-stored-program calculating/computing machines.
 
-19 Sep 2017
+19 Sep 2017  <a name="19-Sep-2017"></a>
 
 - <http://jsomers.net/blog/docwriter> - "DocWriter: the typewriter that
   sends its keystrokes in real time to a Google Doc" - it's a
@@ -4298,7 +4298,7 @@ Companion page, a commonplace book:
   Lots of replies on advantages of text/terminals/command line over GUI
 
 
-16 Sep 2017
+16 Sep 2017  <a name="16-Sep-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15265462> - HN comments on Alan
   Kay thread explaining his vision of a computer system where
@@ -4306,19 +4306,19 @@ Companion page, a commonplace book:
   Dynabook) vs Guitar Hero (iPad).
 
 
-15 Sep 2017
+15 Sep 2017  <a name="15-Sep-2017"></a>
 
 - <https://ux.stackexchange.com/questions/101990/why-are-terminal-consoles-still-used>
   see 19 Sep below
 
-13 Sep 2017
+13 Sep 2017  <a name="13-Sep-2017"></a>
 
 - <https://softwarefoundations.cis.upenn.edu/current/lf-current/Basics.html>
   etc.  - Coq theorem prover applied to programming language theory,
   with lots of basic tutorial for Coq.  See also GeoCoq (below) for
   geometry proofs, and Freek Wiedijk's Provers of the World (below).
 
-12 Sep 2017
+12 Sep 2017  <a name="12-Sep-2017"></a>
 
 - aschmann.net/AmEng/#SmallMap - awesomely detailed map of US and
    Canadian dialects with tons of explanation and zillions of links to
@@ -4329,7 +4329,7 @@ Companion page, a commonplace book:
   (each chapter is a separate .pdf file, links at the bottom of this page)
 
 
-11 Sep 2017
+11 Sep 2017  <a name="11-Sep-2017"></a>
 
 - <https://www.nostarch.com/xboxfree> - Free download of Bunnie Huang's
   Hacking the Xbox in memory of Aaron Swartz.
@@ -4338,7 +4338,7 @@ Companion page, a commonplace book:
   uses Coq in three areas: calculus, logic, sets.
 
 
-10 Sep 2017
+10 Sep 2017  <a name="10-Sep-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15206540> - HN comments on New Scientist 
   story on incomprehesible proof of ABC conjecture.  Lots of informed comment
@@ -4362,20 +4362,20 @@ Companion page, a commonplace book:
  <https://news.ycombinator.com/item?id=15207478> - more links about the
  synthesizer, some of its music.
 
- 6 Sep 2017
+ 6 Sep 2017  <a name="6-Sep-2017"></a>
 
 - <https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html> -
   'The Tinkerings of Robert Noyce' by Tom Wolfe in Esquire magazine,
   Dec 1983
 
- 5 Sep 2017
+ 5 Sep 2017  <a name="5-Sep-2017"></a>
 
 - <https://danluu.com/risc-definition/> - What's the definition of RISC? - John Mashey's Usenet posts.  Also at
   <http://userpages.umbc.edu/~vijay/mashey.on.risc.html> but danluu
   version has nicer formatting (HTML not ascii) and more material,
   additional posts on CDC6600 and VLIW.
 
-31 Aug 2017
+31 Aug 2017  <a name="31-Aug-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15120984> comments on Optimizing
   latency of an Arduino MIDI controller - links to other embedded
@@ -4388,7 +4388,7 @@ Companion page, a commonplace book:
   on xv6) ... for fun, education, and research.
 
 
-30 Aug 2017
+30 Aug 2017  <a name="30-Aug-2017"></a>
 
 - <https://github.com/python> - Repositories related to the Python
   Programming language
@@ -4410,11 +4410,11 @@ Companion page, a commonplace book:
 - <https://www.python.org/dev/peps/pep-0257/> - PEP 257 -- Docstring Conventions
 
 
-26 Aug 2017
+26 Aug 2017  <a name="26-Aug-2017"></a>
 
 - 1988 paper Design Philosophy of the DARPA Internet Protocols
 
-25 Aug 2017
+25 Aug 2017  <a name="25-Aug-2017"></a>
 
 - <http://thinkingeek.com/arm-assembler-raspberry-pi/> - 
 
@@ -4427,17 +4427,17 @@ Companion page, a commonplace book:
 - <http://n-gate.com/> - unfunny but voluminous, very repetitous snark
    about HN and FOSDEM.
 
-24 Aug 2017
+24 Aug 2017  <a name="24-Aug-2017"></a>
 
 - <https://news.ycombinator.com/item?id=15089476> - Ask HN: What is your
   all time favorite CS paper? - many suggestions to classics and
   others, with links
 
-14 Aug 2017
+14 Aug 2017  <a name="14-Aug-2017"></a>
 
 - www.mathcounterexamples.net - a collection of mathematical curiosities.
 
-7 Aug 2017
+7 Aug 2017  <a name="7-Aug-2017"></a>
 
 - <https://github.com/jamesob/tinychain> - A pocket-sized implementation
   of Bitcoin - README explains bitcoin - < 1200 lines of Python
@@ -4448,7 +4448,7 @@ Companion page, a commonplace book:
   explains relation of Tarksi to Hilbert and also Beeson.
 
 
-4 Aug 2017
+4 Aug 2017  <a name="4-Aug-2017"></a>
 
 - <https://github.come/chrisdone/wish> - trivial web browser written in
   Haskell, one file, < 600 lines. "straight-forward ... given the
@@ -4459,7 +4459,7 @@ Companion page, a commonplace book:
 - <http://hrothen.github.io/posts/lets-build-a-browser-engine-in-haskell.html>
   (coincidentally with above, but a different project)
 
-2 Aug 2017
+2 Aug 2017  <a name="2-Aug-2017"></a>
 
 - <http://herpolhode.com/rob/ugly.pdf> - slides from Rob Pike's 2001
   talk, especially slide 6 'What makes Unix *Unix*' that lists nine
@@ -4473,7 +4473,7 @@ Companion page, a commonplace book:
   power, huge convenience, but serious problems in pushing past a
   prototype level of performance or packaging. ..."
 
- 1 Aug 2017
+ 1 Aug 2017  <a name="1-Aug-2017"></a>
 
 - <https://eater.net/8bit/> - Build an 8-bit computer from scratch -
    74LS logic w/28C16 EEPROM on several solderless breadboards - also
@@ -4486,7 +4486,7 @@ Companion page, a commonplace book:
 - <http://charlesleifer.com/blog/using-sqlite-full-text-search-with-python/>
 
 
-30 Jul 2017
+30 Jul 2017  <a name="30-Jul-2017"></a>
 
 - <http://www.softwarepreservation.org/projects/LISP/MIT/AIM-001.pdf>
 An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
@@ -4498,7 +4498,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   paste, C-z for undo ..."
 
 
-29 Jul 2017
+29 Jul 2017  <a name="29-Jul-2017"></a>
 
 - <https://kelu124.gitbooks.io/echomods/content/RPI.html> - Building a
   Raspberry Pi based ultrasound imaging development platform - lots
@@ -4523,25 +4523,25 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    mainframe-mini-micro era, but many omissions -- no Xerox Alto !?
 
 
-26 Jul 2017
+26 Jul 2017  <a name="26-Jul-2017"></a>
 
 - <https://musikcube.com/> Musikcube, a terminal-based music player,
   library, and streaming server.  <https://news.ycombinator.com/item?id=14853212>
   mentions alternatives.
 
-24 Jul 2017
+24 Jul 2017  <a name="24-Jul-2017"></a>
 
 - <http://www.howardism.org/> lots of emacs stuff including
   <http://www.howardism.org/Technical/Emacs/new-window-manager.html> - See
   also
   <https://www.informatimago.com/linux/emacs-on-user-mode-linux.html>
 
-23 Jul 2017
+23 Jul 2017  <a name="23-Jul-2017"></a>
 
 - <http://www.verizoninternet.com/bookmark/how-wifi-works/>
   note bibliography with links near bottom
 
-21 Jul 2017
+21 Jul 2017  <a name="21-Jul-2017"></a>
 
 - <https://criticalengineering.org/courses/othernet/> also /cli/ /networkshop/
   (links.html Jul 21 2017)
@@ -4549,7 +4549,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - www.dunneandraby.co.uk/content/bydandr/13/0  Dunne & Raby Critical Design FAQ
   also /content/projects
 
-19 Jul 2017
+19 Jul 2017  <a name="19-Jul-2017"></a>
 
 - <http://www.wilfred.me.uk/blog/2017/04/30/remacs-talk-transcript/>
   "Emacs is really just a lisp interpreter called temacs. The Emacs
@@ -4557,7 +4557,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   that ships with temacs. ... Being Emacsy is about providing an
   incredible mutable programming environment ..."
 
-18 Jul 2017
+18 Jul 2017  <a name="18-Jul-2017"></a>
 
 - www.aroundh.org/journey/ - Around Digital Humanities in 80 days - links
   to 80 DH sites hosted/about around the world.
@@ -4570,12 +4570,12 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   Grundlagen der Analysis - links to 68 p. thesis, talks, and Coq code.
   (in math, in theorem provers, in links.html 21 Jul 2017)
 
-17 Jul 2017
+17 Jul 2017  <a name="17-Jul-2017"></a>
 
 - www.informatica.co.cr/unix-source-code/research/1991/0101.html - Porting
   Unix to the 386 - classic paper on 386BSD design, 1991 - via Trivium blog
 
-11 Jul 2017
+11 Jul 2017  <a name="11-Jul-2017"></a>
 
 - <https://brendanzagaeski.appspot.com/0004.html> - Minimal PDF,
    explains PDF file contents: " PDF is a binary format, but it
@@ -4599,7 +4599,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   refs: "basically a blockchain, but with transactions instead of blocks..."
 
 
- 5 Jul 2017
+ 5 Jul 2017  <a name="5-Jul-2017"></a>
 
 - <http://www.springer.com/gp/marketing/turing-award-50-years?utm_campaign=CON32079_4&utm_medium=newsletter&utm_source=email&wt_mc=email.newsletter.8.CON32079.internal_4>  
   Papers by Turing award winners to download (not their Turing award speeches/papers, though)
@@ -4611,7 +4611,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   links to references.
 
 
- 4 Jul 2017
+ 4 Jul 2017  <a name="4-Jul-2017"></a>
 
 - IEEE chip hall of fame pages for example
   <http://spectrum.ieee.org/semiconductors/devices/chip-hall-of-fame-fairchild-semiconductor-a741-opam>, chip-hall-of-fame-atmel-atmega8 etc.
@@ -4627,13 +4627,13 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   APL idioms by Perlis and Rugaber, 1977, 50 pages!
 
 
-29 Jun 2017
+29 Jun 2017  <a name="29-Jun-2017"></a>
 
 -  <https://www.maths.cam.ac.uk/sites/www.maths.cam.ac.uk/files/pre2014/undergrad/admissions/readinglist.pdf>
   Recommended readings for high-school students about to start college math.
   The ones I recognize are good, maybe some others are worth a look too.
 
-28 Jun 2017
+28 Jun 2017  <a name="28-Jun-2017"></a>
 
 - ecee.colorado.edu/ecen4553/fall09/notes.pdf - 'compilation: from
   Python to x86 assembly' 80 pages - see also course notes at .../fall09/
@@ -4654,7 +4654,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   editable by any visitor. " see also /Help/ and sample screenshot
 
 
-27 Jun 2017
+27 Jun 2017  <a name="27-Jun-2017"></a>
 
 - benhoyt.com/writings/pyast64/ - "Compiling Python syntax to x86-64
   assembly...".  Very small Python subset, just function calls, for loops,
@@ -4670,12 +4670,12 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   modern unobvious microprocessor implementation - pipelines, caches,
   threading, out-of-order execution etc.
 
-17 Jun 2017
+17 Jun 2017  <a name="17-Jun-2017"></a>
 
 - <http://www.dear-data.com/theproject/> — Dear Data - saw
   the book at SPL ballard
 
-14 Jun 2017
+14 Jun 2017  <a name="14-Jun-2017"></a>
 
 - HN post today on 16 linux commands that show you about hardware -
    in great faiths/linux - there also add jvns post about bash.
@@ -4684,7 +4684,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   the cited books/papers
 
 
-13 Jun 2017
+13 Jun 2017  <a name="13-Jun-2017"></a>
 
 - <https://pdos.csail.mit.edu/6.828/2012/schedule.html> - course that
   goes with xv6 OS - 2012 has terse lecture notes in .txt files!  The
@@ -4694,22 +4694,22 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   exokernels etc. from Stanford OS course
   <http://www.scs.stanford.edu/05au-cs240c/notes/>
 
- 9 Jun 2017
+ 9 Jun 2017  <a name="9-Jun-2017"></a>
 
 - plan 9 class notes from cat-v.  Also a few comments from latest HN
   Plan 9 thread.
 
- 8 Jun 2017
+ 8 Jun 2017  <a name="8-Jun-2017"></a>
 
 - Computer History Museum (CHM) timeline with links to other pages?
    For some reason I didn't like this as much as I hoped to.
 
- 6 Jun 2017
+ 6 Jun 2017  <a name="6-Jun-2017"></a>
 
 - <https://himmele.blogspot.com/2017/06/fred-brooks-software-design.html>
   highlights from Brooks' Design of Design book.
 
- 5 Jun 2017
+ 5 Jun 2017  <a name="5-Jun-2017"></a>
 
 - <http://pinksquirrellabs.com/blog/2017/05/30/asi64/> - 6502 assembler
   embedded in Racket, and another in Haskell:
@@ -4718,7 +4718,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <https://people.cs.clemson.edu/~mark/uprog.html> - A brief history of
   microprogramming - also a good explanation.
 
- 3 Jun 2017
+ 3 Jun 2017  <a name="3-Jun-2017"></a>
 
 - https://musicbrainz.org/ and <https://news.ycombinator.com/item?id=14478515>
 
@@ -4726,13 +4726,13 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   Python semantics expressed in Racket, makes an interpreter that
   passes some CPython tests.
 
-26 May 2017
+26 May 2017  <a name="26-May-2017"></a>
 
 - <https://smashingboxes.com/blog/building-programmable-synth-20/>
   a few components on a solderless breadboard.  Uses $11 Nucleo-L432KC
   computer chip, a volume pot, and a transistor to drive a little speaker.
 
-24 May 2017
+24 May 2017  <a name="24-May-2017"></a>
 
 - maybe add Mesa/Pilot/Tajo/XDE on Xerox D-Machines to prescursors.md.
    Oberon-like but much bigger and more complicated.
@@ -4742,7 +4742,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   vi. ..."
 
 
-23 May 2017
+23 May 2017  <a name="23-May-2017"></a>
 
 - <https://news.ycombinator.com/item?id=14388127> - "you could build a
    Facebook, Instagram, or Twitter clone on top of email pretty
@@ -4754,7 +4754,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   interactive command-line user experience - many many links
 
 
-21 May 2017
+21 May 2017  <a name="21-May-2017"></a>
 
 - <https://news.ycombinator.com/item?id=14382752> - on old W3C Amaya web
   browser "from a time when the grand vision of the Web was to be much
@@ -4763,7 +4763,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <http://callingbullshit.org/syllabus.html> - about the UW course
 
 
-15 May 2017
+15 May 2017  <a name="15-May-2017"></a>
 
 - spinroot.com/gerard - history section Gerard Holzmanm's notes on
    history of Bell Labs: link to map of 5th floor with Thompson
@@ -4774,7 +4774,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   especially recent pages on telephone switching 2017/04/09/only-connect
   and relay computers 2017/05/10/lost-generation-the-relay-computers
 
-11 May 2017
+11 May 2017  <a name="11-May-2017"></a>
 
 - <http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/> , uses PeachPy (below) also mentions llvmlite
 
@@ -4798,7 +4798,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <http://www.metafilter.com/166863/Piano-violin-and-cello> - many links
    to YouTube, also a YouTube playlist.
 
- 8 May 2017
+ 8 May 2017  <a name="8-May-2017"></a>
 
 - <https://github.com/iogf/vy> - "A vim-like in python made from
   scratch." - tightly coupled to Tk.  also comments in
@@ -4808,7 +4808,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <http://www.openculture.com/2015/10/william-faulkner-draws-mythological-maps-of-yoknapatawpha.htmln> - Faulkner's maps of Yok. county.
 
 
-4 May 2017
+4 May 2017  <a name="4-May-2017"></a>
 
 - <https://github.com/MichielDerhaeg/build-linux>
   <https://news.ycombinator.com/item?id=14264189>, comments have any
@@ -4822,7 +4822,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   of the Atanasoff-Berry Computer
 
 
-27 Apr 2017
+27 Apr 2017  <a name="27-Apr-2017"></a>
 
 - <http://benhoyt.com/writings/pygit/> - "pygit: Just enough git to
   create a repo, commit, and push itself to GitHub ... Notice the
@@ -4835,7 +4835,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   compile itself.  It can optionally run on top of a port of byterun
   to Python 3.4."
 
-20 Apr 2017
+20 Apr 2017  <a name="20-Apr-2017"></a>
 
 - <https://www.huyng.com/posts/python-performance-analysis>
 
@@ -4858,12 +4858,12 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   in graphics in links.html.
 
 
-18 Apr 2017
+18 Apr 2017  <a name="18-Apr-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13645963> HN comment thread on how
    stability, transparency, convenience in sw products has eroded.
 
-16 Apr 2017
+16 Apr 2017  <a name="16-Apr-2017"></a>
 
 - <https://www.nytimes.com/2017/04/14/technology/robert-taylor-innovator-who-shaped-modern-computing-dies-at-85.html?_r=0> 
   Robert Taylor obit, also links to Alan Kay comment at HN etc.
@@ -4877,18 +4877,18 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - Linus Akeson's 256 byte video+music demo for C64/6502
   (linked in both HN and MeFi)
 
-13 Apr 2017
+13 Apr 2017  <a name="13-Apr-2017"></a>
 
 - JC Google+ digital humanities page
 
-11 Apr 2017
+11 Apr 2017  <a name="11-Apr-2017"></a>
 
 - <https://blog.acolyer.org/2017/03/page/3/> - Mar 2017 archive to "The Morning
   Paper" about a CS paper every weekday.  Links to archives for other months.
 
 - SO post what-part-of-milner-hindley-do-you-not-understand
 
- 8 Apr 2017
+ 8 Apr 2017  <a name="8-Apr-2017"></a>
 
 - <http://ask.metafilter.com/307705/Tutorials-Algorithms-Software-for-Federated-Services#4452469>
   Explanation of NNTP on AskMe, in response to question about Mastodon
@@ -4901,7 +4901,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   <https://news.ycombinator.com/item?id=14050718> (comment on GNU Social/Mastodon
    in another thread)
 
- 6 Apr 2017
+ 6 Apr 2017  <a name="6-Apr-2017"></a>
 
 - <https://news.ycombinator.com/item?id=11803165> - Alan Kay and many contributors
    on books, reading etc. etc.
@@ -4913,7 +4913,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - Alan Kay's answer to What made Xerox PARC so special? on quora.com,
   linked to HN.
 
- 3 Apr 2017
+ 3 Apr 2017  <a name="3-Apr-2017"></a>
 
 - bit-player.org/publications-by-brian-hayes - links to Brian Hayes'
    stories in American Scientist, both HTML and pdf.  Treasure trove!
@@ -4927,17 +4927,17 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    159 comments with lots more links to homemade editors, way too many to
    link individually, many emacs-like.
 
- 2 Apr 2017
+ 2 Apr 2017  <a name="2-Apr-2017"></a>
 
 - <https://news.ycombinator.com/item?id=14012973> - Python testimonials
 
- 1 Apr 2017
+ 1 Apr 2017  <a name="1-Apr-2017"></a>
 
 - <https://www.reddit.com/r/Python/comments/62q2sm/python_helped_me_write_again/>
    programmer with MS used Python to program voice recognition + pen plotter
     to write in his own handwriting!  Amazing! (in python/examples and typography, links.html, 18 Apr 2017)
 
-31 Mar 2017
+31 Mar 2017  <a name="31-Mar-2017"></a>
 
 - HN comment ...id=13965793 about a test suite for
   <https://hackage.haskell.org/package/acid-state>: "turn arbitrary,
@@ -4964,7 +4964,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   see also .../about .../~html-starter
   <https://medium.com/glitch/welcome-to-glitch-fe161d0fc39b>
 
-26 Mar 2017
+26 Mar 2017  <a name="26-Mar-2017"></a>
 
 - <https://github.com/riolet/pol> - Python one-liners: Awk-like
   one-liners for python - pol stores stdin in the variable _
@@ -4982,7 +4982,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    Also add to TempleOS entry in precursors.md
    <https://usesthis.com/interviews/terry.davis/> - The Setup interview 
 
-25 Mar 2017
+25 Mar 2017  <a name="25-Mar-2017"></a>
 
 - <http://cs.gmu.edu/~sean/lisp/LispTutorial.html> - interesting side-by-side
   format, discusses debugger etc. HN at <https://news.ycombinator.com/item?id=13948966>
@@ -4991,7 +4991,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - <http://www.poster.pl/polish_poster_artists.html>
 
-23 Mar 2017
+23 Mar 2017  <a name="23-Mar-2017"></a>
 
 - editor performance comparison at github, linked from HN yesterday
 
@@ -5001,7 +5001,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   via www.logicmatters.net/tyl
 
 
-20 Mar 2017
+20 Mar 2017  <a name="20-Mar-2017"></a>
 
 - HN comments on "How to pick a microcontroller" - difference between
    microcontroller (Arduino) and microcomputer (RPi).  "If you've never
@@ -5018,7 +5018,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   might go in language.md.
 
 
-18 Mar 2017
+18 Mar 2017  <a name="18-Mar-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13900153> - recommendations for AI/ML books
 
@@ -5046,7 +5046,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
     in the downloaded pdf file.
 
 
-13 Mar 2017
+13 Mar 2017  <a name="13-Mar-2017"></a>
 
 - <http://gist.github.com/leegao/1073233> that's leegao/Rationale.md
   50-line Python micro-JIT demo for X86 - apparently generates
@@ -5062,14 +5062,14 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    like Mac process monitor but for the Python process including threads.
 
 
- 8 Mar 2017
+ 8 Mar 2017  <a name="8-Mar-2017"></a>
 
 - <http://selfie.cs.uni-salzburg.at/> also
   <https://github.com/cksystemsteaching/selfie> - Pedagogical VM +
   Compiler + ...
 
 
- 7 Mar 2017
+ 7 Mar 2017  <a name="7-Mar-2017"></a>
 
 - "What do compilers do with CPython interpreter main loop?"
    Blog post linked on HN
@@ -5082,7 +5082,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    looks like good style, nicely named and formatted with *no* comments.
 
 
-5 Mar 2017
+5 Mar 2017  <a name="5-Mar-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13794879> - thread on new C#
   hobby OS, compilers, GPUs, links to other C# OS.
@@ -5094,14 +5094,14 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    no HN thread, though.
 
 
-3 Mar 2017
+3 Mar 2017  <a name="3-Mar-2017"></a>
 
 - HN post today on The Unix Hater's Handbook, including long,
   link-filled threads on alternative OS and alternative graphics (to X
   windows).
 
 
- 1 Mar 2017
+ 1 Mar 2017  <a name="1-Mar-2017"></a>
 
 - eniacinaction.com, especially links in /the-book/supporting-technical-materials
 
@@ -5117,7 +5117,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   which also starts with Python AST
 
 
-27 Feb 2017
+27 Feb 2017  <a name="27-Feb-2017"></a>
 
 - <https://github.com/larsbrinkhoff/emacs-history>
 
@@ -5129,13 +5129,13 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - Links to CPython and its standard library at Github.
 
-25 Feb 2017
+25 Feb 2017  <a name="25-Feb-2017"></a>
 
 - <http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html>
    nice collection of convenient idioms
  HN comments <https://news.ycombinator.com/item?id=7365410>
 
-21 Feb 2017
+21 Feb 2017  <a name="21-Feb-2017"></a>
 
 - <http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html>
    lesser-known but useful unix/linux commands and utilities
@@ -5143,19 +5143,19 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    HN comments specifically about editors, piping selected text through commands
     <https://news.ycombinator.com/item?id=13684339>
 
-17 Feb 2017
+17 Feb 2017  <a name="17-Feb-2017"></a>
 
 - seen on HN, Mike Pall (of LuaJIT) on Reddit, recommended reading
   order for Lua C source. (links.html, 24 Feb 2017)
 
 - www.collectorsweekly.com (in graphics/unusual media, links.html, 23 Feb 2017)
 
-16 Feb 2017
+16 Feb 2017  <a name="16-Feb-2017"></a>
 
 - seen on HN, github repo with *transcript* of Rich Hickey's Simple Made Easy talk.
    same repo has other transcripts (links.html, 24 Feb 2017)
 
-15 Feb 2017
+15 Feb 2017  <a name="15-Feb-2017"></a>
 
 - <http://blog.presentandcorrect.com/category/books> - 
    look for categories menu widget at the bottom of the page
@@ -5169,14 +5169,14 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - <https://www.reddit.com/r/AskHistorians/>
 
- 9 Feb 2017
+ 9 Feb 2017  <a name="9-Feb-2017"></a>
 
 - <http://code-poetry.com/> (in typography, links.html, 24 Feb 2017)
 
 - <https://github.com/ariestiyansyah/python-blogs> - curated list of Python programming blogs
 
 
-6 Feb 2017
+6 Feb 2017  <a name="6-Feb-2017"></a>
 
 - <http://www.technoblogy.com/show?1KTO>  Tiny Lisp Computer 2 PCP, Eagle files on github
   <https://github.com/technoblogy/tiny-lisp-computer>
@@ -5186,13 +5186,13 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    <https://www.youtube.com/watch?v=qv5b1Xowxdk> - Altair 8800 - Video #7.1 - Loading 4K BASIC with a Teletype and paper tape.
 
 
-4 Feb 2017
+4 Feb 2017  <a name="4-Feb-2017"></a>
 
 - http://2x-1.net/ob/gray1/ also <http://2x-1.net/ob/reginae-ex-machina/> 
   <https://news.ycombinator.com/item?id=13559615> - CPU made entirely of ROM + RAM
    uses ROM as LUT and FlipFlops (with feedback).
 
-3 Feb 2017
+3 Feb 2017  <a name="3-Feb-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13514057-> old terminal/text
    user interfaces (TUI) often better than newer web and GUI.
@@ -5200,12 +5200,12 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <https://www.thegearpage.net/board/index.php?threads/the-amp-guts-appreciation-thread-part-2.918374/> photos of tube amp insides - showing construction techniques.
 
 
-2 Feb 2017
+2 Feb 2017  <a name="2-Feb-2017"></a>
 
 - <https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf>
   (programming/design examples/unix, links.html, 24 Feb 2017)
 
-31 Jan 2017
+31 Jan 2017  <a name="31-Jan-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13518170> Comments on "The Craft of Text Editing"
   with many links to more recent refs on editor implementation.
@@ -5229,14 +5229,14 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    Sounds similar to Plan 9 Acme.
 
 
-30 Jan 2017
+30 Jan 2017  <a name="30-Jan-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13520891> Ask HN on programmers' blogs
   Maybe add after my own list in programming/buzz, also copy obscure programmers'
   blogs HN posts from geek culture.
 
 
-29 Jan 2017
+29 Jan 2017  <a name="29-Jan-2017"></a>
 
 - <http://www.dourish.com/goodies/jargon.html> - HTML version of old pre-ESR Jargon file
 
@@ -5245,7 +5245,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 - <http://jonatron.me/> - RPi PDP11 simulator including front panel
 
 
-27 Jan 2017
+27 Jan 2017  <a name="27-Jan-2017"></a>
 
 - <https://news.ycombinator.com/item?id=13498365> thread on RS232 and ASCII,
   response to <http://www.catb.org/esr/faqs/things-every-hacker-once-knew/>
@@ -5259,7 +5259,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
  <https://garbagecollected.org/2017/01/31/four-column-ascii/>
  <https://news.ycombinator.com/item?id=13539552> HN comments on above, lots of links
 
-24 Jan 2017
+24 Jan 2017  <a name="24-Jan-2017"></a>
 
 - <http://ask.metafilter.com/305199/I-need-a-python-script-that-will-run-a-script>
   First answer has several links on using Flask on RPi as a REST endpoint
@@ -5268,11 +5268,11 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   possibly using paramiko.  Another answer recommends scp text file and use
   inotifywait - which waits for changes on a file. (links.html, 26 Jan 2016)
 
-23 Jan 2017
+23 Jan 2017  <a name="23-Jan-2017"></a>
 
 - <https://github.com/PDP-10/its> - Incompatible Timesharing System, code and docs (links.html or maybe precursors.md, 26 Jan 2017)
 
-22 Jan 2017
+22 Jan 2017  <a name="22-Jan-2017"></a>
 
 - <http://oldblog.antirez.com/post/redis-persistence-demystified.html>
   Very long post about persistence in various dbs, Unix file caching
@@ -5286,7 +5286,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   includes window manager cheatsheet that summarizes basic key
   operations.  Nice simple web page design
 
-21 Jan 2017
+21 Jan 2017  <a name="21-Jan-2017"></a>
 
 - <http://gnuradio.org/blog/buffers/>  GNU Radio Buffer architecture
   <https://news.ycombinator.com/item?id=13406932> - more links and references
@@ -5308,30 +5308,30 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - <https://news.ycombinator.com/item?id=3965396> - unix-like-shells, pipes in Python
 
-20 Jan 2017
+20 Jan 2017  <a name="20-Jan-2017"></a>
 
 - <http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html>
   Links to course outlines (in Polish!) links to textbooks, online materials, osoftware
 
-17 Jan 2017
+17 Jan 2017  <a name="17-Jan-2017"></a>
 
 - <https://hackaday.io/project/19035-zerophone-a-raspberry-pi-smartphone/log/51839-project-description-and-frequently-asked-questions>
   <https://news.ycombinator.com/item?id=13398705>
 
-14 Jan 2017
+14 Jan 2017  <a name="14-Jan-2017"></a>
 
 - <https://github.com/ChrisPenner/rasa>  Rasa editor in Haskell
   detailed guide to the code: <https://news.ycombinator.com/item?id=13395941>
   (links.html, 17 Jan 2017)
 
-13 Jan 2017
+13 Jan 2017  <a name="13-Jan-2017"></a>
 
 - <http://crna.cc/b/11> Blobless Linux on Raspberry Pi 
   Blog about <https://github.com/christinaa/rpi-open-firmware>
   HN comments at <https://news.ycombinator.com/item?id=13396625>
    including lots of complaints about RPi engineering besides blobs and openness (links.html, 16 Jan 2017)
 
-10 Jan 2017
+10 Jan 2017  <a name="10-Jan-2017"></a>
 
 -  A multiple tab terminal emulator implemented in python
    <https://github.com/stonewell/pymterm>
@@ -5340,7 +5340,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
    in fact it might be useful as guide for how to use the dependencies
    (utilities.md (?), 18 Jan 2017)
 
- 9 Jan 2017
+ 9 Jan 2017  <a name="9-Jan-2017"></a>
 
 - Containers from Scratch (in great faiths/linux/containers, links.html, 17 Jan 2017)
 
@@ -5348,7 +5348,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 
 - From Python to Numpy
 
- 7 Jan 2017
+ 7 Jan 2017  <a name="7-Jan-2017"></a>
 
 - A Minimal TTL Processor for Architecture Exploration
   <http://www.bradrodriguez.com/papers/piscedu2.htm> only
@@ -5362,7 +5362,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
      parts list but no schematic.
 
 
- 6 Jan 2017
+ 6 Jan 2017  <a name="6-Jan-2017"></a>
 
 - jehanne.io JehanneOS Plan-9 distro in Plan-9
 
@@ -5382,7 +5382,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
 - HiFive1 RISC-V Arduino-compatible dev kit - in HN and Hackaday.
 
 
- 4 Jan 2017
+ 4 Jan 2017  <a name="4-Jan-2017"></a>
 
 - Leslie Lamport's annotated bibliography at
   <http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html>
@@ -5391,13 +5391,13 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
   (git inside emacs), and Company (text completions) all on a memory
   stick!
 
-3 Jan 2017
+3 Jan 2017  <a name="3-Jan-2017"></a>
 
 - Eno-inspired Oblique Strategies for programing, linked from HN, also HN comments
 
 - PLT MrEd as an OS paper in precursors.md
 
-2 Jan 2017
+2 Jan 2017  <a name="2-Jan-2017"></a>
 
 - Rob Pike on C programming <https://www.lysator.liu.se/c/pikestyle.html>
   (is this the canonical link?)
@@ -5410,14 +5410,14 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
 
 - advice on tech writing <https://news.ycombinator.com/item?id=13301511>
 
-29 Dec 2016
+29 Dec 2016  <a name="29-Dec-2016"></a>
 
 - <http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/>  "I find that all the significant concepts in software systems were invented/discovered in  the 15 years between 1955 and 1970." add links to HN discussion:
    at <https://news.ycombinator.com/item?id=13271220> 
        <https://news.ycombinator.com/item?id=7402571> (history, links.html, 31 Dec 2016)
 
 
-27 Dec 2016
+27 Dec 2016  <a name="27-Dec-2016"></a>
 
 - <http://www.maloryproject.com/about.php> typography,
   <http://dodecaglotta.com/> (in typography, links.html, 2 Jan 2017)
@@ -5431,7 +5431,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
 - <http://littleosbook.github.io/> and maybe HN discussion
 
 
-26 Dec 2016
+26 Dec 2016  <a name="26-Dec-2016"></a>
 
 - <https://zenhack.net/2016/12/25/why-python-is-not-my-favorite-language.html>
   Why Python is not my favorite programming language (in Python
@@ -5448,19 +5448,19 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
   on Macbook -> MS Surface + Linux in a VM  in Great Faiths/Windows
 
 
-23 Dec 2016
+23 Dec 2016  <a name="23-Dec-2016"></a>
 
 - Apple ][ emulation on AVR microcontroller, seen on HN (links.html, 1 Jan 2017)
 
-22 Dec 2016
+22 Dec 2016  <a name="22-Dec-2016"></a>
 
 - for Piety/doc/... : Googler, command line Google in Python, at github.
 
-21 Dec 2016
+21 Dec 2016  <a name="21-Dec-2016"></a>
 
 - Recent HN Fortran links in language arcana
 
-20 Dec 2016
+20 Dec 2016  <a name="20-Dec-2016"></a>
 
 - Aboriginal Linux "builds the smallest/simplest linux system capable
   of rebuilding itself from source code"
@@ -5469,7 +5469,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
   He presented on podcast at linuxluddites.com - "Not all change is progress"
   Also github site, <https://github.com/landley/aboriginal> (links.html, 1 Jan 2017)
 
-19 Dec 2016
+19 Dec 2016  <a name="19-Dec-2016"></a>
 
 - BrainF* for Dummies in what, computer architecure?
   <http://blog.klipse.tech/brainfuck/2016/12/17/brainfuck.html>
@@ -5498,14 +5498,14 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
 
 - theorem prover museum
 
-15 Dec 2016
+15 Dec 2016  <a name="15-Dec-2016"></a>
 
 - HN comment "Python has gotten hard to learn" (in Python assessment, links.html 2 Jan 2017)
 
 - HN comment comparing GoboLinux and Nix in great faiths/linux/filesystems
 
 
-14 Dec 2016
+14 Dec 2016  <a name="14-Dec-2016"></a>
 
 - Andrew Wiles interview in education, call out quotes on problem scale (vs 3rd grade) and getting stuck
 
@@ -5517,14 +5517,14 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
 
 - Scott Aaronson comic strip, "The Talk" satirizing woo about QM in physics/popular culture/humor
 
-12 Dec 2016
+12 Dec 2016  <a name="12-Dec-2016"></a>
 
 - <https://github.com/jmcgeheeiv/pyfakefs> via HN 
   intended as mock for testing, but might actually serve as
   Piety in-memory file system.
   (utilities.md 18 Jan 2017)
 
-9 Dec 2016
+9 Dec 2016  <a name="9-Dec-2016"></a>
 
 - www.rle.mit.edu/rgallager/documents/BooleShannon.pdf - Claude
   Shannon's methods and accomplishments, lecture by Robert Gallager
@@ -5540,19 +5540,19 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
 - For Piety precursors.md: Xerox Alto simulators, SALTO and Contralto
 
 
-8 Dec 2016
+8 Dec 2016  <a name="8-Dec-2016"></a>
 
 - Python 3 module of the week <https://pymotw.com/3/>
 
 
-7 Dec 2016
+7 Dec 2016  <a name="7-Dec-2016"></a>
 
 - Andrew Wiles interview w/HN comments, also video documentary on FLT
 
 - web page on Butterfield Pi theorem (dimensional analysis)
 
 
-6 Dec 2016
+6 Dec 2016  <a name="6-Dec-2016"></a>
 
 - ed clone in Haskell via HN Actually Using ed post
 
@@ -5567,12 +5567,12 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
   (He recommends The Programming Historian, mentioned above)
 
 
-3 Dec 2016
+3 Dec 2016  <a name="3-Dec-2016"></a>
 
 - Terry Tao's career advice (links.html)
 
 
-2 Dec 2016
+2 Dec 2016  <a name="2-Dec-2016"></a>
 
 - for presursors.md, Cosmos C# project - new links including YT in HN today.
 
@@ -5580,13 +5580,13 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
    pedagogical provers.
 
 
-1 Dec 2016
+1 Dec 2016  <a name="1-Dec-2016"></a>
 
 - For languages.md, Python PEP 523 on JIT for CPython etc, refs Pyjin
   (?) project.
 
 
-29 Nov 2016
+29 Nov 2016  <a name="29-Nov-2016"></a>
 
 - Understanding Academic Medical Centers: Simone's Maxims from
   Clinical Cancer Research 1999, via HN, in science/milieu or maybe
@@ -5600,7 +5600,7 @@ also there is <http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&contex
   20year followup, in design principles next to Lampson's hints for design.
 
 
-16 Nov 2016
+16 Nov 2016  <a name="16-Nov-2016"></a>
 
 - For Piety precusors.md:
   notanos, Javascript desktop mentioned in this HN comment:
