@@ -875,7 +875,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    It was evidently possible to create a complex program in 2 feet  ..."
 
    In that system, you typed your program on a roll of teletype paper.
-   More about BASIC programming at 7 Nov 2020 and 28 Feb 2019, below.      
+   More about BASIC programming at 7 Nov 2020 
+   and at 28 Feb 2019, below.      
 
 27 Nov 2020
 
@@ -968,8 +969,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   with information itself. We do the same when we confuse data for
   potential decision with decision itself."
 
-  Work influenced by Ivan Illich appears at 23 Nov 2020, 17 Feb 2020, and
-  2 Sep 2019.
+  Work influenced by Ivan Illich appears at 23 Nov 2020, 
+  at 17 Feb 2020, and
+  at 2 Sep 2019.
 
 23 Nov 2020, 31 Jan 2021
 
@@ -1159,7 +1161,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   must be slower. Or do less. That seems like a worthwhile trade for a
   more sustainable world. ..."
 
-  Other work influenced by Ivan Illich appears at 17 Feb 2020 and 2 Sep 2019.
+  Other work influenced by Ivan Illich appears at 17 Feb 2020 
+  and at 2 Sep 2019.
 
  7 Nov 2020
 
@@ -1257,7 +1260,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   proceed from here to a network of Plan 9 machines and provide Plan 9
   services to other clients? ..."
 
-  More about Plan 9 at 21 Nov 2019, 19 Sep 2018, 23 Dec 2017 etc., below.
+  More about Plan 9 at 21 Nov 2019, 
+  at 19 Sep 2018, 
+  and at 23 Dec 2017 etc., below.
 
 10 Oct 2020
 
@@ -1325,7 +1330,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   What's the next tool like HyperCard that could free humanity from this
   tedious labor? I just don't know, and that bothers me. ..."
 
-  More on HyperCard at 24 Feb 2020 and 28 Feb 2019, below.
+  More on HyperCard at 24 Feb 2020 
+  and at 28 Feb 2019, below.
 
 23 Apr 2020, 30 Jan 2021
 
@@ -1401,7 +1407,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Includes recollections and opinions about many influential systems from
   the past.
 
-  More from Alan Kay at 9 Sep 2019 and 24 Sep 2018.
+  More from Alan Kay at 9 Sep 2019 
+  and at 24 Sep 2018.
 
 22 Apr 2020
 
@@ -1452,8 +1459,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   ... our prototype was made with 74LS series chips ... introduced in 1971."
 
-  Compare to BASIC Engine under 6 Jul 2018 and Uzebox under 24 May 2018, 
-  similar functionality but with microprocessors, and Pong under 11 Jun 2018, 
+  Compare to BASIC Engine at 6 Jul 2018 
+  and Uzebox at 24 May 2018, 
+  similar functionality but with microprocessors, and Pong at 11 Jun 2018, 
   single-purpose pre-microprocessor video game made from 66 TTL chips.
 
 24 Feb 2020
@@ -3520,7 +3528,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   implement a simple, clean operating system (virtual memory,
   processes, file system) on a Raspberry Pi 3 in the Rust programming
   language".  Comments: https://news.ycombinator.com/item?id=16134618
-  See also 18 Jan 2018.
+  See also at 18 Jan 2018.
 
 - http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/
   "... /dev/fb0 acts like any other memory device in /dev and we can
@@ -3531,7 +3539,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   the kernel console ("fbcon") working. ... there's compatibility code
   which sets up a user-space buffer in the KMS subsystem [0] which is
   swapped to when fbcon happens through a large chain of strange
-  events that are hard to describe. ..."   See also 31 Jan 2018.
+  events that are hard to describe. ..."   See also at 31 Jan 2018.
 
  2 Apr 2018
 
