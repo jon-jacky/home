@@ -390,7 +390,8 @@ Companion page, a commonplace book:
 
 - <https://gossipsweb.net/> - "the directory of handmade webpages" -
   Click *directory* etc. near the top to see more.  From the author of
-  <https://special.fish/> and other sites at 28 May 2020 below.  Compare
+  <https://special.fish/> and other sites 
+  at [28 May 2020](#28-May-2020) below.  Compare
   also to <https://thecreativeindependent.com/archive/> and
   <https://www.eigenbahn.com/>
 
