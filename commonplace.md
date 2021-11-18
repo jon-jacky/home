@@ -14,7 +14,7 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
- 5 Oct 2021
+ 5 Oct 2021  <a name="5-Oct-2021"></a>
 
 - Do Us All a Favour by Emily Bernhard Jackson, review of *Sweet Dreams:
   The Story of the New Romantics* by Dylan Jones, in *TLS*, Sep 24, 2021,
@@ -47,7 +47,7 @@ Some of my own comments:
   idealism, loss of promise, acid flashbacks, punk rock and nearly two
   decades of  tetragonocracy, the rule of the squares. ..."
 
- 5 Oct 2021
+ 5 Oct 2021  <a name="5-Oct-2021"></a>
 
 - The Marxist and the Messiah by Terry Eagleton, review of *The Benjamin
   Files* by Fredric Jameson in *London Review of Books*, Sep. 9 2021, p. 27
@@ -105,7 +105,7 @@ Some of my own comments:
   resistance are laid bare.   What seemed futile and meaningless at the time
   will then become readable, like an encrypted text we can finally decipher."
 
-18 Aug 2021
+18 Aug 2021  <a name="18-Aug-2021"></a>
 
 - The Ballad of Jimmy Garrison by Geoff Dyer, in *White Sands* (2016)
   p. 201 - 202 (no link):
@@ -130,7 +130,7 @@ Some of my own comments:
   is possible that some parts of what was abandoned and discarded can be
   used in an entirely different way, in the creation of something new."
 
-16 Aug 2021
+16 Aug 2021  <a name="16-Aug-2021"></a>
 
 - <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
   Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
@@ -206,7 +206,7 @@ Some of my own comments:
   employed to condemn people to passivity.  But they are also the most
   basic and, in the end, the most destructive."
 
-10 Aug 2021
+10 Aug 2021  <a name="10-Aug-2021"></a>
 
 - *A Friend of the Earth* by T. C. Boyle (2000), p. 183-4 (no link):
 
@@ -238,7 +238,7 @@ Some of my own comments:
   the highest ever recorded here.  Another heat wave is expected later
   this week.
 
-22 Jul 2021
+22 Jul 2021  <a name="22-Jul-2021"></a>
 
 - The Empire Writes Back by William Dalrymple, review of *The Autobiography
   of an Unknown Indian* by Nirad C. Chaudhuri in *TLS* Jul 23 1999, p. 11
@@ -283,7 +283,7 @@ Some of my own comments:
   Either way, for all his failings and idiosyncrasies, Chaudhuri is
   a unique and intermittenly profound voice ..."
 
-14 Jul 2021
+14 Jul 2021  <a name="14-Jul-2021"></a>
 
 - <https://600transformer.blogspot.com/2012/10/professor-grumpys-historical-manifesto.html> -
   Professor Grumpy's Historical Manifesto by Guy Halsall (2012) -
@@ -337,7 +337,7 @@ Some of my own comments:
   identities   in the present upon myths. That means we don't have to feel
   guilty or apologise, either --- just to be aware; to understand."
 
-7 Jun 2021
+7 Jun 2021  <a name="7-Jun-2021"></a>
 
 - *My Past and Thoughts* by Alexander Herzen (1885), translated
   by Constance Garnett (1968). Excerpted as 'A Russian Thinker in Exile'
@@ -375,7 +375,7 @@ Some of my own comments:
   a clear explanation is what matters most to a man.  The re-establishment
   of truth may be dearer to him than revenge. ..."
 
- 1 Jun 2021, 5 Jun 2021
+ 1 Jun 2021, 5 Jun 2021  <a name="1-Jun-2021"></a>
 
 - <http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf> - 
   Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
@@ -695,7 +695,7 @@ Some of my own comments:
   the insistence of her many suitors, and Charles Babbage's frantic
   self-certainty. ..."
 
- 7 May 2021
+ 7 May 2021  <a name="7-May-2021"></a>
 
 - *The Waning of the Middle Ages* by Johan Huizinga (1919), translated by
   Frederick Hopman (1924).  From Chapter 1, The Violent Tenor of Life,
@@ -897,7 +897,7 @@ Some of my own comments:
   safely to the past.  Instead Robert Fossier offers a suggestive and
   gamely pessimistic view of the basic facts of human frailty."
 
-12 Apr 2021
+12 Apr 2021  <a name="12-Apr-2021"></a>
 
 - *99 Novels: The Best in English Since 1939* by Anthony Burgess (1985),
   *Introduction*, p. 18-20 (no link):
@@ -948,7 +948,7 @@ Some of my own comments:
   even joy. ... We want to entertain, surprise, and present the preoccupations
   of real human beings through invented ones."
 
- 9 Feb 2021
+ 9 Feb 2021  <a name="9-Feb-2021"></a>
 
 - *War and Peace* by Leo Tolstoy (1869), translated by Louise and Aylmer
   Maude (1923), Book III, Chapter VII (no link):
@@ -1220,9 +1220,9 @@ Some of my own comments:
   made it more vulnerable to overthrow.  Proletarian revolution must
   therefore inevitably overthrow it. ..."
 
-  For more excerpts from *The Age of Revolution*, see under 18 Nov 2020, below.
+  For more excerpts from *The Age of Revolution*, see at [18 Nov 2020](#18-Nov-2020), below.
 
-13 Jul 2021 (but it fits best here, after *The Age of Revolution*)
+13 Jul 2021 (but it fits best here, after *The Age of Revolution*)  <a name="13-Jul-2021"></a>
 
 - Repression's Rewards by Bob Harris, review of *The Savage Storm:
   Britain on the Brink in the Age of Napoleon* by David Andress in *TLS*,
@@ -1239,7 +1239,7 @@ Some of my own comments:
   stood in the way of stamping out any threat to its interests, imagined
   or real."
 
-11 Jul 2021 (but it fits best here, after *The Age of Revolution* and
+11 Jul 2021 (but it fits best here, after *The Age of Revolution* and  <a name="11-Jul-2021"></a>
    *The Savage Storm*)
 
 - *What is History?* by E. H. Carr (1961), from Ch 3 *History, Science,
@@ -1298,7 +1298,7 @@ Some of my own comments:
   part of history, and are as much subject to historical investigation as
   any other aspect of human behavior. ..."
 
-18 Dec 2020
+18 Dec 2020  <a name="18-Dec-2020"></a>
 
 - *Going To Extremes* by Joe McGinnis (1980), p. 222 (no link):
 
@@ -1361,7 +1361,7 @@ Some of my own comments:
   interest -- and that of other similar politicians around the world -- to
   make that culture ever coarser. ..."
 
-28 Nov 2020
+28 Nov 2020  <a name="28-Nov-2020"></a>
 
 - *Let's Talk About Love: A Journey to the End of Taste* by Carl Wilson
   (2007), p. 122, 123 (no link):
@@ -1389,7 +1389,7 @@ Some of my own comments:
   for, to give things more tenderness than He granted them, amid nature's
   unblinking harshness and the cruelty of fate ..."
 
-22 Nov 2020
+22 Nov 2020  <a name="22-Nov-2020"></a>
 
 - Oh Brother: An Interview with David Eggers by Kevin Sampsell in
   *The Stranger* (Seattle alt weekly), Feb 17 2000, p. 29 - 31 (no link):
@@ -1416,7 +1416,7 @@ Some of my own comments:
   Surely we have the right not to like the book, but only the dark-hearted
   or confused will dismiss it out of hand, or resent him for doing it."
 
-20 Nov 2020
+20 Nov 2020  <a name="20-Nov-2020"></a>
 
 - A Reader Responds to Workshops from Hell by Belle Randall in *Wordscape*
   (short-lived Seattle literary magazine) October 1999, p. 6 (no link):
@@ -1458,7 +1458,7 @@ Some of my own comments:
   You keep thinking you're just about to hit on the winning system,
   the right system of mistakes." ..."
 
-19 Nov 2020
+19 Nov 2020  <a name="19-Nov-2020"></a>
 
 - <https://news.ycombinator.com/item?id=25093230> - 
   What is your best native song that is unknown due to language barrier?
@@ -1483,7 +1483,7 @@ Some of my own comments:
   that it is possible to be well educated, well connected, articulate,
   distinguished, to have led an interesting life, and still be a bore."
 
-18 Nov 2020, also 22 Dec 2020
+18 Nov 2020, also 22 Dec 2020  <a name="18-Nov-2020"></a>
 
 - Making A Figure by Daniel Hitchens, review of three books about Edmund
   Burke in *TLS*, May 24 2013, p. 7 (no link):
@@ -1593,7 +1593,7 @@ Some of my own comments:
   past is to learn how anomalous our society is in its self-interested
   single-mindedness. ..."
 
-17 Nov 2020
+17 Nov 2020  <a name="17-Nov-2020"></a>
 
 - Presence in the Past by Michael Bentley, review of *History Man: The Life of
   R. G. Collingwood* in *TLS* Sep 25 2009, p. 18 (no link):
@@ -1639,7 +1639,7 @@ Some of my own comments:
   through the practical consequences.  For it is one thing to say, "The self
   is an illusion", and quite another to confess, "I am an illusion". ..."
 
-13 Nov 2020
+13 Nov 2020  <a name="13-Nov-2020"></a>
 
 - <https://sites.lsa.umich.edu/gordonkane/wp-content/uploads/sites/117/2014/07/THE-FUTURE-OF-THE-University.pdf> - 
   The Future of The/Our Research University by Gordon Kane (1999):
@@ -1723,7 +1723,7 @@ Some of my own comments:
   revealing things, and educate and entertain us all. If a writer can't or
   won't do that, he should withdraw from the trade."
 
-12 Nov 2020
+12 Nov 2020  <a name="12-Nov-2020"></a>
 
 - On Receiving the National Book Award for *JR* (1975) by William Gaddis,
   in *The Rush for Second Place: Essays and Occasional Writings* (2002),
@@ -1739,7 +1739,7 @@ Some of my own comments:
   ... it seems to me the only way to keep writers writing well, or trying
   to write well, is to read what we write."
 
- 9 Nov 2020
+ 9 Nov 2020  <a name="9-Nov-2020"></a>
 
 - *As Of This Writing: Essential Essays 1968 - 2002* by Clive James (2003),
   pages 95, 100 (no link):
@@ -1782,7 +1782,7 @@ Some of my own comments:
   couldn't hear.  ...  If poetry and and the criticism of it had agreed
   standards there would be less bitchery. ..."
 
- 8 Nov 2020
+ 8 Nov 2020  <a name="8-Nov-2020"></a>
 
 - A Joke Too Far by Colin Burrow, review of *Sir John Harrington and the
   Book as Gift* by Jason Scott-Warren, in *TLS* 22 Aug 2002, p. 10 - 11
@@ -1840,7 +1840,7 @@ Some of my own comments:
   *It is better to suffer wrong than to do it, and happier to be
   sometimes cheated than not to trust.*  -- Samuel Johnson
 
- 5 Nov 2020
+ 5 Nov 2020  <a name="5-Nov-2020"></a>
 
 - *Uncommon People: The Rise and Fall of the Rock Stars*, David
   Hepworth (2017), pages 6, 2, 8 (no link):
@@ -1869,9 +1869,9 @@ Some of my own comments:
   than they had any right to expect, because long after the hits stopped
   coming their legends continued to endure."
 
-  Other excerpts from *Uncommon People* appear at 6 Oct 2018, below.
+  Other excerpts from *Uncommon People* appear at [6 Oct 2018](#6-Oct-2018), below.
 
- 4 Nov 2020
+ 4 Nov 2020  <a name="4-Nov-2020"></a>
 
 - *Revolution in the Head: The Beatles' Records and the Sixties*
   by Ian MacDonald, third edition (1994, 1997, 2005), pages 297-298,
@@ -1951,7 +1951,7 @@ Some of my own comments:
   *If you want to know about the Sixties, play the music of the Beatles.*
   -- Aaron Copland
 
- 3 Nov 2020
+ 3 Nov 2020  <a name="3-Nov-2020"></a>
 
 - In Draft Form by Allen Shawn, review of *The Selected Correspondence
   of Aaron Copland* in *TLS*, Nov 10 2006, p. 8 (no link):
@@ -2041,7 +2041,7 @@ Some of my own comments:
   Barenboim -- the goal is a material result: the sound of a  particular
   crescendo, the length of a particular silence. ..."
 
-30 Oct 2020
+30 Oct 2020  <a name="30-Oct-2020"></a>
 
 - *I Married a Communist* by Philip Roth (1998), p. 199 (no link):
 
@@ -2091,7 +2091,7 @@ Some of my own comments:
   is an applied art and application was one of the many things
   Ossie Clark lacked."
 
-14 Oct 2020
+14 Oct 2020  <a name="14-Oct-2020"></a>
 
 - King of the Road by J. R. Moehringer, review of *Riding Toward Everywhere*
   by William T. Vollman in *The New York Times Book Review*, Jan 27 2008,
@@ -2131,7 +2131,7 @@ Some of my own comments:
   purpose, no destination, no *story*, his epic journey to Everywhere becomes
   a round trip to nowhere ..."
 
-29 Sep 2020
+29 Sep 2020  <a name="29-Sep-2020"></a>
 
 - Book review by Sheena Joughin in *TLS*, Oct 3, 2003, p. 30 (no link):
 
@@ -2144,7 +2144,7 @@ Some of my own comments:
   (The author) knows a lot she doesn't tell us, or cannot allow herself
   to make explicit. ... (This) is a disingenuous book. ..."
 
-28 Sep 2020
+28 Sep 2020  <a name="28-Sep-2020"></a>
 
 - The Firepower and the Glory by Roz Kaveny, review of *REAMDE* by Neal
   Stephenson in *TLS*, Oct 28 2011, p. 20 (no link):
@@ -2164,7 +2164,7 @@ Some of my own comments:
   we begin to feel the numbed indifference that comes with a slideshow
   of a stranger's wedding. ..."
 
-27 Sep 2020
+27 Sep 2020  <a name="27-Sep-2020"></a>
 
 - Out of Suburbia by Roz Kaveny, review of *The Inner Man: The Life of
   J. G. Ballard* by John Baxter in *TLS*, Nov 18, 2011, p. 5 (no link):
@@ -2244,7 +2244,7 @@ Some of my own comments:
   were a strange fiction."  His early work bent toward science fiction
   because so-called serious writing was too insular. ..."
 
-26 Sep 2020
+26 Sep 2020  <a name="26-Sep-2020"></a>
 
 - Without Tears In My Heart by Graham Robb, review of *Correspondance* by
   Balzac in *TLS*, Mar 16 2012, p. 7 (no link):
@@ -2265,7 +2265,7 @@ Some of my own comments:
   projects were a form of avoidance, and, as any procrastinator knows,
   procrastination can be very hard work."
 
-25 Sep 2020
+25 Sep 2020  <a name="25-Sep-2020"></a>
 
 - Too Sane for Surbiton by Gerard Woodward, review of *Waking up in Toytown*
   by John Burnside in *TLS*, Mar 5 2010, p. 24 (no link):
@@ -2298,7 +2298,7 @@ Some of my own comments:
   afternoon and I was trawling around Guildford looking for a new toaster'.
   ... "
 
-24 Sep 2020
+24 Sep 2020  <a name="24-Sep-2020"></a>
 
 - Rock Bottom by Anna Vaux, review of *Wonderful Today* by Pattie Boyd
   and *Eric Clapton* by Eric Clapton in *TLS*, Apr 11 2008, p. 10-11 (no link):
@@ -2367,7 +2367,7 @@ Some of my own comments:
   Eric Clapton she had to recover from, to whom she is far more forgiving
   than the readers of her book will be. ..."
 
-19 Sep 2020
+19 Sep 2020  <a name="19-Sep-2020"></a>
 
 - Buckets of Blud by Peter Thoneman, review of *The Oxford Handbook of
   Warfare in the Classical World*, *Roman Seige Warfare*,  and several other
@@ -2422,7 +2422,7 @@ Some of my own comments:
   encouraged so many people to spend so much of their time attacking
   ditches?"
 
-18 Sep 2020
+18 Sep 2020  <a name="18-Sep-2020"></a>
 
 - NB by J.C. in *TLS*, Apr 22 2011, p. 32 (no link):
 
@@ -2440,7 +2440,7 @@ Some of my own comments:
   rain, salt, sea, seven, silk, snake, snow, song, sword, teach, ten,
   thief, thigh, thumb, thunder, tongue, walk, wife, woman, worm, year, youth."
 
-17 Sep 2020
+17 Sep 2020  <a name="17-Sep-2020"></a>
 
 - Our Hand Reaches Far by Patrick McGuinness, review of *Burying the
   Typewriter: Childhood Under the Eyes of the Secret Police* by Carmen Bugan
@@ -2513,7 +2513,7 @@ Some of my own comments:
   had but one ultimate goal --  the systematic murder of entire
   populations ..."
 
-14 Sep 2020
+14 Sep 2020  <a name="14-Sep-2020"></a>
 
 - Lost in the Funhouse by Edmund White, in *TLS* May 19 2006, p. 15
   (no link):
@@ -2554,7 +2554,7 @@ Some of my own comments:
   the individual; it certainly doesn't keep him out of any clubs, except a
   few gay ones. ..."
 
-12 Sep 2020
+12 Sep 2020  <a name="12-Sep-2020"></a>
 
 - Variations on Looney Tunes by Allen H. Nelson, review of *Shakespeare
   by Another Name: ... Edward De Vere, Earl of Oxford, the man who was
@@ -2581,7 +2581,7 @@ Some of my own comments:
   and then give it to the waiter as a tip, or, despite being the richest
   person on earth, they make their guests pay for a stamp."
 
-12 Sep 2020
+12 Sep 2020  <a name="12-Sep-2020"></a>
 
 - *The Valley of Bones*, a novel by Anthony Powell (1964), p. 233 (no link)
 
@@ -2598,7 +2598,7 @@ Some of my own comments:
   those to whom books are a necessity.  Books are unconvertible assets, to
   be passed on only to those who possess them already."
 
-11 Sep 2020, 9 Dec 2020
+11 Sep 2020, 9 Dec 2020  <a name="11-Sep-2020"></a>
 
 - <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do> - 
   What's a mathematician to do? answer by Bill Thurston:
@@ -2629,7 +2629,7 @@ Some of my own comments:
   .. All of us have clear understanding of a few things and murky concepts of
   many more. There is no way to run out of ideas in need of clarification. ..."
 
-  (Compare to Eugenia Cheng excerpt, 10 Mar 2019)
+  (Compare to Eugenia Cheng excerpt at [10 Mar 2019](#10-Mar-2019))
 
 - <https://arxiv.org/abs/math/0503081> - Mathematical Education by Bill Thurston
 
@@ -2823,7 +2823,7 @@ Some of my own comments:
   More about this formalization project:
   <https://leanprover-community.github.io/papers>
 
-30 Aug 2020
+30 Aug 2020  <a name="30-Aug-2020"></a>
 
 - *A Mixture of Frailties*, a novel by Robertson Davies (1958), p. 210 - 211,
   274 (no link):
@@ -2875,7 +2875,7 @@ Some of my own comments:
   sufferers of their grim fates or, for the administrative or governmental
   mind (reflected in some historians), as problems and even nuisances."
 
- 7 Jul 2020
+ 7 Jul 2020  <a name="7-Jul-2020"></a>
 
 - *Hellgoing* by Lynn Coady (2013), from the story 'The Natural Elements'
   p. 142, 149 (no link):
@@ -2892,7 +2892,7 @@ Some of my own comments:
   impossible?  He thought of this as he pulled up to the non-existent
   sidewalk ... buried, like everything, in snow. ..."
 
- 2 Jun 2020
+ 2 Jun 2020  <a name="2-Jun-2020"></a>
 
 - <https://www.buzzfeednews.com/article/brandontaylor/i-dont-miss-being-a-scientist-except-when-i-do> -
   Working In Science Was A Brutal Education. That's Why I Left.
@@ -2951,7 +2951,7 @@ Some of my own comments:
    an incomplete solution to the problem: *Yes. No. Sometimes. It's over
    now.*"
 
- 2 May 2020
+ 2 May 2020  <a name="2-May-2020"></a>
 
 - *Arithmetic* by Paul Lockhart (2017), pages vii, 93, 151 (no link):
   "Arithmetic is the skillful arrangement of numerical information
@@ -2996,7 +2996,7 @@ Some of my own comments:
   aspects of this beautiful subject.  Our goal is not utility or practicality
   but intellectual pleasure and understanding."
 
-24 Apr 2020
+24 Apr 2020  <a name="24-Apr-2020"></a>
 
 - <https://www.pippinbarr.com/2017/03/03/maybe-its-important-to-hate-what-you-do/> -
   "Kind of hate (my project) *v r 3*  these days, just so you know. It's not an uncommon
@@ -3028,7 +3028,7 @@ Some of my own comments:
   trash would be glorious, but you'd just be back a few minutes later
   fishing it out."
 
-  (Compare to Geoff Dyer's excerpt under 17 Feb 2019, the last two paragraphs
+  (Compare to Geoff Dyer's excerpt at [17 Feb 2019](#17-Feb-2019), the last two paragraphs
   about trying to write his book on D. H. Lawrence.)
 
 21-29 Mar 2020
@@ -3207,7 +3207,7 @@ Some of my own comments:
   and emotionally satisfying the geometric view may be, the analytic
   approach is, in the end, far more elegant and powerful."
 
-10 Mar 2020
+10 Mar 2020  <a name="10-Mar-2020"></a>
 
 - *Mathematics: A Very Short Introduction* by Timothy Gowers (2002), preface,
   pages 14-16, 18-24, 86-103, 118-121, 124, 132-133 (no link):
@@ -3360,7 +3360,7 @@ Some of my own comments:
   This book is not online but the author has some related essays here:
   <https://www.dpmms.cam.ac.uk/~wtg10/vsipage.html>
 
-22 Feb 2020
+22 Feb 2020  <a name="22-Feb-2020"></a>
 
 - *Cosmic Profit* by Raymond Mungo (1980), pages 6 - 7 (no link): After describing
   his brief experience working for a scam rental agency in Seattle in
@@ -3376,7 +3376,7 @@ Some of my own comments:
   And they proved that some people try to get rich selling absolutely
   nothing at all."
 
-22 Feb 2020
+22 Feb 2020  <a name="22-Feb-2020"></a>
 
 - *Essays: One* by Lydia Davis (2019), pages 171, 173-174, 188, 238,
   253 (no link): From Revising One Sentence:
@@ -3418,7 +3418,7 @@ Some of my own comments:
   *In Search of Lost Time*) and still be economical.  In this case,
   being economical simply means not saying more than you need to."
 
-12 Oct 2019
+12 Oct 2019  <a name="12-Oct-2019"></a>
 
 - Tales of Lost London by Laura Thompson, reviews of *The Memoirs of
   Ironfoot Jack* and *London Made Us* in *TLS*, Oct 4 2019, p. 25 (no link):
@@ -3436,14 +3436,14 @@ Some of my own comments:
   conformity".  In fact the fight is probably lost, and the merry
   non-conformists "gone with the wind", in Ironfoot's phrase. ..."
 
-2 Sep 2019
+2 Sep 2019  <a name="2-Sep-2019"></a>
 
 - <http://thirdcoastpercussion.com//downloads/2015/04/Terry-Riley-In-C-concert2.pdf>
   *In C* by Terry Riley, score and playing instructions.  Via
   <https://www.metafilter.com/182890/Drums-Marimbas-Glockenspiel-Piccalo-Singing-Whistling-Drumming>
   on *Drumming* by Steve Reich.
 
- 6 Aug 2019
+ 6 Aug 2019  <a name="6-Aug-2019"></a>
 
 - <https://www.youtube.com/watch?v=HT6MWtZLHe4> Moondog: Voices of Spring,
   arranged by Joanna MacGregor for the Britten Sifonia with Andy Sheppard
@@ -3455,7 +3455,7 @@ Some of my own comments:
 - <https://www.youtube.com/watch?v=CG-GLkHG4C0> - Nancarrow: Study #21
   for Player Piano (Canon X)
 
- 7 Jul 2019
+ 7 Jul 2019  <a name="7-Jul-2019"></a>
 
 - <https://ask.metafilter.com/335596/Marriage-without-in-sickness#4824828>
   Marriage, without "in sickness"?
@@ -3508,7 +3508,7 @@ Some of my own comments:
   In short: spring is beautiful, but winter is inevitable -- get a warm
   coat."
 
-15 Jun 2019
+15 Jun 2019  <a name="15-Jun-2019"></a>
 
 - Hauntings by Tom Graham, review of K-PUNK by Mark Fisher, *TLS*,
   May 24, 2019, p. 32 (no link): " ... it is hard to shake the feelihg that
@@ -3531,7 +3531,7 @@ Some of my own comments:
   celebrate -- as tedious, we sorely limit ourselves.  We have arrived at a
   situation in which "no one is bored, everything is boring" ..."
 
-23 May 2019
+23 May 2019  <a name="23-May-2019"></a>
 
 - <https://www.youtube.com/watch?v=62tIvfP9A2w> - The Most Feared Song in Jazz, Explained -
   "Making sense of John Coltrane's 'Giant Steps' ... It's known across the jazz world
@@ -3553,7 +3553,7 @@ Some of my own comments:
   for example <https://www.youtube.com/watch?v=3wkhyUl_Vmw> - Bill Evans Trio - and
   <https://vimeo.com/319508635> - Thelonius Monk
 
-27 Apr 2019
+27 Apr 2019  <a name="27-Apr-2019"></a>
 
 - <https://web.cs.ucdavis.edu/~devanbu/belief+evidence.pdf> - Belief and
   Evidence in Empirical Software Engineering by Prem Devanbu, Thomas
@@ -3625,7 +3625,7 @@ Some of my own comments:
   other links to empirical studies of software engineering.
 
 
-27 Apr 2019
+27 Apr 2019  <a name="27-Apr-2019"></a>
 
 - <https://sourcebooks.fordham.edu/basis/gregory-hist.asp#book2> - 
   *History of the Franks* by Gregory of Tours, translated by
@@ -3643,7 +3643,7 @@ Some of my own comments:
   See also *The Ruin of Britain* by Gildas,
   <https://blogs.bl.uk/digitisedmanuscripts/2019/06/gildas.html>
 
-31 Mar 2019
+31 Mar 2019  <a name="31-Mar-2019"></a>
 
 - *The Autobiography of Malcolm X* as told to Alex Haley (1965),
   Chapter 11, Saved, pages 174-176, 183 (no link):
@@ -3693,7 +3693,7 @@ Some of my own comments:
 
   (Compare to Anthony Burgess and John McPhee below on reading the dictionary.)
 
-20 Mar 2019
+20 Mar 2019  <a name="20-Mar-2019"></a>
 
 - *But Beautiful: A Book About Jazz* by Geoff Dyer (1991), pages 184-186, 188-189,
   192-193, 194-197, 197-198 (no link):
@@ -3769,7 +3769,7 @@ Some of my own comments:
   If jazz has a vital connection with "the universal struggle of modern man"
   how could the men who create it not bear the scars of that struggle?"
 
-10 Mar 2019
+10 Mar 2019  <a name="10-Mar-2019"></a>
 
 - <http://www.cheng.staff.shef.ac.uk/morality/morality.pdf> -
   Mathematics, Morally by Eugenia Cheng - "... The key characteristic
@@ -3786,7 +3786,7 @@ Some of my own comments:
   reading the fiddly proof. When this does happen, the benefits are
   very great. But is it always possible? ..."
 
-10 Mar 2019
+10 Mar 2019  <a name="10-Mar-2019"></a>
 
 - Ghosts and Psychic Dreams: The Dizzying Fiction of Anthony Burgess, by
   Margaret Drabble, *TLS*, Feb 22 2018, p. 3 (no link): "... Burgess suffered
@@ -3802,7 +3802,7 @@ Some of my own comments:
   collective unwisdom of the verbal stew, he would say, than any tyrannous signature".
   ..."
 
-17 Feb 2019
+17 Feb 2019  <a name="17-Feb-2019"></a>
 
 - *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer (1997),
   pages 90, 137-138, 149, 152-153, 229, 231-232 (no link):
@@ -3867,7 +3867,7 @@ Some of my own comments:
   the places we have visited to countries we will never set foot in, the best
   we can do is to try to make some progress with our studies of D. H. Lawrence."
 
- 9 Feb 2019
+ 9 Feb 2019  <a name="9-Feb-2019"></a>
 
 - <http://jazz-quotes.com/> - "... I've begun collecting quotes from different books
   I have and from across the internet. ..."  For example:
@@ -3882,7 +3882,7 @@ Some of my own comments:
 
   "Just because you're not a drummer doesn't mean you don't have to keep time."
 
- 4 Feb 2019
+ 4 Feb 2019  <a name="4-Feb-2019"></a>
 
 - *How to Write a Thesis* by Umberto Eco (1977), pages x, xxvi, 5-7, 9-10,
   110-111, 125, 142-144, 145, 149-150, 221 (no link). From the forward
@@ -4075,7 +4075,7 @@ Some of my own comments:
    skim classic writing in this way, you run the risk of missing
    indispensable nuances or refinements. ..."
 
-12 Nov 2018
+12 Nov 2018  <a name="12-Nov-2018"></a>
 
 - *Draft No. 4: John McPhee On the Writing Process* (2017), pages
    19-20, 158-160, 162 (no link): "It doesn't matter that something
@@ -4112,7 +4112,7 @@ Some of my own comments:
    are trying to replace are far more likely to help out than a
    scattershot wad from a thesaurus."
 
-10 Nov 2018
+10 Nov 2018  <a name="10-Nov-2018"></a>
 
 - <https://www.metafilter.com/177575/Violin-Sonatas-etc> - Links to more
   than fifty performances of sonatas for violin, viola, cello, and
@@ -4120,7 +4120,7 @@ Some of my own comments:
   Glass.  With even more links from commenters, including some earlier
   baroque pieces.
 
-27 Oct 2018
+27 Oct 2018  <a name="27-Oct-2018"></a>
 
 - <http://thequietus.com/articles/25409-richard-thompson-interview-favourite-albums?page=4> - 
   Thompson talks about 13 favorite records including ... Moby Grape
@@ -4135,14 +4135,14 @@ Some of my own comments:
   list he recently rescued from the discontinued
   <https://plus.google.com/u/0/collection/0T0sDB>
 
-19 Oct 2018
+19 Oct 2018  <a name="19-Oct-2018"></a>
 
 - <http://calculusmadeeasy.org/> - *Calculus Made Easy* by Silvanus
   P. Thompson (1910) - "The text is based on the PDF version from
   Project Gutenberg converted to html by hand." That is,
   <http://www.gutenberg.org/ebooks/33283>
 
- 6 Oct 2018
+ 6 Oct 2018  <a name="6-Oct-2018"></a>
 
 - *Uncommon People: The Rise and Fall of the Rock Stars*, David
   Hepworth (2017), pages 2, 69, 280, 281 (no link): "Rock stars were
@@ -4169,7 +4169,7 @@ Some of my own comments:
   themselves.  The same applies to the people associated with those atoms.
   That's why we don't have rock stars anymore."
 
-30 Sep 2018
+30 Sep 2018  <a name="30-Sep-2018"></a>
 
 - *The Art of Fiction* by John Gardner (1983), Ch 6 Technique, p.
   127 (no link) - "Writing an exercise, the beginning writer is doing
@@ -4182,7 +4182,7 @@ Some of my own comments:
   this is the one way in which creative writing is like programming.
   In every other way it is completely different.
 
-16 Sep 2018
+16 Sep 2018  <a name="16-Sep-2018"></a>
 
 - <https://arxiv.org/abs/1809.01639> - Making Better Sense of Quantum
   Mechanics by N. David Mermin - "It once made sense to exclude the
@@ -4201,7 +4201,7 @@ Some of my own comments:
   (via quotations).  But this paper didn't resolve any quantum mysteries
   for me.
 
- 9 Sep 2018
+ 9 Sep 2018  <a name="9-Sep-2018"></a>
 
 - <https://www.theatlantic.com/entertainment/archive/2018/07/a-writers-fixation-on-sound/565904/> - R. O. Kwon on Writing *The Incendiaries* - "I worked for 10 years
   on my first book. ... I couldn’t feel done with my novel until I
@@ -4236,7 +4236,7 @@ Some of my own comments:
   Also,
   <https://ask.metafilter.com/326239/Please-recommend-me-many-requiems-music-books-movies-anything>
 
-26 Aug 2018
+26 Aug 2018  <a name="26-Aug-2018"></a>
 
 - <https://arxiv.org/abs/1807.08416> - Some Fundamental Theorems in
   Mathematics by Oliver Knill - Linked PDF is a survey of modern math
@@ -4250,7 +4250,7 @@ Some of my own comments:
   reporting on many of these theorems as a tourist and not as a
   local."
 
- 7 Aug 2018
+ 7 Aug 2018  <a name="7-Aug-2018"></a>
 
 - <https://believermag.com/broken-time/> - Broken Time: “Nardis” and the
   Curious History of a Jazz Obsession - "Though superb versions of
@@ -4265,7 +4265,7 @@ Some of my own comments:
   Evans talks about music between playing with the trio at this house
   concert in Helsinki in 1970: <https://www.youtube.com/watch?v=C0AcvMBPuZI>
 
-16 Jul 2018
+16 Jul 2018  <a name="16-Jul-2018"></a>
 
 - <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1012.html> -
   "Roughly speaking, there are two ways in which people try to reason
@@ -4293,7 +4293,7 @@ Some of my own comments:
   while the significance of the mathematical event is essentially
   unrecognized. ..."
 
-22 May 2018
+22 May 2018  <a name="22-May-2018"></a>
 
 - <https://www.metafilter.com/174248/A-plethora-of-Sun-Ras-four-decades-of-baffling-dazzling-mystical-jazz>
   Long annotated discography and links to performances at YouTube and
@@ -4305,7 +4305,7 @@ Some of my own comments:
   than the museum, and our focus is on historical and rare material
   rather than recent developments."  Interesting austere page design.
 
- 9 May 2018
+ 9 May 2018  <a name="9-May-2018"></a>
 
 - <https://www.metafilter.com/174029/Sextets-septets-octets-nonets>
   "Stepping beyond the more familiar three-, four- and five-piece
@@ -4316,20 +4316,20 @@ Some of my own comments:
   <https://www.metafilter.com/163338/String-Quartets>
   <https://www.metafilter.com/170478/Piano-Quintets>
 1
-6 Apr 2018
+6 Apr 2018  <a name="6-Apr-2018"></a>
 
 - <http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html> - "We have set out to trace the evolution of American comics by
   looking at 100 pages that altered the course of the field’s
   history." From 1929 to 2014.
 
-15 Apr 2018
+15 Apr 2018  <a name="15-Apr-2018"></a>
 
 - <https://www.metafilter.com/173509/Take-me-for-a-walk-in-the-morning-dew-my-honey> - "Morning Dew is a post-nuclear protest song, written in 1961 by
   Canadian Bonnie Dobson ... the power of the song is evidenced by
   the vast number of covers over the years."  History,
   recollections, links to many versions.
 
-22 Mar 2018
+22 Mar 2018  <a name="22-Mar-2018"></a>
 
 - <http://invislib.blogspot.com/2008/08/t.html> - "The Invisible Library
   ... catalog of books that exist only within other books", including
@@ -4343,7 +4343,7 @@ Some of my own comments:
   now also be treated as historical instruments."  Interesting
   black-and-white page design and photography.
 
-16 Mar 2018
+16 Mar 2018  <a name="16-Mar-2018"></a>
 
 - <https://standardebooks.org/about/> - "The Standard Ebooks project
   differs from those etext projects (Gutenberg, Archive) in that we
@@ -4353,7 +4353,7 @@ Some of my own comments:
   style guide, and that are each held to a standard of quality and
   internal consistency."
 
- 7 Mar 2018
+ 7 Mar 2018  <a name="7-Mar-2018"></a>
 
 - <https://ask.metafilter.com/319841/Classical-music-desert-island-playlistfor-the-Isle-of-the-Dead>
   "I am on a hunt for little or lesser-known classical music that
@@ -4361,7 +4361,7 @@ Some of my own comments:
   "These are fabulous suggestions! I have slowly been working my way
   through this list..."
 
- 4 Mar 2018
+ 4 Mar 2018  <a name="4-Mar-2018"></a>
 
 - <https://ask.metafilter.com/319733/Classical-Music-looking-for-contrasting-performances-of-the-same-piece>
   "recommendations from some classical music heads of two or more
@@ -4374,7 +4374,7 @@ Some of my own comments:
   music that give you chills down your spine and bring tears to your
   eyes. Music that leaves you breathless."
 
- 8 Jan 2018
+ 8 Jan 2018  <a name="8-Jan-2018"></a>
 
 - <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4522609/> "Fifty
   psychological and psychiatric terms to avoid: a list of inaccurate,
@@ -4384,12 +4384,12 @@ Some of my own comments:
   at most used sparingly and with explicit caveats. We provide
   corrective information for students, instructors, and researchers"
 
-22 Dec 2017
+22 Dec 2017  <a name="22-Dec-2017"></a>
 
 - <https://www.metafilter.com/171362/All-I-want-for-Christmas-is-a-crapton-of-jazz>
   links to jazz Christmas music
 
-20 Dec 2017
+20 Dec 2017  <a name="20-Dec-2017"></a>
 
 - <https://www.metafilter.com/171286/Well-you-neednt-listen-But-you-should>
   Links about Thelonious Monk, links to his music by himself and others.
@@ -4398,32 +4398,37 @@ Some of my own comments:
   Pannonica Rothschild, patroness of jazz, especially Monk.  Also
   links to Monk's music.
 
-17 Dec 2017
+17 Dec 2017  <a name="17-Dec-2017"></a>
 
 - http://www.inbflat.net/ <http://www.inbflat.net/faq.html>
   In Bb, a collaborative music and spoken word project,
   partly inspired by Terry Riley's In C.
   <https://news.ycombinator.com/item?id=15941838>
 
-13 Nov 2017
+13 Nov 2017  <a name="13-Nov-2017"></a>
 
 - <https://vimeo.com/89837165> - John Coltrane 'A Love Supreme' only
    live performance July 26, 1965 - only 14 minutes.  via
    <http://www.metafilter.com/170480/July-26-1965-A-Love-Supreme-Live>
 
- 3 Oct 2017
+ 3 Oct 2017  <a name="3-Oct-2017"></a>
 
 - <https://www.newyorker.com/magazine/2013/01/14/structure> - Structure,
   by John McPhee, on his use of the KEdit editor.
 
-19 Jul 2017
+19 Jul 2017  <a name="19-Jul-2017"></a>
 
 - <http://ask.metafilter.com/311380/Other-jazz-standards-like-these-jazz-standards>
   many heartfelt recommendations for an aspiring pianist, with links
   to youtube for many many standards
   (links.html 21 Jul 2017)
 
-9 Dec 2016
+11 May 2017  <a name="11-May-2017"></a>
+
+- <http://www.metafilter.com/166863/Piano-violin-and-cello> - many links
+   to YouTube, also a YouTube playlist.
+
+ 9 Dec 2016  <a name="9-Dec-2016"></a>
 
 - www.rle.mit.edu/rgallager/documents/BooleShannon.pdf - Claude
   Shannon's methods and accomplishments, lecture by Robert Gallager:

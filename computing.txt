@@ -3060,8 +3060,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   noticed at https://news.ycombinator.com/item?id=17674944 "drive
   tiny, minimal CPUs to do amazing things at the edge of their
   specifications cause it's cool and fun"  "That is software
-  defined broadcast television. Mind. Blown." Compare to Uzebox, 24
-  May below.
+  defined broadcast television. Mind. Blown." Compare to Uzebox, 
+  at 24 May 2018 below.
   
 - http://www.garbled.net/tmp/bringup.pdf - "Bringup is Hard
   ... Bringup is the initial stage of a new port of an Operating
@@ -3180,7 +3180,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   most cases it is a poor facsimile of the real thing."  via
   https://news.ycombinator.com/item?id=17200163 "... an insanely
   clever masterpiece of digital design. ... It’s mindbendingly
-  brilliant."  Compare to Uzebox with 2 ICs, 24 May 2018 below.
+  brilliant."  Compare to Uzebox with 2 ICs, at 24 May 2018 below.
 
  3 Jun 2018, 17 Jan 2021
 
@@ -4802,9 +4802,6 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
   subset; it can compile itself. ... This is a continuation of
   https://github.com/darius/500lines/tree/master/bytecode-compiler"
  (also noted Apr 27 below)
-
-- http://www.metafilter.com/166863/Piano-violin-and-cello - many links
-   to YouTube, also a YouTube playlist.
 
  8 May 2017
 

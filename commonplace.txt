@@ -1220,7 +1220,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   made it more vulnerable to overthrow.  Proletarian revolution must 
   therefore inevitably overthrow it. ..."
 
-  For more excerpts from *The Age of Revolution*, see under 18 Nov 2020, below.
+  For more excerpts from *The Age of Revolution*, see at 18 Nov 2020, below.
 
 13 Jul 2021 (but it fits best here, after *The Age of Revolution*)
 
@@ -2629,7 +2629,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   .. All of us have clear understanding of a few things and murky concepts of
   many more. There is no way to run out of ideas in need of clarification. ..."
 
-  (Compare to Eugenia Cheng excerpt, 10 Mar 2019)
+  (Compare to Eugenia Cheng excerpt at 10 Mar 2019)
 
 - https://arxiv.org/abs/math/0503081 - Mathematical Education by Bill Thurston
 
@@ -3028,7 +3028,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   trash would be glorious, but you'd just be back a few minutes later 
   fishing it out."
 
-  (Compare to Geoff Dyer's excerpt under 17 Feb 2019, the last two paragraphs
+  (Compare to Geoff Dyer's excerpt at 17 Feb 2019, the last two paragraphs
   about trying to write his book on D. H. Lawrence.)
 
 21-29 Mar 2020
@@ -4423,7 +4423,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   to youtube for many many standards
   (links.html 21 Jul 2017)
 
-9 Dec 2016
+11 May 2017
+
+- http://www.metafilter.com/166863/Piano-violin-and-cello - many links
+   to YouTube, also a YouTube playlist.
+
+ 9 Dec 2016
 
 - www.rle.mit.edu/rgallager/documents/BooleShannon.pdf - Claude
   Shannon's methods and accomplishments, lecture by Robert Gallager:
