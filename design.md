@@ -13,7 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-13 Nov 2021  <a name="13-Nov-2021"></a>
+27 Nov 2021
+
+- <https://www.mcmaster.com/> - McMaster-Carr - Amazingly dense and 
+  efficient catalog of essential but unsung goods.
+
+  via <https://news.ycombinator.com/item?id=29357831>
+
+13 Nov 2021
 
 - <https://www.beyondeasy.net/2017/04/animation-april-rooty-toot-toot-1951.html> -
   Beyond Easy - "... we've got *Rooty Toot Toot*, United Productions of America's
@@ -63,17 +70,17 @@ Companion page, a commonplace book:
   but there are several online, for example:
   <https://www.youtube.com/watch?v=EE8_ddz0XvI>  
 
-  More about UPA cartoons at [2 Nov 2021](#2-Nov-2021).
+  More about UPA cartoons at 2 Nov 2021.
 
-11 Nov 2021  <a name="11-Nov-2021"></a>
+11 Nov 2021
 
 - <http://handprint.com/SC/WIT/wittframe.html> - 
   Ludwig Wittgenstein, philosopher -
   On the hundredth anniversary of his *Tractatus*.
 
-  More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
+  More about *Tractatus* at 26 Jul 2020
 
- 7 Nov 2021  <a name="7-Nov-2021"></a>
+ 7 Nov 2021
 
 - <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
   The Absolute Minimum Every Software Developer Absolutely, Positively
@@ -91,7 +98,7 @@ Companion page, a commonplace book:
 
   Meta: pages *about* some of the technology behind computer typography.
 
- 6 Nov 2021  <a name="6-Nov-2021"></a>
+ 6 Nov 2021
 
 - <https://same.energy/> - Same Energy - 
   "We believe that image search should be visual, using only a minimum  of
@@ -105,13 +112,13 @@ Companion page, a commonplace book:
   images. You can create feeds in just the same way: save images to create
   a collection of seed images, then look at the recommended images. ..."
 
- 5 Nov 2021  <a name="5-Nov-2021"></a>
+ 5 Nov 2021
 
 - <https://vis.sciencemag.org/chemhaiku/> - Elemental Haiku - 
   "A review of the Periodic Table composed of 119 science haiku, one for
   each element ..."
 
- 2 Nov 2021  <a name="2-Nov-2021"></a>
+ 2 Nov 2021
 
 - <https://animationobsessive.substack.com/p/what-the-upa-style-actually-is> -
   What the 'UPA Style' Actually Is - "(In the 1930s)
@@ -155,14 +162,14 @@ Companion page, a commonplace book:
   The author uploaded a smaller PDF to the Internet Archive, for much
   easier browsing: <https://archive.org/details/cartoonmodern/mode/2up>
 
-29 Oct 2021  <a name="29-Oct-2021"></a>
+29 Oct 2021
 
 - <https://altvis.github.io/> - alt.VIS - 
   "All accepted submissions have been certified 'sufficiently weird' ...
   Provocations, manifestos, or other critiques of visualization research
   and practice ..."
 
-28 Oct 2021  <a name="28-Oct-2021"></a>
+28 Oct 2021
 
 - <http://www.michael-deforge.com/> Michael DeForge, illustrator and cartoonist -
   for example <http://www.michael-deforge.com/familiar-face> -
@@ -174,20 +181,20 @@ Companion page, a commonplace book:
   submitted may claw at your nerves, cause bouts of asphyxiation,
   dizziness, drowsiness or excitability."
 
-21 Sep 2021  <a name="21-Sep-2021"></a>
+21 Sep 2021
 
 - <https://text.causal.agency/> - Unusual blog design.
 
 - <https://your-editor.org/> - Typography and layout well-matched
   to a page for a text editor.
 
-10 Aug 2021  <a name="10-Aug-2021"></a>
+10 Aug 2021
 
 - <https://ertdfgcvb.xyz/p2/the-puddle/> -
   "Posters and flyers for The Puddle, live electronic music and dj sets
   around Zurich. Processing was used for the production of the rasters."
 
-19 Jul 2021  <a name="19-Jul-2021"></a>
+19 Jul 2021
 
 - <https://ozake.com/> - A website made entirely from SVG.
 
@@ -195,7 +202,7 @@ Companion page, a commonplace book:
   "... seriousness is not always the best way to fight back against
   a system that doesn't care about you ..."
 
- 1 Jul 2021, 4 Jul 2021  <a name="1-Jul-2021"></a>
+ 1 Jul 2021, 4 Jul 2021
 
 - <https://txt.fyi/about/> - "Write something, hit publish, and it's live. ...
   The only practical way for anyone to find out about a posting is if the
@@ -208,7 +215,7 @@ Companion page, a commonplace book:
   via <https://news.ycombinator.com/item?id=27724236> with many comments from the
   author.
 
- 8 Jun 2021  <a name="8-Jun-2021"></a>
+ 8 Jun 2021
 
 - <https://darkmatters.xyz/> -
   "The self-published book you are reading is a ... collaborative
@@ -221,13 +228,13 @@ Companion page, a commonplace book:
   We will look to the history of the love letter as a form ..."
 
 
-29 May 2021  <a name="29-May-2021"></a>
+29 May 2021
 
 - <https://www.zenpencils.com/newreaders/> - "Cartoon quotes from 
   inspirational folks" - Comic strips illustrating or interpreting the
   quotes, and text about the authors.
 
-28 May 2021  <a name="28-May-2021"></a>
+28 May 2021
 
 - <https://swtch.com/lguest/> - "a lightweight x86 virtual machine monitor 
   for Linux ... written in a literate programming style ..."
@@ -240,32 +247,32 @@ Companion page, a commonplace book:
   "... I'll try to go through as many Rust snippets as I can, and explain
   what the keywords and symbols they contain mean."
 
-26 May 2021  <a name="26-May-2021"></a>
+26 May 2021
 
 - <https://anewsession.com/> - "We're starting over. ...
   Remember: the internet didn't have to be like this. A better world is
   possible.
 
-12 May 2021  <a name="12-May-2021"></a>
+12 May 2021
 
 - <https://www.visualizingsep.com/#/entries/induction-problem/> -
   "Visualizing SEP is an interactive data visualization for exploring
   the *Stanford Encyclopedia of Philosophy*. ..."
 
-14 Apr 2021  <a name="14-Apr-2021"></a>
+14 Apr 2021
 
 - <https://marinakittaka.com/posts/2021-02-26-Good-Ol-Charlie-B.html> -
   *Peanuts* comic strip artwork and characters brought into the present.
 
-  The new *Nancy* comic strip is at [27 Nov 2018](#27-Nov-2018) below.
+  The new *Nancy* comic strip is at 27 Nov 2018 below.
 
-31 Mar 2021  <a name="31-Mar-2021"></a>
+31 Mar 2021
 
 - <https://esoteric.codes/blog/jon-corbett> - 
   "Jon Corbett's languages *Cree#* and *Ancestral Code* allow programming in
   Cree keywords using Cree concepts and metaphors. ...
 
-13 Mar 2021  <a name="13-Mar-2021"></a>
+13 Mar 2021
 
 - <https://www.volver.ca/genres/> - "An appointment-only record store ...
   You browse online and pick up in person. I do not ship."
@@ -274,7 +281,7 @@ Companion page, a commonplace book:
   *jazz*. Click on any album cover to enlarge and see both sides, liner
   notes and more.
 
-11 Mar 2021  <a name="11-Mar-2021"></a>
+11 Mar 2021
 
 - <https://github.com/tilleul/apple2/tree/master/tools/6502_assembler> -
   "This is a full-featured 6502 assembler with linker in a
@@ -284,7 +291,7 @@ Companion page, a commonplace book:
   animated graphics with music, all in 256 bytes of 6502 assembler
   for Commodore 64, with a byte-by-byte explanation of how it works.
 
- 7 Mar 2021, 31 Mar 2021, 26 Apr 2021  <a name="7-Mar-2021"></a>
+ 7 Mar 2021, 31 Mar 2021, 26 Apr 2021
 
 - <https://vole.wtf/kilobytes-gambit/> - The Kilobytes Gambit - 
   "Can you beat 1024 bytes of Javascript?" - Click *Next*, then *How it
@@ -300,7 +307,7 @@ Companion page, a commonplace book:
   See also <https://github.com/thomasahle/sunfish>, a small
   -- but well-explained -- chess engine in Python.
 
-28 Feb 2021  <a name="28-Feb-2021"></a>
+28 Feb 2021
 
 - <https://github.com/nornagon/jonesforth/blob/master/jonesforth.S> -
   A 'literate program' presented in a single assembly language source
@@ -325,7 +332,7 @@ Companion page, a commonplace book:
   system for Raspberry Pi, based on *Jonesforth*, and also
   <https://github.com/kragen/stoneknifeforth>
 
-22 Jan 2021  <a name="22-Jan-2021"></a>
+22 Jan 2021
 
 - <http://www.gutenberg.org/files/49965/49965-h/49965-h.htm> - 
   Dao De Jing by Lao Zi, A Minimalist Translation -
@@ -352,7 +359,7 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=25917632> and 
   <https://news.ycombinator.com/item?id=25912863>
 
- 7 Jan 2021, 24 Jan 2021  <a name="7-Jan-2021"></a>
+ 7 Jan 2021, 24 Jan 2021
 
 - <http://taeyoonchoi.com/poetic-computation/handmade-computers/handmade-computer/> - Handmade Computer Workshop - 
   "I've been making primitive computers with discrete components and logic
@@ -367,13 +374,13 @@ Companion page, a commonplace book:
   relays, similar to early computers before the invention of
   semiconductors. ..."
 
- 5 Jan 2021  <a name="5-Jan-2021"></a>
+ 5 Jan 2021
 
 - <https://www.are.na/blog/commonplace-books> - Commonplace Books - *by
   keeping an account of your readings, you made a book of your own,   one
   stamped with your personality.* - Robert Danton
 
- 1 Jan 2021  <a name="1-Jan-2021"></a>
+ 1 Jan 2021
 
 - <https://github.com/marcpaq/arpilisp/blob/master/arpilisp.s> -
   Lisp Interpreter for Raspberry Pi -
@@ -381,7 +388,7 @@ Companion page, a commonplace book:
   program file, including an introduction to Lisp and an introduction to
   ARM assembly.
 
-30 Dec 2020  <a name="30-Dec-2020"></a>
+30 Dec 2020
 
 - <https://www.readingdesign.org/> - 
   "Reading Design is an online archive of critical writing about design.
@@ -391,11 +398,11 @@ Companion page, a commonplace book:
 - <https://gossipsweb.net/> - "the directory of handmade webpages" -
   Click *directory* etc. near the top to see more.  From the author of
   <https://special.fish/> and other sites 
-  at [28 May 2020](#28-May-2020) below.  Compare
+  at 28 May 2020 below.  Compare
   also to <https://thecreativeindependent.com/archive/> and
   <https://www.eigenbahn.com/>
 
-19 Dec 2020  <a name="19-Dec-2020"></a>
+19 Dec 2020
 
 - <https://www.masswerk.at/spacewar/> - "This is a virtual DEC PDP-1 emulated
   in HTML5/JavaScript running the original code of "Spacewar!",
@@ -422,7 +429,7 @@ Companion page, a commonplace book:
   More about the first PDP-1s, with explanations and close-up photos of their
   consoles: <https://www.masswerk.at/nowgobang/2021/pdp1-spotting>
 
- 7 Nov 2020  <a name="7-Nov-2020"></a>
+ 7 Nov 2020
 
 - <http://tomasp.net/commodore64/> - The Lost Ways of Programming: Commodore
   64 BASIC - "In this interactive article, we will build a breakout game using
@@ -431,7 +438,7 @@ Companion page, a commonplace book:
 
 - <https://tixy.land/> - "Most minimalist creative coding environment"
 
-29 Oct 2020  <a name="29-Oct-2020"></a>
+29 Oct 2020
 
 - <https://blog.bela.io/2020/06/05/hacking-the-banjo-jonathan-reus/> -
   Hacking the Five-String Banjo
@@ -463,7 +470,7 @@ Companion page, a commonplace book:
 
   With photos, circuit diagrams, code, and videos.
 
-16 Oct 2020  <a name="16-Oct-2020"></a>
+16 Oct 2020
 
 - <http://screenl.es/why.html> - The Screenless Office
 
@@ -474,7 +481,7 @@ Companion page, a commonplace book:
 
   Comments <https://news.ycombinator.com/item?id=15960056>
 
-13 Oct 2020  <a name="13-Oct-2020"></a>
+13 Oct 2020
 
 - <https://wiki.xxiivv.com/site/plan9.html>
 
@@ -488,7 +495,7 @@ Companion page, a commonplace book:
 
   "a particularly compact and suitably futuristic feeling setup"
 
-12 Oct 2020  <a name="12-Oct-2020"></a>
+12 Oct 2020
 
 - <http://warsus.github.io/lions-/> - A Commentary on the Sixth Edition
   Unix Operating System (1977)
@@ -499,7 +506,7 @@ Companion page, a commonplace book:
   The famous Lions' book, with the commentary side-by-side with the code.
   An example of a 'literate program'.
 
-10 Oct 2020  <a name="10-Oct-2020"></a>
+10 Oct 2020
 
 - <https://juliamono.netlify.app/>
 
@@ -519,7 +526,7 @@ Companion page, a commonplace book:
   Appears to be for real, with sincere photos of obviously homebuilt
   equipment.
 
-26 Sep 2020  <a name="26-Sep-2020"></a>
+26 Sep 2020
 
 - <http://fivedots.coe.psu.ac.th/~ad/computerComics/index.html> - 
   The First Appearance of a Real Computer in a Comic Book
@@ -528,7 +535,7 @@ Companion page, a commonplace book:
   "Each date is linked to a beautifully composed PDF document that is
   absolutely bursting with revelations that will *make you gasp*. ..."
 
-22 Sep 2020  <a name="22-Sep-2020"></a>
+22 Sep 2020
 
 - <https://www.leshenko.net/p/ugit/> - ugit: DIY Git in Python 
 
@@ -540,7 +547,7 @@ Companion page, a commonplace book:
 
   Contrast to <http://gitlet.maryrosecook.com/docs/gitlet.html>
 
-14 Sep 2020  <a name="14-Sep-2020"></a>
+14 Sep 2020
 
 - <https://www.typelit.io/>
 
@@ -550,7 +557,7 @@ Companion page, a commonplace book:
   *1984, Anne of Green Gables, Moby Dick, Sense and Sensibility, The Souls
   of Black Folk*, and many more.
 
- 8 Sep 2020  <a name="8-Sep-2020"></a>
+ 8 Sep 2020
 
 - <https://geometryexpressions.com/gxweb/help/intro/Hypotenuse/index.html>
 
@@ -558,7 +565,7 @@ Companion page, a commonplace book:
   right angle, that comes later. ...  Now we'll worry about the right angle...
   Set the lengths of AB and BC to be x and y. ... "
 
-30 Aug 2020  <a name="30-Aug-2020"></a>
+30 Aug 2020
 
 - <https://tilde.town/~severak/gallery/> - Click on any entry to load that page.
   For example, <https://tilde.town/~dustin/projects/tilde-social/>
@@ -588,7 +595,7 @@ Companion page, a commonplace book:
   Similar to tilde-social, tongue-in-cheek proposal for Plan 9 distributed
   operating system: <https://marc.info/?l=9fans&m=145938929813894&w=2>
 
-22 Aug 2020  <a name="22-Aug-2020"></a>
+22 Aug 2020
 
 - <http://rotormind.com/blog/2020/Analog-Synthesis-Workshop/>
 
@@ -602,13 +609,13 @@ Companion page, a commonplace book:
 
 - <https://github.com/tamg/zaha>
 
-14 Aug 2020  <a name="14-Aug-2020"></a>
+14 Aug 2020
 
 - <https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html>
 
 - <https://richardjharris.github.io/unicode-in-five-minutes.html>
 
- 3 Aug 2020  <a name="3-Aug-2020"></a>
+ 3 Aug 2020
 
 - <https://anagalvan.com/> - Ana Galvan, for example:
 
@@ -618,7 +625,7 @@ Companion page, a commonplace book:
 
 - <https://www.onasunbeam.com/> - On a Sunbeam, by Tillie Walden
 
-26 Jul 2020  <a name="26-Jul-2020"></a>
+26 Jul 2020
 
 - <http://tractatus.lib.uiowa.edu/map/> -
   Visualization of Wittgenstein's *Tractatus*, like the London subway map.
@@ -638,7 +645,7 @@ Companion page, a commonplace book:
 
   <http://wittgensteinrepository.org/agora-ontos/article/view/2076>
 
- 7 Jul 2020, 2 May 2021  <a name="7-Jul-2020"></a>
+ 7 Jul 2020, 2 May 2021
 
 - <https://wizardzines.com/comics/> - "programming zines by Julia Evans ...
   here are some of my favorite pages ..."   Brief hand-drawn and
@@ -652,7 +659,7 @@ Companion page, a commonplace book:
   and <https://sachachua.com/blog/wp-content/uploads/2013/08/20130830-The-Grumpy-Guide-How-to-Learn-Emacs-Keyboard-Shortcuts1.png>
   and <https://sachachua.com/blog/wp-content/uploads/2013/07/2014-02-27-Map-for-getting-the-hang-of-Emacs-movement-emacs-map-guide.png>
 
- 3 Jun 2020  <a name="3-Jun-2020"></a>
+ 3 Jun 2020
 
 - <http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/> - 
   "... one question led to the next and eventually I was asking: how do
@@ -662,7 +669,7 @@ Companion page, a commonplace book:
   and advice. Also <https://news.ycombinator.com/item?id=23394750> with
   still more about graphics without X11.
 
-28 May 2020  <a name="28-May-2020"></a>
+28 May 2020
 
 - <https://elliott.computer/> - "Elliott is looking to work on the 
   Mister Rogers' Neighborhood of the internet."
@@ -755,11 +762,11 @@ Companion page, a commonplace book:
   computers. Narrated by Hollywood actor Gregory Peck (Atticus Finch!)
   with music by film composer Elmer Bernstein and jazz dummer Shelly Manne.
 
-14 May 2020  <a name="14-May-2020"></a>
+14 May 2020
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 8 Oct 2021:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 8 Oct 2021:
    designs for blogs, personal web pages, etc., most recent at the top.
 
 - <https://crypto.stanford.edu/~blynn/compiler/> - 
@@ -827,21 +834,21 @@ Companion page, a commonplace book:
 
 - <http://linux.topology.org/> - "linux micro-howto notes ... share the pain" and links to more.
 
-17 Apr 2020  <a name="17-Apr-2020"></a>
+17 Apr 2020
 
 - <https://github.com/shreevatsa/knuth-literate-programs/blob/master/programs/advent.pdf> -
   "The ur-game for computers, Adventure ... I have taken (Crowther and)
   Wood's original FORTRAN program ... and recast it in the CWEB idiom."
   Typeset from Knuth's CWEB code at <https://cs.stanford.edu/~knuth/programs.html>
 
-16 Apr 2020  <a name="16-Apr-2020"></a>
+16 Apr 2020
 
 - <https://tools.ietf.org/html/rfc1180> - "RFC 1180, A TCP/IP Tutorial"
   ASCII-only RFC converted to HTML, still in its original typewriter font
   and formatting, but with internal and external hyperlinks.
   Via this page for all the RFCs etc. <https://tools.ietf.org/html/>
 
-14 Apr 2020  <a name="14-Apr-2020"></a>
+14 Apr 2020
 
 - <https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/22/1437585075275/0874b6b2-7ace-4752-b81d-dbf5282946cd-2060x1236.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=d1905baf3c55b861f567992eb2af6b76> -  
   John Conway playing Life on a PDP-1, from this article:
@@ -852,7 +859,7 @@ Companion page, a commonplace book:
 
 - <https://imgs.xkcd.com/comics/rip_john_conway.gif> - John Horton Conway, 1937 -- 2020
 
-11 Apr 2020  <a name="11-Apr-2020"></a>
+11 Apr 2020
 
 - <http://worrydream.com/dbx/> - "The Future of Programming", a talk in
   2013 by Bret Victor.  The conceit: it is 1973, and the speaker gives
@@ -863,13 +870,13 @@ Companion page, a commonplace book:
   "list of computer history videos, documentaries and related folklore",
   with links.  Also, <https://news.ycombinator.com/item?id=22692281> on books.
 
-10 Apr 2020  <a name="10-Apr-2020"></a>
+10 Apr 2020
 
 - <https://zserge.com/posts/j/> - "Ode to J" - expansion and explanation 
   of the *Incunabulum*, an interpreter for the J language
   in one page of C, written in an idiosyncratic, very compressed style.
 
- 9 Apr 2020  <a name="9-Apr-2020"></a>
+ 9 Apr 2020
 
 - <https://alternativebit.fr/posts/ultimate-writer/> - 
   "A digital typewriter based on a Raspberry Pi and an E-Ink screen. ...
@@ -877,7 +884,7 @@ Companion page, a commonplace book:
   I started the whole prototype build with an assertion in mind: I need to
   reach a usable state for this project as quick as possible. ..."
 
- 8 Apr 2020  <a name="8-Apr-2020"></a>
+ 8 Apr 2020
 
 - <https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/> - 
   "In this game, you get own version of the natural numbers, called *mynat* ...
@@ -895,7 +902,7 @@ Companion page, a commonplace book:
   it's like the perfect scratch pad, focusing your mind on the goal while
   keeping track of all your assumptions and checking your thinking. ..."
 
- 7 Apr 2020  <a name="7-Apr-2020"></a>
+ 7 Apr 2020
 
 - <https://toki.increpare.com/ilo-sitelen/> - 
   "... ilo sona  ale li wile toki kepeken toki Inli. ni li ike tawa mi. mi
@@ -909,7 +916,7 @@ Companion page, a commonplace book:
   there are no ads, no pressure, only code and text. ..."
   Striking minimal non-design on parent page: <https://txt.black/~jack/>
 
- 5 Apr 2020  <a name="5-Apr-2020"></a>
+ 5 Apr 2020
 
 - <https://increment.com/programming-languages/crash-course-in-compilers/> -
   for the design and artwork, and links to similar pages.
@@ -929,7 +936,7 @@ Companion page, a commonplace book:
 - <https://itch.io/jam/merveilles-hyperjam> - Games recently written in HyperCard, 
   the much admired end-user programming tool for the early Macintosh.
 
-25 Mar 2020  <a name="25-Mar-2020"></a>
+25 Mar 2020
 
 - <https://web.mit.edu/music21/doc/about/what.html> - 
   "People use *music21* to answer questions from musicology using computers,
@@ -937,7 +944,7 @@ Companion page, a commonplace book:
   fundamentals of music theory, to edit musical notation, study music and
   the brain, and to compose music ..."
 
-23 Mar 2020, 25,27 Mar 2020, 2 Jul 2020  <a name="23-Mar-2020"></a>
+23 Mar 2020, 25,27 Mar 2020, 2 Jul 2020
 
 - <https://kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx?mkt_tok=eyJpIjoiTXpFMU5qSmxNR0ppWXpNdyIsInQiOiJqdjlNVDNjMmFldExuSVpIdkpqQWVVN0hEM3FDV09Hb0VMbFdydlRGK2hBenI4TjEwaW1iZExDNE9uSFwvejFsQlgxaTI0VXViNUJWZ1dBSGlvZlRpU0Y3RkZIcEFlV0FkZWJmT3NpaUlhMEFYQnhZcEw0bjBJODhNUXo1dzJaUHUifQ%3D%3D>
   King County, WA (Seattle etc.) - Daily COVID-19 outbreak summary
@@ -956,7 +963,7 @@ Companion page, a commonplace book:
   virus reaches 100 people the number of cases begins to increase by 35%
   daily. ..."  Graphs for each US state and many countries.
 
-23 Mar 2020  <a name="23-Mar-2020"></a>
+23 Mar 2020
 
 - <http://blog.snailtext.com/posts/the-joy-in-csh-and-vi.html> -
   "... perhaps those who got there first could avoid the dangers that ossify
@@ -964,7 +971,7 @@ Companion page, a commonplace book:
   use their tools several decades later is that, like great symphonies,
   they're just that darn good."
 
- 2 Mar 2020  <a name="2-Mar-2020"></a>
+ 2 Mar 2020
 
 - <https://kottke.org/tag/design> - Jason Kottke - "... 
   art, technology, science, visual culture, design, music,
@@ -979,7 +986,7 @@ Companion page, a commonplace book:
 - <https://thecreativeindependent.com/archive/> - The Creative Independent - 
   "A growing resource of emotional and practical guidance for creative people ..."
 
-21 Feb 2020  <a name="21-Feb-2020"></a>
+21 Feb 2020
 
 - <http://www.nomodes.com/pub_manual.html> - "PUB: The Document
   Compiler" - 1972 report from the Stanford AI Lab by Larry Tesler,
@@ -988,20 +995,20 @@ Companion page, a commonplace book:
   Via <https://news.ycombinator.com/item?id=22361282>, memories of 
   Tesler by friends and colleagues.
 
-21 Feb 2020  <a name="21-Feb-2020"></a>
+21 Feb 2020
 
 - <https://github.com/arcfide/ALE/blob/master/code_dump.txt> - source
   code in APL for ALE, "a programmable, composable, but simpler and
   more streamlined, syntactically consistent replacement for the
   venerable *ed*".  Explained at <https://github.com/arcfide/ALE>
 
-31 Jan 2020  <a name="31-Jan-2020"></a>
+31 Jan 2020
 
 - https://shapero.xyz/ for example <https://shapero.xyz/posts/variational-calculus/> - 
   "... This is a classic example in variational calculus, which I'll
   assume you're familiar with. ..."   Text, math, code and graphics.
 
-29 Jan 2020  <a name="29-Jan-2020"></a>
+29 Jan 2020
 
 - <https://sfpc.io/code-societies/> - 
   "... re-introducing yourselves to computers   ...   How do different
@@ -1025,7 +1032,7 @@ Companion page, a commonplace book:
   "... an esoteric programming language ... guaranteed to be readable by
   ancient Chinese people ..."
 
-14 Apr 2019  <a name="14-Apr-2019"></a>
+14 Apr 2019
 
 - <http://www.laffpix.com/howtoreadnancy.pdf> - How To Read Nancy by Mark
   Newgarden and Paul Karasik - "'How to read Nancy?' you may sneer, 'You
@@ -1043,13 +1050,13 @@ Companion page, a commonplace book:
 
   (See link below to the new Nancy strip by another cartoonist.)
 
-27 Nov 2018  <a name="27-Nov-2018"></a>
+27 Nov 2018
 
 - <https://www.gocomics.com/nancy/2018/04/09> - Nancy - Contemporary take
   on the ancient comic strip by a new cartoonist:
   <https://www.vulture.com/2018/11/new-nancy-cartoonist-olivia-jaimes.html>
 
- 7 Oct 2018  <a name="7-Oct-2018"></a>
+ 7 Oct 2018
 
 - <http://studyhall.xyz/blog/libraries-coworking-jackdenton> - Writer
   reports on working at four NYC public library branches. "If I told
@@ -1057,7 +1064,7 @@ Companion page, a commonplace book:
   believe me?"  Great photos, interesting page design and typography on
   this and linked pages.
 
-25 Jun 2018  <a name="25-Jun-2018"></a>
+25 Jun 2018
 
 - <http://recodeproject.com/> - "...a community-driven effort to
   preserve computer art by translating it into a modern programming
@@ -1074,13 +1081,13 @@ Companion page, a commonplace book:
   Oxford University Press, 1971.  PDF includes the entire 44 page
   book. via <https://news.ycombinator.com/item?id=17338092>
 
-11 Jun 2018  <a name="11-Jun-2018"></a>
+11 Jun 2018
 
 - <https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/>
   Many beautiful pictures and links to more of his work.  More Haeckel
-  drawings at [2 Nov 2017](#2-Nov-2017) below.
+  drawings at 2 Nov 2017 below.
 
-31 May 2018  <a name="31-May-2018"></a>
+31 May 2018
 
 - <http://www.bldgblog.com/2018/05/journey-of-a-single-line/> -
   "... Wacław Szpakowski was a trained architect who dedicated an
@@ -1090,7 +1097,7 @@ Companion page, a commonplace book:
   <http://miguelabreugallery.com/exhibitions/grounding-vision-waclaw-szpakowski/>
   (click images link in upper right corner)
 
-22 May 2018, 31 Mar 2021  <a name="22-May-2018"></a>
+22 May 2018, 31 Mar 2021
 
 - <http://www.ubuweb.com/> UbuWeb.  "All avant-garde.  All the time."
   One of many many pages is <http://www.ubu.com/emr/> Electronic Music
@@ -1100,7 +1107,7 @@ Companion page, a commonplace book:
 
   About: <https://lrb.co.uk/the-paper/v43/n07/gill-partington/your-hat-sucks>
 
-26 Apr 2018  <a name="26-Apr-2018"></a>
+26 Apr 2018
 
 - <https://www.popsci.com/quantum-computer-photos> - "Yale University
   applied physicists Robert Schoelkopf and Michel Devoret pioneered a
@@ -1109,13 +1116,13 @@ Companion page, a commonplace book:
   operation—and a very cold fridge."  Impressive photos of cryogenics
   and microwave electronics.
 
-16 Apr 2018  <a name="16-Apr-2018"></a>
+16 Apr 2018
 
 - <http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html> - "We have set out to trace the evolution of American comics by
   looking at 100 pages that altered the course of the field’s
   history." From 1929 to 2014.
 
-31 Mar 2018  <a name="31-Mar-2018"></a>
+31 Mar 2018
 
 - <https://www.moma.org/interactives/exhibitions/2011/AccesstoTools/> -
   "Publications from the Whole Earth Catalog, 1968-1974" with
@@ -1124,7 +1131,7 @@ Companion page, a commonplace book:
   page by yellowed page scan of the classic Last Whole Earth Catalog:
   <https://archive.org/details/B-001-013-719>
 
-28 Mar 2018  <a name="28-Mar-2018"></a>
+28 Mar 2018
 
 - <https://www.moma.org/calendar/exhibitions/3863?locale=en> - "Thinking
   Machines: Art and Design in the Computer Age, 1959–1989, The Museum
@@ -1135,18 +1142,18 @@ Companion page, a commonplace book:
   via <https://news.ycombinator.com/item?id=16701009> responding to 
   <https://www.ibm.com/plex/> - "IBM Plex™ is our new typeface."
 
-19 Mar 2018  <a name="19-Mar-2018"></a>
+19 Mar 2018
 
 - <https://idea-instructions.com/> - "An ongoing series of nonverbal
   algorithm assembly instructions" - in the style of Ikea
   instructions!
 
-20 Jan 2018  <a name="20-Jan-2018"></a>
+20 Jan 2018
 
 - <http://mad4j.github.io/book-mdpc/> - Minimalist movie posters
   generated using Processing programming language
 
- 3 Jan 2018  <a name="3-Jan-2018"></a>
+ 3 Jan 2018
 
 - <http://www.hellophia.com/> web page of comic/graphic artist Sophia
   Foster-Dimino - unusually good use of color and subtle animation, for
@@ -1159,33 +1166,33 @@ Companion page, a commonplace book:
   <https://www.theverge.com/2017/12/22/16807260/best-comics-of-2017> and
   several other best-of-2017 lists.
 
- 3 Dec 2017  <a name="3-Dec-2017"></a>
+ 3 Dec 2017
 
 - <http://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/>
   with embedded video and animated GIFs from the film.
 
-13 Nov 2017  <a name="13-Nov-2017"></a>
+13 Nov 2017
 
 - <http://nibrahim.net.in/2017/11/04/pycon_india_2017_keynote.html>
   Creating a presentation by hand using calligraphy
 
- 9 Nov 2017  <a name="9-Nov-2017"></a>
+ 9 Nov 2017
 
 - <https://www.atlasobscura.com/articles/how-a-retrofuturist-spends-three-days-in-los-angeles>
   That's just another good recent example of Atlas Obscura, which should
   really be in there.  See also 7 Mar above.
 
-2 Nov 2017  <a name="2-Nov-2017"></a>
+2 Nov 2017
 
 - <https://www.theguardian.com/books/gallery/2017/nov/01/ernst-haeckel-the-art-of-evolution-in-pictures>
   Amazing 19th century biological illustrations.  via <http://www.metafilter.com/170327/Stop-Haeckel-time>, may have better links than Guardian
 
-27 Sep 2017  <a name="27-Sep-2017"></a>
+27 Sep 2017
 
 - <http://thin.npr.org/> - Text-only NPR.  HN thread shows lots of variations
   using minimal CSS etc.
 
-14 Sep 2017  <a name="14-Sep-2017"></a>
+14 Sep 2017
 
 - <https://textonly.website/index.html> - "A text-only list of text-only
   websites".  BUT they are in "beautiful, unadorned HTML" not ASCII.
@@ -1197,63 +1204,63 @@ Companion page, a commonplace book:
   industrial designer Raymond Loewy.  Links to www.theverge.com
    "the man who designed everything" and www.raymondleowy.com
 
-11 Aug 2017  <a name="11-Aug-2017"></a>
+11 Aug 2017
 
 - <https://www.youtube.com/watch?v=qqM3McG4-LE> Saul Bass: Famous title
    sequences from Preminger to Scorsese, 23 movies > 1 hour, via
    <http://www.metafilter.com/168771/I-want-to-make-beautiful-things-even-if-nobody-cares>
 
-26 May 2017  <a name="26-May-2017"></a>
+26 May 2017
 
 - <https://labs.rs/en/> - research on privacy, Facebook, security also
    notable graphic design <http://www.bbc.com/news/business-39947942> -
    BBC news story about this research
 
-25 May 2017  <a name="25-May-2017"></a>
+25 May 2017
 
 - <https://mathwithbaddrawings.com/2017/05/17/the-joy-of-slightly-fishy-proofs/>
 
-20 Apr 2017  <a name="20-Apr-2017"></a>
+20 Apr 2017
 
 - <http://www.signsforscience.com/sign/carol-gunn-gunn-graphics> -
   science march posters
 
 - <http://www.harkavagrant.com/archivecat.php>
 
-10 Apr 2017  <a name="10-Apr-2017"></a>
+10 Apr 2017
 
 - <https://bookillustrations.quora.com/> via Mefi post, for example
    <https://bookillustrations.quora.com/Boris-Artzybasheffs-Illustrations-for-Creatures>
 
-31 Mar 2017  <a name="31-Mar-2017"></a>
+31 Mar 2017
 
 - <https://i.redd.it/uaab4tb56soy.png>
   3x3 alphanumeric font, surprisingly legible. (in typography, links.html, 23 Mar 2017)
 
-31 Mar 2017  <a name="31-Mar-2017"></a>
+31 Mar 2017
 
 - <https://www.behance.net/gallery/50164479/WHOS-AFRAID-OF-RED-YELLOW-AND-BLUE>
   Striking photos of big buildings etc in The Hague decked out like
   Mondrian paintings for the 100th anniversary of the De Stijl
   movement.
 
-25 Mar 2017  <a name="25-Mar-2017"></a>
+25 Mar 2017
 
 - <http://www.poster.pl/polish_poster_artists.html>
 
-20 Jan 2017  <a name="20-Jan-2017"></a>
+20 Jan 2017
 
 - <https://omgfacts.com/we-used-to-have-6-more-letters-in-our-alphabet-a7e1a165853d#.pd56w4he6>
   <https://news.ycombinator.com/item?id=13408797>
   The lost letters of the English alphabet, 195 HN comments many correcting errors
 
- 7 Jan 2017  <a name="7-Jan-2017"></a>
+ 7 Jan 2017
 
 - 2017.sucks simple website JS demo with nice graphic desing
   via HN <https://2017.sucks/#/>
   <https://github.com/alexbowers/2017.sucks>
 
-13 Dec 2016  <a name="13-Dec-2016"></a>
+13 Dec 2016
 
 - Ancient languages in 10 lessons at
   www.openculture.com/2014/01/learn-latin....  Latin Greek Old English
