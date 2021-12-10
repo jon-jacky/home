@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 9 Dec 2021  <a name="9-Dec-2021"></a>
+
+- <https://indigo.ooo/en/> - Festival Indigo, an arts festival in Croatia.
+  Links to previous years in upper right corner of first schedul page,
+  all but 2020 work.
+
 27 Nov 2021  <a name="27-Nov-2021"></a>
 
 - <https://www.mcmaster.com/> - McMaster-Carr - Amazingly comprehensive and 
