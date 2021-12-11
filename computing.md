@@ -744,7 +744,7 @@ Companion page, a commonplace book:
   Many other articles by these authors about computing history at
   <http://www.tomandmaria.com/Tom/Home>
 
- 9 Feb 2021  <a name="9-Feb-2021"></a>
+ 9 Feb 2021, also 10 Dec 2021  <a name="9-Feb-2021"></a>
 
 - <https://esoteric.codes/blog/100-rabbits> - *Esoteric Codes*, 2021-02-04,
   Interview with 100 Rabbits:
@@ -804,6 +804,15 @@ Companion page, a commonplace book:
   and less people that are interested in that kind of stuff, I can still
   try to live in that space and build things for that space. I'm pretty
   sure it's a completely forgotten demographic. ..."
+
+  <https://sourcehut.org/blog/2021-12-08-100-rabbits-interview/> - 
+  An interview with 100 rabbits
+
+  "... Because we work entirely from donated second-hand devices, backward
+  compatibility is more important to us at this point. In our eyes, better
+  software is software that gets smaller over time, that sheds the
+  superfluous, and that reaches further backward in time for that onto
+  which it can run. ..."
 
 21 Jan 2021  <a name="21-Jan-2021"></a>
 
