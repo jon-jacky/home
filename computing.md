@@ -3281,7 +3281,7 @@ Companion page, a commonplace book:
   and every (scan)line, including the sync code must take exactly 1820 clock
   cycles. ..."
 
-- <http://www.breatharian.eu/hw/atx80/index_en.html> - ATX-80 -   
+- <http://www.breatharian.eu/hw/atx80/index_en.html> - ATX-80 -
   Ingenious DIY re-creation of the 1980 Sinclair ZX-80 home computer,
   including a compatible built-in BASIC.  Built from modern parts, with an
   ATmega8 processor replacing the Z80, on a 100x75 mm single-sided
@@ -3307,7 +3307,8 @@ Companion page, a commonplace book:
   with an ATMega328 processor.  Photos and schematics show the Arduino
   plugged into a solderless breadboard along with a few passive components
   to mix the software-generated video signals from the Arduino pins, and
-  connectors to the power, video monitor, and USB keyboard.
+  connectors to the power, video monitor, and USB keyboard.  Code at
+  <https://github.com/michalin/Arduino-C64-Emulator/tree/main/C64>
 
 21 May 2018  <a name="21-May-2018"></a>
 
