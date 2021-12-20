@@ -20,7 +20,7 @@ Companion page, a commonplace book:
   there are many types of programming languages and this is an incredibly
   broad question ..."
 
-  *Ooksier* answers: "Badass programmers don't really think in computer
+  *Ookseer* answers: "Badass programmers don't really think in computer
   languages (Javascript, C, Haskell, Ruby, etc). They think in the ur-
   language of computers, in the capabilities. All languages ultimately do
   the same thing, just muck about with CPUs. Most languages have strengths
