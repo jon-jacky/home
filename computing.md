@@ -10,6 +10,52 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+19 Dec 2021  <a name="19-Dec-2021"></a>
+
+- <https://ask.metafilter.com/224599/Becoming-an-awesome-programmer#3248957> -
+  Becoming an awesome programmer
+
+  *rastapasta* asks: "If I wanted to become a badass programmer, where
+  would I start?   Let's say I have no experience now ... I understand
+  there are many types of programming languages and this is an incredibly
+  broad question ..."
+
+  *Ooksier* answers: "Badass programmers don't really think in computer
+  languages (Javascript, C, Haskell, Ruby, etc). They think in the ur-
+  language of computers, in the capabilities. All languages ultimately do
+  the same thing, just muck about with CPUs. Most languages have strengths
+  and they all have weaknesses but they all have similarities. They all
+  have ways to create or summon data, analyze and manipulate it, and act
+  on that data. Languages (And the computers they run on) vary with their
+  ability and ease that they do that stuff, but they all do it. They're
+  really good at breaking a concept down into smaller and smaller chunks
+  until they get a hunk small enough to hook some computer language on.
+
+  In fact calling them "languages" is a bit of a misnomer. A language is
+  something that you have to study for years to be proficient in. Computer
+  languages are more like recipes. Two recipes might be different, they
+  might use metric vs imperial units, might have the ingredients and
+  instructions in different orders, but at the end of both you'll get a
+  chocolate cake. When you learn a new computer language you're really
+  learning how to read and write a different recipe format. You already
+  know what a cake is. You're just arranging it to use the units,
+  ingredients, and tools that your computer understands. Some languages
+  understand what "whisk into a foam" means, some don't so you either look
+  it up and see that "froth" is a good substitute or you explain whisking
+  with words it understands.
+
+  So learn a language, any language to start. ... But while you're
+  learning keep a steady eye on the big picture. Think about the ideas of
+  things like conditionals, loops, data structures. Other languages have
+  all of these things, but they might call them something different. Or
+  they might implement the features differently. But there are things in
+  common between them all, keep an eye out for that. After you've learned
+  the basics of a few different languages you get a feel for these things
+  and you can pretty easily jump into a new language with the basic
+  reference guide and Google to answer the question of "How do I do X in
+  language Y?" and you should become adequately proficient with only a few
+  weeks study. ..."
+
 21 Oct 2021  <a name="21-Oct-2021"></a>
 
 - <https://news.ycombinator.com/item?id=28839209> - 
