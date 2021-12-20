@@ -375,7 +375,7 @@ Some of my own comments:
   a clear explanation is what matters most to a man.  The re-establishment
   of truth may be dearer to him than revenge. ..."
 
- 1 Jun 2021, 5 Jun 2021  <a name="1-Jun-2021"></a>
+ 1 Jun 2021, 5 Jun 2021, 19 Dec 2021  <a name="1-Jun-2021"></a>
 
 - <http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf> - 
   Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
@@ -694,6 +694,24 @@ Some of my own comments:
   of Mary and William Somerville's family life to balance her self-absorption,
   the insistence of her many suitors, and Charles Babbage's frantic
   self-certainty. ..."
+
+- <https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher> -
+  *Passages from the Life of a Philosopher* by Charles Babbage,
+  via comments at <https://news.ycombinator.com/item?id=29603913> 
+
+  *mwfunk* writes: "Babbage's eccentricities and loopier thoughts were
+  always more interesting to me than his writing about the things he's
+  better known for. I read this many years ago but for some reason the
+  part that stuck with me the most was a surprisingly long stretch
+  articulating all the different ways in which organ grinder monkeys were
+  public menaces. His loathing of street musicians was comical but the
+  degree of spite specifically reserved for organ grinder monkeys took it
+  to the next level.
+
+  It's been a while since I read it, but I definitely got the sense that
+  that was very much how he felt and he wasn't playing it up for comedy.
+  He wasn't the most likable or relatable guy but he certainly was
+  passionate."
 
  7 May 2021  <a name="7-May-2021"></a>
 
