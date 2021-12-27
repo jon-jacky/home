@@ -13,6 +13,21 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+26 Dec 2021  <a name="26-Dec-2021"></a>
+
+- <https://gto76.github.io/python-cheatsheet/#iterator> - 
+  Comprehensive Python Cheatsheet
+
+- <https://perso.limsi.fr/pointal/_media/python>:cours:mementopython3-english.pdf -
+  Python 3 Cheat Sheet
+
+- <https://ipgp.github.io/scientific_python_cheat_sheet/> - 
+  Scientific Python Cheatsheet
+
+  Approaches to presenting compact language summaries ("cheat sheets"),
+  via <https://news.ycombinator.com/item?id=19075325> with comments on
+  these, and links  to more summaries for Python and other languages.
+
  9 Dec 2021  <a name="9-Dec-2021"></a>
 
 - <https://indigo.ooo/en/> - Festival Indigo, an arts festival in Croatia.
