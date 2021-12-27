@@ -35,7 +35,7 @@ not date entries or cross-references.
 
 import sys, re
 
-url_regex = re.compile('^(.*)(https?://[\w./%~?=@+\-#&]+)(.*)$')
+url_regex = re.compile('^(.*)(https?://[\w./%~?=@+\-#&:]+)(.*)$')
 
 date_re_string = '(\d?\d [A-Z][a-z][a-z] \d\d\d\d)'
 
