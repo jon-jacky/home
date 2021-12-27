@@ -15,10 +15,10 @@ Companion page, a commonplace book:
 
 26 Dec 2021  <a name="26-Dec-2021"></a>
 
-- <https://gto76.github.io/python-cheatsheet/#iterator> - 
+- <https://gto76.github.io/python-cheatsheet/> - 
   Comprehensive Python Cheatsheet
 
-- <https://perso.limsi.fr/pointal/_media/python>:cours:mementopython3-english.pdf -
+- <https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf> -
   Python 3 Cheat Sheet
 
 - <https://ipgp.github.io/scientific_python_cheat_sheet/> - 
@@ -318,7 +318,7 @@ Companion page, a commonplace book:
 - <https://vole.wtf/kilobytes-gambit/> - The Kilobytes Gambit - 
   "Can you beat 1024 bytes of Javascript?" - Click *Next*, then *How it
   works*.  A typical comment from
-  <https://news.ycombinator.com/item?id=26380110>: "Sharing other people's
+  <https://news.ycombinator.com/item?id=26380110:> "Sharing other people's
   amazement that such a tiny amount of code plays so well ... It's not just
   impressive that this program plays decently while being tiny, but
   especially that it plays decently *and quickly* while being tiny.

@@ -15,7 +15,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 26 Dec 2021
 
-- https://gto76.github.io/python-cheatsheet/#iterator - 
+- https://gto76.github.io/python-cheatsheet/ - 
   Comprehensive Python Cheatsheet
 
 - https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf -
