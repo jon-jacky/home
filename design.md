@@ -28,10 +28,16 @@ Companion page, a commonplace book:
   via <https://news.ycombinator.com/item?id=19075325> with comments on
   these, and links  to more summaries for Python and other languages.
 
+- <http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts> -
+  Lua: Good, bad, and ugly parts
+
+  A language summary organized as a critique.   Each entry contains
+  links to the pertinent sections in the language reference  manual.
+
  9 Dec 2021  <a name="9-Dec-2021"></a>
 
 - <https://indigo.ooo/en/> - Festival Indigo, an arts festival in Croatia.
-  Scroll down to first schedule page, with Links to previous years in
+  Scroll down to first schedule page, with links to previous years in
   upper right corner (all but 2020 work).
 
 27 Nov 2021  <a name="27-Nov-2021"></a>
