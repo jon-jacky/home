@@ -9,6 +9,36 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
+ 
+ 1 Jan 2022
+
+- https://jvns.ca/blog/2021/12/31/2021--year-in-review/
+  Julia Evans - 2021 Year in Review - 
+  Made some progress on a 'mission statement'
+
+  "This year I spent some time trying to figure out what I'm doing with
+  *wizard zines*. ... I'm only interested in explaining 'old' established
+  technologies (HTTP, DNS, assembly, C, etc.)   I want to help people who
+  are learning about these 'old' things for the first time today ...
+
+  There's also something which I can't quite articulate yet, which is that
+  computers were 'simpler' in the past, and that it's still possible in 2022
+  to learn programming in a 'simpler' way and cut through some of the chaos
+  and churn in modern computing.
+
+  As stated this sounds unrealistic, because you do need to use a lot of
+  more 'complicated' stuff to get things done in a real programming job.
+  Most people can't avoid it! But understanding the 'simple' core of how
+  computers work really gives me a lot more confidence when dealing with
+  all of the chaos. ('I don't know what all this nonsense is but at the end
+  of the day it's all just assembly instructions and memory and system
+  calls, I can figure this out')
+
+  So I guess I want to figure out how to help other people move towards
+  that confidence of 'ok, I know how this computer stuff works, I can
+  figure out any weird new nonsense you throw at me.' ..."
+
+  Julia Evans' *wizard zines* are at https://wizardzines.com/comics/
 
 19 Dec 2021
 

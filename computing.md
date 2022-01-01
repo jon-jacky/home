@@ -10,6 +10,36 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 1 Jan 2022  <a name="1-Jan-2022"></a>
+
+- <https://jvns.ca/blog/2021/12/31/2021--year-in-review/>
+  Julia Evans - 2021 Year in Review -
+  Made some progress on a 'mission statement'
+
+  "This year I spent some time trying to figure out what I'm doing with
+  *wizard zines*. ... I'm only interested in explaining 'old' established
+  technologies (HTTP, DNS, assembly, C, etc.)   I want to help people who
+  are learning about these 'old' things for the first time today ...
+
+  There's also something which I can't quite articulate yet, which is that
+  computers were 'simpler' in the past, and that it's still possible in 2022
+  to learn programming in a 'simpler' way and cut through some of the chaos
+  and churn in modern computing.
+
+  As stated this sounds unrealistic, because you do need to use a lot of
+  more 'complicated' stuff to get things done in a real programming job.
+  Most people can't avoid it! But understanding the 'simple' core of how
+  computers work really gives me a lot more confidence when dealing with
+  all of the chaos. ('I don't know what all this nonsense is but at the end
+  of the day it's all just assembly instructions and memory and system
+  calls, I can figure this out')
+
+  So I guess I want to figure out how to help other people move towards
+  that confidence of 'ok, I know how this computer stuff works, I can
+  figure out any weird new nonsense you throw at me.' ..."
+
+  Julia Evans' *wizard zines* are at <https://wizardzines.com/comics/>
+
 19 Dec 2021  <a name="19-Dec-2021"></a>
 
 - <https://ask.metafilter.com/224599/Becoming-an-awesome-programmer#3248957> -
@@ -1407,7 +1437,7 @@ Companion page, a commonplace book:
   In the last 25 years or so, we actually got something like a pop
   culture, similar to what happened when television came on the scene ..."
 
-- <https://link.springer.com/content/pdf/bbm>:978-3-319-90008-7/1.pdf -
+- <https://link.springer.com/content/pdf/bbm:978-3-319-90008-7/1.pdf> -
   Dr. Dobb's Interview with Alan Kay by Andrew Binstock, July 10, 2012 -
   ".. I also happen to believe in history. The lack of interest, the
   disdain for history is what makes computing not-quite-a-field.
@@ -4056,7 +4086,7 @@ Companion page, a commonplace book:
   Docker, written in 100% Python ... I'm giving a talk ... and fancied
   a simple implementation to show how container isolation works. ... I
   wrote this in 2 days, don't take it seriously" Comment at
-  <https://news.ycombinator.com/item?id=16114724>: "This is great, and
+  <https://news.ycombinator.com/item?id=16114724:> "This is great, and
   the code is particularly easy to follow and quite Pythonic. Nice!"
 
  8 Jan 2018  <a name="8-Jan-2018"></a>
@@ -4131,7 +4161,7 @@ Companion page, a commonplace book:
 24 Dec 2017  <a name="24-Dec-2017"></a>
 
 - <https://bitbucket.org/infpi/inferno-rpi> - Inferno OS for Raspberry
-  Pi - via <https://news.ycombinator.com/item?id=15993639>: "... many
+  Pi - via <https://news.ycombinator.com/item?id=15993639:> "... many
   aren't aware of Inferno OS and always think Plan 9 was the end of
   the line, when that status actually belongs to Inferno OS.  Which
   implemented the original vision for Plan 9, regarding what Pike
@@ -5030,7 +5060,7 @@ An Algebraic Language for the Manipulation of Symbolic Expressions (1958)
 31 Mar 2017  <a name="31-Mar-2017"></a>
 
 - HN comment ...id=13965793 about a test suite for
-  <https://hackage.haskell.org/package/acid-state>: "turn arbitrary,
+  <https://hackage.haskell.org/package/acid-state:> "turn arbitrary,
   serializable Haskell data structures into a sort of in-memory
   database that is persisted to disk by writing a log of the transactions
   applied to it."  "Use regular Haskell data structures as your database
