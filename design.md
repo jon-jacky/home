@@ -794,8 +794,15 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 8 Oct 2021:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 1 Jan 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://web.ncf.ca/ek867/2016_03_16-31_archives.html> - 
+  Painting or photo in subdued colors accompanies every post,
+  complements the understated typography and color scheme,
+  makes the very dense text seem accessible and welcoming.
+
+- <https://text.causal.agency/> - Unusual blog design.
 
 - <https://crypto.stanford.edu/~blynn/compiler/> - 
   "Despite graduating long ago, I remain a computer science student."
