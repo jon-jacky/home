@@ -14,7 +14,6 @@ Companion page, a commonplace book:
 
 - <https://jvns.ca/blog/2021/12/31/2021--year-in-review/>
   Julia Evans - 2021 Year in Review -
-  Made some progress on a 'mission statement'
 
   "This year I spent some time trying to figure out what I'm doing with
   *wizard zines*. ... I'm only interested in explaining 'old' established
