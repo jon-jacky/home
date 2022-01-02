@@ -1257,7 +1257,8 @@ Some of my own comments:
   stood in the way of stamping out any threat to its interests, imagined
   or real."
 
-11 Jul 2021 (but it fits best here, after *The Age of Revolution* and  <a name="11-Jul-2021"></a>
+11 Jul 2021, 2 Jan 2022  <a name="11-Jul-2021"></a>
+   (but it fits best here, after *The Age of Revolution* and
    *The Savage Storm*)
 
 - *What is History?* by E. H. Carr (1961), from Ch 3 *History, Science,
@@ -1315,6 +1316,43 @@ Some of my own comments:
   beliefs which we hold and the standards of judgment which we set up are
   part of history, and are as much subject to historical investigation as
   any other aspect of human behavior. ..."
+
+  Chapter 2, *Society and the Individual*, p. 42 - 43 and Chapter 4
+  *Causation in History* p. 99 - 102 (no link):
+
+  "In nineteenth century, British historians with scarcely an exception
+  regarded the course of history as a demonstration of the principle of
+  progress ... History was full of meaning for British historians, as long
+  as it was going our way; now that is has taken a wrong turning, belief
+  in the meaning of history has become a heresy. ... British historians
+  have for the most part been content to throw in their hands and declare
+  that there is no general pattern to history at all. ... There is no more
+  significant pointer to the character of a society than the kind of history
+  it writes or fails to write. ...
+
+  We may pause here for a moment to notice the origin of this recent
+  widespread insistence on the role of chance in history.  ... Gibbon was
+  quick to unmask the reason.  'The Greeks', observed Gibbon, 'after their
+  country had been reduced to a province, imputed the triumphs of Rome not
+  to the merit, but to the fortune, of the republic.' ... (Now there is)
+  the rise in France of a school of philosophers who preach that existence
+  -- I quote Sartre -- 'has neither cause nor reason nor necessity.'  In
+  Germany, the veteran historian Meinecke ... after the Second World War
+  attributed the national disasters of the past forty years to a series of
+  accidents -- the bankruptcy of a great historian's mind under the
+  stress of the misfortunes of his country.  In a group or a  nation which
+  is riding in the trough, not on the crest, of historical  events,
+  theories that stress the role of chance or accident in history will be
+  found to prevail. ...
+
+  The role of accident in history is nowadays seriously exagerrated ...
+  To describe something as a mischance is a favourite way of exempting
+  oneself from the tiresome obligation to investigate its cause; and,
+  when someone tells me history is a chapter of accidents, I tend to suspect
+  him of intellectual laziness or low intellectual vitality.  It is common
+  practice with serious historians to point out that something hitherto
+  treated as accidental was not an accident at all, but can be rationally
+  explained and significantly fitted into the broader pattern of events. ..."
 
 18 Dec 2020  <a name="18-Dec-2020"></a>
 
