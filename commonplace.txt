@@ -1318,7 +1318,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   any other aspect of human behavior. ..."
 
   Chapter 2, *Society and the Individual*, p. 42 - 43 and Chapter 4
-  *Causation in History* p. 99 - 102 (no link):
+  *Causation in History* p. 99 - 108 (no link):
 
   "In nineteenth century, British historians with scarcely an exception
   regarded the course of history as a demonstration of the principle of 
@@ -1345,14 +1345,47 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   theories that stress the role of chance or accident in history will be
   found to prevail. ...
 
-  The role of accident in history is nowadays seriously exagerrated ...
+  The role of accident in history is nowadays seriously exaggerated ...
   To describe something as a mischance is a favourite way of exempting 
   oneself from the tiresome obligation to investigate its cause; and,
   when someone tells me history is a chapter of accidents, I tend to suspect
   him of intellectual laziness or low intellectual vitality.  It is common
   practice with serious historians to point out that something hitherto
   treated as accidental was not an accident at all, but can be rationally
-  explained and significantly fitted into the broader pattern of events. ..."
+  explained and significantly fitted into the broader pattern of events. ...
+
+  History is a process of selection in terms of historical significance.
+  Just as from the infinite ocean of facts the historian selects those
+  which are significant for his purpose, so from the multiplicity of 
+  sequences of cause and effect he extracts those, and only those, which
+  are historically significant; and the standard of historical significance
+  is his ability to fit them into his pattern of rational explanation 
+  and interpretation.  Other sequences of cause and effect have to be rejected
+  as accidental ... because the sequence itself is irrelevant.  The historian
+  can do nothing with it; it is not amenable to radional interpretation, 
+  and has no meaning either for the past or the present.
+
+  The shape of Cleopatra's nose, Bajazet's attack of gout, the monkey bite
+  that killed King Alexander, the (unexpectedly early) death of Lenin --
+  these were accidents that modified the course of history.  It is futile to
+  attempt to spirit them away, or to pretend that in some way or other they
+  had no effect.  On the other hand ... they do not enter into any rational
+  interpretation of history, or into the historian's heirarchy of significant
+  causes.  ... it makes no sense as a general proposition to say that
+  generals lose battles because they are infatuated with beautiful queens,
+  or that wars occur because kings keep pet monkeys ... Accidental causes
+  cannot be generalized; and, since they are ... unique, they teach no
+  lessons and lead to no conclusions.
+
+  It is precisely this notion of an end in view that provides the key to
+  our treatment of causation in history; and this necessariy involves
+  value judgments.  Interpretation in history is always bound up with value
+  judgments, and causality it bound up with interpretation. ... This recalls
+  the dual and reciprocal function of history -- to promote our understanding
+  of the past in the light of the present and of the present in the light of
+  the past.  Anything which, like Antony's infatuation with Cleopatra's nose,
+  fails to contribute to this dual purpose is from the point of view of
+  the historian dead and barren."
 
 18 Dec 2020
 
