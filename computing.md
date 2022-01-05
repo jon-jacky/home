@@ -10,6 +10,31 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 4 Jan 2022  <a name="4-Jan-2022"></a>
+
+- <https://news.ycombinator.com/item?id=25939161> -
+  Comments on Let's Not Dumb Down the History of Computer Science
+
+  *dkarl* writes: "People don't want to look back ... because we want to
+  believe ... we only have to embrace the obvious ... (and) the future will
+  bring nothing more than a higher perfection of the ideas we embrace now.
+
+  It's intellectual millennialism. We want to think that the new ideas we
+  receive at the beginning of our career are the final piece of the
+  puzzle, that there's no point in generations beyond us. Our ideas give
+  us special powers to accomplish things that no previous generation could
+  accomplish, and no subsequent generation will accomplish much more, or
+  the same things much easier, than we did. We are standing at the end of
+  history. We are the generation that left the desert and entered the
+  promised land.
+
+  History upsets all that. History teaches us that the future will stand
+  in relation to us as we stand in relation to the past, whereas we want
+  to believe that we are equals with the future and superior to the past."
+
+  This was a comment about people who don't see value in learning the
+  history of computing, but it goes for history in general.
+
  1 Jan 2022  <a name="1-Jan-2022"></a>
 
 - <https://jvns.ca/blog/2021/12/31/2021--year-in-review/>
