@@ -1387,52 +1387,7 @@ Some of my own comments:
   fails to contribute to this dual purpose is from the point of view of
   the historian dead and barren."
 
-  Chapter 5, *History as Progress*, p. 117, 121, 123, 124, 131 - 132 (no
-  link):
-
-  "The people who struggle, say, to extend civil rights to all, or to reform
-  penal practice, or to remove inequalities of race and wealth, are
-  consciously seeking to do just those things; they are not consciously
-  seeking to 'progress', to realize some historical 'law' or 'hypothesis'
-  of progress.  It is the historian who applies to their actions his
-  hypothesis of progress, and interprets their actions as progress.  But
-  this does not invalidate the concept of progress ...
-
-  ... the social sciences -- and history among them -- cannot accommodate
-  themselves to a theory of knowledge which puts subject and object asunder,
-  and enforces a rigid separation between the observer and the thing observed.
-  ... The facts of history cannot be purely objective, since they become
-  facts of history only in virtue of the significance attached to them
-  by historians. ...
-
-  It is this sense of diretion in history which alone enables us to order
-  and interpret the events of the past -- the task of the historian --
-  and to liberate and organize human energies in the present with a view to
-  the future -- the task of the statesman, the economist, and the social
-  reformer. ...
-
-  What, then, do we mean when we praise a historian for being objective
-  ...?  Not, it is clear, simply that he gets his facts right, but rather
-  that he chooses the right facts, or, in other words, that he applies the
-  right standard of signficance.  ... he has the capacity to rise above
-  the limited vision of his own situation in society and in history ...
-  he has the  capacity to project his vision into the future in such a way
-  as to give him a more profound and more lasting insight into the past
-  than those historians whose outlook is entirely bounded by their own
-  immediate situation. ...
-
-  Modern historiography has grown up over the past two centuries in this
-  ... belief in progress, and cannot survive without it, since it is this
-  belief which provides it with its standard of significance, its touchstone
-  for distinguishing the real from the accidental. ...
-
-  Nobody is obliged to believe either in the future of history or the
-  future of society.   It is possible that our society may be destroyed or
-  may perish from slow decay, and that history may relapse into  theology
-  -- that is to say, a study not of human achievement, but of divine
-  purpose -- or into literature -- that is to say, a telling of stories
-  and legends without purpose or significance.  But this will not be
-  history in the sense in which we have known it in the last 200 years.
+  Chapter 5, *History as Progress*, p. 125, 121, 124-125 (no link):
 
   For the past 200 years historians have not only assumed a direction in
   which history is moving, but have consciously or unconsciously  believed
@@ -1443,32 +1398,22 @@ Some of my own comments:
   The reaction against it has come with the current mood of apprehension
   and pessimism, which has left the field clear for theologians who seek
   the meaning of history outside history, and for the skeptics who find no
-  meaning in history at all.  We are assured on all hands, and with utmost
-  emphasis, that the dichotomy between 'is' and 'ought' cannot be resolved,
-  that 'values' cannot be derived from 'facts'.  This is, I think, a
-  false trail.  ...
+  meaning in history at all. ...
 
-  A clue to this problem of facts and values is provided by our ordinary
-  use of the word 'truth' -- a word which straddles the world of fact and
-  the world of value, and is made up of elements of both. ... It may be
-  a fact that I went to London last week.  But you would not ordinarily
-  call it a truth; it is devoid of any value content.  On the other hand,
-  when the Founding Fathers of the United States in the Declaration of
-  Independence referred to the self-evident truth that all men are created
-  equal, you may feel that the value content of the statment predominates
-  over the factual content, and may on that account challenge its right to
-  be regarded as a truth.  Somewhere between these two poles -- the north pole
-  of valueless facts and the south pole of value judgments still struggling
-  to transform themselves into facts -- lies the realm of historical truth.
-  This historian ... is balanced between fact and interpretation, between
-  fact and value.  He cannot separate them. ...
+  Modern historiography has grown up over the past two centuries in this
+  ... belief in progress, and cannot survive without it, since it is this
+  belief which provides it with its standard of significance, its touchstone
+  for distinguishing the real from the accidental. ...
+  It is this sense of direction in history which alone enables us to order
+  and interpret the events of the past ...
 
-  ... History properly so-called can be written only by those who find and
-  accept a sense of direction in history itself.  The belief that we have
-  come from somewhere is closely linked with the belief that we are going
-  somewhere.  A society which has lost belief in its capacity to progress
-  in the future will quickly cease to concern itself with its progress in
-  the past.  ... our view of history reflects our view of society."
+  Nobody is obliged to believe either in the future of history or the
+  future of society.   It is possible that our society may be destroyed or
+  may perish from slow decay, and that history may relapse into  theology
+  -- that is to say, a study not of human achievement, but of divine
+  purpose -- or into literature -- that is to say, a telling of stories
+  and legends without purpose or significance.  But this will not be
+  history in the sense in which we have known it in the last 200 years."
 
 18 Dec 2020  <a name="18-Dec-2020"></a>
 
