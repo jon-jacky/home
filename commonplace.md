@@ -1387,6 +1387,18 @@ Some of my own comments:
   fails to contribute to this dual purpose is from the point of view of
   the historian dead and barren."
 
+  Chapter 4, *Causation as History*, p. 108 (no link):
+
+  I have hitherto consistently used the conventional phrase 'past and
+  present'.  But, as we all know, the present has no more than a notional
+  existence as an imaginary dividing line between the past and the future.
+  In speaking of the present, I have already smuggled another time dimension
+  into the argument.  ... since past and future are part of the same
+  time-span, interest in the past and interest in the future are
+  interconnected. ... Good historians, I suspect, ... have the future in
+  their bones.  Besides the question 'Why?' the historian also asks the
+  question 'Whither?'
+
   Chapter 5, *History as Progress*, p. 125, 121, 124-125 (no link):
 
   For the past 200 years historians have not only assumed a direction in
