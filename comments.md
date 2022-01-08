@@ -14,6 +14,68 @@ more context).
 I also keep a commonplace book of writings by others:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+Jan 2022
+
+- <https://news.ycombinator.com/item?id=29831612> - 
+  Comments on What is a think tank? What is the history ...?
+
+  'Think Tank' was originally applied to the RAND corporation, which was
+  started by the Air Force in 1947 as an R&D organization within Douglas
+  Aircraft, but soon became an independent company which was still largely
+  funded by contracts from the US Department of Defense.
+
+  RAND was enormously influential in US and world politics and technology
+  in the 1950s, 60s and 70s. People who worked at RAND included the
+  nuclear strategist Herman Kahn, who wrote a horrifying book On
+  Thermonuclear War and become one of the models for Dr. Strangelove (in
+  that movie it's called the BLAND Corportation), Daniel Ellsberg, who
+  leaked a copy of the Pentagon Papers secret history of the Vietnam War
+  he found at RAND, and Paul Baran, who proposed a national packet
+  switched computer network, which provided the technical foundations for
+  the Arpanet and later the Internet.
+
+  The book *The Wizards of Armageddon* by Fred Kaplan tells the story of the
+  early days at RAND.
+
+  <http://www.fredkaplan.info/wizards.htm>
+
+  Availble tech reports from RAND include some of Herman Kahn's early work:
+
+  <https://www.rand.org/pubs/authors/k/kahn_herman.html>
+
+  and Paul Baran's computer networking proposal, as well as some
+  remarkably prescient essays on the social and political implications:
+
+  <https://www.rand.org/pubs/authors/b/baran_paul.html>
+
+  Reports like these (as well as the secret ones that are never released
+  to the public) are the products of a think tank. Think tanks exist to
+  produce these reports, and to support their authors and other
+  spokespeople who publicize and advocate for them.
+
+- <https://news.ycombinator.com/item?id=29848382> - follow-up to previous post
+
+  In 1959 LIFE magazine ran a pictorial feature on RAND, with pictures by
+  the noted photographer Leonard McCombe. [1] Some pictures from the LIFE
+  article appear in [2], pages 130 - 133.
+
+  The pictures show RAND staff including nuclear strategist Albert
+  Wohlstetter [3, 4] lounging in modernist furniture, or reclining on the
+  floor, in a dimly lit seance-like circle among bookshelves near a spiral
+  staircase, where a young woman sits taking notes. The pictures really
+  capture the mid-century prestige and mystique of think tanks and defense
+  intellectuals.
+
+  [1] LIFE Magazine May 11 1959 Pg 101 PICTORIAL ESSAY: Valuable Batch of
+  Brains: an Odd Little Company Called RAND Plays Big Role in U.S.
+  Defense. Photographed for LIFE by Leonard McCombe.
+
+  [2] <http://www.ephemerajournal.org/sites/default/files/pdfs/issue/13-1ephemera-feb13.pdf>
+
+  [3] <https://en.wikipedia.org/wiki/Albert_Wohlstetter>
+
+  [4] <https://www.rand.org/pubs/authors/w/wohlstetter_albert.html>
+
 Jun 2021
 
 - <https://news.ycombinator.com/item?id=27696311> on 
