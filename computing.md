@@ -2946,16 +2946,13 @@ Companion page, a commonplace book:
   "The most pressing problem for implementing plan9-like semantics in a
   POSIX system is the permission system. In particular, setuid as a
   mechanism for privilege escalation. ...
-
   Think about it: if you can make the file namespace any shape you want,
   and then run `sudo`, which is a setuid process that looks at
   /etc/sudo.conf to decide whether your escalation is allowed, how do you
   secure it?
-
   How do you even begin to do distributed permissions if everything's
   looking at /etc/passwd and /etc/group in the current process' namespace
   to decide who you are?
-
   POSIX is very much built on the idea of a canonical view of the
   filesystem, and plan9 is built on a vfs that may as well be sand."
 
