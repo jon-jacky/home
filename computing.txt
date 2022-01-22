@@ -2942,6 +2942,23 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Comments in https://news.ycombinator.com/item?id=10114460 including
   a roll call of other historic OS, links.
 
+- https://news.ycombinator.com/item?id=29985289 - 
+  "The most pressing problem for implementing plan9-like semantics in a
+  POSIX system is the permission system. In particular, setuid as a
+  mechanism for privilege escalation. ...
+
+  Think about it: if you can make the file namespace any shape you want,
+  and then run `sudo`, which is a setuid process that looks at
+  /etc/sudo.conf to decide whether your escalation is allowed, how do you
+  secure it?
+
+  How do you even begin to do distributed permissions if everything's
+  looking at /etc/passwd and /etc/group in the current process' namespace
+  to decide who you are?
+
+  POSIX is very much built on the idea of a canonical view of the
+  filesystem, and plan9 is built on a vfs that may as well be sand."
+
 - http://doc.cat-v.org/bell_labs/the_hideous_name/the_hideous_name.pdf - "The Hideous Name - 
   ... the UNIX file system contains objects that are not ordinary
   files.  Simply by having ordinary file names, though, these objects
@@ -3565,7 +3582,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   step further -- with PEG it is often the case that nothing documents
   the grammar, not even the code."
 
-16 Apr 2018
+16 Apr 2018, 18 Jan 2022
 
 - https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now
   "... the XO-1: a toylike green-and-white laptop with rounded edges,
@@ -3596,6 +3613,21 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   for accessing data. ... Some Activities allow users to work and learn
   cooperatively. For example ... to collaboratively create a document.
 
+- https://news.ycombinator.com/item?id=29973006 - comments on 
+  *The Charisma Machine: The life, death, and legacy of One Laptop per Child*
+       
+  *scroot* writes: "One interesting aspect of the OLPC project is what it
+  didn't attempt to do: to apply the theory of its design to first world
+  countries that also have broad public education problems (I'm thinking
+  specifically of the U.S.) I chalk it up to the idea that the revolution
+  in education that the constructionists of the 60s and 70s thought would
+  happen simultaneously along with the adoption of computing never came to
+  pass. I can't stress enough how this vision of computing was supposed to
+  go hand in hand with a more general transformation of education, rather
+  than computing being its cause. I'm not sure, then, how that fit at all
+  with the idea of pushing the technology (and none of the social or
+  pedagogical changes) onto the third world."
+  
 15 Apr 2018
 
 - http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html  - "To understand what went wrong — how the Silicon Valley dream of
