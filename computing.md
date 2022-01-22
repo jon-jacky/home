@@ -2873,7 +2873,7 @@ Companion page, a commonplace book:
   Via <https://news.ycombinator.com/item?id=18044785> - "What happened
   to this future?  I miss it."
 
-19 Sep 2018, 27 Apr 2020  <a name="19-Sep-2018"></a>
+19 Sep 2018, 27 Apr 2020, 21 Jan 2022  <a name="19-Sep-2018"></a>
 
 - <http://doc.cat-v.org/plan_9/misc/ubiquitous_fileserver/ubiquitous_fileserver.pdf> - 
   "The Ubiquitous File Server in Plan 9 ...
