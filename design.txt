@@ -27,12 +27,18 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   That case is described at https://waxy.org/2011/06/kind_of_screwed/ where
   the author writes:
 
-  "From the beginning, Kind of Bloop was a creative experiment. I was
+  "From the beginning, *Kind of Bloop* was a creative experiment. I was
   drawn to the contradiction between the textured, subdued emotion in *Kind
   of Blue* and the cold, mechanical tones of retro videogame music. The
   challenge was to see whether chiptune artists could create something
   highly improvisational, warm, and beautiful from the limited palette of
   1980s game consoles. (I think we succeeded.)"
+
+- https://literature-clock.jenevoldsen.com/ - Literature Clock - 
+  Tells the current time in the form of a literary quote.
+
+  via https://www.metafilter.com/194086/There-are-as-many-forms-of-love-as-there-are-moments-in-time
+  with notes on precursors and how it works.
 
 26 Dec 2021
 
