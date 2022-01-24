@@ -13,6 +13,27 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+23 Jan 2022
+
+- https://kindofbloop.com/ - *Kind of Bloop* - 
+  "a chiptune tribute to Miles Davis' *Kind of Blue*, a track-by-track 8-bit
+  reinterpretation of the bestselling jazz album of all time.
+
+  The album (*Kind of Bloop*, not the original) is perhaps best known for
+  the out-of-court settlement involving its cover artwork, which led to a
+  huge public outcry, press attention, and its ongoing citation in
+  scholarly journals."
+
+  That case is described at https://waxy.org/2011/06/kind_of_screwed/ where
+  the author writes:
+
+  "From the beginning, Kind of Bloop was a creative experiment. I was
+  drawn to the contradiction between the textured, subdued emotion in *Kind
+  of Blue* and the cold, mechanical tones of retro videogame music. The
+  challenge was to see whether chiptune artists could create something
+  highly improvisational, warm, and beautiful from the limited palette of
+  1980s game consoles. (I think we succeeded.)"
+
 26 Dec 2021
 
 - https://gto76.github.io/python-cheatsheet/ - 
