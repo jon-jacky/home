@@ -14,6 +14,47 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+25 Jan 2022  <a name="25-Jan-2022"></a>
+
+- Book review by Benjamin Markovits,
+  in *TLS* Jan 21 2022, pps. 8 - 9 (no link):
+
+  "(In the author's new novel, a main character) has invited a handful of
+  old friends to hunker down with him on his country estate ...  It is
+  never quite clear why any of these people ... has decided to show up ...
+  not just for a weekend but for several months.  ...  The result is that
+  the set-up feels more like a novelist's conceit  and less like a genuine
+  occasion.  And, once he has got his characters on site, (the author)
+  doesn't really know what to do  with them.  The plot is an answer to the
+  question, 'how can I make things happen to these people?' instead of the
+  question, 'what would happen to  these people?'  This is most likely
+  because, in reality, the answer would be 'not much'. ...
+
+  There is plenty of action ... Yet, for all the drama, the book feels
+  uneventful.  There is a comic energy to the prose that doesn't often
+  break into humour and instead creates a kind of low-gravity zone for the
+  characters to operate in.  None of their actions carries real weight. ...
+  You get the sense that (the author) keeps having to make up stuff for
+  his characters to talk about because they don't have enough depth to their
+  lives to keep a conversation going. ... And almost all their thoughts
+  are either explanations of the plot or designed to make it happen. ...
+
+  (A central plot point), when it comes, has been heavily foreshadowed.
+  Yet, this doesn't save the chain of events that leads up to it from
+  feeling implausible ... Perhaps strangest of all about this novel is the
+  way (the author) seems to lose interest in his own (main character) ...
+  who initiates the whole retreat, (but) plays less and less of a role as
+  the plot wears on. ...
+
+  All of this is first draft stuff, signs of the haste in which the book
+  was dashed off and then published.  (The author) can certainly write,
+  and there are many great lines, sharp insights, both funny and serious,
+  which deserve a better book to live in ..."
+
+  *TLS* is one of the few journals that occasionally publishes unfavorable
+  reviews, that consider whether a novel's plot, characters, and dialog
+  are convincing, and whether the language and tone match the subject matter.
+
  5 Oct 2021  <a name="5-Oct-2021"></a>
 
 - Do Us All a Favour by Emily Bernhard Jackson, review of *Sweet Dreams:
