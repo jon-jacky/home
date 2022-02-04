@@ -13,17 +13,48 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 4 Feb 2022
+
+- https://webonastick.com/fonts/routed-gothic/ - Routed Gothic Font - 
+  "... a common lettering style found on technical drawings ... from the
+  mid-20th century. ... I created this font by purchasing a Leroy
+  Lettering set, using Inkscape to trace the scanned letterforms of one of
+  its templates, and some FontForge Python scripting. ...
+
+  via https://news.ycombinator.com/item?id=30190397
+  and https://news.ycombinator.com/item?id=22399161
+
+  *spectramax* writes: "At the risk of sounding 'out of touch with
+  reality' and 'retro nostalgic', I strongly believe that a lot of clean,
+  sterile work took place in the 1965-1985 era. From UNIX to SR-71,
+  everything mankind did in the technical space was minimal, purposeful,
+  clean, legible, durable, maintainable, modular and many other adjectives
+  that would compound on the idea of creating a truly better product or
+  service. Marketing took a backseat, science and data mattered and
+  advertisement was truthful.
+
+  Today's world seems broken, fragile, noisy and unmaintained. May be that
+  humanity needs to unwind, rewind back a couple of decades and try again.
+  If you play the scenario of human evolution multiple times, I am sure a
+  large scale system such as global society would end up in a different
+  state... every time.  ..."
+       
+  *marcosdumay* writes: "*minimal, purposeful, clean, legible, durable,
+  maintainable, modular*
+
+  Yeah, the modernist ethos. Today those would sound featureless, single-
+  minded, featureless (yea, again), oversimplified, lasting beyond its
+  usefulness, unoptimised, repetitive. ..."
+
 23 Jan 2022
 
 - https://kindofbloop.com/ - *Kind of Bloop* - 
   "a chiptune tribute to Miles Davis' *Kind of Blue*, a track-by-track 8-bit
   reinterpretation of the bestselling jazz album of all time.
-
-  The album (*Kind of Bloop*, not the original) is perhaps best known for
+  (*Kind of Bloop*) is perhaps best known for
   the out-of-court settlement involving its cover artwork, which led to a
   huge public outcry, press attention, and its ongoing citation in
   scholarly journals."
-
   That case is described at https://waxy.org/2011/06/kind_of_screwed/ where
   the author writes:
 
@@ -32,13 +63,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   of Blue* and the cold, mechanical tones of retro videogame music. The
   challenge was to see whether chiptune artists could create something
   highly improvisational, warm, and beautiful from the limited palette of
-  1980s game consoles. (I think we succeeded.)"
+  1980s game consoles. ..."
 
 - https://literature-clock.jenevoldsen.com/ - Literature Clock - 
   Tells the current time in the form of a literary quote.
-
-  via https://www.metafilter.com/194086/There-are-as-many-forms-of-love-as-there-are-moments-in-time
-  with notes on precursors and how it works.
 
 26 Dec 2021
 
