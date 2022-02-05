@@ -19,7 +19,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   "... a common lettering style found on technical drawings ... from the
   mid-20th century. ... I created this font by purchasing a Leroy
   Lettering set, using Inkscape to trace the scanned letterforms of one of
-  its templates, and some FontForge Python scripting. ...
+  its templates, and some FontForge Python scripting. ..."
 
   via https://news.ycombinator.com/item?id=30190397
   and https://news.ycombinator.com/item?id=22399161
@@ -35,9 +35,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   Today's world seems broken, fragile, noisy and unmaintained. May be that
   humanity needs to unwind, rewind back a couple of decades and try again.
-  If you play the scenario of human evolution multiple times, I am sure a
-  large scale system such as global society would end up in a different
-  state... every time.  ..."
+  ..."
        
   *marcosdumay* writes: "*minimal, purposeful, clean, legible, durable,
   maintainable, modular*
