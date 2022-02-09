@@ -2117,7 +2117,7 @@ Companion page, a commonplace book:
   because I was willing to put in the hours when others weren't. ... (examples
   with links) ..."
 
-23 May 2019, 11 Oct 2021  <a name="23-May-2019"></a>
+23 May 2019, 11 Oct 2021, 8 Feb 2022  <a name="23-May-2019"></a>
 
 - <https://news.ycombinator.com/item?id=19986126> - Comments on
   SerenityOS -
@@ -2156,6 +2156,11 @@ Companion page, a commonplace book:
   drivers etc. It's continuously moving target ...
 
   *Narishma* writes: "Last time I checked it only ran in qemu."
+
+- <https://corecursive.com/serenity-os-with-andreas-kling/> - 
+  Interview with SerenityOS creator Andreas Kling
+  (scroll down for transcript) -
+  via <https://news.ycombinator.com/item?id=30214371>
 
 8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021
 
