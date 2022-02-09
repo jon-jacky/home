@@ -161,7 +161,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   More about *Tractatus* at 26 Jul 2020
  
- 7 Nov 2021
+ 7 Nov 2021, 8 Feb 2022
 
 - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ -
   The Absolute Minimum Every Software Developer Absolutely, Positively
@@ -171,6 +171,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   In Five Minutes (2013), via
   https://news.ycombinator.com/item?id=24157201
 
+  https://sethmlarson.dev/blog/utf-8 - 
+  How does UTF-8 turn (this emoji) into F09F9882? (2022), 
+  via https://news.ycombinator.com/item?id=30259097
+  
   https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf - UTF-8 in
   Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
 

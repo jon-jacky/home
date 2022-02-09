@@ -161,7 +161,7 @@ Companion page, a commonplace book:
 
   More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
- 7 Nov 2021  <a name="7-Nov-2021"></a>
+ 7 Nov 2021, 8 Feb 2022  <a name="7-Nov-2021"></a>
 
 - <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
   The Absolute Minimum Every Software Developer Absolutely, Positively
@@ -170,6 +170,10 @@ Companion page, a commonplace book:
   <https://richardjharris.github.io/unicode-in-five-minutes.html> -  Unicode
   In Five Minutes (2013), via
   <https://news.ycombinator.com/item?id=24157201>
+
+  <https://sethmlarson.dev/blog/utf-8> - 
+  How does UTF-8 turn (this emoji) into F09F9882? (2022),
+  via <https://news.ycombinator.com/item?id=30259097>
 
   <https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf> - UTF-8 in
   Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
