@@ -16,9 +16,6 @@ Companion page, a commonplace book:
   following post:
 
   <https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech> - 
-  How Standard Ebooks serves millions of requests per month ...
-  or, a paean to the classic web
-
   "Standard Ebooks is a project that takes transcriptions of public domain
   literature, like the kind typically available at Project Gutenberg, and
   creates beautiful, modern ebooks out of them ...
@@ -30,8 +27,8 @@ Companion page, a commonplace book:
   downloads over 15.5 million page views. ... SE runs its entire
   operations using one single-core VPS with 2GB of RAM. (A VPS is a
   Virtual Private Server, a virtual machine sold by an internet hosting
-  service.) The Standard Ebooks website runs on a classic LAP stack. Whats
-  that, you say? LAP? Thats right: LAMP (Linux, Apache, MySQL, PHP)
+  service.) The Standard Ebooks website runs on a classic LAP stack. ...
+  That's right: LAMP (Linux, Apache, MySQL, PHP)
   without the M. *There isn't even a traditional database behind the SE
   website.*
 
@@ -46,7 +43,7 @@ Companion page, a commonplace book:
   is complete. If your website is alive for even just five short years,
   how many times will you have to update the framework, even if only for
   security updates, and keep up with API updates to make sure there are no
-  breaking changes? ... For SE -- a very classic
+  breaking changes? ...
 
   ... Because our corpus of ebooks is relatively small (about 630 ebooks
   at the time of writing), were able to fit all of them in memory ...  we
