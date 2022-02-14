@@ -10,7 +10,94 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
- 4 Jan 2022  <a name="4-Jan-2022"></a>
+13 Feb 2022  <a name="13-Feb-2022"></a>
+
+- <https://standardebooks.org/> - Standard Ebooks, the subject of the
+  following post:
+
+  <https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech> - 
+  How Standard Ebooks serves millions of requests per month ...
+  or, a paean to the classic web
+
+  "Standard Ebooks is a project that takes transcriptions of public domain
+  literature, like the kind typically available at Project Gutenberg, and
+  creates beautiful, modern ebooks out of them ...
+  As you can imagine, we spend a lot of our time working on really, really
+  old books. So why not create a website out of really, really old
+  technology?
+
+  In 2021 the Standard Ebooks server served about 1.4 million ebook
+  downloads over 15.5 million page views. ... SE runs its entire
+  operations using one single-core VPS with 2GB of RAM. (A VPS is a
+  Virtual Private Server, a virtual machine sold by an internet hosting
+  service.) The Standard Ebooks website runs on a classic LAP stack. Whats
+  that, you say? LAP? Thats right: LAMP (Linux, Apache, MySQL, PHP)
+  without the M. *There isn't even a traditional database behind the SE
+  website.*
+
+  I've been writing PHP for almost twenty years now. ... As one gets
+  older, one feels less and less excitement for the new tech hotness. ...
+  While it's easy to assume that any PHP web project ... requires one of
+  the big frameworks (like Laraval or Symfony), in truth it's easy to use
+  basic PHP ... and the big benefit is that you're not stuck with having
+  to learn and maintain a huge bells-and-whistles 3rd-party framework in
+  perpetuity. I think people really underestimate the burden of
+  maintaining a 3rd- party framework even after development of the website
+  is complete. If your website is alive for even just five short years,
+  how many times will you have to update the framework, even if only for
+  security updates, and keep up with API updates to make sure there are no
+  breaking changes? ... For SE -- a very classic
+
+  ... Because our corpus of ebooks is relatively small (about 630 ebooks
+  at the time of writing), were able to fit all of them in memory ...  we
+  only have to update it when an ebook is updated. ...  Why not just use
+  a database? .. it's that way because SE started out as --- and in many
+  ways still is -- a small hobby project, and small hobby projects want to
+  spend time on the meat (ebooks) and not the potatoes (a website). ... If
+  we're already creating ebook objects in PHP, why not just skip the
+  database, the ORM layer, the glue code, the data model, and all that
+  ancillary stuff, and simply cache the ebook objects themselves, to save
+  development time on this hobby? ...
+
+  .. our website doesn't use any Javascript. Zero. ... the SE website is
+  very much a classic-web website. Theres a homepage, a search page with a
+  paginated list of items, a detail view of those items, some very basic
+  forms ... plain HTML with some clever CSS has just about all
+  of the functionality needed. ... Styling, animations, transitions, and
+  responsive affordances are handled with plain CSS. ... Forms are plain
+  HTML that send regular old GET and POST requests via a boring Submit
+  button. ... There's no client-side tracking code and there are no ads.
+  Everything is rendered server-side before it reaches your browser.
+
+  In just a few short years, server-side rendering went from the near-
+  universal default to a quaint relic, and now Javascript is an obvious
+  necessity in a land where everything is an API to be rendered client-
+  side by a huge 3rd-party Javascript framework. But this new paradigm is
+  *slow* ... And JS frameworks, like PHP frameworks, are yet another 3rd-
+  party dependency for you to maintain indefinitely, even if your website
+  is no longer actively updated. How often has a once-popular JS framework
+  faded away, overtaken by the latest hotness? ...
+
+  ... we don't rely on any other 3rd-party cloud service like AWS or Azure.
+  Part of the reason is because just glancing at the dizzying list of AWS
+  acronyms and initialisms makes me light-headed and woozy.
+  But the more serious reason is that SE, as a kind of classic-web
+  project, aspires to be independent, just like the classic web once was. ...
+  Starting on a cloud provider cedes one's independence because it often
+  leads to vendor lock-in. For example, once you start with AWS and its
+  eldritch coterie of inscrutible services, you start requiring
+  specialized, proprietary knowledge -- how do I set permissions on an S3
+  bucket again? -- and it can be pretty tough to dig an established
+  project out of that. ...
+
+  The big benefit of running a basic Linux box on our own VPS is that
+  everything is just files on a generic, well- understood platform. This
+  paradigm of a website being just a collection of files is becoming more
+  and more unusual as language and frameworks are accumulating
+  increasingly-esoteric compilation processes and package managers. ...
+  All we have to do is copy our filesystem over and it Just Works."
+
+4 Jan 2022  <a name="4-Jan-2022"></a>
 
 - <https://news.ycombinator.com/item?id=25939161> -
   Comments on Let's Not Dumb Down the History of Computer Science
