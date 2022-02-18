@@ -15,34 +15,21 @@ Companion page, a commonplace book:
 
 16 Feb 2022  <a name="16-Feb-2022"></a>
 
-- <https://axio.ms/projects/2022/02/08/CRTBox.html> -
-  A small ode to the CRT
-
+- <https://axio.ms/projects/2022/02/08/CRTBox.html> - A small ode to the CRT -
   "Now in the 2020s, the CRT is pretty much gone. We have astonishing
   flat-panel LCD and OLED screens. Nothing flickers, everythings pin-
-  sharp, multi-megapixel resolutions, nothing whines ...
-  But, the march to betterness marches away from accessible: if you take
-  apart a phone, the LCD is a magic glass rectangle, and thats it. ...
-  it's really not obvious how it works.
-
-  "CRTs are also magic, but in a pleasing 19th century top-hat-and-cane
-  science kind of way. Invisible beams trace out images through a foot of
-  empty space. They respond colourfully to magnets (also magic) held to
-  their screens by curious children ..."
+  sharp, multi-megapixel resolutions, nothing whines ... But, the march to
+  betterness marches away from accessible: if you take apart a phone, the
+  LCD is a magic glass rectangle, and thats it. ... it's really not
+  obvious how it works.  CRTs are also magic, but in a pleasing 19th
+  century top-hat-and-cane science kind of way. Invisible beams trace out
+  images through a foot of empty space. They respond colourfully to
+  magnets (also magic) held to their screens by curious children ..."
 
   via <https://news.ycombinator.com/item?id=30350495> - 
-  "CRTs are so terrible by themselves, but the history is amazing. The
-  whole modern world, geek culture, gaming, people's childhoods... it all
-  went through those heavy lead glass things. The tech was much worse, but
-  people seemed happier anyway. Maybe because what was actually on those
-  screens was better ("better" interpreted relative to the potential of the
-  tech)"
-
-- <http://tronweb.super-nova.co.jp/tipogallery.html> - TiPO Gallery - 
-  "TiPO is only being marketed in the Japanese market at present. However,
-  to give people in foreign countries a taste of what it is like to use
-  this splendid piece of "electronic stationary," we are including a half-
-  dozen screen shots ..."
+  *eternityforest* writes: "... the history is amazing. The whole modern
+  world, geek culture, gaming, people's childhoods... it all went through
+  those heavy lead glass things. ..."
 
  4 Feb 2022  <a name="4-Feb-2022"></a>
 
