@@ -16,7 +16,8 @@ Companion page, a commonplace book:
 22 Feb 2022  <a name="22-Feb-2022"></a>
 
 - <https://brutalist.report/> - The Brutalist Report - 
-  "An extremely fast headline aggregator done in 1990s style HTML" -
+  "An extremely fast headline aggregator done in 1990s style HTML"
+
   Daunting volume, you can select just News: <https://brutalist.report/topic/news>
   or Tech: <https://brutalist.report/topic/tech> or several other topics.
 
@@ -186,7 +187,7 @@ Companion page, a commonplace book:
 
   More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
- 7 Nov 2021  <a name="7-Nov-2021"></a>
+7 7 Nov 2021
 
 - <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
   The Absolute Minimum Every Software Developer Absolutely, Positively
