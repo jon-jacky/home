@@ -13,6 +13,13 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+22 Feb 2022  <a name="22-Feb-2022"></a>
+
+- <https://brutalist.report/> - The Brutalist Report - 
+  "An extremely fast headline aggregator done in 1990s style HTML" -
+  Daunting volume, you can select just News: <https://brutalist.report/topic/news>
+  or Tech: <https://brutalist.report/topic/tech> or several other topics.
+
 16 Feb 2022  <a name="16-Feb-2022"></a>
 
 - <https://axio.ms/projects/2022/02/08/CRTBox.html> - A small ode to the CRT -
@@ -188,6 +195,10 @@ Companion page, a commonplace book:
   <https://richardjharris.github.io/unicode-in-five-minutes.html> -  Unicode
   In Five Minutes (2013), via
   <https://news.ycombinator.com/item?id=24157201>
+
+  <https://sethmlarson.dev/blog/utf-8> - 
+  How does UTF-8 turn (this emoji) into F09F9882? (2022),
+  via <https://news.ycombinator.com/item?id=30259097>
 
   <https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf> - UTF-8 in
   Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
