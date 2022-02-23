@@ -20,6 +20,8 @@ Companion page, a commonplace book:
 
   Daunting volume, you can select just News: <https://brutalist.report/topic/news>
   or Tech: <https://brutalist.report/topic/tech> or several other topics.
+  via <https://news.ycombinator.com/item?id=30430752> with links to similar 
+  pages.
 
 16 Feb 2022  <a name="16-Feb-2022"></a>
 
