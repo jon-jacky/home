@@ -15,12 +15,12 @@ Companion page, a commonplace book:
 
 25 Feb 2022  <a name="25-Feb-2022"></a>
 
-- <http://www.lileks.com/index.html> - Lileks - 
+- <http://www.lileks.com/index.html> - 
   "... the internet's most diverse, idiosyncratic, and individually curated
-  pop-culture museum. ... Twenty-six years, and counting."
+  pop-culture museum."
 
-  I remember some of these *Classics* comics:
-  <http://lileks.com/comics/comicsins/covers/classics/1.html>
+  <http://lileks.com/comics/comicsins/covers/classics/1.html> - 
+  I remember some of these *Classics* comics
 
 - <https://chris.bolin.co/offline/> - "You must go offline to view this page."
 
