@@ -13,14 +13,26 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-25 Feb 2022  <a name="25-Feb-2022"></a>
+27 Feb 2022  <a name="27-Feb-2022"></a>
 
 - <http://www.lileks.com/index.html> - 
   "... the internet's most diverse, idiosyncratic, and individually curated
   pop-culture museum."
 
+  <http://www.lileks.com/misc/scifi/index.html> - "ACE sci-fi covers. ...
+  they'd show up at (the) secondhand bookstore, pages yellow, glue gone,
+  pages loose, spine flaked."
+
   <http://lileks.com/comics/comicsins/covers/classics/1.html> - 
-  I remember some of these *Classics* comics
+  *Classics Illustrated* - "Spinach comics. ... I hated them."
+
+  <http://www.lileks.com/pictures/index.html> - Author's own photos 
+  with no comments, quite unlike the rest of the site.
+
+- <https://publicdomainreview.org/collection/the-cubies-abc-1913> -
+  *The Cubies' ABC* - A reaction to the 1913 Armory Show that introduced
+  Cubist art to America. (Scroll down to see all of the drawings without
+  the verses.)
 
 - <https://chris.bolin.co/offline/> - "You must go offline to view this page."
 
