@@ -13,6 +13,17 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 8 Mar 2022  <a name="8-Mar-2022"></a>
+
+- <https://github.com/pavel-krivanek/PharoChipDesigner> -
+  Pharo Chip Designer -
+  "It is an inaccurate and highly simplified tool for the design of
+  silicon chip layouts. ...
+  The real-life chip design is several orders of magnitude more
+  complicated. But the simplifications make it more fun while you still
+  can learn the basic principles and face to some practical problems that
+  many logical simulators do not take into account. ..."
+
 27 Feb 2022  <a name="27-Feb-2022"></a>
 
 - <http://www.lileks.com/index.html> - 
