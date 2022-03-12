@@ -13,6 +13,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+11 Mar 2022  <a name="11-Mar-2022"></a>
+
+- <https://rarehistoricalphotos.com/soviet-antireligious-propaganda-posters/> -
+  The brutal art of early Soviet antireligious propaganda posters, 1920-1940
+  "These posters were published in the Soviet anti-religious magazine,
+  *Bezbozhnik* (The Godless) from 1922 to 1941.  ...
+  The magazine was founded by the *League of Militant Atheists* ..."
+
+- <https://sketch.london/>
+
  8 Mar 2022  <a name="8-Mar-2022"></a>
 
 - <https://github.com/pavel-krivanek/PharoChipDesigner> -
