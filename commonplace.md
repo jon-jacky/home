@@ -14,6 +14,17 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+11 Mar 2022  <a name="11-Mar-2022"></a>
+
+- <https://news.ycombinator.com/item?id=30598600> -
+  comments on 'Russian invasion of Ukraine in our modern world
+  should give us pause for thought'
+
+  *nonrandomstring* writes: "Use of the phrase 'in our modern world'
+  should always give pause for thought.
+
+  It is the very essence of 'parochialism of the present' that blinds us."
+
 19 Feb 2022  <a name="19-Feb-2022"></a>
 
 - What Happened That Night On The Acropolis? by Robert Cloffi, review of

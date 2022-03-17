@@ -259,6 +259,12 @@ Companion page, a commonplace book:
   <https://news.ycombinator.com/item?id=29130017>, 
   "It's literally just a computer in my living room."
 
+  Later, at <https://news.ycombinator.com/item?id=30660625>, *marginalia_nu*
+  writes: "My search engine is basically the result of a decision to build
+  what I want instead of what I think will be commercially viable or
+  scalable to planet wide adoption. It cannot be stated enough how much of
+  a wet blanket those types of goals can be for creativity."
+
 16 Sep 2021  <a name="16-Sep-2021"></a>
 
 - <https://news.ycombinator.com/item?id=28522761> - comments on Turing Oversold?

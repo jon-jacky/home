@@ -258,6 +258,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   works -- search for posts by *marginalia_nu*.  See also their posts here:
   https://news.ycombinator.com/item?id=29130017, 
   "It's literally just a computer in my living room."
+
+  Later, at https://news.ycombinator.com/item?id=30660625, *marginalia_nu*
+  writes: "My search engine is basically the result of a decision to build
+  what I want instead of what I think will be commercially viable or
+  scalable to planet wide adoption. It cannot be stated enough how much of
+  a wet blanket those types of goals can be for creativity."
   
 16 Sep 2021
 

@@ -13,6 +13,20 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+16 Mar 2022  <a name="16-Mar-2022"></a>
+
+- <https://medium.com/vantage/type-in-your-hand-512a5a6cbb98> -
+  Type In Your Hand -
+  "This photo essay talks about four fantastic places in California (San
+  Francisco + Los Angeles) that allow you not just to observe, but
+  experience pre-digital typography." -
+  Lots of large photos, slow loading.  Click on any photo to expand it
+  to full screen.
+
+- <https://gumroad.com/> - I am not endorsing this business,
+  but the design is certainly ... interesting.
+  A similar design minus the cartoons is at <https://www.xolo.io/zz-en>
+
 11 Mar 2022  <a name="11-Mar-2022"></a>
 
 - <https://rarehistoricalphotos.com/soviet-antireligious-propaganda-posters/> -
