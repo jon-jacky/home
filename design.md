@@ -27,6 +27,10 @@ Companion page, a commonplace book:
   but the design is certainly ... interesting.
   A similar design minus the cartoons is at <https://www.xolo.io/zz-en>
 
+- <https://berkeleygraphics.com/> - Berkeley Graphics -
+  "Beauty emerges automatically without deliberation."
+  Design philosophy and many sample logos on this home page.
+
 11 Mar 2022  <a name="11-Mar-2022"></a>
 
 - <https://rarehistoricalphotos.com/soviet-antireligious-propaganda-posters/> -

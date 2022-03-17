@@ -21,9 +21,8 @@ Some of my own comments:
   should give us pause for thought'
 
   *nonrandomstring* writes: "Use of the phrase 'in our modern world'
-  should always give pause for thought.
-
-  It is the very essence of 'parochialism of the present' that blinds us."
+  should always give pause for thought.  It is the very essence of
+  'parochialism of the present' that blinds us."
 
 19 Feb 2022  <a name="19-Feb-2022"></a>
 
