@@ -29,7 +29,6 @@ Companion page, a commonplace book:
 
 - <https://berkeleygraphics.com/> - Berkeley Graphics -
   "Beauty emerges automatically without deliberation."
-  Design philosophy and many sample logos on this home page.
 
 11 Mar 2022  <a name="11-Mar-2022"></a>
 
