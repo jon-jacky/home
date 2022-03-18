@@ -26,6 +26,7 @@ Companion page, a commonplace book:
 - <https://gumroad.com/> - I am not endorsing this business,
   but the design is certainly ... interesting.
   A similar design minus the cartoons is at <https://www.xolo.io/zz-en>
+  Another (coincidentally?) similar design is <https://indigo.ooo/en/>
 
 - <https://berkeleygraphics.com/> - Berkeley Graphics -
   "Beauty emerges automatically without deliberation."
