@@ -940,8 +940,10 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 1 Jan 2022:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 17 Mar 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://ciesie.com/> - Daring use of color and empty space.
 
 - <https://web.ncf.ca/ek867/2016_03_16-31_archives.html> - 
   Painting or photo in subdued colors accompanies every post,
