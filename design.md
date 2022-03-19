@@ -253,7 +253,9 @@ Companion page, a commonplace book:
 
 7 7 Nov 2021
 
-- <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
+- Meta: pages *about* some of the technology behind computer typography.
+
+  <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
   The Absolute Minimum Every Software Developer Absolutely, Positively
   Must Know About Unicode and Character Sets (No Excuses!) (2003)
 
@@ -265,13 +267,77 @@ Companion page, a commonplace book:
   How does UTF-8 turn (this emoji) into F09F9882? (2022),
   via <https://news.ycombinator.com/item?id=30259097>
 
-  <https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf> - UTF-8 in
-  Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
-
   <https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt> - UTF-8 History 
   (2003, recalls 1992).  via <https://news.ycombinator.com/item?id=26735958>
 
-  Meta: pages *about* some of the technology behind computer typography.
+  <https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf> - UTF-8 in
+  Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
+
+  This paper provides a good explanation of the distinction between
+  a *character set* (used within a program) and its representation
+  or *encoding* (used in files and and in network communications).
+
+  "We believe Plan 9 is the first system to treat the representation
+  of all major languages on a uniform, equal footing throughout all its
+  software. ...
+
+  Unicode defines a uniform 16-bit code based on the principle of
+  unification: two characters are the same if they look the same even
+  though they are from different languages. This principle, called Han
+  unification, allows the large Japanese, Chinese, and Korean character
+  sets to be packed comfortably into a 16-bit representation.
+
+  Unicode defines an adequate character set but an unreasonable
+  representation. The Unicode standard states that all characters are 16
+  bits wide and are communicated and stored in 16-bit units. ...
+  To adopt Unicode, we would have had to convert all text going into and
+  out of Plan 9 between ASCII and Unicode, which cannot be done. Within a
+  single program, in command of all its input and output, it is possible
+  to define characters as 16-bit quantities; in the context of a networked
+  system with hundreds of applications on diverse machines by different
+  manufacturers, it is impossible.
+
+  We needed a way to adapt Unicode to the tools-and-pipes model of text
+  processing embodied by the Unix system. To do that, we needed an ASCII-
+  compatible textual representation of Unicode for transmission and
+  storage. ... The UTF encoding has several good properties. By far the
+  most important is that a byte in the ASCII range 0-127 represents itself
+  in UTF. Thus UTF is backward compatible with ASCII. UTF has other
+  advantages. It is a byte encoding and is therefore byte-order
+  independent. ASCII control characters appear in the byte stream only as
+  themselves, never as an element of a sequence encoding another
+  character, so newline bytes separate lines of UTF text. Finally, ANSI
+  C's *strcmp* function applied to UTF strings preserves the ordering of
+  Unicode characters.  We proposed a modification to the new UTF that
+  would address our synchronization problem  (to make it possible to find
+  the start of a character efficiently starting from an arbitrary location
+  in a byte stream).
+
+  In the (Plan 9 C language) libraries, the word Rune ... is used to
+  signify a (16-bit) Unicode character. ...  All programs in Plan 9 now
+  read and write text as UTF, not ASCII. This change breaks two deep-
+  rooted symmetries implicit in most C programs: ... The internal
+  representation (Unicode) of a character now differs from its external
+  representation (UTF).  Most Plan 9 programs use a new buffered I/O
+  library, BIO, in place of Standard I/O. BIO contains routines to read
+  and write UTF streams, converting to and from runes.
+  (A single Unicode rune might be encoded as one, two, or three UTF bytes.)
+
+  Some programs needed no change at all: *cat*, for instance, interprets
+  its argument strings, delivered in UTF, as file names that it passes
+  uninterpreted to the open system call, and then just copies bytes from
+  its input to its output; it never makes decisions based on the values of
+  the bytes.  ...  Few tools actually need to operate on runes internally
+  ... The programs that do store runes internally are mostly those whose
+  *raison d' etre* is character manipulation: *sam* (the text editor),
+  *sed*, *sort*, *tr*, *troff*, *8-1/2* (the window system and terminal
+  emulator), and so on. ... plain ASCII text grows when converted to
+  runes; UTF-encoded Japanese shrinks.
+  (a single Unicode rune might be encoded as one, two, or three UTF bytes).
+
+  We concluded that the actual encoding is relatively unimportant to the
+  software; the adoption of large characters and a byte-stream encoding
+  per se are much deeper issues. ..."
 
  6 Nov 2021  <a name="6-Nov-2021"></a>
 
@@ -944,7 +1010,7 @@ Companion page, a commonplace book:
 21 Apr 2020 and ongoing, most recent 17 Mar 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
 
-- <https://ciesie.com/> - Daring use of color and empty space.
+- <https://ciesie.com/> - Dramatic use of color and empty space.
 
 - <https://web.ncf.ca/ek867/2016_03_16-31_archives.html> - 
   Painting or photo in subdued colors accompanies every post,
