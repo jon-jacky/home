@@ -332,7 +332,6 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   *sed*, *sort*, *tr*, *troff*, *8-1/2* (the window system and terminal
   emulator), and so on. ... plain ASCII text grows when converted to
   runes; UTF-encoded Japanese shrinks.
-  (a single Unicode rune might be encoded as one, two, or three UTF bytes).
 
   We concluded that the actual encoding is relatively unimportant to the
   software; the adoption of large characters and a byte-stream encoding
