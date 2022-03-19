@@ -251,7 +251,7 @@ Companion page, a commonplace book:
 
   More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
-7 7 Nov 2021
+ 7 Nov 2021, 17 Mar 2022  <a name="7-Nov-2021"></a>
 
 - Meta: pages *about* some of the technology behind computer typography.
 
@@ -272,7 +272,6 @@ Companion page, a commonplace book:
 
   <https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf> - UTF-8 in
   Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
-
   This paper provides a good explanation of the distinction between
   a *character set* (used within a program) and its representation
   or *encoding* (used in files and and in network communications).
