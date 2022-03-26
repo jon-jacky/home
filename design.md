@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+25 Mar 2022  <a name="25-Mar-2022"></a>
+
+- <https://www.mollywhite.net/annotations/latecomers-guide-to-crypto> -
+  Annotated crypto guide, notes on NYT's recent puff piece on cryptocurrency,
+  in side-by-side format.
+
 16 Mar 2022  <a name="16-Mar-2022"></a>
 
 - <https://medium.com/vantage/type-in-your-hand-512a5a6cbb98> -
