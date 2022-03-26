@@ -16,7 +16,7 @@ Companion page, a commonplace book:
 25 Mar 2022  <a name="25-Mar-2022"></a>
 
 - <https://www.mollywhite.net/annotations/latecomers-guide-to-crypto> -
-  Annotated crypto guide, critical notes on NYT's recent puff piece on
+  Annotated crypto guide, critical notes on NYT's recent piece on
   cryptocurrency, in side-by-side format.
 
 16 Mar 2022  <a name="16-Mar-2022"></a>
