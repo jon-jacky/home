@@ -285,6 +285,9 @@ Some of my own comments:
   employed to condemn people to passivity.  But they are also the most
   basic and, in the end, the most destructive."
 
+- <https://pages.gseis.ucla.edu/faculty/agre/notes.html> - 
+  Archived *Notes and recommendations* pages by Phil Agre
+
 10 Aug 2021  <a name="10-Aug-2021"></a>
 
 - *A Friend of the Earth* by T. C. Boyle (2000), p. 183-4 (no link):
@@ -3765,6 +3768,9 @@ Some of my own comments:
   engaging with frivolous online content that we recognize -- even
   celebrate -- as tedious, we sorely limit ourselves.  We have arrived at a
   situation in which "no one is bored, everything is boring" ..."
+
+- <http://k-punk.abstractdynamics.org/> -
+  Archived *K-Punk* blog by Mark Fisher
 
 23 May 2019  <a name="23-May-2019"></a>
 
