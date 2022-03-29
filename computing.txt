@@ -10,6 +10,84 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+28 Mar 2022
+
+- https://download.clojure.org/papers/clojure-hopl-iv-final.pdf - 
+  A History of Clojure by Rich Hickey -
+  From *HOPL-4, History of Programming Languages Conference*, 2020
+
+  "... the work most commonly done by professional programmers (is)
+  *information systems programming*.  ... often, this information
+  documents some human activity ... and must deal with all the
+  irregularity thereof. This is in stark contrast to *artificial systems*,
+  e.g., programming language compilers, which make up their own rules, in
+  fully enumerated spaces, can eliminate irregularity and can reject
+  anything which does not conform.
+
+  ... working with databases taught me several important things
+  about programming languages and their role in systems. The primary
+  information model should not live in any application program. The more
+  elaborate the type abstractions built up inside the programming language
+  the less likely they would be shared by any other system participant,
+  and the more involved and necessary marshaling would be to get in/out of
+  the program's model. The durable information would outlive any program
+  both in the small (execution lifecycle) and the large (utility over
+  time). Programing language constructs are not at the center of system
+  designs.
+
+  A key question for language choice (and thus software design) is: how
+  well do the primary language constructs map to your primary problems?
+  If your program deals with information, these are among your primary
+  problems: information is sparse, incrementally accumulated, open/extensible, conditionally available, formed into arbitrary sets
+  in different contexts, merged with other information etc. Thus the
+  answers to these questions become important: Can you determine what
+  information is present? Is there an algebra for information selection?
+  Merging? How difficult is it to accumulate information in a processing
+  pipeline? Are attributes first-class? Is there a system for avoiding
+  attribute name conflicts?
+
+  In my experience, statically typed class/record
+  systems are a mismatch for these information management tasks. Aggregate
+  types (classes/records) are the primary drivers of attribute
+  semantics rather than merely being context-dependent aggregations. They
+  are fully enumerated and closed. Though optionality/availability of a
+  field/attribute is not a property of a data structure (it's a property of
+  a context of use), you must declare things as Nullable or Maybe once and
+  for all.  Attribute names are parochial. Attribute/field names are often
+  not first class. There is no algebra for merging/selection. Incremental
+  information acquisition is hard. Mapping tools (like ORMs) to/from the
+  parochial type models are common and necessary. Type errors, pattern
+  matching errors and refactoring tools are venerated for facilitating 
+  change instead of being recognized as underscoring(and perhaps
+  fostering) the coupling and brittleness in a system.
+
+  I should note that the same problems often arise with traditional SQL
+  database systems, where tables are the fully-enumerated culprits, and
+  column and table names are not first class, nullability is a fixed
+  decision, sparseness and openness are problematic, etc.
+
+  In information systems large and small, one is often forced to abandon
+  the class/record system and just start using maps, which often have no
+  syntax or other language support. And on the database side, one often
+  starts using generic entity/attribute/value (triple) tables to get the
+  flexible information support one needs. By the time I started Clojure I
+  was pretty tired of all this mismatch with common needs, and the
+  programmer effort wasted presuming that language models were right and
+  all this marshaling and specificity was necessary or productive.
+
+  At the same time, I had been doing some research into RDF [W3C 2014] , a
+  system designed around the needs of open, extensible information
+  management. There, the semantics of properties (attributes) are inherent
+  in the attributes themselves, not determined by their presence in
+  some named, fully enumerated aggregate/class/record type. Aggregation is
+  ad hoc. Properties are named by URIs and thus conflict-free. The RDF
+  design resonated with me and was a big influence on both Clojure and
+  Datomic ..."
+
+  Compare these excerpts to 
+  https://news.ycombinator.com/item?id=27520853 comments on Emacs Love Tale,
+  below at 11 Apr 2019 (then scroll down).
+
 13 Feb 2022
 
 - https://standardebooks.org/ - Standard Ebooks, the subject of the
@@ -5876,4 +5954,5 @@ also there is http://repository.cmu.edu/cgi/viewcontent.cgi?article=1595&context
   notanos, Javascript desktop mentioned in this HN comment:
   https://news.ycombinator.com/item?id=12956841
   screenshot:  http://i.imgur.com/sPh0c6s.png
+
   older version: https://github.com/Lerc/notanos
