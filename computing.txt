@@ -58,7 +58,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   information acquisition is hard. Mapping tools (like ORMs) to/from the
   parochial type models are common and necessary. Type errors, pattern
   matching errors and refactoring tools are venerated for facilitating 
-  change instead of being recognized as underscoring(and perhaps
+  change instead of being recognized as underscoring (and perhaps
   fostering) the coupling and brittleness in a system.
 
   I should note that the same problems often arise with traditional SQL
@@ -84,9 +84,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   design resonated with me and was a big influence on both Clojure and
   Datomic ..."
 
-  Compare these excerpts to 
-  https://news.ycombinator.com/item?id=27520853 comments on Emacs Love Tale,
-  below at 11 Apr 2019 (then scroll down).
+  Compare these excerpts, but also the full linked article, to comments on
+  Emacs Love Tale, below at 8 Apr 2019 (then scroll down), and also to Tim
+  Berners-Lee's comments on the Principal  of Least Power at 7 Sep 2021.
 
 13 Feb 2022
 
@@ -337,7 +337,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   https://news.ycombinator.com/item?id=29130017, 
   "It's literally just a computer in my living room."
 
-  Later, at https://news.ycombinator.com/item?id=30660625, *marginalia_nu*
+  Later, https://search.marginalia.nu/explore/random 
+  via https://news.ycombinator.com/item?id=30047455 - 
+  "I've been a bit obsessed with the idea of flipping through the internet
+  a bit like you would a magazine, of undirected browsing as a discovery
+  mechanism ..."
+
+  Still later, at https://news.ycombinator.com/item?id=30660625, *marginalia_nu*
   writes: "My search engine is basically the result of a decision to build
   what I want instead of what I think will be commercially viable or
   scalable to planet wide adoption. It cannot be stated enough how much of
@@ -2330,7 +2336,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   (scroll down for transcript) - 
   via https://news.ycombinator.com/item?id=30214371
 
-8-11 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021
+ 8 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021
 
 - https://news.ycombinator.com/item?id=1476059, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
