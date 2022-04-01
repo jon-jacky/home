@@ -3769,8 +3769,13 @@ Some of my own comments:
   celebrate -- as tedious, we sorely limit ourselves.  We have arrived at a
   situation in which "no one is bored, everything is boring" ..."
 
-- <http://k-punk.abstractdynamics.org/> -
-  Archived *K-Punk* blog by Mark Fisher
+  <http://k-punk.abstractdynamics.org/> - Archived *K-Punk* blog by Mark Fisher
+
+- <https://www.nplusonemag.com/online-only/book-review/lingering/> -
+  Lingering by Benjamin Kunkel, review of several books in *n+1*, May 31 2009 -
+  "... The truth is that we are often bored to death by what we find
+  online -- but this is boredom on the installment plan, one click a time, and
+  therefore imperceptible. ..."
 
 23 May 2019  <a name="23-May-2019"></a>
 
