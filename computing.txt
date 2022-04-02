@@ -82,11 +82,55 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   some named, fully enumerated aggregate/class/record type. Aggregation is
   ad hoc. Properties are named by URIs and thus conflict-free. The RDF
   design resonated with me and was a big influence on both Clojure and
-  Datomic ..."
+  Datomic ...
+
+  A Lisp program is defined in terms of the interpretation of its core
+  data structures, rather than by a syntax over characters. ... The
+  conversion of character streams into data is handled by separate
+  functions of the reader. ... the standard data structures and library
+  are of signficant utility and reusability.  This is in stark contrast
+  to the common tendency to design a bespoke interface and types for
+  every problem.
+
+  The separation of the data read/print system from compilation/evaluation
+  has tremendous utility ...  It serves as a human readable, text-stream-
+  compatible serialization format. This makes the language data structure
+  literals a first (and often winning) candidate for coniguration  files,
+  program data storage formats and interprocess wire protocols. Data
+  structure literals are a big win. There is a significant difference in
+  the comprehensibility of a data literal vs the set of language
+  instructions that might construct that same data. Furthermore,
+  instructions are parochial to language functions whereas data structure
+  literals are not. Data structure literals allow different programming
+  languages to meet at a place of commonality. ... Table 1 enumerates the
+  core data format of Clojure (including lists, vectors, maps of key/value
+  pairs, and sets). Note that the reader can produce those data structures
+  given that text *without invoking the compiler/interpreter*. ..."
+
+  (I think he means that many programming languages do not provide  built-
+  in readers or writers for the data structures you can create in that
+  language, instead you must write custom code. In contrast, Lisps already
+  provide code for this.  In fact a Lisp program source code is itself an
+  instance of one of these Lisp data structures -- a list -- for which a
+  reader is provided.)
+
+  "It is common to conflate any intractive language prompt with a REPL, but 
+  ... one aspect of supporting REPL-driven development is that there are
+  no language semantics in Clojure associated with files or modules. While
+  it is possible to compile and load files, the effect of such loading is
+  always as if executing each contained expression sequentially.
+
+  A final important characteristic of Lisps is that they omit a baked-in
+  higher-level programming model, be that object-orientation, category
+  theory, a logic system etc, and any static checking system built
+  thereupon. ...  It was a design objective of Clojure to both stay out of
+  your way and give you enough by default that a larger built-in model was
+  not necessary for getting common programming tasks done."
 
   Compare these excerpts, but also the full linked article, to comments on
   Emacs Love Tale, below at 8 Apr 2019 (then scroll down), and also to Tim
-  Berners-Lee's comments on the Principal  of Least Power at 7 Sep 2021.
+  Berners-Lee's comments on the Principal  of Least Power at 7 Sep 2021,
+  and also to Ron Garret on Lisp S-expressions at 9 Feb 2019.
 
 13 Feb 2022
 
