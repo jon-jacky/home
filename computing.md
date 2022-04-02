@@ -105,14 +105,28 @@ Companion page, a commonplace book:
   languages to meet at a place of commonality. ... Table 1 enumerates the
   core data format of Clojure (including lists, vectors, maps of key/value
   pairs, and sets). Note that the reader can produce those data structures
-  given that text *without invoking the compiler/interpreter*. ..."
+  given that text *without invoking the compiler/interpreter*. ...
+
+  ... Being data, a keyword (or any other data literal) can be read from a
+  file or be directly entered by a user or travel over wires without
+  compilation or reference to any codebase. These facilities make Clojure
+  a good language for information programming. Specifically, they make it
+  easier to write context- independent, generic, loosely coupled
+  information processing programs that can be driven by data. Keys and
+  maps are first-class values not encoded in specific program types,
+  readable from text without specific program code, and can be produced by
+  different languages. This is the way that large, loosely coupled
+  programs that interoperate over wires are constructed ..."
 
   (I think he means that many programming languages do not provide  built-
   in readers or writers for the data structures you can create in that
   language, instead you must write custom code. In contrast, Lisps already
-  provide code for this.  In fact a Lisp program source code is itself an
-  instance of one of these Lisp data structures -- a list -- for which a
-  reader is provided.)
+  provide code for this.  In fact a Lisp program source code is itself
+  just an instance of one of these Lisp data structures -- a list -- for
+  which a reader is provided, which can be used by any program.  This is
+  in contrast to many programming languages where reading their source
+  code involves a special purpose parser and data structure which are not
+  generally useful for application programming.)
 
   "It is common to conflate any intractive language prompt with a REPL, but
   ... one aspect of supporting REPL-driven development is that there are
