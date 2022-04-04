@@ -16,9 +16,9 @@ Companion page, a commonplace book:
   A History of Clojure by Rich Hickey -
   From *HOPL-4, History of Programming Languages Conference*, 2020
 
-  "... the work most commonly done by professional programmers (is)
-  *information systems programming*.  ... often, this information
-  documents some human activity ... and must deal with all the
+  "*Motivation.*  ... the work most commonly done by professional
+  programmers (is) *information systems programming*.  ... often, this
+  information documents some human activity ... and must deal with all the
   irregularity thereof. This is in stark contrast to *artificial systems*,
   e.g., programming language compilers, which make up their own rules, in
   fully enumerated spaces, can eliminate irregularity and can reject
@@ -35,16 +35,79 @@ Companion page, a commonplace book:
   time). Programing language constructs are not at the center of system
   designs.
 
-  A key question for language choice (and thus software design) is: how
-  well do the primary language constructs map to your primary problems?
-  If your program deals with information, these are among your primary
-  problems: information is sparse, incrementally accumulated, open/extensible, conditionally available, formed into arbitrary sets
-  in different contexts, merged with other information etc. Thus the
-  answers to these questions become important: Can you determine what
-  information is present? Is there an algebra for information selection?
-  Merging? How difficult is it to accumulate information in a processing
-  pipeline? Are attributes first-class? Is there a system for avoiding
-  attribute name conflicts?
+  *Clojure, the Lisp.* Clojure is a Lisp, but what does that mean? Lisp is
+  a fascinating set of ideas, a family of languages without a monotonic
+  lineage ...    There are some shared characteristics ... code is data;
+  independent read/print;  small core; runtime tangibility; the REPL; and
+  extreme flexibility.
+
+  *Code as Data.*  A Lisp program is defined in terms of the interpretation
+  of its core data structures, rather than by a syntax over characters.
+  ... The conversion of character streams into data is handled by separate
+  functions of the reader. ... the standard data structures and library
+  are of signficant utility and reusability.  This is in stark contrast to
+  the common tendency to design a bespoke interface and types for every
+  problem.
+
+  *read/print.*  The separation of the data read/print system from
+  compilation/evaluation has tremendous utility ...  It serves as a human
+  readable, text-stream- compatible serialization format. This makes the
+  language data structure literals a first (and often winning) candidate
+  for coniguration  files, program data storage formats and interprocess
+  wire protocols.
+
+  Data structure literals are a big win. There is a significant difference
+  in the comprehensibility of a data literal vs the set of language
+  instructions that might construct that same data. Furthermore,
+  instructions are parochial to language functions whereas data structure
+  literals are not. Data structure literals allow different programming
+  languages to meet at a place of commonality. ...
+
+  Table 1 enumerates the core data format of Clojure (including keywords,
+  lists, vectors, maps of key/value pairs, and sets). Note that the reader
+  can produce those data structures given that text *without invoking the
+  compiler/interpreter*. ...
+
+  *Small Core Language*. Lisps can be small; lambda, lexical bindings,
+  conditionals, lists, symbols, recursion and voila, eval! ...  (in
+  Clojure) most of the action is in libraries, not language features. This
+  allowed the core to remain stable ...
+
+  *Tangible at Runtime*. ... Clojure's namespaces are ... accessible at
+  runtime and enumerable ... It is possible to resolve symbolic names ...
+  find documentation, source and other metadata, and directly manipulate
+  the symbolic naming system in ways that in other languages might be
+  relegated to the compiler or loader. ...
+
+  *REPL.*  It is common to conflate any intractive language prompt with a
+  REPL, but  ... one aspect of supporting REPL-driven development is that
+  there are no language semantics in Clojure associated with files or
+  modules. While it is possible to compile and load files, the effect of
+  such loading is always as if executing each contained expression
+  sequentially.
+
+  *Flexible.*  A final important characteristic of Lisps is that they omit
+  a baked-in higher-level programming model, be that object-orientation,
+  category theory, a logic system etc, and any static checking system
+  built thereupon. ...  It was a design objective of Clojure to both stay
+  out of your way and give you enough by default that a larger built-in
+  model was not necessary for getting common programming tasks done.
+
+  *Data structures.*  While linked lists ... have a certain elegance and
+  functional heritage, their use is dominated in professional practice by
+  the use of vectors/arrays and hashtables/associative maps. ...
+
+  *'just use maps'*  A key question for language choice (and thus software
+  design) is: how well do the primary language constructs map to your
+  primary problems? If your program deals with information, these are
+  among your primary problems: information is sparse, incrementally
+  accumulated, open/extensible, conditionally available, formed into
+  arbitrary sets in different contexts, merged with other information etc.
+  Thus the answers to these questions become important: Can you determine
+  what information is present? Is there an algebra for information
+  selection? Merging? How difficult is it to accumulate information in a
+  processing pipeline? Are attributes first-class? Is there a system for
+  avoiding attribute name conflicts?
 
   In my experience, statically typed class/record
   systems are a mismatch for these information management tasks. Aggregate
@@ -84,67 +147,49 @@ Companion page, a commonplace book:
   design resonated with me and was a big influence on both Clojure and
   Datomic ...
 
-  A Lisp program is defined in terms of the interpretation of its core
-  data structures, rather than by a syntax over characters. ... The
-  conversion of character streams into data is handled by separate
-  functions of the reader. ... the standard data structures and library
-  are of signficant utility and reusability.  This is in stark contrast
-  to the common tendency to design a bespoke interface and types for
-  every problem.
+  I decided I wanted programming with maps (and vectors and sets) in
+  Clojure to be as first-class and native feeling as programming with
+  lists had always been in Lisp. ... In addition to the map read/print
+  support, Clojure has a large functional standard library for dealing
+  with maps ...
 
-  The separation of the data read/print system from compilation/evaluation
-  has tremendous utility ...  It serves as a human readable, text-stream-
-  compatible serialization format. This makes the language data structure
-  literals a first (and often winning) candidate for coniguration  files,
-  program data storage formats and interprocess wire protocols. Data
-  structure literals are a big win. There is a significant difference in
-  the comprehensibility of a data literal vs the set of language
-  instructions that might construct that same data. Furthermore,
-  instructions are parochial to language functions whereas data structure
-  literals are not. Data structure literals allow different programming
-  languages to meet at a place of commonality. ... Table 1 enumerates the
-  core data format of Clojure (including lists, vectors, maps of key/value
-  pairs, and sets). Note that the reader can produce those data structures
-  given that text *without invoking the compiler/interpreter*. ...
+  Keywords are also an integral part of the 'just use maps' story. ...
+  As distinct from symbols, which are resolved to bindings during
+  evaluation,  keywords always evaluate to themselves ... Thus keywords
+  are the preferred  first-class attribute names: keys in information
+  maps. ...  Being data, a keyword (or any other data literal) can be read
+  from a file or be directly entered by a user or travel over wires
+  without compilation or reference to any codebase.
 
-  ... Being data, a keyword (or any other data literal) can be read from a
-  file or be directly entered by a user or travel over wires without
-  compilation or reference to any codebase. These facilities make Clojure
-  a good language for information programming. Specifically, they make it
-  easier to write context- independent, generic, loosely coupled
-  information processing programs that can be driven by data. Keys and
-  maps are first-class values not encoded in specific program types,
-  readable from text without specific program code, and can be produced by
-  different languages. This is the way that large, loosely coupled
-  programs that interoperate over wires are constructed ..."
+  These facilities make Clojure a good language for information
+  programming. Specifically, they make it easier to write context-
+  independent, generic, loosely coupled information processing programs
+  that can be driven by data. Keys and maps are first-class values not
+  encoded in specific program types, readable from text without specific
+  program code, and can be produced by different languages. This is the
+  way that large, loosely coupled programs that interoperate over wires
+  are constructed ..."
 
-  (I think he means that many programming languages do not provide  built-
-  in readers or writers for the data structures you can create in that
-  language, instead you must write custom code. In contrast, Lisps already
-  provide code for this.  In fact a Lisp program source code is itself
-  just an instance of one of these Lisp data structures -- a list -- for
-  which a reader is provided, which can be used by any program.  This is
-  in contrast to many programming languages where reading their source
-  code involves a special purpose parser and data structure which are not
-  generally useful for application programming.)
+  On *code as data* and *read/print*, here is a bit more explanation
+  that this paper does not quite spell out:
+  Many programming languages do not provide built- in readers or
+  writers for the data structures you can create in that language, instead
+  you must tediously write your own custom code.  In those languages, the
+  compiler/interpreter even reads the program source code itself using
+  special purpose parsers and data structures which are not generally
+  available or useful for application programming. In contrast, a Lisp
+  program source code is itself just an instance of a Lisp data structure
+  -- a list -- for which a literal text representation is defined, and a
+  reader and writer are provided, which can all be  used by any program.
+  In his Clojure Lisp, Hickey extends this power and convenience to
+  several other data structures,  most notably maps of key/value pairs.
 
-  "It is common to conflate any intractive language prompt with a REPL, but
-  ... one aspect of supporting REPL-driven development is that there are
-  no language semantics in Clojure associated with files or modules. While
-  it is possible to compile and load files, the effect of such loading is
-  always as if executing each contained expression sequentially.
-
-  A final important characteristic of Lisps is that they omit a baked-in
-  higher-level programming model, be that object-orientation, category
-  theory, a logic system etc, and any static checking system built
-  thereupon. ...  It was a design objective of Clojure to both stay out of
-  your way and give you enough by default that a larger built-in model was
-  not necessary for getting common programming tasks done."
-
-  Compare these excerpts, but also the full linked article, to comments on
-  Emacs Love Tale, below at [8 Apr 2019](#8-Apr-2019) (then scroll down), and also to Tim
-  Berners-Lee's comments on the Principal  of Least Power at [7 Sep 2021](#7-Sep-2021),
-  and also to Ron Garret on Lisp S-expressions at [9 Feb 2019](#9-Feb-2019).
+  For more on *code as data* and *read/print*, see Ron Garret on Lisp
+  lists at [9 Feb 2019](#9-Feb-2019) and Tim Berners-Lee on the Principal of Least Power
+  at [7 Sep 2021](#7-Sep-2021). On the tedium of reading and writing data structures in
+  some languages, see *TeMPOraL* at [21 Oct 2021](#21-Oct-2021). On the Lisp REPL, see
+  comments by *sillysaurusx* and *emacsuser31* at [8 Apr 2019](#8-Apr-2019) (then scroll
+  down).
 
 13 Feb 2022  <a name="13-Feb-2022"></a>
 
@@ -2740,6 +2785,10 @@ Companion page, a commonplace book:
   ... What this (linked) article is describing is similar in
   spirit to Lisp, but it's not Lisp. It's a different (toy) language at a
   completely different point in the design space."
+
+  (Lisp lists are built up from cons cells in computer memory.  They have
+  a literal text representation called S-expressions, which are simply
+  parenthesized sequences without other punctuation.)
 
 25 Jan 2019  <a name="25-Jan-2019"></a>
 
