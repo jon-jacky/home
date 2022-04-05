@@ -10,7 +10,63 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-28 Mar 2022  <a name="28-Mar-2022"></a>
+ 4 Apr 2022  <a name="4-Apr-2022"></a>
+
+- <http://www-formal.stanford.edu/jmc/lisp20th/node2.html> -
+  The Survival of LISP by John McCarthy (1980) -
+
+  "As a programming language, LISP is characterized by the following ideas:
+
+   1. Computing with symbolic expressions rather than numbers.
+
+   2. Representation of symbolic expressions and other information by list
+   structure in computer memory.
+
+   3. Representation of information on paper, from keyboards and in other
+   external media mostly by multi-level lists and sometimes by
+   S-expressions. It has been important that any kind of data can be
+   represented by a single general type.
+
+   4. A small set of selector and constructor operations expressed as
+   functions, i.e. *car*, *cdr* and *cons*.
+
+   5. Composition of functions as a tool for forming more complex functions.
+
+   6. The use of conditional expressions for getting branching into
+   function definitions.
+
+   7. The recursive use of conditional expressions as a sufficient tool
+   for building computable functions.
+
+   8. The use of tex2html_wrap_inline94 -expressions for naming functions.
+
+   9. The storage of information on the property lists of atoms.
+
+   10. The representation of LISP programs as LISP data that can be
+   manipulated by object programs. This has prevented the separation
+   between system programmers and application programmers. Everyone can
+   ``improve'' his LISP, and many of these ``improvements'' have developed
+   into improvements to the language.
+
+   11. The conditional expression interpretation of Boolean connectives.
+
+   12. The LISP function *eval* that serves both as a formal definition of
+   the language and as an interpreter.
+
+   13. Garbage collection as the means of erasure.
+
+   14. Minimal requirements for declarations so that LISP statements
+   can be executed in an on-line environment without preliminaries.
+
+   15. LISP statements as a command language in an on-line environment.
+
+  All these features have remained viable and the combination must be some
+  kind of approximate local optimum in the space of programming languages,
+  because LISP has survived several attempts to replace it ..."
+
+  The inventor of Lisp, John McCarthy, wrote this in 1980, looking
+  back on more than 20 years with the language.   More than 40 years
+  later, another inventor wrote this about his own new Lisp dialect:
 
 - <https://download.clojure.org/papers/clojure-hopl-iv-final.pdf> - 
   A History of Clojure by Rich Hickey -
@@ -41,7 +97,7 @@ Companion page, a commonplace book:
   independent read/print;  small core; runtime tangibility; the REPL; and
   extreme flexibility.
 
-  *Code as Data.*  A Lisp program is defined in terms of the interpretation
+  *Code is Data.*  A Lisp program is defined in terms of the interpretation
   of its core data structures, rather than by a syntax over characters.
   ... The conversion of character streams into data is handled by separate
   functions of the reader. ... the standard data structures and library
@@ -170,7 +226,7 @@ Companion page, a commonplace book:
   way that large, loosely coupled programs that interoperate over wires
   are constructed ..."
 
-  On *code as data* and *read/print*, here is a bit more explanation
+  On *code is data* and *read/print*, here is a bit more explanation
   that this paper does not quite spell out:
   Many programming languages do not provide built- in readers or
   writers for the data structures you can create in that language, instead
@@ -184,7 +240,7 @@ Companion page, a commonplace book:
   In his Clojure Lisp, Hickey extends this power and convenience to
   several other data structures,  most notably maps of key/value pairs.
 
-  For more on *code as data* and *read/print*, see Ron Garret on Lisp
+  For more on *code is data* and *read/print*, see Ron Garret on Lisp
   lists at [9 Feb 2019](#9-Feb-2019) and Tim Berners-Lee on the Principal of Least Power
   at [7 Sep 2021](#7-Sep-2021). On the tedium of reading and writing data structures in
   some languages, see *TeMPOraL* at [21 Oct 2021](#21-Oct-2021). On the Lisp REPL, see
@@ -216,7 +272,7 @@ Companion page, a commonplace book:
   I've been writing PHP for almost twenty years now. ... As one gets
   older, one feels less and less excitement for the new tech hotness. ...
   While it's easy to assume that any PHP web project ... requires one of
-  the big frameworks (like Laraval or Symfony), in truth it's easy to use
+  the big frameworks (like Laravel or Symfony), in truth it's easy to use
   basic PHP ... and the big benefit is that you're not stuck with having
   to learn and maintain a huge bells-and-whistles 3rd-party framework in
   perpetuity. I think people really underestimate the burden of
