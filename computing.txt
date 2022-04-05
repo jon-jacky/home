@@ -45,7 +45,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    10. The representation of LISP programs as LISP data that can be
    manipulated by object programs. This has prevented the separation
    between system programmers and application programmers. Everyone can
-   ``improve'' his LISP, and many of these ``improvements'' have developed
+   improve his LISP, and many of these improvements have developed
    into improvements to the language.
 
    11. The conditional expression interpretation of Boolean connectives.
