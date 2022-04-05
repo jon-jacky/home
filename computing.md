@@ -13,7 +13,7 @@ Companion page, a commonplace book:
  4 Apr 2022  <a name="4-Apr-2022"></a>
 
 - <http://www-formal.stanford.edu/jmc/lisp20th/node2.html> -
-  The Survival of LISP by John McCarthy (1980) -
+  The Survival of LISP by John McCarthy (1980)
 
   "As a programming language, LISP is characterized by the following ideas:
 
@@ -38,7 +38,7 @@ Companion page, a commonplace book:
    7. The recursive use of conditional expressions as a sufficient tool
    for building computable functions.
 
-   8. The use of tex2html_wrap_inline94 -expressions for naming functions.
+   8. The use of lambda expressions for naming functions.
 
    9. The storage of information on the property lists of atoms.
 
