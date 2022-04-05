@@ -1078,7 +1078,7 @@ Some of my own comments:
   flesh, and he had fallen exhausted, and so on.  And so he told them all
   that."
 
-22 - 28 Dec 2020
+28 Dec 2020  <a name="28-Dec-2020"></a>
 
 - *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), (no link):
 
@@ -3269,7 +3269,7 @@ Some of my own comments:
   (Compare to Geoff Dyer's excerpt at [17 Feb 2019](#17-Feb-2019), the last two paragraphs
   about trying to write his book on D. H. Lawrence.)
 
-21-29 Mar 2020
+29 Mar 2020  <a name="29-Mar-2020"></a>
 
 - *Measurement* by Paul Lockhart (2012), pages 1, 5, 50, 32-33, 36-37, 42-45,
   125-127, 223-225, 295, 316-317, 320-327, 349-350 (no link):
