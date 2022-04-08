@@ -247,7 +247,7 @@ Companion page, a commonplace book:
   comments by *sillysaurusx* and *emacsuser31* at [8 Apr 2019](#8-Apr-2019) (then scroll
   down).
 
-13 Feb 2022  <a name="13-Feb-2022"></a>
+13 Feb 2022, 7 Apr 2022  <a name="13-Feb-2022"></a>
 
 - <https://standardebooks.org/> - Standard Ebooks, the subject of the
   following post:
@@ -330,6 +330,29 @@ Companion page, a commonplace book:
   and more unusual as language and frameworks are accumulating
   increasingly-esoteric compilation processes and package managers. ...
   All we have to do is copy our filesystem over and it Just Works."
+
+- <https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/> -
+  Baby's First AWS Deployment
+
+  "I intend for this post to serve as an   experience report from a
+  newbie AWS user. ...  The app itself is pretty simple. ...   It's a meal
+  plan manager, where you can    organize and propose a meal plan for your
+  household for the week. ..."
+
+  This author does indeed struggle with a 'dizzying list of AWS acronyms
+  and initialisms... and its eldrich coterie of inscrutable services' which
+  is even worse than the preceding excerpt suggests.  But finally,
+
+  "I was able to get the service spun up in AWS as I had designed it and
+  able to confirm it worked as I suspected. ...
+
+  I don't want to keep building on AWS, because it feels like going to a
+  sleepover at the house of a girl who has told everyone she hates you.
+  ... The biggest lesson I've taken away from this endeavor is that AWS
+  assumes you have access to some VC-backed bank account, and thus litter
+  their documentation with traps where you have no choice but to give them
+  more money. ... (It) makes me feel like I'm not working with a
+  partner, I'm inflicting myself with a parasite."
 
 4 Jan 2022  <a name="4-Jan-2022"></a>
 
