@@ -334,11 +334,16 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/ -
   Baby's First AWS Deployment
 
-  "I intend for this post to serve as an   experience report from a
-  newbie AWS user. ...  The app itself is pretty simple. ...   It's a meal
-  plan manager, where you can    organize and propose a meal plan for your
-  household for the week. ..."
-  
+  "I intend for this post to serve as an   experience report from a newbie
+  AWS user. ...  The app itself is pretty simple. ...   It's a meal plan
+  manager, where you can    organize and propose a meal plan for your
+  household for the week. ... I've sort of over-engineered it on purpose
+  in the spirit of learning. ...
+
+  I want to run it in AWS. To call it cargo culting is likely fair, but
+  every single company I've ever worked for has used AWS. ...
+  it's bound to be a valuable skill for a software engineer to have."
+
   This author does indeed struggle with a 'dizzying list of AWS acronyms
   and initialisms... and its eldrich coterie of inscrutable services' which
   is even worse than the preceding excerpt suggests.  But finally, 
