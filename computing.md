@@ -294,14 +294,6 @@ Companion page, a commonplace book:
   you're coming from object-orientation, you're familiar with a lot of
   complex things. They're very much available. ...  And they're easy to use.
 
-  So it's very important that you don't associate simplicity with
-  partitioning and stratification. They don't imply it. They are enabled
-  by it. If you make simple components, you can horizontally separate
-  them, and you can vertically stratify them. Right? But you can also do
-  that with complex things, and you're going to get no benefits.
-  ... And so I would encourage you to be particularly careful not to be
-  fooled by code organization. ...
-
   So I'd love to say the first step in getting a simpler life is to just
   choose simpler stuff. ...
 
@@ -331,16 +323,7 @@ Companion page, a commonplace book:
   rut. ...
 
   We saw the definitions of simple and easy. They're completely
-  different things. Easy is not simple.
-
-  So, how do we make simplicity easy? We're going to choose constructs
-  with simpler artifacts and avoid constructs that have complex artifacts.
-  ... We're going to try to create abstractions that have simplicity as a
-  basis. ... Simplicity is not about counting. I'd rather have more things
-  hanging nice, straight down, not twisted together, than just a couple of
-  things tied in a knot. And the beautiful thing about making them
-  separate is you'll have a lot more ability to change it, which is where
-  I think the benefits lie."
+  different things. Easy is not simple."
 
 13 Feb 2022, 7 Apr 2022  <a name="13-Feb-2022"></a>
 
