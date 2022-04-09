@@ -10,7 +10,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
- 4 Apr 2022
+ 4 Apr 2022, 8 Apr 2022
 
 - http://www-formal.stanford.edu/jmc/lisp20th/node2.html -
   The Survival of LISP by John McCarthy (1980)
@@ -247,6 +247,101 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   comments by *sillysaurusx* and *emacsuser31* at 8 Apr 2019 (then scroll
   down).
 
+- https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md -
+  Simple Made Easy, a talk by Rich Hickey at *Strange Loop 2011*
+
+  "Simplicity is a prerequisite for reliability. ... We need to build
+  simple systems if we want to build good systems. I don't think we focus
+  enough on that.
+
+  I love word origins. ... So the first word is *simple*.  And the roots
+  of this word are *sim* and *plex*, and that means one fold or one braid
+  or twist. ... And the opposite of this word is *complex*, which means
+  braided together or folded together. Being able to think about our
+  software in terms of whether or not it's folded together is the central
+  point of this talk.
+
+  And so if we want to look for simple things, we want to look for things
+  that have one of something. They have one role. They
+  fulfill one task or job. ... You don't want to see it combining things.
+  ... simple doesn't mean that there's only one of them. ... What matters
+  for simplicity is that there is no interleaving, not that there's only
+  one thing, and that's very important.
+
+  The other word we frequently use interchangeably with simple is the word
+  *easy* ... which means to lie near and to be nearby.  ... there's many
+  ways in which something can be near. ... There's the physical notion of
+  being near ...  We have our own hard drive or our own toolset, or ...
+  the ability to make things physically near by getting them through
+  things like installers ... The second notion of nearness is something
+  being near to our understanding ... near something that we already know.
+  So the word in this case is about being familiar.
+
+  I think that, collectively, we are infatuated with these two notions of
+  easy. ... it's hurting us tremendously.   All we care about is, can I
+  get this instantly and start running it in five seconds? It could be
+  this giant hairball that you got, but all you care is, can you get it.
+  ... we still focus so much on our experience of the use of the
+  construct. Oh, look; I only had to type 16 characters. Wow! That's
+  great.  ... This whole notion of programmer convenience, again, we are
+  infatuated with it, not to our benefit.
+
+  One of the problems I think we have is this conundrum that some things
+  that are easy actually are complex.  ... There are a bunch of
+  constructs that have complex artifacts that are very succinctly
+  described. ... Some of the things that are really dangerous to use
+  are like so simple to describe. They're incredibly familiar ... If
+  you're coming from object-orientation, you're familiar with a lot of
+  complex things. They're very much available. ...  And they're easy to use. 
+
+  So it's very important that you don't associate simplicity with
+  partitioning and stratification. They don't imply it. They are enabled
+  by it. If you make simple components, you can horizontally separate
+  them, and you can vertically stratify them. Right? But you can also do
+  that with complex things, and you're going to get no benefits.
+  ... And so I would encourage you to be particularly careful not to be
+  fooled by code organization. ...
+
+  So I'd love to say the first step in getting a simpler life is to just
+  choose simpler stuff. ...
+
+  Data is actually really simple. There are not a tremendous number of
+  variations in the essential nature of data. There are maps. There are
+  sets. There are linear, sequential things. There are not a lot of other
+  conceptual categories of data. We create hundreds of thousands of
+  variations that have nothing to do with the essence of this stuff and
+  make it hard to write programs that manipulate the essence of the stuff.
+  We should just manipulate the essence of the stuff. It's not hard. It's
+  simpler.
+
+  Objects were made to encapsulate IO devices ... They were never supposed
+  to be applied to information. ... that's just wrong.  It's wrong because
+  it's complex. ... it ruins your ability to build generic data
+  manipulation things. If you leave data alone, you can build things once
+  that manipulate data, and you can reuse them all over the place, and you
+  know they're right once and you're done. The other (problem with
+  objects) is that it will tie your logic to representational things,
+  which again tying, complecting, intertwining. So represent data as data.
+  Please start using maps and sets directly. Don't feel like I have to
+  write a class now because I have a new piece of information. That's just
+  silly.
+
+  I think we have a culture of complexity. To the extent we all
+  continue to use these tools that have complex outputs, we're just in a
+  rut. ... 
+
+  We saw the definitions of simple and easy. They're completely
+  different things. Easy is not simple.
+
+  So, how do we make simplicity easy? We're going to choose constructs
+  with simpler artifacts and avoid constructs that have complex artifacts.
+  ... We're going to try to create abstractions that have simplicity as a
+  basis. ... Simplicity is not about counting. I'd rather have more things
+  hanging nice, straight down, not twisted together, than just a couple of
+  things tied in a knot. And the beautiful thing about making them
+  separate is you'll have a lot more ability to change it, which is where
+  I think the benefits lie."
+
 13 Feb 2022, 7 Apr 2022
 
 - https://standardebooks.org/ - Standard Ebooks, the subject of the
@@ -336,21 +431,21 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
   "I intend for this post to serve as an   experience report from a newbie
   AWS user. ...  The app itself is pretty simple. ...   It's a meal plan
-  manager, where you can    organize and propose a meal plan for your
-  household for the week. ... I've sort of over-engineered it on purpose
-  in the spirit of learning. ...
+  manager, where you can organize and propose a meal plan for your
+  household for the week. ...  and then every member of your household can
+  vote on which one they'd prefer to eat. An async worker tallies the
+  rankings ... and finalizes the meal plan. I've sort of over-engineered
+  it on purposein the spirit of learning. ... I want to run it in AWS. To
+  call it cargo culting is likely fair, but every single company I've ever
+  worked for has used AWS. ... it's bound to be a valuable skill for a
+  software engineer to have."
 
-  I want to run it in AWS. To call it cargo culting is likely fair, but
-  every single company I've ever worked for has used AWS. ...
-  it's bound to be a valuable skill for a software engineer to have."
-
-  This author does indeed struggle with a 'dizzying list of AWS acronyms
-  and initialisms... and its eldrich coterie of inscrutable services' which
-  is even worse than the preceding excerpt suggests.  But finally, 
+  This author does indeed struggle with the 'dizzying list of AWS acronyms
+  and initialisms ... and its eldrich coterie of inscrutable services' which
+  looks even worse here than the preceding article (above) suggests.  But --
 
   "I was able to get the service spun up in AWS as I had designed it and
   able to confirm it worked as I suspected. ...
-
   I don't want to keep building on AWS, because it feels like going to a
   sleepover at the house of a girl who has told everyone she hates you.
   ... The biggest lesson I've taken away from this endeavor is that AWS
