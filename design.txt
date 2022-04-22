@@ -13,6 +13,18 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+22 Apr 2022
+
+- https://contrachrome.com/comic/page01/ - 
+  "Leah Elliot documents how over the last decade,
+  Google's browser has become a threat to user privacy and the democratic
+  process itself.  With her meticulous rearrangement of Scott McCloud's
+  Google-commissioned Chrome comic from 2008, she delivers what she calls
+  a much-needed update."
+
+  http://blogoscoped.com/google-chrome/ - 
+  Scott McCloud's 2008 Google Chrome comic
+
 25 Mar 2022
 
 - https://www.mollywhite.net/annotations/latecomers-guide-to-crypto -
@@ -33,6 +45,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   but the design is certainly ... interesting.
   A similar design minus the cartoons is at https://www.xolo.io/zz-en
   Another (coincidentally?) similar design is https://indigo.ooo/en/
+  Yet another is https://www.art.yale.edu/
 
 - https://berkeleygraphics.com/ - Berkeley Graphics -
   "Beauty emerges automatically without deliberation."
