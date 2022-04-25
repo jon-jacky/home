@@ -275,16 +275,44 @@ Companion page, a commonplace book:
   the ability to make things physically near by getting them through
   things like installers ... The second notion of nearness is something
   being near to our understanding ... near something that we already know.
-  So the word in this case is about being familiar.
+  So the word in this case is about being familiar. ... if you want
+  everything to be familiar, you will never learn anything new ...
 
   I think that, collectively, we are infatuated with these two notions of
   easy. ... it's hurting us tremendously.   All we care about is, can I
   get this instantly and start running it in five seconds? It could be
   this giant hairball that you got, but all you care is, can you get it.
+
+  ... the critical thing to distinguish (easy) from simple is that easy is
+  relative. ... (Some things) are really hard for me. They're easy for
+  other people ... So unlike simple where we can go and look for
+  interleavings, look for braiding, (that is, objective properties), easy
+  is always going to be, you know, easy for whom, or hard for whom? It's a
+  relative term. (That is, subjective.)
+
+  (I might say) I like to use that technology because it's simple, and when
+  I'm saying  simple, I mean easy. And when I am saying easy, I mean
+  because I already know something that looks very much like that. It's
+  how this whole thing degrades and we can never have an objective
+  discussion about the qualities that matter to us in our software.
+
   ... we still focus so much on our experience of the use of the
   construct. Oh, look; I only had to type 16 characters. Wow! That's
   great.  ... This whole notion of programmer convenience, again, we are
   infatuated with it, not to our benefit.
+
+  (When we rely too much on type checking and tests to ensure correctness)
+  I think we're in this world I'd like to call guardrail programming. It's
+  really sad. ... Who drives their car around banging against the
+  guardrail ...?  And - and do the guardrails help you get to where you
+  want to go? Like, do guardrails guide you places? No.  They don't point
+  your car in any particular direction.  ... We're going to need to be
+  able to reason about our program.
+
+  Now if you start by focusing on simplicity, why can't you go as fast
+  as possible right at the beginning? ...  You have to think. You have to
+  actually apply some simplicity work to the problem before you start, and
+  that's going to give you this ramp up.
 
   One of the problems I think we have is this conundrum that some things
   that are easy actually are complex.  ... There are a bunch of
@@ -306,17 +334,17 @@ Companion page, a commonplace book:
   We should just manipulate the essence of the stuff. It's not hard. It's
   simpler.
 
-  Objects were made to encapsulate IO devices ... They were never supposed
-  to be applied to information. ... that's just wrong.  It's wrong because
-  it's complex. ... it ruins your ability to build generic data
-  manipulation things. If you leave data alone, you can build things once
-  that manipulate data, and you can reuse them all over the place, and you
-  know they're right once and you're done. The other (problem with
-  objects) is that it will tie your logic to representational things,
-  which again tying, complecting, intertwining. So represent data as data.
-  Please start using maps and sets directly. Don't feel like I have to
-  write a class now because I have a new piece of information. That's just
-  silly.
+  Objects were made to encapsulate IO devices (the screen, the mouse) ...
+  They were never supposed to be applied to information. ... that's just
+  wrong.  It's wrong because it's complex. ... it ruins your ability to
+  build generic data manipulation things. If you leave data alone, you can
+  build things once that manipulate data, and you can reuse them all over
+  the place, and you know they're right once and you're done. The other
+  (problem with objects) is that it will tie your logic to
+  representational things, which again tying, complecting, intertwining.
+  So represent data as data. Please start using maps and sets directly.
+  Don't feel like I have to write a class now because I have a new piece
+  of information. That's just silly.
 
   I think we have a culture of complexity. To the extent we all
   continue to use these tools that have complex outputs, we're just in a
