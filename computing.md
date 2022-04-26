@@ -10,6 +10,46 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+25 Apr 2022  <a name="25-Apr-2022"></a>
+
+- <https://news.ycombinator.com/item?id=31151735> - 
+  Is retrocomputing the pragmatist power user's future of the desktop?
+
+  *gyulai* writes: "I have Macs from about 10-15 years ago in a box
+  somewhere, together with a few thousand dollars worth of professional-
+  grade commercial software that I used to run. ... I increasingly feel
+  that dusting off that stuff and reintegrating it into my daily driver
+  desktop computing might, in fact, be better bang for the buck than
+  subscribing to today's software and keeping the hardware and my
+  knowledge of the software updated as the software updates roll in. ...
+
+  *nonrandomstring* writes: "What a strange situation we are in. You may be
+  in a seemingly small minority, but your rejection of "modern software"
+  is a growing and significant movement. I believe it has nothing to do
+  with nostalgia. There is a profound failure of the "market values" we
+  believe (ideologically) operate in our world and many rational people
+  see the only way out is regression.
+
+  Computing is transforming from enabling tools to a means of social
+  control and enforcement.
+
+  The market has completely turned around from demand/desire driven to a
+  "push" market, where we are told what we are expected to own and use.
+
+  Cybersecurity is a lost cause. ...
+
+  Stability can only be found in products that are ossified, hard wired
+  and off-network.
+
+  Software Engineering is basically broken at the consumer level. ...
+  working products are no longer shipped (everything happens in the
+  maintenance phase as a long-tail SasS). The "product" itself is just
+  bait.
+
+  When a non-trivial number of users see a 1990s Amiga as a better choice
+  for serious work than the latest silicon, something has gone quite
+  wrong."
+
  4 Apr 2022, 8 Apr 2022  <a name="4-Apr-2022"></a>
 
 - <http://www-formal.stanford.edu/jmc/lisp20th/node2.html> -
@@ -301,11 +341,11 @@ Companion page, a commonplace book:
   great.  ... This whole notion of programmer convenience, again, we are
   infatuated with it, not to our benefit.
 
-  (When we rely too much on type checking and tests to ensure correctness)
+  (When we rely too much on type checking and tests to prevent errors)
   I think we're in this world I'd like to call guardrail programming. It's
   really sad. ... Who drives their car around banging against the
-  guardrail ...?  And - and do the guardrails help you get to where you
-  want to go? Like, do guardrails guide you places? No.  They don't point
+  guardrail ...?  Do the guardrails help you get to where you
+  want to go?  Do guardrails guide you places? No.  They don't point
   your car in any particular direction.  ... We're going to need to be
   able to reason about our program.
 
