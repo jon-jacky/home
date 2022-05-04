@@ -13,6 +13,18 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 3 May 2022  <a name="3-May-2022"></a>
+
+- <https://bjoernkarmann.dk/occlusion-grotesque> - Occlusion Grotesque -
+  "Occlusion Grotesque is an experimental typeface that is carved into the
+  bark of a tree. As the tree grows, it deforms the letters and outputs
+  new design variations, that are captured annually. ...
+
+- <https://seirdy.one/2020/11/23/website-best-practices.html> -
+  An opinionated list of best practices for textual websites -
+  "If you find the article too long, just read the introduction and
+  conclusion. ..."
+
 22 Apr 2022  <a name="22-Apr-2022"></a>
 
 - <https://contrachrome.com/comic/page01/> - 
