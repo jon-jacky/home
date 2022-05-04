@@ -10,6 +10,28 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 3 May 2022  <a name="3-May-2022"></a>
+
+- <https://news.ycombinator.com/item?id=31216377> - 
+  Taking the internet off the hook
+
+  *verisimi writes: "We can say we live in a world of endless distractions
+  that keep us from more worthy causes, but we are also choosing to spend
+  our time being distracted. This is stating the obvious, but we must want
+  to be endlessly distracted, otherwise we wouldn't do it."
+
+  *norandomstring* writes: "In my research I picked up on very little
+  joy or excitement. This is a notable contrast to my own experience of
+  technology as a young person. Being a geek, when I was 20 or 30 my
+  passion for all things new was raging, and it still is at 50. But for
+  people I spoke to in 2020, even quite nerdy types, there's a definite
+  sense around technology of misery interspersed with moments of
+  satisfaction/relief.
+
+  Psychologically, and based on experiences with seeing addiction destroy
+  lives, it seems quite consistent with dependency and lack of control.
+  ..."
+
 25 Apr 2022  <a name="25-Apr-2022"></a>
 
 - <https://news.ycombinator.com/item?id=31151735> - 
@@ -36,7 +58,7 @@ Companion page, a commonplace book:
   The market has completely turned around from demand/desire driven to a
   "push" market, where we are told what we are expected to own and use.
 
-  Cybersecurity is a lost cause. ...
+  Cybersecurity is a lost cause.  We just can't fix it. ...
 
   Stability can only be found in products that are ossified, hard wired
   and off-network.
