@@ -15,7 +15,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://news.ycombinator.com/item?id=31216377 - 
   Taking the internet off the hook 
 
-  *verisimi writes: "We can say we live in a world of endless distractions
+  *verisimi* writes: "We can say we live in a world of endless distractions
   that keep us from more worthy causes, but we are also choosing to spend
   our time being distracted. This is stating the obvious, but we must want
   to be endlessly distracted, otherwise we wouldn't do it."
