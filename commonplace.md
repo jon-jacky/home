@@ -3746,7 +3746,7 @@ Some of my own comments:
   In short: spring is beautiful, but winter is inevitable -- get a warm
   coat."
 
-15 Jun 2019  <a name="15-Jun-2019"></a>
+15 Jun 2019, 3 May 2022  <a name="15-Jun-2019"></a>
 
 - Hauntings by Tom Graham, review of K-PUNK by Mark Fisher, *TLS*,
   May 24, 2019, p. 32 (no link): " ... it is hard to shake the feelihg that
@@ -3776,6 +3776,25 @@ Some of my own comments:
   "... The truth is that we are often bored to death by what we find
   online -- but this is boredom on the installment plan, one click a time, and
   therefore imperceptible. ..."
+
+- <https://news.ycombinator.com/item?id=31216377> (2022) - 
+  Taking the internet off the hook  -
+  *verisimi* writes: "We can say we live in a world of endless distractions
+  that keep us from more worthy causes, but we are also choosing to spend
+  our time being distracted. This is stating the obvious, but we must want
+  to be endlessly distracted, otherwise we wouldn't do it."
+
+  *nonrandomstring* responds: "In my research I picked up on very little
+  joy or excitement. This is a notable contrast to my own experience of
+  technology as a young person. Being a geek, when I was 20 or 30 my
+  passion for all things new was raging, and it still is at 50. But for
+  people I spoke to in 2020, even quite nerdy types, there's a definite
+  sense around technology of misery interspersed with moments of
+  satisfaction/relief.
+
+  Psychologically, and based on experiences with seeing addiction destroy
+  lives, it seems quite consistent with dependency and lack of control.
+  ..."
 
 23 May 2019  <a name="23-May-2019"></a>
 
