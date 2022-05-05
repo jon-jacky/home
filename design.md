@@ -13,6 +13,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 5 May 2022  <a name="5-May-2022"></a>
+
+- <https://www.veryshortintroductions.com/browse?isQuickSearch=true> -
+  Very Short Introductions
+
+  <https://standardebooks.org/ebooks> - Standard Ebooks
+
+  Two approaches to presenting a catalog of hundreds of books.
+  Compare to McMaster-Carr at [27 Nov 2021](#27-Nov-2021).
+
  4 May 2022  <a name="4-May-2022"></a>
 
 - <https://www.sparehed.com/2007/05/14/dagwood-splits-the-atom/> -
@@ -20,9 +30,7 @@ Companion page, a commonplace book:
   "This book tells what an atom is, how it can be split, and what happens
   when it is split.  Here, therefore, is a comic book that is different
   from any you have ever seen.   On these pages Blondie and Dagwood get
-  inside an atom and witness amazing things. An explanation of certain
-  interesting facts which Dagwood discovers in each picture can be found
-  in the text below the picture. ..."
+  inside an atom and witness amazing things. ..."
 
  3 May 2022  <a name="3-May-2022"></a>
 
