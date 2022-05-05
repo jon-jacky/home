@@ -13,12 +13,23 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 4 May 2022  <a name="4-May-2022"></a>
+
+- <https://www.sparehed.com/2007/05/14/dagwood-splits-the-atom/> -
+  *Dagwood Splits the Atom* (1949) -
+  "This book tells what an atom is, how it can be split, and what happens
+  when it is split.  Here, therefore, is a comic book that is different
+  from any you have ever seen.   On these pages Blondie and Dagwood get
+  inside an atom and witness amazing things. An explanation of certain
+  interesting facts which Dagwood discovers in each picture can be found
+  in the text below the picture. ..."
+
  3 May 2022  <a name="3-May-2022"></a>
 
 - <https://bjoernkarmann.dk/occlusion-grotesque> - Occlusion Grotesque -
   "Occlusion Grotesque is an experimental typeface that is carved into the
   bark of a tree. As the tree grows, it deforms the letters and outputs
-  new design variations, that are captured annually. ...
+  new design variations, that are captured annually. ..."
 
 - <https://seirdy.one/2020/11/23/website-best-practices.html> -
   An opinionated list of best practices for textual websites -
