@@ -2765,7 +2765,7 @@ Companion page, a commonplace book:
 - <https://news.ycombinator.com/item?id=31246054> comment by *continuational*
   on Emacs for Professionals:
   "Emacs is built upon a golden idea: The programmable text buffer as the
-  user interface for the OS."
+  user interface for the OS. ..."
 
 - <https://news.ycombinator.com/item?id=25028157> comment by *submeta* on
   (the program) Alfred:
