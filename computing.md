@@ -2669,7 +2669,7 @@ Companion page, a commonplace book:
   (scroll down for transcript) -
   via <https://news.ycombinator.com/item?id=30214371>
 
- 8 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021  <a name="8-Apr-2019"></a>
+ 8 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021, 10 May 2022  <a name="8-Apr-2019"></a>
 
 - <https://news.ycombinator.com/item?id=1476059>, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -2760,7 +2760,12 @@ Companion page, a commonplace book:
   a shared, restriction-free OS, they don't need a fixed and restrictive API
   to interoperate. The entire Emacs is the API, and as long as an elisp app
   follows conventions and plays nice, it will almost seamlessly interoperate
-  with every other app. ...
+  with every other app. ..."
+
+- <https://news.ycombinator.com/item?id=31246054> comment by *continuational*
+  on Emacs for Professionals:
+  "Emacs is built upon a golden idea: The programmable text buffer as the
+  user interface for the OS."
 
 - <https://news.ycombinator.com/item?id=25028157> comment by *submeta* on
   (the program) Alfred:
