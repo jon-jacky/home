@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+12 May 2022  <a name="12-May-2022"></a>
+
+- <https://nelari.us/post/quick_and_dirty_dithering/> -
+  Quick and dirty image dithering -
+  "How can an image with just black and white pixels look so good? ...
+  We have counter-intuitively improved an image with just two colors by
+  *intentionally introducing noise to it.* ..."
+
  5 May 2022  <a name="5-May-2022"></a>
 
 - <https://www.veryshortintroductions.com/browse?isQuickSearch=true> -
@@ -22,14 +30,6 @@ Companion page, a commonplace book:
 
   Two approaches to presenting a catalog of hundreds of books.
   Compare to *McMaster-Carr* at [27 Nov 2021](#27-Nov-2021).
-
-12 May 2022  <a name="12-May-2022"></a>
-
-- <https://nelari.us/post/quick_and_dirty_dithering/> -
-  Quick and dirty image dithering -
-  "How can an image with just black and white pixels look so good? ...
-  We have counter-intuitively improved an image with just two colors by
-  *intentionally introducing noise to it.* ..."
 
  4 May 2022  <a name="4-May-2022"></a>
 
