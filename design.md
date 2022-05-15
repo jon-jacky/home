@@ -21,6 +21,15 @@ Companion page, a commonplace book:
   We have counter-intuitively improved an image with just two colors by
   *intentionally introducing noise to it.* ..."
 
+15 May 2022  <a name="15-May-2022"></a>
+
+- <https://brutalistwebsites.com/> - Brutalist Websites -
+  "In its ruggedness and lack of concern to look comfortable or easy,
+  Brutalism can be seen as a reaction by a younger generation to the
+  lightness, optimism, and frivolity of today's web design."
+  Many, many examples, some with brief interviews, for example
+  <https://brutalistwebsites.com/tilde.town/>
+
  5 May 2022  <a name="5-May-2022"></a>
 
 - <https://www.veryshortintroductions.com/browse?isQuickSearch=true> -
@@ -734,6 +743,14 @@ Companion page, a commonplace book:
   64 BASIC - "In this interactive article, we will build a breakout game using
   Commodore 64 BASIC in the browser. ..."
   An example of a 'literate program'.
+
+  <https://jamesl.me/article.html?article=2022-05-12-asmbyhand.md> -
+  Assembling By Hand: Typing a Commodore 64 Program's Machine Code, One
+  Byte at a Time -
+  "(We discuss) porting the famous *10 PRINT* BASIC program to assembly
+  language ...  To execute this code, one would typically use an
+  *assembler* ... However, without an assembler on-hand, I had to perform
+  this task manually. ..."
 
 - <https://tixy.land/> - "Most minimalist creative coding environment"
 
