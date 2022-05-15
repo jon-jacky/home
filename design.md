@@ -13,14 +13,6 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-12 May 2022  <a name="12-May-2022"></a>
-
-- <https://nelari.us/post/quick_and_dirty_dithering/> -
-  Quick and dirty image dithering -
-  "How can an image with just black and white pixels look so good? ...
-  We have counter-intuitively improved an image with just two colors by
-  *intentionally introducing noise to it.* ..."
-
 15 May 2022  <a name="15-May-2022"></a>
 
 - <https://brutalistwebsites.com/> - Brutalist Websites -
@@ -29,6 +21,14 @@ Companion page, a commonplace book:
   lightness, optimism, and frivolity of today's web design."
   Many, many examples, some with brief interviews, for example
   <https://brutalistwebsites.com/tilde.town/>
+
+12 May 2022  <a name="12-May-2022"></a>
+
+- <https://nelari.us/post/quick_and_dirty_dithering/> -
+  Quick and dirty image dithering -
+  "How can an image with just black and white pixels look so good? ...
+  We have counter-intuitively improved an image with just two colors by
+  *intentionally introducing noise to it.* ..."
 
  5 May 2022  <a name="5-May-2022"></a>
 
