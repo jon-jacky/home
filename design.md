@@ -15,6 +15,12 @@ Companion page, a commonplace book:
 
 15 May 2022  <a name="15-May-2022"></a>
 
+- <https://www.lovehulten.com/> - Love Hulten -
+  *bullfightonmars* writes: "Wow! These are all real things! I thought they
+  were photoshop mockups, but no they seem to all be physical devices. I
+  am not convinced that all the switches and dials actually function, but
+  still these are beautiful." via <https://news.ycombinator.com/item?id=31387055>
+
 - <https://brutalistwebsites.com/> - Brutalist Websites -
   "In its ruggedness and lack of concern to look comfortable or easy,
   Brutalism can be seen as a reaction by a younger generation to the
