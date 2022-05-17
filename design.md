@@ -1088,8 +1088,11 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 17 Mar 2022:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 16 May 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://winterbloom.com/about> - Open and uncluttered: 
+  Lots of white space, colored panels, clear typography.
 
 - <https://ciesie.com/> - Dramatic use of color and empty space.
 
