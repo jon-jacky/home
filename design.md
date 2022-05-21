@@ -13,6 +13,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+20 May 2022  <a name="20-May-2022"></a>
+
+- <https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html> - Bombe Machine - 
+  "We drastically speed up the Bombe machine, a complex and
+  computationally intensive electromechanical system used to decrypt
+  the Enigma machine during WWII, by recreating it on the DE1-SoC. ..."
+
+  via <https://news.ycombinator.com/item?id=31452032> 
+  with some additional explanation.
+
 15 May 2022  <a name="15-May-2022"></a>
 
 - <https://www.lovehulten.com/> - Love Hulten -
@@ -1091,8 +1101,9 @@ Companion page, a commonplace book:
 21 Apr 2020 and ongoing, most recent 16 May 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
 
-- <https://winterbloom.com/about> - Open and uncluttered: 
-  Lots of white space, colored panels, clear typography.
+- <https://winterbloom.com/about> - Small business site with whimsical logo.
+  Open and uncluttered:  lots of white space, colored panels, clear
+  typography.
 
 - <https://ciesie.com/> - Dramatic use of color and empty space.
 
