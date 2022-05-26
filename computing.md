@@ -3816,7 +3816,7 @@ Companion page, a commonplace book:
   job of the GIL is to pause the while loop for all threads except for
   a thread that currently owns the GIL."
 
-11 Jun 2018  <a name="11-Jun-2018"></a>
+11 Jun 2018, 25 May 2022  <a name="11-Jun-2018"></a>
 
 - <http://www.pong-story.com/LAWN_TENNIS.pdf> - Atari Pong Circuit
   Analysis - Awesomely detailed, 106 pages. "Atari’s Arcade Pong PCB
@@ -3824,10 +3824,14 @@ Companion page, a commonplace book:
   predates microprocessor and software controlled video games ... the
   game has also been emulated in software to play on computers. ... in
   most cases it is a poor facsimile of the real thing."  via
-  <https://news.ycombinator.com/item?id=17200163> "... an insanely
+  <https://news.ycombinator.com/item?id=17200163> "... an *insanely*
   clever masterpiece of digital design. ... It’s mindbendingly
   brilliant."  Compare to Uzebox with 2 ICs, also ATX-80 and
   Arduino C64 at [24 May 2018](#24-May-2018) below.
+
+  <http://www1.cs.columbia.edu/~sedwards/papers/edwards2012reconstructing.pdf> -
+  Reconstructing Pong on an FPGA. via <https://www.falstad.com/pong/> and
+  <https://news.ycombinator.com/item?id=31511719#31511887>
 
  3 Jun 2018, 17 Jan 2021  <a name="3-Jun-2018"></a>
 
