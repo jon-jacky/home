@@ -39,7 +39,8 @@ Companion page, a commonplace book:
   <https://brutalistwebsites.com/tilde.town/>
 
 - <https://help.kinopio.club/> - Kinopio - I am skeptical it can help
-  with 'hard problems', but I am amused by its style.
+  with 'hard problems', but I am amused by its style and impressed by
+  the amount of work here.
 
 12 May 2022  <a name="12-May-2022"></a>
 
