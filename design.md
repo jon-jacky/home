@@ -38,8 +38,8 @@ Companion page, a commonplace book:
   Many, many examples, some with brief interviews, for example
   <https://brutalistwebsites.com/tilde.town/>
 
-- <https://help.kinopio.club/> - Kinopio - I am skeptical of its utility,
-  but amused by its style.
+- <https://help.kinopio.club/> - Kinopio - I am skeptical it can help
+  with 'hard problems', but I am amused by its style.
 
 12 May 2022  <a name="12-May-2022"></a>
 
