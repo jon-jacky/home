@@ -39,8 +39,7 @@ Companion page, a commonplace book:
   <https://brutalistwebsites.com/tilde.town/>
 
 - <https://help.kinopio.club/> - Kinopio - I am skeptical it can help
-  with 'hard problems', but I am amused by its wiggly style and impressed by
-  the amount of work here.
+  with 'hard problems', but I am amused by its wiggly style.
 
 12 May 2022  <a name="12-May-2022"></a>
 
@@ -618,6 +617,9 @@ Companion page, a commonplace book:
 - <https://linusakesson.net/scene/a-mind-is-born/> - A Mind is Born - 
   animated graphics with music, all in 256 bytes of 6502 assembler
   for Commodore 64, with a byte-by-byte explanation of how it works.
+
+- <http://skilldrick.github.io/easy6502/> - Easy 6502 - 
+  "I'm going to show you how to get started writing 6502 assembly language."
 
  7 Mar 2021, 31 Mar 2021, 26 Apr 2021  <a name="7-Mar-2021"></a>
 
