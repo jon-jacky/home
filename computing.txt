@@ -10,6 +10,28 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 5 Jun 2022
+
+- https://news.ycombinator.com/item?id=31625086 - Comments on
+  Painless desktop containers for everyday development.
+
+  *tannhaeuser* writes: "...  But come on, how many levels of abstraction
+  do we want to pile onto another? Namespaces, containers, Docker files,
+  compose, swarm, k8s, helm, cloudfront, terraform, auth servers/OAuth,
+  ad-hoc "REST" auth kludges, dynamic languages, distro- and lang package
+  managers/ecosystems, blabla - because IT'S SO MUCH EASIER LOL. All of
+  which are one-of-a kind snowflake solutions to self-inflicted problems
+  on top of an O/S that is already highly portable, for good reasons.
+  We're just kicking the can down the road, or alternatively, blow up
+  cyclical/generational bubbles to trap freshmen and idiots. Cloud tooling
+  seems like a zero-sum game at this point, wasting talent for three
+  "cloud providers" to make loads of cash. The whole thing is antithetical
+  to humanist, local-first, site autonomy principles in the name of growth
+  for very few."
+
+  *superkuh* writes: "The best container is no container and actually
+  getting it to work on your system."
+
 25 Apr 2022
 
 - https://news.ycombinator.com/item?id=31151735 - 
