@@ -72,6 +72,14 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   for serious work than the latest silicon, something has gone quite
   wrong."
 
+  https://news.ycombinator.com/item?id=31571276 - Why are you here? - 
+  *yadoomerta* writes: I literally cannot think of the last time software
+  has changed and made my life better. And there are endless examples of
+  it making the world worse. ...
+  Even products I consider good are only getting worse. I still have a
+  decades old Photoshop because you could actually buy it back then and
+  the new features really arent worth it. ..."
+
  4 Apr 2022, 8 Apr 2022
 
 - http://www-formal.stanford.edu/jmc/lisp20th/node2.html -
