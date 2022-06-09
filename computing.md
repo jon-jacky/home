@@ -81,7 +81,8 @@ Companion page, a commonplace book:
   broad to include other languages and systems.  The HTML + Javascript
   system described in the next link might almost qualify.
 
-  More on Smalltalk at 9 Sep 2019 and at [22 Oct 2018](#22-Oct-2018)
+  More on Smalltalk at [9 Sep 2019](#9-Sep-2019) 
+  and at [22 Oct 2018](#22-Oct-2018)
   and especially at [24 Sep 2018](#24-Sep-2018).
 
 - <https://cristobal.space/writing/folk> -  Folk (Browser) Interfaces
