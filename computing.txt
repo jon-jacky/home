@@ -59,7 +59,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   also be general if it is to be of any use. This implies, for instance,
   that there should not be many distinctions other than that between one
   object and another, and it means that a user can build objects that
-  participate in the world as first-class citizens.  ..."
+  participate in the world as first-class citizens.  ...
 
   Smalltalk-72 gave us a taste of the subtle power of simplicity. In a
   system that ran probably 50 times slower than other languages at (Xerox)
@@ -74,10 +74,15 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Compare to John McCarthy on Lisp and Rich Hickey on Lisp and Clojure
   at 4 Apr 2022.  Also, contrast to Rich Hickey's criticism of 
   object-oriented programming in his Clojure history and Simple Made Easy
-  essay.
+  essay (also at 4 Apr, scroll down).
 
-  Ingall's definition of 'A Smalltalk' is sufficiently broad to include
-  other languages and systems.  The following system might qualify: 
+  Ingall's definition of 'A Smalltalk' doesn't mention language details,
+  but focuses on simplicity and responsiveness.  It seems sufficiently
+  broad to include other languages and systems.  The HTML + Javascript
+  system described in the next link might almost qualify.
+
+  More on Smalltalk at 9 Sep 2019 and at 22 Oct 2018
+  and especially at 24 Sep 2018.
 
 - https://cristobal.space/writing/folk -  Folk (Browser) Interfaces
 
