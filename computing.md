@@ -10,6 +10,98 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 8 Jun 2022  <a name="8-Jun-2022"></a>
+
+- <https://hopl4.sigplan.org/details/hopl-4-papers/14/The-Evolution-of-Smalltalk-from-Smalltalk-72-through-Squeak> -
+  The Evolution of Smalltalk by Daniel Ingalls -
+  From *HOPL-4, History of Programming Languages Conference*, 2020
+
+  "What is a Smalltalk*? ... Smalltalk is a vision that includes hardware
+  and software and how they behave. I use the phrase 'A Smalltalk' here to
+  connote that larger gestalt. ... 'A Smalltalk' should have the following
+  features.
+
+  *The system is immediately responsive*. ... everything is 'live' so that
+  changes to user code, or even to the system itself, take place
+  immediately. ... this immersive aspect adds to focus and motivation. ...
+
+  *Everything is an object*. ... anything in your world can be connected
+  to anything else with relative ease, even when that connection has not
+  been anticipated. ...
+
+  *Objects communicate by sending and receiving messages*. A system of
+  objects communicating by messages is not invalidated when code or
+  objects are added or removed. ... robustness is a direct result of the
+  message sending paradigm. ...
+
+  *Every object contains its state*. This organizing principle tends to
+  pull together a lot of what would otherwise be rather random unconnected
+  'data'. ... it also provides a natural place to look when trying to
+  make sense of some aspect of the system.
+
+  *Every object is an instance of a class, which specifies the behavior of
+  the object*. ... (this) is such a basic intuition as to be easily
+  overlooked. ... The early Smalltalk bootstrap definitions describe
+  meaningful worlds made up from very few classes of objects.
+
+  *Everything is preserved from one session to the next*. We had
+  experienced this comfort in the notion of a 'workspace' that preserved
+  not only function definitions but also variable bindings. ... it
+  relieves a stressful cognitive load to know that everything will be
+  there when you come back ...
+
+  *Automatic storage management*. In the spirit of unanticipated
+  creations, it must be possible to connect and disconnect objects without
+  causing memory to fill up, and the programs must be free of
+  'deallocation' code if they are to be simple and maintainable. ...
+
+  *Simplicity and generality* ...   If a language is simple then it must
+  also be general if it is to be of any use. This implies, for instance,
+  that there should not be many distinctions other than that between one
+  object and another, and it means that a user can build objects that
+  participate in the world as first-class citizens.  ..."
+
+  Smalltalk-72 gave us a taste of the subtle power of simplicity. In a
+  system that ran probably 50 times slower than other languages at (Xerox)
+  Parc,   we would routinely try out and succeed with experiments in less
+  time   than serious programmers using more   complex systems. Much of
+  this productivity resulted from the combination of a simple language,
+  direct connection to bitmap graphics, and immediate response to program
+  changes and user events. Malleability was also important.  ... (the
+  language) was a lot like clay -- it came with little defined, but it
+  was easy to shape into the forms we needed and wanted."
+
+  Compare to John McCarthy on Lisp and Rich Hickey on Lisp and Clojure
+  at [4 Apr 2022](#4-Apr-2022).  Also, contrast to Rich Hickey's criticism of 
+  object-oriented programming in his Clojure history and Simple Made Easy
+  essay.
+
+  Ingall's definition of 'A Smalltalk' is sufficiently broad to include
+  other languages and systems.  The following system might qualify:
+
+- <https://cristobal.space/writing/folk> -  Folk (Browser) Interfaces
+
+  "For the past couple of years I've found myself returning to vanilla
+  Javascript to build a variety of media interfaces. ... I think of these
+  as *folk interfaces* ...  all of these interfaces are single HTML pages
+  with interaction logic stuck inside *script* tags, forgoing any "best
+  principles" regarding separating HTML, CSS, and Javascript. I slowly
+  build up the pages, at first just *img src="local-path"*, then some
+  click handlers, then some inline styling. It's ... the minimalism of
+  *htmldom.dev* programming with quick feedback loops, centered around
+  seeing what a change does. No boilerplate, no frameworks, no server.
+  Just an HTML file opened directly in the browser. ...
+
+  The emphasis on materiality leads to a pedagogical aside. By focusing on
+  an empirical ground truth, e.g. the state of an image on the screen, a
+  student can grasp ...  what a "good" abstraction is: it allows you to do
+  work. This is in contrast to the approach I encountered at school, of
+  function decomposition, or avoiding repeated work, which makes the design
+  of computer software seem like a neurotic chore."
+
+  <https://htmldom.dev/> - Manage HTML DOM with vanilla JavaScript - 
+  A collection of useful fragments and idioms, cited in the page above.
+
  5 Jun 2022  <a name="5-Jun-2022"></a>
 
 - <https://news.ycombinator.com/item?id=31625086> - Comments on
@@ -32,7 +124,7 @@ Companion page, a commonplace book:
   *superkuh* writes: "The best container is no container and actually
   getting it to work on your system."
 
-25 Apr 2022  <a name="25-Apr-2022"></a>
+25 Apr 2022, 7 Jun 2022  <a name="25-Apr-2022"></a>
 
 - <https://news.ycombinator.com/item?id=31151735> - 
   Is retrocomputing the pragmatist power user's future of the desktop?
