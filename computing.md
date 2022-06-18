@@ -10,6 +10,70 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+17 Jun 2022  <a name="17-Jun-2022"></a>
+
+- <https://dl.acm.org/doi/10.1145/155360.155364> -
+  The early history of Smalltalk by Alan C. Kay
+
+  "I taught Smalltalk to 20 PARC nonprogrammer adults. ...   they started
+  to crash on problems that did not look to me to be much harder than the
+  ones on which they had just been doing well. One of them was ... to make
+  a little database system that could act like a card file or rolodex.
+  They could not even come close to programming it. ...  the next day I
+  showed all of them how to do it. Still, none of them were able to do it
+  by themselves. Later, I sat in the room pondering the board from my
+  talk. Finally, I counted the number of nonobvious ideas in this little
+  program. They came to 17. And some of them were like the concept of the
+  arch in building design: very hard to discover, if you do not already
+  know them.
+
+  The connection to literacy was painfully clear. It is not enough to just
+  learn to read and write. There is also a *literature* that renders
+  *ideas*. Language is used to read and write about them, but at some
+  point the organization of ideas starts to  dominate mere language
+  abilities. And it helps greatly to have some powerful ideas under one's
+  belt to better acquire more powerful ideas. So, we decided we should
+  teach *design*. ...
+
+  Should we even try to teach programming? I have met hundreds of
+  programmers in the last 30 years and can see no discernable influence of
+  programming on their general ability to think well or to take an
+  enlightened stance on human knowledge. If anything, the opposite is
+  true. Expert knowledge often remains rooted in the environments in which
+  it was first learned -- and most metaphorical extensions result in
+  misleading analogies. A remarkable number of artists, scientists, and
+  philosophers are quite dull outside of their specialty ... The first
+  siren's song we need to be wary of is the one that promises a connection
+  between an interesting pursuit and interesting thoughts. The music is
+  not in the piano, and it is possible to graduate Julliard without
+  finding or feeling it.
+
+  I have also met a few people for whom computing provides an important
+  new metaphor for thinking about human knowledge and reach. But something
+  else was needed besides computing for enlightenment to happen.
+
+  (A goal of education is to reach) *fluency* ... The letters and words of
+  a sentence are experienced as meaning rather than markings ...  If
+  carried further one eventually becomes a kind of expert -- but without
+  deep knowledge in other areas, attempts to generalize are usually too
+  crisp and ill-formed.
+
+  ... what liberal arts eduation is supposed to be about, is to get fluent
+  and deep while building relationships with other fluent deep knowledge.
+  ... At the liberal arts level we would expect that connections between
+  each of the fluencies would form truly powerful metaphors for
+  considering ideas in the light of others.
+
+  The reason, therefore, that many of us want children to understand
+  computing deeply and fluently is that like literature, mathematics,
+  science, music, and art, it carries special ways of thinking about
+  situations that, in contrast with other knowledge and other ways of
+  thinking critically, boost our ability to understand our world. ..."
+
+  More from Alan Kay at [23 Apr 2020](#23-Apr-2020)
+  and at [9 Sep 2019](#9-Sep-2019) 
+  and at [24 Sep 2018](#24-Sep-2018).
+
  8 Jun 2022  <a name="8-Jun-2022"></a>
 
 - <https://hopl4.sigplan.org/details/hopl-4-papers/14/The-Evolution-of-Smalltalk-from-Smalltalk-72-through-Squeak> -
@@ -74,7 +138,9 @@ Companion page, a commonplace book:
   Compare to John McCarthy on Lisp and Rich Hickey on Lisp and Clojure
   at [4 Apr 2022](#4-Apr-2022).  Also, contrast to Rich Hickey's criticism of 
   object-oriented programming in his Clojure history and Simple Made Easy
-  essay (also at 4 Apr, scroll down).
+  essay (also at 4 Apr, scroll down).  Both Ingalls and Hickey are
+  experienced and accomplished.  What might explain their differing
+  conclusions?
 
   Ingall's definition of 'A Smalltalk' doesn't mention language details,
   but focuses on simplicity and responsiveness.  It seems sufficiently
@@ -2135,17 +2201,21 @@ Companion page, a commonplace book:
   wind up exploiting the present to an extent that it starts removing the
   possibility of having a future."
 
-- <http://www.vpri.org/pdf/m2004001_power.pdf> - The Power of Context - 
-  Alan Kay recalls the ARPA/PARC heyday, with pictures and bibliography.
+- <https://dl.acm.org/doi/10.1145/155360.155364> -
+  The early history of Smalltalk by Alan C. Kay
 
-  "... in programming there is a widespread first order theory that one
-  shouldn't build one's own tools, languages, and especially operating
-  systems.  This is true --- an incredible amount of time and energy has
-  gone down these ratholes.  On the second hand, if you *can* build your
-  own tools, languages, and operating systems you *absolutely should*
-  because the leverage that can be obtained (and often the time not
-  wasted in trying to fix other people's not quite right tools) can be
-  incredible."
+  "A twentieth century problem is that technology has become too 'easy.'
+  When it was hard to do *anything*, whether good or bad, enough time was
+  taken so that the result was usually good. Now we can make things almost
+  trivially, especially in software, but most of the designs are trivial
+  as well. This is inverse vandalism: the making of things because you
+  can. Couple this to even less sophisticated buyers and you have
+  generated an exploitation marketplace similar to that set up for
+  teenagers.  A counter to this is to generate enormous dissatisfaction
+  with one's designs, using the entire history of human art as a standard
+  and goad. Then the trick is to decouple the dissatisfaction from self-
+  worth -- otherwise it is either too depressing or one stops too soon with
+  trivial results."
 
 - <https://www.quora.com/profile/Alan-Kay-11/answers> - Alan Kay on Quora -
   Includes recollections and opinions about many influential systems from
@@ -2609,6 +2679,23 @@ Companion page, a commonplace book:
   designing and programming. One way to look at this is that we are genetically
   much better set up to cope than to learn.  So familiar-plus-pain is
   acceptable to most people. ...
+
+- <http://www.vpri.org/pdf/m2004001_power.pdf> - The Power of Context - 
+  Alan Kay recalls the ARPA/PARC heyday, with pictures and bibliography.
+
+  "(At PARC we avoided) putting  any  externally  controlled  system,  in-
+  house  or  out,  on  one's  critical  path. ... Thus, virtually all the
+  PARC hardware ... and software ... were completely  built inhouse by
+  these few dozen researchers.
+
+  This  sounds  disastrous, (because) in programming there is a widespread
+  first order theory that one shouldn't build one's own tools, languages,
+  and especially operating systems.  This is true --- an incredible amount
+  of time and energy has gone down these ratholes.  On the second hand, if
+  you *can* build your own tools, languages, and operating systems you
+  *absolutely should* because the leverage that can be obtained (and often
+  the time not wasted in trying to fix other people's not quite right
+  tools) can be incredible."
 
  2 Sep 2019  <a name="2-Sep-2019"></a>
 
