@@ -32,8 +32,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   *ideas*. Language is used to read and write about them, but at some
   point the organization of ideas starts to  dominate mere language
   abilities. And it helps greatly to have some powerful ideas under one's
-  belt to better acquire more powerful ideas. So, we decided we should
-  teach *design*. ...
+  belt to better acquire more powerful ideas. ...
 
   Should we even try to teach programming? I have met hundreds of
   programmers in the last 30 years and can see no discernable influence of
@@ -41,12 +40,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   enlightened stance on human knowledge. If anything, the opposite is
   true. Expert knowledge often remains rooted in the environments in which
   it was first learned -- and most metaphorical extensions result in
-  misleading analogies. A remarkable number of artists, scientists, and
-  philosophers are quite dull outside of their specialty ... The first
-  siren's song we need to be wary of is the one that promises a connection
-  between an interesting pursuit and interesting thoughts. The music is
-  not in the piano, and it is possible to graduate Julliard without
-  finding or feeling it.
+  misleading analogies. ...
 
   I have also met a few people for whom computing provides an important
   new metaphor for thinking about human knowledge and reach. But something
@@ -2143,7 +2137,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   More on HyperCard at 24 Feb 2020 
   and at 28 Feb 2019, below.
 
-23 Apr 2020, 30 Jan 2021
+23 Apr 2020, 30 Jan 2021, 17 Jun 2022
 
 - https://queue.acm.org/detail.cfm?id=1039523 - A Conversation with Alan Kay 
   (2004) - 
