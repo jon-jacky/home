@@ -13,19 +13,51 @@ Companion page, a commonplace book:
 17 Jun 2022  <a name="17-Jun-2022"></a>
 
 - <https://dl.acm.org/doi/10.1145/155360.155364> -
-  The early history of Smalltalk by Alan C. Kay
+  The early history of Smalltalk by Alan C. Kay -
+  From *HOPL-2, History of Programming Languages Conference*, 1993 -
+  from the Abstract, p. 511 and the transcribed Q&A after the talk, p. 597:
 
-  "I taught Smalltalk to 20 PARC nonprogrammer adults. ...   they started
-  to crash on problems that did not look to me to be much harder than the
-  ones on which they had just been doing well. One of them was ... to make
-  a little database system that could act like a card file or rolodex.
-  They could not even come close to programming it. ...  the next day I
-  showed all of them how to do it. Still, none of them were able to do it
-  by themselves. Later, I sat in the room pondering the board from my
-  talk. Finally, I counted the number of nonobvious ideas in this little
-  program. They came to 17. And some of them were like the concept of the
-  arch in building design: very hard to discover, if you do not already
-  know them.
+  "... in the sixties ...  Advanced computer languages were invented to
+  simulate complex systems such as oil refineries and semi-intelligent
+  behavior.  ... object-oriented design came from seeing the
+  work of the sixties as something more than a 'better old thing.'
+  That is, more than a better way to do mainframe computing ...
+  millions of potential users meant that the user interface would have to
+  become a learning environment along the lines of Montessori and Bruner;
+  and needs for large scope, reduction in complexity, and end-user
+  literacy would require that data and control structures be done away
+  with in favor of a more biological scheme of protected universal cells
+  interacting only through messages that could mimic any desired behavior.
+
+  Early Smalltalk was the first complete realization of these new points
+  of view ... and thus took highly extreme positions that almost forced
+  these new styles to be invented."
+
+  "... I think the modes of thought that are fallacious about computing, have
+  to do with complex systems with many interacting parts. And that's
+  something that's very hard to think about in using old mathematics, and
+  old medium(s). I think that one of the aims for teaching children
+  thinking, is that one of the good modes for them to think about are very
+  complex things that have ecological relationships to each other. So, I
+  think giving children a way of attacking complexity, even though for
+  them complexity may be having a hundred simultaneously executing objects
+  -- which I think is complex enough for anybody -- gets them into that space
+  in thinking about things that I think is more interesting than just
+  simple input/output mechanisms."
+
+- from section 11.1.4 Smalltalk and Children, p. 545, 547 - 548:
+
+  "... in the Spring of '74 ... I taught Smalltalk to 20 PARC
+  nonprogrammer adults. ...   they started to crash on problems that did
+  not look to me to be much harder than the ones on which they had just
+  been doing well. One of them was ... to make a little database system
+  that could act like a card file or rolodex. They could not even come
+  close to programming it. ...  the next day I showed all of them how to
+  do it. Still, none of them were able to do it by themselves. Later, I
+  sat in the room pondering the board from my talk. Finally, I counted the
+  number of nonobvious ideas in this little program. They came to 17. And
+  some of them were like the concept of the arch in building design: very
+  hard to discover, if you do not already know them.
 
   The connection to literacy was painfully clear. It is not enough to just
   learn to read and write. There is also a *literature* that renders
@@ -67,6 +99,8 @@ Companion page, a commonplace book:
   More from Alan Kay at [23 Apr 2020](#23-Apr-2020)
   and at [9 Sep 2019](#9-Sep-2019) 
   and at [24 Sep 2018](#24-Sep-2018).
+  More on Smalltalk at [8 Jun 2022](#8-Jun-2022)
+  and at [22 Oct 2018](#22-Oct-2018).
 
  8 Jun 2022  <a name="8-Jun-2022"></a>
 
@@ -74,7 +108,7 @@ Companion page, a commonplace book:
   The Evolution of Smalltalk by Daniel Ingalls -
   From *HOPL-4, History of Programming Languages Conference*, 2020
 
-  "What is a Smalltalk*? ... Smalltalk is a vision that includes hardware
+  "*What is a Smalltalk*? ... Smalltalk is a vision that includes hardware
   and software and how they behave. I use the phrase 'A Smalltalk' here to
   connote that larger gestalt. ... 'A Smalltalk' should have the following
   features.
@@ -143,7 +177,7 @@ Companion page, a commonplace book:
 
   More on Smalltalk at [9 Sep 2019](#9-Sep-2019) 
   and at [22 Oct 2018](#22-Oct-2018)
-  and especially at [24 Sep 2018](#24-Sep-2018).
+  and at [24 Sep 2018](#24-Sep-2018).
 
 - <https://cristobal.space/writing/folk> -  Folk (Browser) Interfaces
 
