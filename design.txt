@@ -13,6 +13,38 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+21 Jun 2022
+
+- http://retro.hansotten.nl/6502-sbc/kim-1-manuals-and-software/ - KIM-1 -
+  "This prehistoric computer has no 'real' keyboard
+  and no video output; programs are entered by the small hexadecimal
+  keyboard ... and results are displayed on the small LED screen ..."
+
+  https://blog.jgc.org/2013/04/how-i-coded-in-1985.html - 
+  How I coded in 1985 - 
+  "... there wasn't an assembler and the KIM-1 just had a hex keypad and
+  small display. So, it meant writing the code by hand, hand assembling
+  and typing it in. ..."
+
+  The KIM-1 was bare-bones but it cost much less than the  early personal
+  computers of the day and it was completely self-contained -- you didn't
+  need a terminal or a host computer to use it.   You could make it
+  into an embedded controller that did useful work, for example the
+  labelling machine in the previous link or the gas mixer described here:
+
+  https://journals.physiology.org/doi/abs/10.1152/jappl.1980.49.1.160?journalCode=jappl
+
+- https://aesthetic-programming.net  - 
+  Aesthetic Programming, a Handbook of Software Studies
+  by Winnie Soon and Geoff Cox - 
+  "Not many programming books address the cultural and aesthetic
+  dimensions of programming as a means to think and act critically. ...
+  our intention is for readers to acquire key programming skills in order
+  to read, write and think with, and through, code ..."
+
+  These pages have an unusual color scheme and a very weird font in the
+  headings.
+  
 20 May 2022
 
 - https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html - Bombe Machine - 
