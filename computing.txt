@@ -2659,7 +2659,27 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   is *constructed* by the runtime implementor in a way that is *prescriptive*.
   ...
 
- 9 Sep 2019
+ 9 Sep 2019, 21 Jun 2022
+
+- https://dl.acm.org/doi/10.1145/155360.155364 -
+  The early history of Smalltalk by Alan C. Kay -
+  From *HOPL-2, History of Programming Languages Conference*, 1993 - 
+  from the transcribed Q&A after the talk, p. 597, and from sect 11.5 p. 549.
+
+  "... the most important reason to use a language like Smalltalk or LISP,
+  is the meta-definition facility. You should not take the language any
+  more as a collection of features done by some designer, but you should
+  take it as a way of enabling the language that you actually need, to
+  write a system. From that standpoint, I think Smalltalk and LISP
+  actually are going to hang on for a long time. ..."
+
+  "... Strong paradigms such as LISP and Smalltalk are so compelling that
+  they *eat their young*: when you look at an application in either of these
+  two systems, they resemble the systems themselves, not a new idea. When
+  I looked at Smalltalk in 1975, I was looking at something great, but I
+  did not see an end-user language; I did not see a solution to the
+  original goal of a 'reading' and 'writing' computer medium for children.
+  I wanted to stop, dynamite everything, and start from scratch again."
 
 - http://www.math.bas.bg/bantchev/misc/az.pdf - *The A-Z of Programming
   Languages* (interviews with programming language creators):
