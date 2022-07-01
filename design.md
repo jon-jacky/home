@@ -31,7 +31,6 @@ Companion page, a commonplace book:
   need a terminal or a host computer to use it.   You could make it
   into an embedded controller that did useful work, for example the
   labelling machine in the previous link or the gas mixer described here:
-
   <https://journals.physiology.org/doi/abs/10.1152/jappl.1980.49.1.160?journalCode=jappl>
 
 - <https://aesthetic-programming.net>  - 

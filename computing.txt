@@ -2932,7 +2932,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   (scroll down for transcript) - 
   via https://news.ycombinator.com/item?id=30214371
 
- 8 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021, 10 May 2022
+ 8 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021, 10 May 2022,
+ 1 Jul 2022
 
 - https://news.ycombinator.com/item?id=1476059, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -3061,6 +3062,37 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   REPL and expect it to work. You need globally unique names for these.
   And I believe this is a must for a language that is running inside an
   editor.
+
+- https://news.ycombinator.com/item?id=22881597 - 
+  comments on Emacs: the most successful malleable system -
+  *dan-robertson*: 
+  
+  Emacs is an excellent malleable system because elisp is an excellent
+  programming language.  A few important qualities that make it
+  particularly good for this sort of environment:
+
+  1. Dynamic scope. Dynamic scope (aka special variables) means that if I
+  locally bind the variable foo to bar, that binding is available for the
+  dynamic extent of the let (ie a function deep in the call stack may
+  access that binding of foo even if it was not defined lexically inside
+  the binding). This allows passing state or options or configuration
+  between different places which are amenable to extension, or modifying
+  the behaviour of existing features by temporarily modifying their state. ...
+
+  6. Most state is globally accessible. By this I mean most variables are
+  special, and there is lots of important state which is global or buffer
+  local like the point, mark, window configuration, or current buffer.
+  This means that the current state is generally available to any
+  extension code that runs and not kept private to some other bit of code
+  (prohibiting extensions from getting at it). It allows most behaviour to
+  be tweaked. ...
+
+  It's curious that a lot of these qualities are generally considered
+  terrible features for writing maintainable code. This is because
+  maintainable code generally wants different things to not be able to
+  affect one another much. If you want an extensible, malleable system, it
+  probably makes sense to have things which are easy to modify the
+  behaviour of from just about anywhere."
   
 - https://news.ycombinator.com/item?id=25038572 comment by *Upvoter* on
   Why are so many coders still using Vim and Emacs? - 
