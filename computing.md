@@ -3065,10 +3065,8 @@ Companion page, a commonplace book:
 
 - <https://news.ycombinator.com/item?id=22881597> - 
   comments on Emacs: the most successful malleable system -
-  *dan-robertson*:
-
-  Emacs is an excellent malleable system because elisp is an excellent
-  programming language.  A few important qualities that make it
+  *dan-robertson*: Emacs is an excellent malleable system because elisp is an
+  excellent programming language.  A few important qualities that make it
   particularly good for this sort of environment:
 
   1. Dynamic scope. Dynamic scope (aka special variables) means that if I
