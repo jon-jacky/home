@@ -50,7 +50,7 @@ Companion page, a commonplace book:
 
   Two composers in the League explain more in their liner
   notes to another album:
-  <http://www.perkis.com/wpc/leagueCDnotes.pdf> -   
+  <http://www.perkis.com/wpc/leagueCDnotes.pdf> -
   *The League of Automatic Music Composers 1978-1983* Notes by Tim Perkis
   and John Bischoff, August 2007 -
   "While sometimes the (KIM-1) microcomputers were used as direct audio
