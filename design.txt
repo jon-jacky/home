@@ -33,6 +33,44 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   labelling machine in the previous link or the gas mixer described here:
   https://journals.physiology.org/doi/abs/10.1152/jappl.1980.49.1.160?journalCode=jappl
 
+  The KIM-1 was even used to make new music, described here:
+  http://www.sothismedias.com/home/the-league-of-automatic-music-composers - 
+  The League of Automatic Music Composers - 
+  "... (Around 1978 composer David) Behrman recorded his landmark album
+  *On the Other Ocean* ... (which has) sustained harmonies between
+  electronic and acoustic sounds that slowly dance and revolve around each
+  other until the difference between them blurs. The two pieces on the
+  album feature the KIM-1 microcomputer with flute and bassoon on the
+  title piece, and cello and the KIM-1 on the flip side, *Figure in a
+  Clearing*. In these pieces the KIM-1 listens to the live performers, and
+  accompanies or marks points when particular pitches are played. ..."
+  (This page links to the full album on YouTube and discusses other
+  pieces that used one or more KIM-1s, including photos of the group
+  performing with their homemade equipment.)
+
+  Two composers in the League explain more in their liner
+  notes to another album:
+  http://www.perkis.com/wpc/leagueCDnotes.pdf -   
+  *The League of Automatic Music Composers 1978-1983* Notes by Tim Perkis
+  and John Bischoff, August 2007 - 
+  "While sometimes the (KIM-1) microcomputers were used as direct audio
+  devices, generally they were used to control other analog or digital
+  soundmaking circuitry. (They had insufficient processing power to create
+  anything other than distinctively noisy and abrasive digital sounds,
+  which were sometimes used to good visceral effect, but which had
+  distinct material limitations.)"
+  
+  "... the lack of significant opportunities on the West Coast for the
+  support and presentation of art music made composers in the Bay Area
+  more likely to embrace experimental aesthetics. Since the audience was
+  sparse, and opportunities for an actual career futile, why not spend
+  one's efforts following the potential of fantastic ideas, rather than
+  worrying about the practical applications of those ideas within
+  traditional musical domains? Why not extend experimental ideas about
+  communal composition, algorithmic music and emergent network behavior to
+  the new electronic technologies? Why not risk creating music that may
+  not succeed at being intelligible music at all?"
+ 
 - https://aesthetic-programming.net  - 
   Aesthetic Programming, a Handbook of Software Studies
   by Winnie Soon and Geoff Cox - 

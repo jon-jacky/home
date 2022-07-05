@@ -2932,8 +2932,8 @@ Companion page, a commonplace book:
   (scroll down for transcript) -
   via <https://news.ycombinator.com/item?id=30214371>
 
- 8 Apr 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021, 10 May 2022,  <a name="8-Apr-2019"></a>
- 1 Jul 2022  <a name="1-Jul-2022"></a>
+ 8 Apr 2019, 10 Mar 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021,  <a name="8-Apr-2019"></a>
+ 10 May 2022, 1 Jul 2022  <a name="10-May-2022"></a>
 
 - <https://news.ycombinator.com/item?id=1476059>, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -3039,6 +3039,15 @@ Companion page, a commonplace book:
   in any (other) editor I used. And none of these editors were meant to be
   used like that ..."
 
+- <https://news.ycombinator.com/item?id=19344872> - Comment on The Emacs
+  Package Developer's Handbook - "... the highly imperative Logo-like
+  model of coding is, though kind of clunky at times, also extremely
+  intuitive and straightforward. Your programs often work the same way
+  you work: go to the other buffer, search forward for a regexp, kill
+  the line, go back to the beginning, and so on, just like “editor
+  macros.” So there’s no funky abstraction frameworks with models and
+  controllers and whatnot, just buffers with cursors basically."
+
 - <https://news.ycombinator.com/item?id=27520853> comments on Emacs Love Tale -
   *cyrialize*: By (the) "magic" (of Emacs) I really just mean having a
   super low barrier to having your code running and working in Emacs. You
@@ -3083,9 +3092,11 @@ Companion page, a commonplace book:
   This means that the current state is generally available to any
   extension code that runs and not kept private to some other bit of code
   (prohibiting extensions from getting at it). It allows most behaviour to
-  be tweaked. ...
+  be tweaked. ..."
 
-  It's curious that a lot of these qualities are generally considered
+  (Several more qualities omitted ...)
+
+  "It's curious that a lot of these qualities are generally considered
   terrible features for writing maintainable code. This is because
   maintainable code generally wants different things to not be able to
   affect one another much. If you want an extensible, malleable system, it
@@ -3098,7 +3109,7 @@ Companion page, a commonplace book:
 
 - <https://news.ycombinator.com/item?id=26581051>, comment by *tharne* on
   Emacs 27.2:
-  " I prefer vim as an editor, but in terms of being a unique and
+  "I prefer vim as an editor, but in terms of being a unique and
   fascinating piece of software, emacs wins hands down. There's something
   really cool about the fact that you can't easily answer the question,
   "What is emacs similar to?", because it's such a total sui generis."
@@ -3130,17 +3141,6 @@ Companion page, a commonplace book:
   "... as an aside lisp also has a reputation, unfounded or not,
   for encouraging people to develop a bespoke private universe
   that's hard for other people to get a handle on."
-
-10 Mar 2019  <a name="10-Mar-2019"></a>
-
-- <https://news.ycombinator.com/item?id=19344872> - Comment on The Emacs
-  Package Developer's Handbook - "... the highly imperative Logo-like
-  model of coding is, though kind of clunky at times, also extremely
-  intuitive and straightforward. Your programs often work the same way
-  you work: go to the other buffer, search forward for a regexp, kill
-  the line, go back to the beginning, and so on, just like “editor
-  macros.” So there’s no funky abstraction frameworks with models and
-  controllers and whatnot, just buffers with cursors basically."
 
 28 Feb 2019  <a name="28-Feb-2019"></a>
 
