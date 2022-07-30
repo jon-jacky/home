@@ -17,7 +17,7 @@ Companion page, a commonplace book:
 
 - <https://www.analogue.co/developer/spacewar> - 
   *Spacewar!* history -  Reviving PDP-1 Spacewar on a handlheld FPGA console,
-  <https://www.analogue.co/developer.>   Compare to the original 
+  <https://www.analogue.co/developer> Compare to the original 
   at [19 Dec 2020](#19-Dec-2020) 
 
 21 Jun 2022  <a name="21-Jun-2022"></a>
