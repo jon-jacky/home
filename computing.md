@@ -3072,6 +3072,14 @@ Companion page, a commonplace book:
   And I believe this is a must for a language that is running inside an
   editor.
 
+- <https://news.ycombinator.com/item?id=31998244> - 
+  comments on Emacs's Builtin Elisp Cheat Sheet -
+  *thorw73m*: "I used to think a single namespace in elisp is bad. But after
+  using it for a while it feels having a single namespace is probably good
+  for cognitive ease. (Languages with namespaces) make it harder to grep
+  while reading source code. Although emacs has longer symbol names it's
+  cognitively much easier."
+
 - <https://news.ycombinator.com/item?id=22881597> - 
   comments on Emacs: the most successful malleable system -
   *dan-robertson*: Emacs is an excellent malleable system because elisp is an

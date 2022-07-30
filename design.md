@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+28 Jul 2022  <a name="28-Jul-2022"></a>
+
+- <https://www.analogue.co/developer/spacewar> - 
+  *Spacewar!* history -  Reviving PDP-1 Spacewar on a handlheld FPGA console,
+  <https://www.analogue.co/developer.>   Compare to the original at 19 Dec 2020 
+
 21 Jun 2022  <a name="21-Jun-2022"></a>
 
 - <http://retro.hansotten.nl/6502-sbc/kim-1-manuals-and-software/> - KIM-1 -
