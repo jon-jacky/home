@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 3 Aug 2022  <a name="3-Aug-2022"></a>
+
+- <https://www.itsnicethat.com/articles/cheng-peng-graphic-design-270722> -
+  Peng Cheng on how ancient crafts inspire her masterful typographic posters
+
+- <https://www.thedesignersrepublic.com/> - 
+  The Designers Republic - What Ideas Look Like
+
 28 Jul 2022  <a name="28-Jul-2022"></a>
 
 - <https://www.analogue.co/developer/spacewar> - 
