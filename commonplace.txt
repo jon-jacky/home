@@ -14,6 +14,80 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+ 8 Aug 2022
+
+- https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/ - 
+  Notes on Nationalism by George Orwell (1945, written during World War II)
+
+  By ‘nationalism’ I mean the ... habit of identifying oneself with a
+  single nation or other unit, placing it beyond good and evil and
+  recognizing no other duty than that of advancing its interests.
+
+  *Nationalism is not to be confused with patriotism.* ...
+  By ‘patriotism’ I mean devotion to a particular place and a particular
+  way of life, which one believes to be the best in the world but has no
+  wish to force on other people. Patriotism is of its nature defensive,
+  both militarily and culturally. Nationalism, on the other hand, is
+  inseparable from the desire for power. The abiding purpose of every
+  nationalist is to secure more power and more prestige, *not* for himself
+  but for the nation or other unit in which he has chosen to sink his own
+  individuality.
+
+  Nationalism, in the extended sense in which I am using the word ...
+  does not necessarily mean loyalty to a government or a country ... and
+  it is not even strictly necessary that the units in which it deals
+  should actually exist. To name a few obvious examples, Jewry, Islam,
+  Christendom, the Proletariat and the White Race are all of them objects
+  of passionate nationalistic feeling: but their existence can be
+  seriously questioned, and there is no definition of any one of them that
+  would be universally accepted.   
+
+  (What Orwell calls 'nationalism' here, we might call 'partisanship',
+  because it can exist among parties and factions in domestic politics.)
+
+  ... The principal characteristics of nationalistic thought (include) ...
+  *indifference to reality.*   All nationalists have the power of    not
+  seeing resemblances between similar sets of facts. A British Tory will
+  defend self-determination in Europe and oppose it in India with no
+  feeling of inconsistency. Actions are held to be good or bad, not on
+  their own merits, but according to who does them, and there is almost no
+  kind of outrage – torture, the use of hostages, forced labour, mass
+  deportations, imprisonment without trial, forgery, assassination, the
+  bombing of civilians – which does not change its moral colour when it is
+  committed by ‘our’ side.
+
+  The nationalist not only does not disapprove of atrocities committed
+  by   his own side, but he has a remarkable capacity for not even hearing
+  about them. For quite six years the English admirers of Hitler contrived
+  not to learn of the existence of Dachau and Buchenwald.   And those who
+  are loudest in denouncing the German concentration camps are often quite
+  unaware, or only very dimly aware, that there are also concentration
+  camps in Russia.    In   nationalist thought there are facts which are
+  both true and untrue,   known and unknown. A known fact may be so
+  unbearable that it is   habitually pushed aside and not allowed to enter
+  into logical processes,   or on the other hand it may enter into every
+  calculation and yet never   be admitted as a fact, even in one’s own
+  mind.
+  
+  Indifference to objective truth is encouraged by the sealing-off of
+  one part of the world from another, which makes it harder and harder to
+  discover what is actually happening. There can often be a genuine doubt
+  about the most enormous events. For example, it is impossible to
+  calculate within millions, perhaps even tens of millions, the number of
+  deaths caused by the present war. The calamities that are constantly
+  being reported – battles, massacres, famines, revolutions – tend to
+  inspire in the average person a feeling of unreality. One has no way of
+  verifying the facts, one is not even fully certain that they have
+  happened, and one is always presented with totally different
+  interpretations from different sources.  ...  
+
+  Probably the truth is discoverable, but the facts will be so dishonestly
+  set forth in almost any newspaper that the ordinary reader can be
+  forgiven either for swallowing lies or failing to form an opinion. The
+  general uncertainty as to what is really happening makes it easier to
+  cling to lunatic beliefs. Since nothing is ever quite proved or
+  disproved, the most unmistakable fact can be impudently denied.  ...
+
 11 Mar 2022
 
 - https://news.ycombinator.com/item?id=30598600 -
