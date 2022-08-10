@@ -19,7 +19,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 - https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/ - 
   Notes on Nationalism by George Orwell (1945, written during World War II)
 
-  By ‘nationalism’ I mean the ... habit of identifying oneself with a
+  "By ‘nationalism’ I mean the ... habit of identifying oneself with a
   single nation or other unit, placing it beyond good and evil and
   recognizing no other duty than that of advancing its interests.
 
@@ -40,12 +40,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   Christendom, the Proletariat and the White Race are all of them objects
   of passionate nationalistic feeling: but their existence can be
   seriously questioned, and there is no definition of any one of them that
-  would be universally accepted.   
+  would be universally accepted."
 
   (What Orwell calls 'nationalism' here, we might call 'partisanship',
   because it can exist among parties and factions in domestic politics.)
 
-  ... The principal characteristics of nationalistic thought (include) ...
+  "... The principal characteristics of nationalistic thought (include) ...
   *indifference to reality.*   All nationalists have the power of    not
   seeing resemblances between similar sets of facts. A British Tory will
   defend self-determination in Europe and oppose it in India with no
@@ -62,7 +62,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   not to learn of the existence of Dachau and Buchenwald.   And those who
   are loudest in denouncing the German concentration camps are often quite
   unaware, or only very dimly aware, that there are also concentration
-  camps in Russia.    In   nationalist thought there are facts which are
+  camps in Russia. ... In   nationalist thought there are facts which are
   both true and untrue,   known and unknown. A known fact may be so
   unbearable that it is   habitually pushed aside and not allowed to enter
   into logical processes,   or on the other hand it may enter into every
@@ -86,7 +86,45 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   forgiven either for swallowing lies or failing to form an opinion. The
   general uncertainty as to what is really happening makes it easier to
   cling to lunatic beliefs. Since nothing is ever quite proved or
-  disproved, the most unmistakable fact can be impudently denied.  ...
+  disproved, the most unmistakable fact can be impudently denied.  ..."
+
+- https://www.bradeast.org/blog/2019/10/sorting-nationalism-and-patriotism-with.html - 
+  *Democracy and Populism: Fear and Hatred* by John Lukacs, 2005, 
+  pp. 35-36, 71-73
+
+  "Patriotism is the love of a particular land, with its particular
+  traditions; nationalism is the love of something less tangible, of the
+  myth of a 'people,' justifying many things, a political and ideological
+  substitute for religion. ...
+  Hitler knew that: I have, more than once, cited his sentence from Mein
+  Kampf recalling his youth: 'I was a nationalist; but I was not a
+  patriot.'
+
+  Patriotism is less racist than is populism. A patriot will not exclude a
+  person of another nationality from a community where they have lived
+  side by side and whom he has known for many years; but a populist will
+  always be suspicious of someone who does not seem to belong to his
+  tribe.
+
+  The love for one's people is natural, but it is also categorical; it is
+  less charitable and less deeply human than the love for one's country ...
+  Nationalism is both self-centered and selfish because human love
+  is not the love of oneself; it is the love of another. (A convinced
+  nationalist is suspicious not only of people he sees as aliens; he may
+  be even more suspicious of people of his own ilk and ready to denounce
+  them as 'traitors' -- that is, people who disagree with his nationalist
+  beliefs.) Patriotism is always more than merely biological -- because
+  charitable love is human and not merely 'natural.' Nature has, and
+  shows, no charity."
+  
+  John Lukacs was an historian born in 1924 who survived World War II in
+  Hungary, emigrated to the United States in 1946, and died in 2019.
+  These excerpts appear in the linked blog post by Brad East, Sorting
+  nationalism and patriotism with John Lukacs.
+
+  I recall another essay by Lukacs (reference now lost) where he wrote 
+  that nationalist political movements always consider some group within
+  their own country as enemies, and persecute them if they can.
 
 11 Mar 2022
 

@@ -16,10 +16,10 @@ Companion page, a commonplace book:
  3 Aug 2022  <a name="3-Aug-2022"></a>
 
 - <https://www.itsnicethat.com/articles/cheng-peng-graphic-design-270722> -
-  Peng Cheng on how ancient crafts inspire her masterful typographic posters
+  Peng Cheng, posters with Chinese typography
 
 - <https://www.thedesignersrepublic.com/> - 
-  The Designers Republic - What Ideas Look Like
+  The Designers Republic, portfolio
 
 28 Jul 2022  <a name="28-Jul-2022"></a>
 
