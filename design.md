@@ -13,6 +13,11 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Aug 2022  <a name="13-Aug-2022"></a>
+
+- <https://pippinbarr.com/SNAKISMS/> -
+  via <https://news.ycombinator.com/item?id=13804522> with some explanations
+
  3 Aug 2022  <a name="3-Aug-2022"></a>
 
 - <https://www.itsnicethat.com/articles/cheng-peng-graphic-design-270722> -

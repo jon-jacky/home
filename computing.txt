@@ -10,6 +10,62 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+14 Aug 2022
+
+- https://ask.metafilter.com/365966/What-is-it-like-to-work-in-IT-support#5213583 - 
+  What is it like to work in IT support?
+
+  *mhoye* writes: "If I were in charge of the world ... people would get
+  conscripted into the service industry instead of the military. ...
+  Everyone spends a year either cleaning up public spaces or picking up
+  the trash or conscripted to work retail or food service, just so you know
+  what that's like, just so you've been on that side of the counter. Or
+  you could spend that year doing IT support, for some opaque service or
+  piece of software that is impossible to love.
+
+  A year in IT support will teach you more about computers and the
+  humans   in front of them than you will learn in any course from any
+  school. IT   support is not really about the tech, though you need to
+  understand the   tech - which is learnable ... and in fact not super
+  challenging - in most mature organizations, you'll have a set of
+  flowcharts that manage 95%+ of the problems you'll run into, and a
+  surprising number of the rest will be solved with a reboot. Much of the
+  modern computational practice is fundamentally incompatible with the
+  reality that consumer-grade hardware is trash.
+
+  IT support is about listening to confused, anxious, often angry, often
+  frightened people, who are using computers not because they want to or
+  care at all about computers or computing ... but because they want to
+  keep their jobs and a roof over their heads and who have called you at a
+  time when that (technology) has failed them somehow in some
+  incomprehensible way they are powerless to resolve.
+
+  Software is basically distilled power. It is a set of decisions about
+  what happens to the users of that software, that the users have,
+  typically, no say in but are totally dependent on. You're going to have
+  to know, or figure out, how to be patient and kind walking people
+  through solving a problem you've solved for other people a thousand
+  times, that would not be a problem for you at all, that is often
+  fundamentally, existentially terrifying for the person on the other end
+  of the call. Your job in IT support will be to answer calls from
+  powerless, frightened people who might be having the worst day they can
+  remember, and help them recover some sense of control over their
+  situation without injury to their dignity or sense of self worth.
+
+  And sometimes, you'll have to do that while assembling a common language
+  with a total stranger on the fly, somebody trying to describe what they
+  see on the screen with whatever words they have to hand.
+
+  ... the field is ageist, sometimes sexist, and it is deeply undervalued
+  by people who aren't very good at their jobs. It's difficult to find a
+  place where the incentives are 'the customer is happy and the problem is
+  solved', rather than 'you answered X calls in Y time' ...
+
+  But as a starting point for a career change, and a place to learn an
+  awful lot about the interface between the people and the tech (which is
+  where all the action is anyway) and how it actually works when the
+  rubber meets the road, you could do a lot worse."
+
 17 Jun 2022
 
 - https://dl.acm.org/doi/10.1145/155360.155364 -
