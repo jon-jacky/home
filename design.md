@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 2 Sep 2022  <a name="2-Sep-2022"></a>
+
+- <https://maggieappleton.com/folk-interfaces> - Folk Interfaces -
+  "Folk interfaces are when users reappropriate existing software to solve
+  their own problems. Rather than using applications in the ways designers
+  and developers intended, they creatively reconfigure them to do
+  unexpected things. ..."
+
+  via <https://news.ycombinator.com/item?id=32688665> with more examples.
 
  1 Sep 2022  <a name="1-Sep-2022"></a>
 
