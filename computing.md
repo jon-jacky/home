@@ -2607,7 +2607,7 @@ Companion page, a commonplace book:
   profound human oppression and ecological destruction."
 
 
-21 Nov 2019  <a name="21-Nov-2019"></a>
+21 Nov 2019, 2 Sep 2022  <a name="21-Nov-2019"></a>
 
 - <https://news.ycombinator.com/item?id=1154650>, comments on Plan 9, long 
   explanation includes:
@@ -2619,6 +2619,16 @@ Companion page, a commonplace book:
   you get used to the idioms it can be incredibly powerful. ...
   The whole experience is very strange, and yet there's a certain elegance
   to it."
+
+- <https://hackerpublicradio.org/eps.php?id=3675> - 
+  "The color scheme of (the Plan 9 windowing system) rio is dull and pastel
+  and this is intentional. Less vibrant color schemes seem to fade away
+  and become less obvious. Color themes like Tango, Linux Console,
+  Solarized, all of KDE, and WIndows XP are very obvious but not in a good
+  way. Bright colors are subtly distracting and make it difficult to
+  concentrate. When I'm configuring a UNIX system with dwm, I borrow Rio's
+  color theme because it's an anti- theme. Give it time. It's charming in
+  its own way. ..."
 
 - <https://news.ycombinator.com/item?id=19177819> - 
   "Plan9 was far superior as a developer's system. Its text based tools
