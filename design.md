@@ -13,6 +13,18 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+12 Sep 2022  <a name="12-Sep-2022"></a>
+
+- <https://lengrand.fr/complete-setup-epaper/> -
+  Making your own e-paper dashboard for home from scratch -
+  Powered by Raspberry Pi Zero, color Legos hold it together.
+  via <https://news.ycombinator.com/item?id=32807444> which describes
+  some alternatives.
+
+- <https://madm.ancv.io/> - Render your resume in a terminal -
+  Uses sections, empty space, centering, lists, colors and italic font
+  to provide a rich display on just a terminal.
+
  2 Sep 2022  <a name="2-Sep-2022"></a>
 
 - <https://maggieappleton.com/folk-interfaces> - Folk Interfaces -
