@@ -13,6 +13,27 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+18 Sep 2022
+
+- https://www.evilmadscientist.com/tag/vintage-computing/ -
+  How to Build a Working Digital Computer ... out of paperclips - 
+  A review of the book from the 1960s, with pictures, links to related
+  projects, and the full text of the book at
+  https://archive.org/details/howtobuildaworkingdigitalcomputer_jun67
+
+  "The instructions include a read-only drum memory for storing the
+  computer program (much like a player piano roll), made from a juice
+  can, with read heads made from bent paper clips.  ..."
+
+- https://jodinskylab.it/portfolio-item/aidan-hancock/ - 
+  Flowo typewriter - With a *cylindrical* e-ink screen that resembles 
+  paper rolling on an old-fashioned typewriter platten.  In Italian.
+  via https://design-milk.com/flowo-typewriter-e-ink-concept/?media_id=492254
+  In English, but with lots of distracting ads.
+
+- https://www.brooklynbarmenus.com/ - 
+  Brooklyn bar menu generator
+
 12 Sep 2022
 
 - https://lengrand.fr/complete-setup-epaper/ -
@@ -22,8 +43,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   some alternatives.  
 
 - https://madm.ancv.io/ - Render your resume in a terminal -
-  Uses sections, empty space, centering, lists, colors and italic font
-  to provide a rich display on just a terminal.
+  Lines made from rows of characters, empty space, centering, lists,
+  colors and italic font provide a rich display on just a terminal.
 
  2 Sep 2022
 
