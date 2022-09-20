@@ -13,6 +13,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+20 Sep 2022  <a name="20-Sep-2022"></a>
+
+- <https://skysedge.com/unsmartphones/RUSP/index.html> -
+  Rotary Un-Smartphone - with a rotary dial and a real bell!
+
+  via <https://www.metafilter.com/196575/The-Rotary-Un-Smartphone> -
+  *lalochezia* writes, "Intersection of open source tech, 1960s
+  aesthetic, lack of spyware, things doing what they say on the tin,
+  maximally effective unitasking device ..."
+
 18 Sep 2022  <a name="18-Sep-2022"></a>
 
 - <https://www.evilmadscientist.com/tag/vintage-computing/> -
