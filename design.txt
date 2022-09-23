@@ -1237,6 +1237,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   "IBM industrial designer C. F. Glaser ... played a crucial role in the 
   design of System/360 ..." (from Conclusion, p. 223 in Harwood).
 
+  Compare their industrial design to the Olivetti Elea 9003 at 22 Sep 2022
+
 - https://www.worthpoint.com/worthopedia/lot-vintage-1960s-ibm-system-model-1812848598 -
   IBM System/360 manuals, covers and title pages.
 
@@ -1294,6 +1296,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://www.youtube.com/watch?v=VeXAj5v0xt4
   Olivetti Elea 9003 demonstration (in Italian)
+
+- https://www.site.uottawa.ca/~luigi/papers/elea.htm -
+  My first two computers: Elea 9003 and Elea 6001:
+  Memories of a ‘bare-metal’ programmer - 
+  includes technical descriptions of hardware and software
 
 14 May 2020
 
