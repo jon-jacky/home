@@ -1272,8 +1272,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   More text from *Spectrum* article appears here:
   https://www.enggtalks.com/news/112283/the-italian-computer-olivetti-s-elea-9003-was-a-study-in-elegant  
   
-  This entry is far of out sequence for its date but I want to
-  put the links for the Olivetti Elea 9003 adjacent to those of 
+  This entry is far of out sequence for its date but I want
+  the links for the Olivetti Elea 9003 to be adjacent to those of 
   its  near contemporaries the IBM 360 models (above).
 
 - https://spectrum.ieee.org/when-the-history-of-computing-comes-alive - 
@@ -1282,25 +1282,27 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   https://site.ieee.org/sb-uol/the-last-working-olivetti-mainframe-sits-in-a-tuscan-high-school/
 
 - https://retrocomputingforum.com/uploads/default/original/1X/450098d6ed1bcea0b1e4e6696f418f425d39f7ab.jpeg - 
-  Olivetti Elea 9003 mainframe
+  Olivetti Elea 9003 mainframe photo
 
 - https://it.wikipedia.org/wiki/Olivetti_Elea_9003 -
-  Olivetti Elea 9003, several photos and text in Italian
+  Olivetti Elea 9003, several photos and text in Italian.
 
 - https://assets.rbl.ms/25588717/origin.jpg -
-  Olivetti Elea 9003 console
+  Olivetti Elea 9003 console photo
 
 - https://www.domusweb.it/en/design/2018/03/19/the-elea-9003-by-ettore-sottsass-is-still-in-working-order.html - 
   Olivetti Elea 9003 console and keyboard closeup, other views.  Click 
-  on View Gallery in second and third image.
+  on View Gallery in images.
 
-- https://www.youtube.com/watch?v=VeXAj5v0xt4
-  Olivetti Elea 9003 demonstration (in Italian)
+- https://www.youtube.com/watch?v=VeXAj5v0xt4 -
+  Olivetti Elea 9003 demonstration, in Italian.
 
 - https://www.site.uottawa.ca/~luigi/papers/elea.htm -
   My first two computers: Elea 9003 and Elea 6001:
   Memories of a ‘bare-metal’ programmer - 
-  includes technical descriptions of hardware and software
+  includes descriptions of hardware and software in English.
+  Links to programmers' manual, reference card, etc. in Italian here:
+  https://www.site.uottawa.ca/~luigi/papers/elea_files/
 
 14 May 2020
 
