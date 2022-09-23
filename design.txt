@@ -1262,6 +1262,38 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   computers. Narrated by Hollywood actor Gregory Peck (Atticus Finch!)
   with music by film composer Elmer Bernstein and jazz dummer Shelly Manne.
 
+22 Sep 2022
+
+- https://spectrum.ieee.org/the-italian-computer-olivettis-elea-9003-was-a-study-in-elegant-ergonomic-design - 
+  The Italian Computer: Olivetti’s ELEA 9003 Was a Study in Elegant,
+  Ergonomic Design - 
+  More text from *Spectrum* article appears here:
+  https://www.enggtalks.com/news/112283/the-italian-computer-olivetti-s-elea-9003-was-a-study-in-elegant  
+  
+  This entry is far of out sequence for its date but I want to
+  put the links for the Olivetti Elea 9003 adjacent to those of 
+  its  near contemporaries the IBM 360 models (above).
+
+- https://spectrum.ieee.org/when-the-history-of-computing-comes-alive - 
+  The Last Working Olivetti Mainframe Sits In a Tuscan High School - 
+  More text from the *Spectrum* article appears here:
+  https://site.ieee.org/sb-uol/the-last-working-olivetti-mainframe-sits-in-a-tuscan-high-school/
+
+- https://retrocomputingforum.com/uploads/default/original/1X/450098d6ed1bcea0b1e4e6696f418f425d39f7ab.jpeg - 
+  Olivetti Elea 9003 mainframe
+
+- https://it.wikipedia.org/wiki/File:Olivetti_Elea_9003_(1959,_zoomed).jpg -
+  Olivetti Elea 9003 console and keyboard
+
+- https://assets.rbl.ms/25588717/origin.jpg -
+  Olivetti Elea 9003 console
+
+- https://www.domusweb.it/en/design/2018/03/19/the-elea-9003-by-ettore-sottsass-is-still-in-working-order.html - 
+  Olivetti Elea 9003 console and keyboard closeup, other views.
+
+- https://www.youtube.com/watch?v=VeXAj5v0xt4
+  Olivetti Elea 9003 demonstration (in Italian)
+
 14 May 2020
 
 - https://inverse.website/ - *in:verse* a poetic programming language 
