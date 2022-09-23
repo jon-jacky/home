@@ -1282,14 +1282,15 @@ Companion page, a commonplace book:
 - <https://retrocomputingforum.com/uploads/default/original/1X/450098d6ed1bcea0b1e4e6696f418f425d39f7ab.jpeg> - 
   Olivetti Elea 9003 mainframe
 
-- <https://it.wikipedia.org/wiki/File:Olivetti_Elea_9003_>(1959,_zoomed).jpg -
-  Olivetti Elea 9003 console and keyboard
+- <https://it.wikipedia.org/wiki/Olivetti_Elea_9003> -
+  Olivetti Elea 9003, several photos and text in Italian
 
 - <https://assets.rbl.ms/25588717/origin.jpg> -
   Olivetti Elea 9003 console
 
 - <https://www.domusweb.it/en/design/2018/03/19/the-elea-9003-by-ettore-sottsass-is-still-in-working-order.html> - 
-  Olivetti Elea 9003 console and keyboard closeup, other views.
+  Olivetti Elea 9003 console and keyboard closeup, other views.  Click
+  on View Gallery in second and third image.
 
 - <https://www.youtube.com/watch?v=VeXAj5v0xt4>
   Olivetti Elea 9003 demonstration (in Italian)
