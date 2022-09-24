@@ -1237,7 +1237,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   "IBM industrial designer C. F. Glaser ... played a crucial role in the 
   design of System/360 ..." (from Conclusion, p. 223 in Harwood).
   
-  Compare their industrial design to Ettore Sottsass' design in 1958
+  Compare their industrial design to Ettore Sottsass' design in 1959
   of the Olivetti Elea 9003 at 22 Sep 2022
 
 - http://history.cs.ncl.ac.uk/anniversaries/40th/images/ibm360_672/slide24.jpg
@@ -1301,6 +1301,14 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://www.youtube.com/watch?v=VeXAj5v0xt4 -
   Olivetti Elea 9003 demonstration, in Italian.
+
+- http://www.aisdesign.org/ser/index.php/SeR/article/view/27/23
+  Ettore Sottsass Jr. E Il Design Dei Primi Computer Olivetti by
+  Elisabetta Mori in *Ais/Design Journal* Vol 1 No 1 2013-03-01,
+  pps. 116 - 125 - 
+  In Italian.  Includes color photos not seen elswhere.
+  Abstract in English at
+  http://www.aisdesign.org/ser/index.php/SeR/article/view/27
 
 - https://www.site.uottawa.ca/~luigi/papers/elea.htm -
   My first two computers: Elea 9003 and Elea 6001:
