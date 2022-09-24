@@ -1241,7 +1241,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   of the Olivetti Elea 9003 at 22 Sep 2022
 
 - http://history.cs.ncl.ac.uk/anniversaries/40th/images/ibm360_672/slide24.jpg
-  An IBM 360/67 with the cabinet open to show the interior.
+  An IBM 360/67 with the cabinet open to show the interior,
+  and a human being to show the scale.
   Other photos in this directory show more interior details.
 
 - https://www.worthpoint.com/worthopedia/lot-vintage-1960s-ibm-system-model-1812848598 -
@@ -1304,8 +1305,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - http://www.aisdesign.org/ser/index.php/SeR/article/view/27/23
   Ettore Sottsass Jr. E Il Design Dei Primi Computer Olivetti by
-  Elisabetta Mori in *Ais/Design Journal* Vol 1 No 1 2013-03-01,
-  pps. 116 - 125 - 
+  Elisabetta Mori in *Ais/Design Journal: Storia e Richerche* 
+  Vol 1 No 1 2013-03-01, pps. 116 - 125 - 
   In Italian.  Includes color photos not seen elswhere.
   Abstract in English at
   http://www.aisdesign.org/ser/index.php/SeR/article/view/27
