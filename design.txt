@@ -1236,8 +1236,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   various S/360 models and how to identify them from the front panels."
   "IBM industrial designer C. F. Glaser ... played a crucial role in the 
   design of System/360 ..." (from Conclusion, p. 223 in Harwood).
+  
+  Compare their industrial design to Ettore Sottsass' design in 1958
+  of the Olivetti Elea 9003 at 22 Sep 2022
 
-  Compare their industrial design to the Olivetti Elea 9003 at 22 Sep 2022
+- http://history.cs.ncl.ac.uk/anniversaries/40th/images/ibm360_672/slide24.jpg
+  An IBM 360/67 with the cabinet open to show the interior.
+  Other photos in this directory show more interior details.
 
 - https://www.worthpoint.com/worthopedia/lot-vintage-1960s-ibm-system-model-1812848598 -
   IBM System/360 manuals, covers and title pages.
