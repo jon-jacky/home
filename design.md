@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 2 Oct 2022  <a name="2-Oct-2022"></a>
+
+- <https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html> -
+  Hyperlinks in Handwriting
+
+  via <https://news.ycombinator.com/item?id=33055426> with links to similar
+  pages and alternatives.
+
 20 Sep 2022  <a name="20-Sep-2022"></a>
 
 - <https://skysedge.com/unsmartphones/RUSP/index.html> -
