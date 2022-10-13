@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Oct 2022  <a name="13-Oct-2022"></a>
+
+- <http://canonical.org/~kragen/bible-columns> - 
+  The entire King James Bible in one web page,
+  a 4866 x 19254 png image in a tiny custom font.
+  A modern take on the old Lord's Prayer on a pinhead.
+
+  via <https://news.ycombinator.com/item?id=33128213>
+
  2 Oct 2022  <a name="2-Oct-2022"></a>
 
 - <https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html> -
@@ -1332,6 +1341,10 @@ Companion page, a commonplace book:
 
 21 Apr 2020 and ongoing, most recent 25 Sep 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://www.granolashotgun.com/granolashotguncom/yxney5uiln5ucpsb80mplx466qd53h> -
+  Lots of text, lots and lots of photos, but not at all cluttered.
+  Nice use of background color.
 
 - <https://www.datagubbe.se/short/> - Header, body, trailer panels with
   three complementary background shades that soften the large black
