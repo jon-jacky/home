@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+18 Oct 2022  <a name="18-Oct-2022"></a>
+
+- <https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/> -
+  1956 Philips 353A Bakelite Vacuum Tube Radio Repair & Restoration -
+  Many vivid photos and drawings.
+
 13 Oct 2022  <a name="13-Oct-2022"></a>
 
 - <http://canonical.org/~kragen/bible-columns> - 
