@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+20 Oct 2022  <a name="20-Oct-2022"></a>
+
+- <http://enzomari.com/> - Enzo Mari portfolio - *This* is minimalism!
+  I mean the web site -- but also the objects.
+
+  <https://dispatchesmag.com/reappraisal-enzo-mari/> - About Mari,
+  via <https://news.ycombinator.com/item?id=33261399>
+
 18 Oct 2022  <a name="18-Oct-2022"></a>
 
 - <https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/> -
