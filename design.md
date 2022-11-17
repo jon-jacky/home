@@ -532,7 +532,7 @@ Companion page, a commonplace book:
 
   More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
- 7 Nov 2021, 17 Mar 2022  <a name="7-Nov-2021"></a>
+ 7 Nov 2021, 17 Mar 2022, 16 Nov 2022  <a name="7-Nov-2021"></a>
 
 - Meta: pages *about* some of the technology behind computer typography.
 
@@ -618,6 +618,59 @@ Companion page, a commonplace book:
   software; the adoption of large characters and a byte-stream encoding
   per se are much deeper issues. ..."
 
+  <https://nedbatchelder.com/text/unipain.html> - Pragmatic Unicode (2012)
+
+  "... Files on disk are a series of bytes, and network connections
+  only transmit bytes. Almost without exception, all the data going
+  into or out of any program you write, is bytes. ...
+
+  ... A single byte simply can’t represent text
+  world-wide. ... Unicode assigns integers, known as code points, to
+  characters. It has room for 1.1 million code points ...
+
+  ... We need a way to represent Unicode code points as bytes in order
+  to store or transmit them.  The Unicode standard defines a number of
+  ways to represent code points as bytes. These are called encodings.
+  UTF-8 is easily the most popular encoding for storage and
+  transmission of Unicode. It uses a variable number of bytes for each
+  code point. ... ASCII characters are one byte each, using the same
+  values as ASCII, so ASCII is a subset of UTF-8. ...
+
+  ... Python 3 has two string types, one for unicode and one for
+  bytes. ... Now the “str” type that you get from a plain string
+  literal stores unicode, and the “bytes” types stores bytes. You can
+  create a bytes literal with a b prefix. ... there is no automatic
+  decoding of byte strings. If you try to combine a byte string with a
+  unicode string, you will get an error ...
+
+   ... Python has always had two modes for reading files: binary and
+   text. ...  In Python 3, the two modes produce different
+   results. When you open a file in text mode, either with “r”, or by
+   defaulting the mode entirely, the data read from the file is
+   implicitly decoded into Unicode, and you get str objects.  If you
+   open a file in binary mode, by supplying “rb” as the mode, then the
+   data read from the file is bytes, with no processing done on them.
+   The implicit conversion from bytes to unicode uses the encoding
+   returned from locale.getpreferredencoding(), and it may not give
+   you the results you expect.  ...  To get the file read properly,
+   you should specify an encoding to use. The open() function now has
+   an optional encoding parameter.
+
+   ... the data coming into and going out of your program must be
+   bytes. But you don’t need to deal with bytes on the inside of your
+   program. The best strategy is to decode incoming bytes as soon as
+   possible, producing unicode. You use unicode throughout your
+   program, and then when outputting data, encode it to bytes as late
+   as possible. This creates a Unicode sandwich: bytes on the outside,
+   Unicode on the inside. ...
+
+   ... the same stream of bytes is decodable using a number of
+   different encodings. The bytes themselves don’t indicate what
+   encoding they use. ... Unfortunately, because the encoding for
+   bytes has to be communicated separately from the bytes themselves,
+   sometimes the specified encoding is wrong. ..."
+
+This creates a Unicode sandwich: bytes on the outside, Unicode on the inside.
  6 Nov 2021  <a name="6-Nov-2021"></a>
 
 - <https://same.energy/> - Same Energy - 
