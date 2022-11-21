@@ -532,7 +532,7 @@ Companion page, a commonplace book:
 
   More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
- 7 Nov 2021, 17 Mar 2022, 16 Nov 2022  <a name="7-Nov-2021"></a>
+ 7 Nov 2021, 17 Mar 2022, 16 Nov 2022, 20 Nov 2022  <a name="7-Nov-2021"></a>
 
 - Meta: pages *about* some of the technology behind computer typography.
 
@@ -670,7 +670,37 @@ Companion page, a commonplace book:
   as possible. This creates a Unicode sandwich: bytes on the outside,
   Unicode on the inside. ..."
 
- 6 Nov 2021  <a name="6-Nov-2021"></a>
+  <https://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/> - 
+  The Updated Guide to Unicode on Python (2013) -
+
+  "...  a whole bunch of APIs work on bytes and unicode strings
+  interchangeably. For instance all the file system APIs operate on
+  both unicode and bytes ...  It's not just file operations, it also
+  happens on other APIs like the urllib parsing module which can
+  produce both bytes and unicode strings ...
+
+  (Most) people believe the default encoding for text files on Python
+  3 (is) UTF-8. This is correct on some operating systems. It's
+  definitely true for OS X and it's true for most linux distributions
+  I tried. However how does Python determine that encoding? The answer
+  is by looking into the locale settings in the environment variables.
+  Unfortunately those break very quickly. ...
+
+  Because there are so many cases where an API can return both bytes
+  or unicode strings depending on where they come from, new patterns
+  need to be created ...
+
+  Unicode is still hard ... If someone wants to see how much
+  complexity the new unicode support in Python 3 caused have a look at
+  the code of the os module on 3.x, the internal io module file
+  operation utilities and things like urllib.parse.
+
+  On the bright side: nothing changes much for high level users of
+  Python. ...  Users are almost entirely shielded from the
+  complexities of unicode handling. The higher level the API, the
+  fewer does encoding play a role in it."
+
+6 Nov 2021  <a name="6-Nov-2021"></a>
 
 - <https://same.energy/> - Same Energy - 
   "We believe that image search should be visual, using only a minimum  of
