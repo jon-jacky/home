@@ -851,9 +851,9 @@ Companion page, a commonplace book:
 
 26 May 2021  <a name="26-May-2021"></a>
 
-- <https://anewsession.com/> - "We're starting over. ...
-  Remember: the internet didn't have to be like this. A better world is
-  possible.
+- <https://anewsession.com/issue1/editors_howto/1.html> - 
+  "We're starting over. ...  Remember: the internet didn't have to be
+  like this. A better world is possible."
 
 12 May 2021  <a name="12-May-2021"></a>
 
