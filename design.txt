@@ -1435,8 +1435,14 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://inverse.website/ - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 25 Sep 2022:
+21 Apr 2020 and ongoing, most recent 28 Nov 2022:
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- http://chrisnovello.com/teaching/risd/computer-utopias/ - 
+  Presents many many links without overwhelming the reader by breaking
+  content into screen-sized pages, each with a broad border in a
+  different pastel color, backing a round-cornered box of text in a quiet
+  font.
 
 - https://www.granolashotgun.com/granolashotguncom/yxney5uiln5ucpsb80mplx466qd53h -
   Lots of text, lots and lots of photos, but not at all cluttered. 
