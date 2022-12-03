@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 2 Dec 2022  <a name="2-Dec-2022"></a>
+
+- <https://sailorhg.com/mural.html> - noisebridge mural
+
+  <https://sailorhg.com/home_sweet_homepage/> - Memoir by Amy Wibowo
+
 20 Oct 2022  <a name="20-Oct-2022"></a>
 
 - <http://enzomari.com/> - Enzo Mari portfolio - *This* is minimalism!
