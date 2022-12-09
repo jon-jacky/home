@@ -13,6 +13,19 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 9 Dec 2022  <a name="9-Dec-2022"></a>
+
+- <https://letters.temporarystate.net/entry/1/> - 
+  Soyuz Grotesk, about designing Cyrillic fonts, by Roman Gornitsky.
+  They start by quoting another author, Michael Bierut, 'Graphic
+  Design and the New Certainties' in *Design Observer*, 2003:
+
+  "*Working for Massimo Vignelli in 1980, I had no doubt whatsoever
+  that the purpose of graphic design was to improve the life of every
+  person on earth beyond measure by exposing him or her to Helvetica
+  on a three-column grid. That was certainty, and it made design into
+  a crusade.*"
+
  2 Dec 2022  <a name="2-Dec-2022"></a>
 
 - <https://sailorhg.com/mural.html> - noisebridge mural
