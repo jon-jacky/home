@@ -15,11 +15,6 @@ Companion page, a commonplace book:
 
  9 Dec 2022  <a name="9-Dec-2022"></a>
 
-- <https://metasyn.github.io/learn-uxn/> - 
-  Colored words and panels break up the wall of text, make it easier to read.
-  Click the About button in the upper right corner for explanations,
-  then refresh the page to restore the original contents.
-
 - <https://letters.temporarystate.net/entry/1/> - 
   Soyuz Grotesk, about designing Cyrillic fonts, by Roman Gornitsky.
   They start by quoting another author, Michael Bierut, 'Graphic
@@ -32,6 +27,11 @@ Companion page, a commonplace book:
   a crusade.*"
 
   This quote appears in <https://designobserver.com/feature/graphic-design-and-the-new-certainties/1617>
+
+- <https://metasyn.github.io/learn-uxn/> - 
+  Colored words and panels break up the wall of text, make it easier to read.
+  Click the About button in the upper right corner for explanations,
+  then refresh the page to restore the original contents.
 
  2 Dec 2022  <a name="2-Dec-2022"></a>
 
