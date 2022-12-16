@@ -1461,8 +1461,13 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 28 Nov 2022:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 15 Dec 2022:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://grugbrain.dev/> - 
+  An example of the simplicity it advocates: One file, simple HTML
+  with a bit of simple CSS inline at the start of the file. That's
+  all! Simple and effective.
 
 - <http://chrisnovello.com/teaching/risd/computer-utopias/> - 
   Presents many many links without overwhelming the reader by breaking
