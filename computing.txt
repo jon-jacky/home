@@ -2868,7 +2868,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Organizing code into functions is a luxury not usually affordable.
   It sounds tedious, but it was fun. ..."
 
- 9 Jul 2019
+ 9 Jul 2019, 30 Dec 2022
 
 - http://oldblog.antirez.com/post/redis-manifesto.html - Redis Manifesto by antirez -
   "Code is like a poem; it's not just something we write to reach some practical
@@ -2888,6 +2888,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   only way it can be worth is by enjoying it. When there is no longer joy in
   writing code, the best thing to do is stop. To prevent this, we'll avoid
   taking paths that will make Redis less of a joy to develop."
+
+  https://news.ycombinator.com/item?id=34185630 - 50 Years of C,
+  comment by antirez - "I write code mainly artistically, and I found
+  that C is one of the best languages available to code as a form of
+  art. It allows to be both brutal and honest, or abstract and
+  deceiving. Not many languages are so semantically powerful."
 
  1 Jul 2019
 
