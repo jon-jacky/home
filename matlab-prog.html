@@ -1,0 +1,1007 @@
+<html>
+<head>
+<title>Notes on MATLAB programming</title>
+</head>
+
+<body bgcolor="#ffffff">
+
+<h2>Notes on MATLAB programming</h2>
+
+<p>
+(Earlier versions of this page were titled 
+<em>MATLAB as a programming language</em>)
+
+<p>
+<a href="index.html">Jonathan Jacky</a>, 
+Apr -- Aug 2006 begun, unfinished topics end with <code>...</code>, 
+Mar 2007 fill in some topics, minor tweaks, June 2007 fill in biquad
+example, fix matlab-numpy link, Mar 2008 Separate Commands section,
+add plot commands.
+
+<!-- <code>...</code> looks nicer than ... -->
+
+<hr>
+
+<p>
+I recently learned MATLAB to design and analyze digital filters for a
+<a href="http://staff.washington.edu/jon/gr-mrfm/">project</a>
+(also
+<a href="http://lists.gnu.org/archive/html/discuss-gnuradio/2005-01/msg00232.html">here</a> and
+<a href="http://www.research.cornell.edu/KIC/events/MRFM2006/pdfs/Jacky%20talk/jacky-talk.html">here</a>).
+
+<p>
+You can get a lot of work done in MATLAB without programming.
+Nevertheless, its programming language has some unusual features,
+particularly regarding <a href="#matrices">matrices</a> and <a
+href="#persist">persistence</a>.  It also provides most of the
+facilities of a conventional language, so you can program in a
+familiar style if you wish, but you can often do much better if you
+take advantage of its unique features.
+
+<p>
+The MATLAB programming language and IDE support an ad-hoc
+programming style where it is easy to turn the useful parts of an
+interactive session into a <a href="#structure">program</a>.
+
+<!--
+<p>
+MATLAB also provides very rich and convenient graphics and plotting
+facilities, and libraries ("toolboxes") for many application areas,
+but these do not exhibit any unusual programming language features, so
+I do not discuss them here.
+-->
+
+<p>
+This page is not intended to be a reference or even a summary of
+MATLAB, for that see the <a href="#ref">references</a>.  Instead, I
+point out some important differences from other languages, that I
+expect will be interesting to programmers and useful for newcomers.
+
+<!-- 
+Being aware of these will help you become proficient in MATLAB
+quickly.  I also include some miscellaneous tips that can make it
+easier to use MATLAB.
+-->
+
+<p>
+<a href="#repl">REPL</a>,
+<a href="#commands">Commands</a>, 
+<a href="#structure">Program structure</a>,
+<a href="#types">Data types</a>,
+<a href="#matrices">Matrices</a>,
+<a href="#except">Exceptions</a>,
+<a href="#persist">Persistence</a>,
+<a href="#large">Large systems</a>,
+<a href="#standard">Alternatives</a>,
+<a href="#ref">References</a>
+
+<h3><a name="repl">REPL and IDE</h3>
+
+<p> 
+Invoking MATLAB usually starts a read-evaluate-print loop (REPL).
+You type an expression, statement, or command at the command prompt
+<code>>></code>, and MATLAB prints the result (if there is one), or
+executes some side effect such as displaying a graph.
+
+<p>
+Invoking MATLAB usually starts an Integrated Development Environment
+(IDE) that includes a window for the REPL, editor windows for writing
+code, a command history window, a file system browser etc.
+
+<p>
+Random mouse motions can cause the panels in
+the IDE to scatter like leaves before a storm.  To restore them, 
+use the main panel menu bar: <code>Desktop -> Desktop Layout -> Default</code>.
+
+<p>
+The REPL makes it easy to do ad-hoc calculations and plotting.  The
+MATLAB programming language and IDE make it easy to turn the useful
+parts of a REPL session into a <a href="#structure">program</a>.
+
+<p>
+You can also run MATLAB without the IDE in a terminal window.
+
+<p>
+<table>
+<tr><td><code>matlab -h</code></td><td>Print command line options</td></tr>
+<tr><td><code>matlab -nodesktop &nbsp; </code></td>
+    <td>Run in terminal with no IDE</td></tr>
+<tr><td><code>matlab -r <em>command</em></code></td>
+    <td>Start MATLAB, execute <code><em>command</em></code>,
+        remain in REPL unless <code><em>command</em></code>
+          ends with <code>exit</code></td></tr>
+</table>
+
+<p>
+You create a variable just by assigning to it.  There are no variable
+declarations.  You can assign values of different types to the same
+variable.
+
+<p>
+Be warned that MATLAB will happily and silently allow you to reassign
+variables that it initially assigns, such as <code>pi</code> and
+<code>i</code>.  I haven't found any way to define a constant.
+
+<!--
+<p>
+In this, MATLAB not so unusual.  It is an example of a "dynamic"
+language, like Lisp, Python, and many others (an unlike
+<em>statically typed</em> languages such as Java, C, etc.).
+-->
+
+<p>
+Scripts and functions in the filesystem are loaded implicitly, just by
+naming them.  There is no command to load or import code.  
+
+<!-- Some oddities in program structure follow from this. --> 
+
+The <code>load</code> command is used for <a href="#persist">persistence</a>.
+
+<p>
+Three dots <code>...</code> at the end of a line continues the command
+on the next line, like backslash <code>\</code> in the Unix shells or
+Python.
+
+<p>
+An optional semicolon <code>;</code> at the end of a command is not a
+a terminator or separator.  Instead, it suppresses printing the
+result.  You often want this, especially when the result is some huge
+array.
+
+<p>
+Identifiers are case-sensitive. <code>A</code> is different from
+<code>a</code>, etc.  It is confusing that <code>help</code> output
+shows function and command names in capitals.  If you type them in that
+way, they will not work.
+
+<p>
+Array indexing begins at 1, not 0 as in most programming languages.
+
+<p>
+Use single quotes for strings: <code>'abc'</code>, etc.
+
+<p>
+You can't use a hyphen <code>-</code> in an indentifier.  MATLAB thinks
+it's a minus sign.  Use an underscore <code>_</code> instead.
+
+<p>
+The variable <code>ans</code> stores the value computed by the last
+command (the "answer"), so you can use it in the next one.
+
+<p>
+You can use wild cards in variable names in commands where that makes
+sense, for example <code>whos x*</code> and <code>clear x*</code>.
+
+<!--
+<p>
+functions w/string args only and no return value can be invoked
+without parens or quotes - they act like commands
+<p>
+Command line matlab -r (command) ... but how does it get current directory,path
+<p>
+...
+-->
+
+
+<h3><a name="commands">Commands</h3>
+
+<p>
+Here are some useful commands for interacting with the REPL. 
+There is a much larger command summary 
+<a href="http://mathesaurus.sourceforge.net/matlab-numpy.html">here</a>.
+
+<p>
+Many commands have several variants with the same name but different
+argument lists and return values, so it is a good idea to consult
+<code>help</code> about any command you use.
+
+<p>
+<table>
+<tr>
+<td><code>ver</code></td>
+<td>Print information about version and license, 
+including all installed toolboxes</td>
+</tr>
+<tr>
+<td><code>help <em>command</em></code></td>
+<td>Print information about <code><em>command</em></code>
+(including functions and scripts).</td>
+</tr>
+<tr>
+<td><code>which <em>command</em></code></td>
+<td>Print full path to source file for <code><em>command</em></code>.</td>
+</tr>
+<tr>
+<td><code>type <em>command</em></code></td>
+<td>Print source code for <code><em>command</em></code>.</td>
+</tr>
+<tr>
+<td><code>lookfor <em>com</em></code></td>
+<td>Print list of commands whose name or brief description contains
+the string <code><em>com</em></code>.</td>
+</tr>
+<tr>
+<td><code>help +</code></td>
+<td>(or any other operator) print information about all operators and
+special characters.</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><code>format compact</code></td>
+<td>Print fewer blank lines, to fit more on the screen.</td>
+</tr>
+<tr>
+<td><code>format long</code></td>
+<td>Print lots of digits in results, <code>format short</code> for few.</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><code>A = 2048</code></td>
+<td>Assign scalar <code>2048</code> to variable <code>A</code></td>
+</tr>
+<tr>
+<td><code>t = 0:0.1:2*pi</code></td>
+<td>Assign vector <code>[0.0 0.1 0.2 .. 6.2 ]</code> to variable
+<code>t</code></td>
+</tr>
+<tr>
+<td><code>y = A*sin(t) + A</code></td>
+<td>Assign vector of function values to variable <code>y</code>.
+Here <code>*</code>, <code>+</code>, and <code>sin</code> 
+are <em>vectorized</em>.</td>
+</tr>
+<tr>
+<td><code>y</code></td>
+<td>Print vector <code>y</code></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><code>who</code></td>
+<td>List all user-defined variables</td>
+</tr>
+<tr>
+<td><code>whos</code></td>
+<td>List all user-defined variables, 
+along with their sizes and types ("classes")</td>
+</tr>
+<tr>
+<td><code>clear all</code></td>
+<td>Remove all user-defined variables, to avoid confusion from
+previously assigned values.</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><code>plot(y)</code></td>
+<td>Plot values of <code>y</code> as a function of index
+(in this example x axis ranges from 1 .. 63)</td>
+</tr>
+<tr>
+<td><code>plot(t,y)</code></td>
+<td>Plot values of <code>y</code> as a function of <code>t</code>
+(here x axis ranges from 0.0 .. 6.20)</td>
+</tr>
+<tr>
+<td><code>plot(y, sqrt(y))</code></td>
+<td>Plot values of <code>sqrt(y)</code> as a function of values of <code>y</code>
+(here x axis ranges from 0.0 .. 4096.0)</td>
+</tr>
+<tr>
+<td><code>plot(t,y/100, t,sqrt(y))</code>&nbsp;</td>
+<td>Plot both <code>y/100</code> and <code>sqrt(y)</code>
+as functions of <code>t</code> on the same plot</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><code>figure</code></td>
+<td>Create new figure to show output of subsequent plot commands,
+to preserve previous figure.</td>
+</tr>
+<tr>
+<td><code>hold on</code></td>
+<td>Make subsequent commands plot on the same figure,
+without clearing plots already displayed there.</td>
+<tr>
+<td><code><em>h</em> = figure</code></td>
+<td>Create new figure, return figure handle <em>h</em>.</td>
+</tr>
+<tr>
+<td><code>figure(<em>h</em>)</code></td>
+<td>Make figure <em>h</em> the current figure
+(or just bring figure <em>h</em> to the top using the window manager).</td>
+</tr>
+<tr>
+<td><code>close(<em>h</em>)</code></td>
+<td>Delete figure <em>h</em>.</td>
+</tr>
+<tr>
+<td><code>close all</code></td>
+<td>Delete all figures, to unclutter the screen.</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><code>!<em>command</em></code></td>
+<td>Execute <em>command</em> with system command interpreter (not MATLAB).</td>
+</tr>
+</table>
+
+<h3><a name="structure">Program structure</h3>
+
+<p>
+<a href="#mfiles">M-files</a>,
+<a href="#scripts">Scripts</a>,
+<a href="#functions">Functions</a>
+
+<h4><a name="mfiles">M-files</h4>
+
+<p>
+MATLAB source code must be stored in files with the <code>.m</code>
+extension, called <em>M-files</em>.   
+
+<p>
+Every M-file defines one MATLAB command (a statement or a function).  
+The name of the command is the file name (without the <code>.m</code>
+extension).  When you invoke a command (at the REPL or in another
+M-file), MATLAB searches a path for an M-file with that name, and 
+executes it.   There is no separate command to import or load an M-file.
+
+<p>
+You can't use a hyphen <code>-</code> in the name of an M-file.  MATLAB thinks
+it's a minus sign.  Use an underscore <code>_</code> instead.
+
+<p>
+It is the convention that the first comment line in
+<code><em>command</em>.m</code> has the form
+
+<p>
+&nbsp; <code><em>%COMMAND</em> one-line description of <em>command</em> ...</code>
+
+<p>
+for example
+
+<p>
+&nbsp; <code>%BIQUAD make cascaded biquad filter, return coeffs for 2nd order sections</code>
+
+<p>
+The IDE file browser displays this line, and some REPL
+commands use it:
+
+<p>
+<table>
+<tr>
+<td><code>help <em>command</em></code> &nbsp; </td>
+<td>Print first block of comment lines in <code><em>command</em>.m</code></td>
+</tr>
+<tr>
+<td><code>lookfor <em>com</em></code></td>
+<td>Print first comment line in each M-file whose name contains 
+the string <code><em>com</em></code>.</td>
+</tr>
+</table>
+
+<p>
+Functions local to an M-file with <code>@</code> <code>...</code>
+
+<p>
+There are two kinds of M-files, <em>scripts</em> and <em>functions</em>.
+
+<h4><a name="scripts">Scripts</h4>
+
+<p>
+A script defines a command with no arguments and no return values.  It
+is just a sequence of MATLAB commands (and comments).  Invoking a
+script executes those commands, exactly as if they were typed at the
+REPL (or invoked in the script that invoked the command).  
+
+<p>
+All variables in a script are global; they can be used and assigned in
+the REPL session (or script) that invoked the script.
+
+<!-- can scripts take arguments?  What about command line arguments? -->
+
+<p>
+MATLAB encourages an ad-hoc programming style where you first
+experiment by typing commands at the REPL, then create a script by
+saving the sequence of commands that worked.  The MATLAB IDE supports
+this by providing a command history window, from which commands can be
+cut and pasted into an editor window.
+
+<h4><a name="functions">Functions</h4>
+
+<p>
+A function defines a command that may take arguments and return
+values.   Here are the first few lines of <tt>biquad.m</tt>:
+
+<p>
+<pre>
+    function [Hsosm,sosm] = biquad(bd,ad,frac_bits,gain)
+    %BIQUAD make cascaded biquad filter, return coeffs for 2nd order sections
+    % ... other comment lines describe inputs, outputs, etc.  ...
+    H = dfilt.df2(bd,ad);
+    Hsos = H.sos;
+    sosm = Hsos.sosmatrix;
+    ... more code follows ...
+</pre>
+
+<p>
+The name of the function must be the same as the file name.
+Notice that there are no data types mentioned in the declaration.
+
+<p>
+Functions can return multiple values, as in the previous example.
+That function could be called like this:
+
+<p>
+<pre>
+    >> bd = ...
+    >> ad = ...
+    >> [Hsosm,sosm] = biquad(bd, ad, 14, 1.0)
+</pre>
+
+<p>
+The brackets on the left hand side of this assignment might suggest
+that there is a tuple data type, but apparently there is no such
+thing; this is special syntax for function return values only.  In
+general, <code>[n,x,s] = ...</code>, where the right hand side is not
+a function call, does not work.
+
+<p>
+There is no <code>return</code> statement.  After the last statement
+in the function executes, the function exits and the values of all the
+variables whose names appear on the left side of the function
+declaration are returned.
+
+<p>
+Variables in a function are local.
+
+<p>
+MATLAB encourages an ad-hoc programming style where it is easy to turn
+a script (or part of a REPL session) into a function.  Simply add a
+declaration at the top that defines the name and identifies which
+variables are the parameters and which store the return values.
+
+<p>
+You can ignore returned values.  It is not an error to assign fewer
+variables than the function returns, or to assign no variables at all.
+
+<p>
+Functions can have optional arguments.  Within each function you can
+use <code>nargin</code>, the number of arguments the function was called
+with, for example <tt>biquad.m</tt> (above) contains
+
+<p>
+<pre>
+    ...
+    if nargin < 3
+        frac_bits = 14;  % default
+    end
+    ...
+</pre>
+
+<p>
+There are no keyword arguments.  MATLAB functions often achieve the
+same effect by using pairs of optional arguments, where the first of
+each pair is a <a href="#strings">string</a> (the keyword), and the
+second is the value.
+
+<p>
+Function arguments with <code>@ ..., </code>
+earlier scheme with strings <code>...</code>
+
+<p>
+Function names can be overloaded, with different parameters and return values
+<code>...</code>
+
+<p>
+<a href="#vectorize">Vectorization</a>
+requires care.  The problem seems to be that the <code>if</code>
+statement is not vectorized - apparently <code>if</code> always treats the
+conditional expression as a scalar.  If matrix elements are subject to
+conditionals, so that different elements might take different paths, this
+is the one circumstance where you must iterate. <code>...</code>
+
+<h3><a name="types">Data types</h3>
+
+<p>
+MATLAB calls data types "classes".  The <code>whos</code> command
+shows the classes of all of your variables.
+
+<p>
+There are no scalar classes.  Scalars are a special case of
+<a href="#matrices">matrices</a>:  matrices with one element.  
+
+<p>
+<a href="#numbers">Numbers</a>, 
+<a href="#bool">Booleans</a>, 
+<a href="#strings">Strings</a>, 
+<a href="#objects">Objects</a>
+</p>
+
+<h4><a name="numbers">Numbers</h4>
+
+<p>
+All numbers are stored as double-precision floating point values.
+Usually, many more digits are stored than are printed.
+
+<p>
+The functions <code>round</code>, <code>floor</code>,
+<code>ceil</code>, and <code>fix</code> return the integer nearest
+to a number by various criteria.
+
+<p>
+Complex numbers are entered (and printed) as in <code>1 + 2i</code> 
+(or <code>1 + 2j</code>).   Extract the components of a complex number
+with the functions <code>real</code> and <code>imag</code>, find the
+magnitude and phase with <code>abs</code> and <code>angle</code>.
+
+<p>
+The variables <code>i</code> and <code>j</code> are initially assigned
+(by MATLAB) to the imaginary constant <code>0 + 1i</code>.  This can
+be confusing because you (or scripts you use) often assign them to
+something else.  Use <code>1i</code> instead.
+
+<p>
+There is an initially assigned variable <code>pi</code> but not <code>e</code>.
+Use <code>exp(1)</code> instead.
+
+<h4><a name="bool">Booleans</h4>
+
+<p>
+There is no Boolean type.  MATLAB documentation refers to the
+<em>logical</em> (not Boolean) values 0 (false) and 1 (true), which
+are returned by logical operations.   
+
+<p>
+Any nonzero value is interpreted as true when it appears as an operand
+of a logical operation.
+
+<h4><a name="strings">Strings</h4>
+
+<p>
+MATLAB is not known for text processing, but it has a string data
+type.  The command <code>lookfor string</code> shows what functions
+are available.
+
+<p>
+Use single quotes for strings: <code>'abc'</code>
+
+<p>
+Strings are used in printed output, and to put labels and captions on
+graphs.
+
+<p>
+There are <code>fprintf</code> and <code>sprintf</code> functions like
+in C, with the usual format strings, escape characters, etc.  However,
+if there is an array argument, the corresponding format string is
+applied to every element, printing out the whole array.
+
+<p>
+Printing large arrays, with control over the layout of rows and
+columns, is one of the rare MATLAB operations where I have found it
+helpful to code loops.
+
+<p>
+Strings are often used as symbols.  Many functions use particular
+strings as arguments to select options.  For example, the
+<code>gensig</code> signal generator function uses the strings
+<code>'sin'</code>, <code>'square'</code>, or <code>'pulse'</code>
+to select the waveform type.
+
+<p>
+<code>eval ...</code>
+
+<p>
+Strings are actually 1-dimensional arrays of characters, characters are
+1-element arrays.  All the usual matrix operators apply.
+
+<h4><a name="handles">Handles</h4>
+
+<p>
+Plot handles <code>...</code>
+
+<p>
+Function handles <code>...</code>
+
+<h4><a name="objects">Objects</h4>
+
+<p>
+Objects and dot notation <code>...</code>
+
+<p>
+Examples from filter toolbox <code>...</code>
+
+<h3><a name="matrices">Matrices</h3>
+
+<p>
+<a href="#vectorize">Vectorization</a>,
+<a href="#dim">rows vs. columns</a>,
+<a href="#construct">constructors</a>,
+<a href="#access">accessors</a>,
+<a href="#mat-assign">assignment</a>
+</p>
+
+<p>
+An array is called a <em>matrix</em>.  A one-dimensional array is a
+<em>vector</em>.  Matrices and vectors are central in MATLAB; most of
+the unusual features in the language concern them.  They are very easy
+to work with.  It is rarely necessary to code loops in order to use
+them, as we shall see.
+
+<p>
+MATLAB itself uses arrays wherever it can.  Strings are vectors of
+characters.  The ranges in iterations are arrays.  In a loop that
+begins <code>for x = v ...</code>, the index variable <code>x</code>
+iterates over the elements of vector <code>v</code>; in <code>for x =
+A ...</code>, <code>x</code> iterates over the columns in the matrix
+<code>A</code>.  (But loops appear only rarely in MATLAB programs).
+
+<h4><a name="vectorize">Vectorization, array and matrix operations,
+reductions</h4>
+
+<p>
+Many operators and functions are <em>vectorized</em>: they work on
+every element in a vector or matrix.  It is not necessary to use any
+"map" function to achieve this.  For example, assign <code>x =
+pi/2</code>, then <code>sin(x)</code> evaluates to <code>1</code>, as usual.
+But also assign <code>v = [ 0 pi/6 pi/2 ]</code>, then
+<code>sin(v)</code> evaluates to <code>[ 0 0.5 1.0 ]</code>.
+
+<p>
+Some MATLAB statements are also vectorized.  The statement
+<code>fprintf('%8.3f', A)</code> prints every element in the matrix
+<code>A</code> with the specified format.  
+
+<p>
+Some binary operators are applied element-by-element in the
+obvious way.  For example, if <code>A</code> and <code>B</code> are
+matrices, the sum <code>A+B</code> is the matrix of their
+element-by-element sums.  This requires that <code>A</code> and
+<code>B</code> have the same number of dimensions and the same size in
+each dimension.  Otherwise, this expression raises the error
+<code>Matrix dimensions must agree</code>.
+
+<p>
+Operators that work element-by-element are sometimes called
+<em>element-wise</em> operators, <em>pointwise</em> operators, or
+<em>array operators</em>.  
+
+<p>
+Some binary operators are not simply applied element-by-element.  Instead
+they have their traditional meaning from mathematics.  For example, 
+<code>*</code> is matrix multiplication and <code>^</code> is matrix
+power.  These are called <em>matrix operators</em> to distinguish them
+from the element-by-element array operators.
+
+<p>
+For every matrix operator, there is also a corresponding element-wise array
+operator.  For example, the array operators for
+multiplication and power are <code>.*</code> and <code>.^</code>
+(notice the leading dot).
+
+<p>
+When one of the operands is a scalar, you do not have to use the array
+operator.  For scalar <code>c</code>, <code>c*A</code> (or
+<code>c+A</code> etc.) computes the products (or sums etc.)
+element-wise.  In this context, MATLAB treats <code>c</code> as a
+mathematical scalar, not a one-element matrix (which would have the
+wrong size for this matrix multiplication).
+
+<p>
+Some functions are <em>reductions</em> that compute a scalar from a
+vector.  They include <code>sum</code>, <code>prod</code>,
+<code>max</code>, <code>min</code>, <code>mean</code>, and
+<code>std</code> (standard deviation).   Reductions applied to 2-D
+matrices return a vector of the results of applying the reduction to
+each column.  
+
+<p>
+Relational and logical operators can also take matrix operands.  For
+example, <code>A > 10</code> or <code>A > B</code> etc. evaluates the
+Boolean expression element-wise, and returns the matrix with the
+logical values <code>1</code> (true) at the elements where the
+expression is true, and <code>0</code> (false) elsewhere.
+
+<p>
+The Boolean reductions <code>all</code> and
+<code>any</code> act as logical quantifiers; they return 1 or 0 (true
+or false) to indicate whether all or any of the elements are nonzero (true). 
+
+<p>
+Also, <code>find(A)</code> returns the vector of linear indices of
+nonzero (true) elements in <code>A</code>, and <code>find(A >
+10)</code> etc.  returns the vector of indices where the Boolean
+expression is true.  The vector of indices can then be used to <a
+href="#access">access</a> or <a href="#mat-assign">update</a> those
+matrix elements.
+
+<p>
+The command <code>help *</code> (or any other operator symbol besides
+<code>*</code>) prints information about all the matrix and array
+operators.
+
+<p>
+Vectorization, array and matrix operators, and reductions contribute
+to making loops mostly unnecessary.
+
+<h4><a name="dim">Dimensions, size, rows vs. columns</h4>
+
+<p>
+Scalars are matrices.  Every scalar can be treated as a matrix of one
+element, with as many dimensions as needed in context.  For example,
+assign <code>a = 42</code>, then evaluate <code>a(1)</code>,
+<code>a(1,1)</code>, <code>a(1,1,1)</code> etc.  Therefore, no special
+operator or function is needed to extract a scalar from a one-element
+matrix, or to concatenate a scalar to a vector.
+
+<p>
+There are two kinds of one-dimensional arrays.  Like
+mathematics but unlike most programming languages, MATLAB
+distinguishes between row vectors and column vectors.  Built-in
+functions and toolboxes use the conventions of the application domain.
+For example, time series are column vectors, polynomial coefficients
+(including digital filter coefficients) are row vectors, and
+polynomial roots are column vectors.
+
+<p>
+Even vectors are considered to have two dimensions: row vectors are 1
+x N matrices, column vectors are N x 1 matrices, for example try
+<code>v = [ 1 2 3 ]</code> then <code>size(v)</code>.
+
+<p>
+The distinction between row and column vectors is significant for some
+operators and statements.  For example, given the 1 x N row vector
+<code>vr</code> and the N x 1 column vector <code>vc</code>,
+<code>vr*vc</code> is the <em>inner product</em> or <em>dot
+product</em>, a scalar, but <code>vc*vr</code> is the <em>outer
+product</em>, an N x N matrix.
+
+<p>
+The matrix transpose operator, apostrophe <code>'</code>, creates a row
+vector from a column vector and vice versa.  Given row vector
+<code>vr</code>, the assignment <code>vc = vr'</code> creates column
+vector <code>vc</code>.
+
+<p>
+The function application <code>ndims(A)</code> returns the number of
+dimensions in matrix <code>A</code>, and <code>size(A)</code> returns
+the size of each dimension, in an array of length
+<code>ndims(A)</code>.  The reduction <code>prod(size(A))</code>
+returns the total number of elements.  The index of the first element
+in each dimension is <code>1</code> and the index of the last element
+is <code>end</code>.
+
+<h4><a name="construct">Constructors</h4>
+
+<p>
+Construct row vectors using spaces or commas: <code>vr = [ a b c
+]</code> or <code>vr = [ a, b, c ]</code>.  Construct column vectors
+using semicolons: <code>vc = [ x; y; z ]</code>.  Combine both to
+construct matrices: <code>A = [ a11 a12; a21 a22 ]</code>.  
+
+<p>
+The entries in matrix constructors can be expressions with scalar or
+matrix values.  You can use these constructors to build up large
+matrices, concatenate matrices, append scalars to vectors, etc.
+
+<p>
+The functions <code>ones</code>, <code>zeros</code> (note spelling), and
+<code>random</code> construct matrices where all the elements are
+<code>1</code>, <code>0</code>, or values drawn from a specified
+random distribution.  Consult <code>help</code> about specifying
+sizes, etc.  These functions can be used to pre-allocate arrays in
+order to use storage efficiently.
+
+<p>
+Range expressions (using the range operator, colon <code>:</code>)
+construct vectors, given an initial value and a final value: <code>v =
+1:10</code>.  Range expressions can include an optional increment:
+<code>v = 1:2:10</code> and can use fractional values: <code>v =
+0.3:-0.15:-0.45</code>.  Range expressions are frequently used to code
+loops: <code>for i = 1:n ...</code>.
+
+<p>
+The variety of constructors contributes to making loops mostly
+unnecessary.
+
+<h4><a name="access">Accessors</h4>
+
+<p>
+Use subscripts to access scalar matrix elements: <code>x =
+A(i,j)</code>.  
+
+<p>
+Indexing begins at 1, not 0 as in most programming languages.
+
+<p>
+The index of the last element in a given dimension is <code>end</code>.
+You can use it in expressions: <code>v(end - 1)</code> etc.
+
+<p>
+Use ranges to access sub-matrices: <code>B = A(k:l,m:n)</code>.
+
+<p>
+Subscripts and ranges can be built from any integer-valued
+expressions.  When ranges are used as accessors, they cannot include
+fractional values.
+
+<p>
+A range operator without operands ranges over all the accessible
+elements; <code>vr = A(3,:)</code> accesses the entire third row.
+
+<p>
+Notice that <code>:</code> is an abbreviation for <code>1:end</code>
+(but <code>i:</code> or <code>:j</code> is not allowed).
+ 
+<p>
+A vector of indices <code>v([i,j,k])</code> returns the vector of
+elements at those indices, the same as <code>[ v(i) v(j) v(k)
+]</code>.  (Using ranges as accessors is a special case of this).
+Recall that the <code>find</code> function returns a vector of indices.
+
+<p>
+Use a single <em>linear index</em> as in <code>A(3)</code>,
+<code>A(3:7)</code>, or <code>A(:)</code> to access any matrix one
+element at a time, as if it were a vector, with the elements indexed
+by row first (scanning down columns), so <code>A(1)</code> is
+<code>A(1,1)</code>, <code>A(2)</code> is <code>A(2,1)</code> etc.
+Also, <code>A(:)</code> is the entire matrix <em>flattened</em> to a
+column vector.
+
+<p>
+The variety of accessors contributes to making loops mostly
+unnecessary.
+
+<h4><a name="mat-assign">Assignment and mutability</h4>
+
+<p>
+Matrices are mutable.  You can assign new values to individual
+elements, sub-matrices, and selected elements by using indices,
+ranges, or vectors of indices: <code>A(i,j) = x</code>, or
+<code>A(i,:) = v</code>, or <code>A([i,j,k]) = [ x y z ]</code> etc.
+
+<p>
+Matrices are mutable, but most matrix operations return a new matrix,
+rather than updating their operands in place.  For example, <code>A'</code> or
+<code>c*A</code> etc. does not change <code>A</code>.  This makes it
+easy to program in a functional style.
+
+<p>
+Assigning a matrix to a variable creates a new copy of a matrix; it
+does not create an alias.  The copy can be updated without changing
+the original: after <code>A = [ 1 2 3 ]</code> then <code>B=A</code>
+then <code>B(2)=4</code>, the matrices <code>B</code> and
+<code>A</code> differ.  This is unlike many programming languages,
+where assigning an array to a variable creates an alias, and updating
+either <code>A</code> or <code>B</code> would change both.
+
+<p>
+You can grow a matrix by appending in a constructor, or assigning to
+new elements (with higher indices) but that can be quite slow.  It is
+much faster to pre-allocate storage by initially constructing
+a matrix of the needed size, if that is known.
+
+<!--
+<p>Care in programming your own functions ... (put this in functions section)
+-->
+
+<h3><a name="persist">Persistence</h3>
+
+<p>
+You can easily save and restore the state of MATLAB session: the
+variables and their values.
+
+<p>
+You can save and restore individual matrices <code>...</code>
+
+
+<p>
+<code>load, store, dlmwrite ...</code>
+
+<!--
+<p>
+There are facilities for loading spreadsheets into matrices, or saving
+matrices in formats that can be loaded by spreadsheet programs.
+-->
+
+<h3><a name="except">Exceptions</h3>
+
+<p>
+Warnings that print messages vs. errors that stop execution <code>...</code>
+
+<h3><a name="large">Large systems</h3> 
+
+<p>
+Quantum optics 
+<a href="http://www.qo.phy.auckland.ac.nz/qotoolbox.html">toolbox</a> 
+<code>...</code>
+
+<p>
+MATLAB itself <code>...</code>
+
+<h3><a name="standard">Alternatives</h3> 
+
+<p>
+<a href="http://www.gnu.org/software/octave/">Octave</a>, 
+open-source MATLAB clone.  How complete?  <code>...</code>
+
+<p>
+<a href="http://mathesaurus.sourceforge.net/matlab-numpy.html">NumPy</a>,
+IDL, PDL, etc. have MATLAB-like array operations <code>...</code>
+
+<h3><a name="ref">References</h3>
+
+<p>
+Command summary (NumPy also)<br>
+<a href="http://mathesaurus.sourceforge.net/matlab-numpy.html">
+<tt>http://mathesaurus.sourceforge.net/matlab-numpy.html</tt></a>
+</p> 
+
+<p>
+I learned what I know about MATLAB by reading (a little) in these
+sources, in roughly this order.
+<!-- (with lots of jumping back and forth). -->
+</p>
+
+<p>
+James H. McClellan, Ronald W. Shafer, and Mark A. Yoder, <em>DSP First: a
+Multimedia Approach</em>, Prentice Hall 1998 (especially, but not only,
+Appendices B and C.1)
+</p>
+
+<p>
+Sze M. Tan, A Computational Toolbox for Quantum and Atomic Optics<br>
+<a href="http://www.qo.phy.auckland.ac.nz/acols98b.pdf">
+<tt>http://www.qo.phy.auckland.ac.nz/acols98b.pdf</tt></a><br>
+</p>
+
+<p>
+Some useful Matlab tips (some tips but mostly links)<br>
+<a href="http://www.cs.ubc.ca/~murphyk/Software/matlab_tips.html">
+<tt>http://www.cs.ubc.ca/~murphyk/Software/matlab_tips.html</tt></a>
+</p>
+
+<p>
+Getting Started with MATLAB<br>
+<a href="http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/getstart.pdf">
+<tt>http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/getstart.pdf</tt></a>
+</p>
+
+<p>
+Signal Processing Toolbox User's Guide<br>
+<a href="http://www.mathworks.com/access/helpdesk/help/pdf_doc/signal/signal_tb.pdf">
+<tt>http://www.mathworks.com/access/helpdesk/help/pdf_doc/signal/signal_tb.pdf</tt></a>
+</p>
+
+<p>
+MATLAB Programming<br>
+<a href="http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/matlab_prog.pdf">
+<tt>http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/matlab_prog.pdf</tt></a>
+</p>
+
+<p>
+Daniel T. Kaplan, <em>Introduction to Scientific Computation and
+Programming</em>, Brooks/Cole 2004  (teaches MATLAB as a general-purpose
+programming language)
+</p>
+
+<p>
+Matlab tips and tricks (haven't read this yet, but looks useful)<br>
+<a href="http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html">
+<tt>http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html</tt></a>
+</p>
+
+<p>
+Mathworks online documentation<br>
+<a href="http://www.mathworks.com/access/helpdesk/help/helpdesk.html">
+<tt>http://www.mathworks.com/access/helpdesk/help/helpdesk.html</tt></a><br>
+<a href="http://www.mathworks.com/support/tech-notes/list_all.html">
+<tt>http://www.mathworks.com/support/tech-notes/list_all.html</tt></a><br>
+<a href="http://www.mathworks.com/company/newsletters/digest/pastissues/index04_06.html">
+<tt>http://www.mathworks.com/company/newsletters/digest/pastissues/index04_06.html</tt></a>, for example
+<a href="http://www.mathworks.com/company/newsletters/digest/sept01/matrix.html">
+<tt>sept01/matrix.html</tt></a><br>
+</p>
+
+</body>
+
+</html>
+
