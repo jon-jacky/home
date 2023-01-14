@@ -938,7 +938,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   See also https://github.com/thomasahle/sunfish, a small
   -- but well-explained -- chess engine in Python.
   
-28 Feb 2021
+28 Feb 2021, 13 Jan 2023
 
 - https://github.com/nornagon/jonesforth/blob/master/jonesforth.S -
   A 'literate program' presented in a single assembly language source
@@ -963,6 +963,18 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   system for Raspberry Pi, based on *Jonesforth*, and also
   https://github.com/kragen/stoneknifeforth
 
+- https://news.ycombinator.com/item?id=34373472 - 
+  *amalgamated_inc*: 
+  "This well-written (jonesforth) tutorial (above) will have you
+  implement a Forth in 500 lines of assembly and another 500 lines of
+  Forth.
+
+  You will feel like a different person after having done this. People
+  will like you more. Food will taste better. You'll never be alone
+  again, always knowing that you can re-create a fully-functional
+  programming language from assembly within half an hour, if you
+  needed to. It is said that people who know Forth die happy."
+  
 22 Jan 2021
 
 - http://www.gutenberg.org/files/49965/49965-h/49965-h.htm - 
