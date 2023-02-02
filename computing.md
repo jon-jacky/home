@@ -3005,7 +3005,7 @@ Companion page, a commonplace book:
   via <https://news.ycombinator.com/item?id=30214371>
 
  8 Apr 2019, 10 Mar 2019, 28 Sep 2020, 9 Nov 2020, 30 Mar 2021, 18 Jun 2021,  <a name="8-Apr-2019"></a>
- 10 May 2022, 1 Jul 2022  <a name="10-May-2022"></a>
+ 10 May 2022, 1 Jul 2022, 1 Feb 2023  <a name="10-May-2022"></a>
 
 - <https://news.ycombinator.com/item?id=1476059>, comments by *dasht* on
   GNU HURD: Altered visions and lost promise:
@@ -3193,6 +3193,11 @@ Companion page, a commonplace book:
   fascinating piece of software, emacs wins hands down. There's something
   really cool about the fact that you can't easily answer the question,
   "What is emacs similar to?", because it's such a total sui generis."
+
+- <https://news.ycombinator.com/item?id=34587477>, comment by	
+  *lycopodiopsida*: "Emacs is carried by the fact that it is the only
+  editor alive almost completely written and documented in its
+  extension language."
 
 - <https://news.ycombinator.com/item?id=6322734>, comment by *samatman* on
   Start Using Emacs  A Thorough Guide for Beginners:
