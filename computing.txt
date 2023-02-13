@@ -10,6 +10,43 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+
+13 Jan 2023
+
+- https://kevinlawler.com/prompts - 
+Oblique Strategies: Prompts for Programmers - 
+"Brian Eno created a collection of strategies to help artists break
+creative block. We can do something similar for programmers stuck on
+problems. ...
+
+*If you lack motivation, find the most interesting thing in the
+project, start on that, and branch from there.*
+
+*Work append-only.* Don't worry about mistakes. Don't worry about
+revising. Later on is when you can go back and edit.
+
+Revisions keep you covering the same ground, but working append-only
+keeps you focused on your destination. Re-review causes you to
+internalize work. You don't want to internalize prematurely because
+the work might be wrong. You want to look at the work with fresh eyes
+later, and you can't do that if it's memorized.
+
+*Run through the thornbushes.* If many small, nagging, potentially
+interlocked, hard-to-resolve details are preventing forward progress,
+put those thoughts aside and just start. Get which details you
+can. Then go back and untangle everything.
+
+*Change your mind.* If something seems wrong, maybe it is. Chuck it and
+start over. ..."
+
+*Mark it WONTFIX.* The best solution to any problem is to avoid having
+to solve it in the first place. This is one of your most important
+tools. All the work you cut is energy saved. Pure gain. If you can't
+immediately think of a reason not to do something, postpone work on it
+as long as you can while you try to find a reason. Is it possible to
+just drop the task? Will your world explode? If not, you probably
+can. A lot of work is wasted.  ...
+
 14 Aug 2022
 
 - https://ask.metafilter.com/365966/What-is-it-like-to-work-in-IT-support#5213583 - 
