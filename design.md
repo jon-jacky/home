@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+
+25 Feb 2023  <a name="25-Feb-2023"></a>
+
+- <https://www.docubyte.com/projects/guide-to-computing/> -
+  Computing Machines 1945 - 1990
+
+- <https://wendybowman.com/sarah-morris-artworks> - 
+  Sarah Morris artworks
+
  9 Dec 2022  <a name="9-Dec-2022"></a>
 
 - <https://letters.temporarystate.net/entry/1/> - 
