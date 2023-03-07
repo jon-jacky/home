@@ -10,6 +10,8 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 6 Mar 2023  <a name="6-Mar-2023"></a>
+
 - <http://viznut.fi/texts-en/inverted_computer_culture.html> -
 Inverted computer culture, a thought experiment -
 
