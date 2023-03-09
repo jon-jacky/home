@@ -1482,11 +1482,13 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 15 Dec 2022:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 8 Mar 2023:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
 
+- <https://sfpc.study/> - An unusual design for an unusual organization.
+
 - <https://grugbrain.dev/> - 
-  An example of the simplicity it advocates: One file, simple HTML
+  An example of the simplicity it recommends: One file, simple HTML
   with a bit of simple CSS inline at the start of the file. That's
   all! Simple and effective.
 
