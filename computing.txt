@@ -10,6 +10,51 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+13 Mar 2023
+
+- *Computer Power and Human Reason* by Joseph Weizenbaum (1976),
+  p. 277 - 279 (no link)
+
+"It happens that programming is a relatively easy craft to learn.
+Almost anyone with a reasonably orderly mind can become a fairly 
+good programmer with just a little instruction and practice.
+And because programming is almost immediately rewarding, that is,
+because a computer very quickly begins to behave somewhat in the way
+the programmer intends it do, programming is very seductive, especially
+for beginners.  Moreover, it appeals precisely to those who do not yet 
+have sufficient maturity to tolerate long delays between an effort to
+achieve something and the appearance of concrete evidence of success.
+Immature students are therefore easily misled into believing that they
+have truly mastered a craft of immense power and of great importance 
+when, in fact, they have learned only its rudiments and and nothing
+substantive at all.  A student's quick climb from a state of complete
+ignorance about computers to what appears to be a mastery of programming,
+but is in reality only a very minor plateau, may leave him with a 
+euphoric sense of achievement and a conviction that he has discovered his
+true calling.  The teacher, of course, also tends to feel rewarded by
+such students' obvious enthusiasm, and therefore to encourage it, perhaps
+unconsciously and against his better judgment.  But for the student this
+may well be a trap.  He may so thoroughly commit himself to what he naively
+believes is computer science, that is, to the mere polishing of his 
+programming skills, that he may effectively preclude studying anything
+substantive. ...
+
+Just because so much of a computer science curriculum is concerned with the 
+craft of computation, it is perhaps easy for the teacher of computer science
+to fall into the habit of merely training.  But, were he to do that, he would
+surely diminish himself and his profession. ...  If he views himself as a 
+mere trainer, as a mere applier of "methods" for achieving ends determined
+by others, then he does his students two disservices.  First, he invites them
+to become less than fully autonomous persons.  He invites them to become
+mere followers of other people's orders, and finally no better than the 
+machines that might someday replace them in that function.  Second, he robs
+them of the glimpse of the ideas that alone purchase for computer science a
+place in the university's curriculum at all.  And it doing that, he blinds
+them to the examples that computer scientists as creative beings might have
+provided for them, hence of their very best chance to become truly good
+computer scientists themselves."
+
+
  6 Mar 2023
 
 - http://viznut.fi/texts-en/inverted_computer_culture.html -
