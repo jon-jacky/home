@@ -13,9 +13,16 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+27 Mar 2023
+
+- https://moritzfuerst.net/projects/smalltalk-type - Smalltalk Type -
+  "An ongoing restoration project of the typefaces used
+   in the graphical user interface of the Smalltalk-80 system."
+
+
 26 Mar 2023
 
-- https://kioskkiosk.com/ - KIOSK - 
+- https://kioskkiosk.com/ -
    "KIOSK has been thought of as a shop by some, a museum by others;
    an art installation, a gallery. ..."  
    Don't miss the Archive and Places.
@@ -1494,7 +1501,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
 - https://tristancacqueray.github.io/blog/introducing-butler -
   The software and the page that describes it both have a 
-  unique handmade look befitting a hobby project.
+  handmade look befitting a hobby project.
 
 - https://sfpc.study/ - An unusual design for an unusual organization.
 
