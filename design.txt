@@ -13,12 +13,20 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+17 Apr 2023
+
+- https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p - 
+    Ivrea, industrial city of the 20th century: Adriano Olivetti's city 
+
+
+    See also the 1950's Olivetti showroom in Manhattan at 20 Jun 2022, and
+    Ettore Sottsass' design in 1959 of the Olivetti Elea 9003 at 22 Sep 2022.
+
 27 Mar 2023
 
 - https://moritzfuerst.net/projects/smalltalk-type - Smalltalk Type -
   "An ongoing restoration project of the typefaces used
    in the graphical user interface of the Smalltalk-80 system."
-
 
 26 Mar 2023
 
