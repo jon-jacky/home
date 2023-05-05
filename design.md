@@ -1504,8 +1504,10 @@ Companion page, a commonplace book:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 23 Mar 2023:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 5 May 2023:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <http://tn5250j.org/> - Well chosen font, text colors, colored background panels
 
 - <https://tristancacqueray.github.io/blog/introducing-butler> -
   The software and the page that describes it both have a
