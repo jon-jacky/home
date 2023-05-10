@@ -13,6 +13,15 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 9 May 2023
+
+- https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/ -
+  1-bit Hokusai's "The Great Wave"
+
+  via https://news.ycombinator.com/item?id=35866283
+
+  *regularfry*: "There's something very... right about the black and white rendering from those early macs. Can't exactly put my finger on it but they seem very natural in a way that I can't readily identify in any other setting.
+
 17 Apr 2023
 
 - https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p - 
