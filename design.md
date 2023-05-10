@@ -18,9 +18,8 @@ Companion page, a commonplace book:
 - <https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/> -
   1-bit Hokusai's "The Great Wave"
 
-  via <https://news.ycombinator.com/item?id=35866283>
-
-  *regularfry*: "There's something very... right about the black and white rendering from those early macs. Can't exactly put my finger on it but they seem very natural in a way that I can't readily identify in any other setting.
+  via <https://news.ycombinator.com/item?id=35866283> -
+  *regularfry*: "There's something very... *right* about the black and white rendering from those early macs. Can't exactly put my finger on it but they seem very natural in a way that I can't readily identify in any other setting.
 
 17 Apr 2023  <a name="17-Apr-2023"></a>
 
