@@ -17,103 +17,103 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 14 Mar 2023
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
-
-*Preface*, pps. ix - x
-
-"This book is only nominally about computers. ... the computer is used here
-merely as a vehicle for moving certain ideas that are much more important
-than computers ... a major point of this book is that we, all of us, have
-made the world too much into a computer, and that this remaking of the world
-in the image of the computer started long before there were any electronic
-computers.  Now that we have computers, it becomes somewhat easier to see
-this imaginative transformation that we have worked on the world.  Now we
-can use the computer itself -- that is the idea of the computer -- as a 
-metaphor to help us understand what we have done and are doing. ...
-
-The rest of this book contains the major arguments, which are, in essence,
-first, that there is a difference between man and machine, and, second that
-there are certain tasks which computers *ought* not to be made to do,
-independent of whether computers can be made to do them."
-
-*Introduction*, pps. 2 - 10.
-
-"... My own shock was administered by some people who insisted on 
-misinterpreting a piece of work I had done.  I write this without
-bitterness and certainly not in a defensive mood.  Indeed, the
-interpretations I have in mind tended, if anything, to overrate what 
-little I had accomplished and certainly its importance.  ... 
-
-The work was done in the period 1964 - 66 ... I composed a computer program
-with which one could "converse" in English.  The human conversationalist 
-partner would type his portion of the conversation on a typewriter 
-connected to a computer, and the computer, under control of my program,
-would analyze the message that had so been transmitted to it, compose a 
-response to it in English, and cause the response to be typed on the 
-computer's typewriter.
-
-I chose the name ELIZA for the language analysis program, because, like the
-Eliza of Pygmalion fame, it could be taught to "speak" increasingly well.
-... the program was constructed in a two-tier arrangement, the first tier
-consisting of the language analyzer and the second of a script.  The script
-is a set of rules rather like those that might be given to an actor to
-improvise around a certain theme. 
-
-For my first experiment I gave Eliza a script designed to permit it to play
-(I should really say parody) the role of a Rogerian psychotherapist 
-... (who) is relatively easy to imitate because much of his technique 
-consists of drawing his patient out by reflecting the patient's statements
-back to him. ...
-
-DOCTOR, as ELIZA playing psychiatrist came to be known, soon became famous
-around the Massachusetts Institute of Technology, where it first came into
-existence, mainly because it was an easy program to demonstrate. ...
-
-The shocks I experienced as DOCTOR became widely known and "played" 
-were due principally to three distince events:
-
-1. A number of practicing psychiatrists seriously believed the DOCTOR
-computer program could grow into a nearly completely automatic form of 
-psychotherapy. ... 
-
-I had thought it essential, as a prerequisite to the very possibility 
-that one person might help another learn to cope with his emotional
-problems, that the helper himself participate in the other's experience
-of those problems, and, in large part by way of his own empathic 
-recognition of them, himself come to understand them. ... But that it was
-possible for even one practicing psychiatrist to advocate that this 
-crucial component of the therapeutic process be entirely supplanted by
-pure technique -- *that* I had not imagined!  What must a psychiatrist 
-who makes such a suggestion think he is doing while treating a patient
-... ?  What can the psychiatrist's image of his patient be when he sees
-himself, as a therapist, not as an engaged human being acting as a 
-healer, but as an information processor following rules, etc.?
-
-2. I was startled to see how quickly and how very deeply people conversing
-with DOCTOR became emotionally involved with the computer and how 
-unequivocally they anthropomorphized it. ...
-
-3. Another widespread, and to me surprising, reaction to the ELIZA program
-was the spread of a belief that it demonstrated a general solution to the
-problem of computer understanding of natural language.  In my paper, I had
-tried to say that no general solution to that problem was possible ... .
-But these conclusions were often ignored.
-This reaction to ELIZA showed me more vividly than anything I had seen
-hitherto the enormously exaggerated attributions an even well-educated
-audience is capable of making, even strives to make, to a technology it does
-not understand. ... 
-
-As perceptions of these kinds began to reverberate in me ... I began to 
-see that certain quite fundamental questions had infected me more 
-chronically than I had first perceived.  I shall probably never be rid
-of them. ... At bottom they are about nothing less than
-man's place in the universe.  But I am professionally trained only in 
-computer science, which is to say (in all seriousness) that I am
-extremely poorly educated; I can mount neither the competence, nor the
-courage, nor even the chutzpah, to write on the grand scale actually 
-demanded.  I therefore grapple with questions that couple more directly 
-to the questions I have expressed, and hope that their larger implications
-will emerge spontaneously."
-
+  
+  *Preface*, pps. ix - x
+  
+  "This book is only nominally about computers. ... the computer is used here
+  merely as a vehicle for moving certain ideas that are much more important
+  than computers ... a major point of this book is that we, all of us, have
+  made the world too much into a computer, and that this remaking of the world
+  in the image of the computer started long before there were any electronic
+  computers.  Now that we have computers, it becomes somewhat easier to see
+  this imaginative transformation that we have worked on the world.  Now we
+  can use the computer itself -- that is the idea of the computer -- as a 
+  metaphor to help us understand what we have done and are doing. ...
+  
+  The rest of this book contains the major arguments, which are, in essence,
+  first, that there is a difference between man and machine, and, second that
+  there are certain tasks which computers *ought* not to be made to do,
+  independent of whether computers can be made to do them."
+  
+  *Introduction*, pps. 2 - 10.
+  
+  "... My own shock was administered by some people who insisted on 
+  misinterpreting a piece of work I had done.  I write this without
+  bitterness and certainly not in a defensive mood.  Indeed, the
+  interpretations I have in mind tended, if anything, to overrate what 
+  little I had accomplished and certainly its importance.  ... 
+  
+  The work was done in the period 1964 - 66 ... I composed a computer program
+  with which one could "converse" in English.  The human conversationalist 
+  partner would type his portion of the conversation on a typewriter 
+  connected to a computer, and the computer, under control of my program,
+  would analyze the message that had so been transmitted to it, compose a 
+  response to it in English, and cause the response to be typed on the 
+  computer's typewriter.
+  
+  I chose the name ELIZA for the language analysis program, because, like the
+  Eliza of Pygmalion fame, it could be taught to "speak" increasingly well.
+  ... the program was constructed in a two-tier arrangement, the first tier
+  consisting of the language analyzer and the second of a script.  The script
+  is a set of rules rather like those that might be given to an actor to
+  improvise around a certain theme. 
+  
+  For my first experiment I gave Eliza a script designed to permit it to play
+  (I should really say parody) the role of a Rogerian psychotherapist 
+  ... (who) is relatively easy to imitate because much of his technique 
+  consists of drawing his patient out by reflecting the patient's statements
+  back to him. ...
+  
+  DOCTOR, as ELIZA playing psychiatrist came to be known, soon became famous
+  around the Massachusetts Institute of Technology, where it first came into
+  existence, mainly because it was an easy program to demonstrate. ...
+  
+  The shocks I experienced as DOCTOR became widely known and "played" 
+  were due principally to three distince events:
+  
+  1. A number of practicing psychiatrists seriously believed the DOCTOR
+  computer program could grow into a nearly completely automatic form of 
+  psychotherapy. ... 
+  
+  I had thought it essential, as a prerequisite to the very possibility 
+  that one person might help another learn to cope with his emotional
+  problems, that the helper himself participate in the other's experience
+  of those problems, and, in large part by way of his own empathic 
+  recognition of them, himself come to understand them. ... But that it was
+  possible for even one practicing psychiatrist to advocate that this 
+  crucial component of the therapeutic process be entirely supplanted by
+  pure technique -- *that* I had not imagined!  What must a psychiatrist 
+  who makes such a suggestion think he is doing while treating a patient
+  ... ?  What can the psychiatrist's image of his patient be when he sees
+  himself, as a therapist, not as an engaged human being acting as a 
+  healer, but as an information processor following rules, etc.?
+  
+  2. I was startled to see how quickly and how very deeply people conversing
+  with DOCTOR became emotionally involved with the computer and how 
+  unequivocally they anthropomorphized it. ...
+  
+  3. Another widespread, and to me surprising, reaction to the ELIZA program
+  was the spread of a belief that it demonstrated a general solution to the
+  problem of computer understanding of natural language.  In my paper, I had
+  tried to say that no general solution to that problem was possible ... .
+  But these conclusions were often ignored.
+  This reaction to ELIZA showed me more vividly than anything I had seen
+  hitherto the enormously exaggerated attributions an even well-educated
+  audience is capable of making, even strives to make, to a technology it does
+  not understand. ... 
+  
+  As perceptions of these kinds began to reverberate in me ... I began to 
+  see that certain quite fundamental questions had infected me more 
+  chronically than I had first perceived.  I shall probably never be rid
+  of them. ... At bottom they are about nothing less than
+  man's place in the universe.  But I am professionally trained only in 
+  computer science, which is to say (in all seriousness) that I am
+  extremely poorly educated; I can mount neither the competence, nor the
+  courage, nor even the chutzpah, to write on the grand scale actually 
+  demanded.  I therefore grapple with questions that couple more directly 
+  to the questions I have expressed, and hope that their larger implications
+  will emerge spontaneously."
+  
  8 Aug 2022
 
 - https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/ - 
