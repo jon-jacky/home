@@ -18,8 +18,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf -
   A Business Card Universal Turing Machine
 
-  "You have in your hands a simple device that can compute anything whatsoever that’s computable. It’s a realization of one of the world’s great ideas—Alan Turing’s universal computer. This piece of computer hardware is a business card with a hole in the center and one corner cut off, as depicted here. ..."
-  I based the design of this device on one of the simplest universal Turing machines ever discovered, by Yurii Rogozhin in 1996."
+  "You have in your hands a simple device that can compute anything
+  whatsoever that’s computable. It’s a realization of one of the world’s great
+  ideas—Alan Turing’s universal computer. This piece of computer hardware is a
+  business card with a hole in the center and one corner cut off, as depicted
+  here. ...  I based the design of this device on one of the simplest
+  universal Turing machines ever discovered, by Yurii Rogozhin in 1996."
 
   Also http://www.ams.org/notices/201408/rnoti-sep-14-cov1.pdf
   and http://alvyray.com/Papers/AboutTheCover_NoticesAMS.pdf
@@ -35,11 +39,10 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 17 Apr 2023
 
 - https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p - 
-    Ivrea, industrial city of the 20th century: Adriano Olivetti's city 
+  Ivrea, industrial city of the 20th century: Adriano Olivetti's city 
 
-
-    See also the 1950's Olivetti showroom in Manhattan at 20 Jun 2022, and
-    Ettore Sottsass' design in 1959 of the Olivetti Elea 9003 at 22 Sep 2022.
+  See also the 1950's Olivetti showroom in Manhattan at 20 Jun 2022, and
+  Ettore Sottsass' design in 1959 of the Olivetti Elea 9003 at 22 Sep 2022.
 
 27 Mar 2023
 
@@ -53,7 +56,6 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    "KIOSK has been thought of as a shop by some, a museum by others;
    an art installation, a gallery. ..."  
    Don't miss the Archive and Places.
-
 
 25 Feb 2023
 
