@@ -14,7 +14,8 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
-14 Mar 2023  <a name="14-Mar-2023"></a>
+14 Mar 2023,  <a name="14-Mar-2023"></a>
+25 May 2023  <a name="25-May-2023"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
 
@@ -113,6 +114,63 @@ Some of my own comments:
   demanded.  I therefore grapple with questions that couple more directly
   to the questions I have expressed, and hope that their larger implications
   will emerge spontaneously."
+
+- <https://dl.acm.org/doi/10.1145/365153.365168> - 
+  Joseph Weizenbaum, ELIZA -- A Computer Program For the Study of Natural
+  Language Communication Between Man and Machine, *Communications of the ACM*,
+  9(1), January 1966, 36 - 45.
+
+  "It is said that• to explain is to explain away. This maxim is nowhere so
+  well fulfilled as in the area of computer programming, especially in what is
+  called heuristic programming and artificial intelligence. For in those
+  realms machines are made to behave in wondrous ways, often sufficient to
+  dazzle even the most experienced observer. But once a particular program is
+  unmasked, once its inner workings are explained in language sufficiently
+  plain to induce understanding, its magic crumbles away; it stands revealed
+  as a mere collection of procedures, each quite comprehensible. The observer
+  says to himself "I could have written that". With that thought he moves the
+  program in question from the shelf marked "intelligent",
+  to that reserved for curios, fit to be discussed only with people less
+  enlightened than he.
+
+  The object of this paper is to cause just such a re-evaluation of the program
+  about to be "explained". Few programs ever needed it more. ..."
+
+  Many pages of detailed technical explanation follow, then this discussion:
+
+  "(The dialog) has a crucial psychological utility in that it serves the
+  speaker to maintain his sense of of being heard and understood.
+  The speaker further defends his impression ... by attributing to his
+  conversational partner all sorts of background knowledge, insights, and
+  reasoning ability.  But again, these are the (human) *speaker's*
+  contribution to the conversation.  They manifest themselves inferentially
+  in the *interpretations* he makes of the offered responses. ...
+
+  The whole issue of the credibility (to humans) of machine output demands
+  investigation. Important decisions increasingly tend to be made in
+  response to computer output. The ultimately responsible human interpreter
+  of "What the machine says" is, not unlike the correspondent with ELIZA,
+  constantly faced with the need to make credibility judgments. ELIZA shows,
+  if nothing else, how easy it is to create and maintain the illusion of
+  understanding, hence perhaps of judgment deserving of credibility.
+  A certain danger lurks there. ...
+
+  A large part of whatever elegance may be credited to ELIZA lies in the
+  fact that ELIZA maintains the illusion of understanding with so little
+  machinery. But there are bounds on the extendability of ELIZA's
+  "understanding" ...
+  The crucial test of understanding, as every teacher should know, is not
+  the subject's ability to continue a conversation, but to draw valid
+  conclusions from what he is being told. ...
+
+  ELIZA in its use so far has had as one of its principal objectives the
+  *concealment* of its lack of understanding. But to encourage its
+  conversational partner to offer inputs from which it can select remedial
+  information, it must *reveal* its misunderstanding. A switch of objectives
+  from the concealment to the revelation of misunderstanding is seen as a
+  precondition to making an ELIZA-like program the basis for an effective
+  natural language man machine communication system. ..."
+
 
  8 Aug 2022  <a name="8-Aug-2022"></a>
 
