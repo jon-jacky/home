@@ -15,9 +15,13 @@ Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
 14 Mar 2023,  <a name="14-Mar-2023"></a>
-25 May 2023  <a name="25-May-2023"></a>
+25 May 2023,  <a name="25-May-2023"></a>
+27 May 2023  <a name="27-May-2023"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
+
+  Weizenbaum was the author of the original AI Chat program, Eliza,
+  almost sixty years ago.
 
   *Preface*, pps. ix - x
 
@@ -171,6 +175,52 @@ Some of my own comments:
   precondition to making an ELIZA-like program the basis for an effective
   natural language man machine communication system. ..."
 
+- <https://cs.stanford.edu/~knuth/chatGPT20.txt> -
+  Don Knuth plays with ChatGPT
+
+  Knuth reviews this year's AI Chat program.  It is telling to compare
+  ChatGPT to Weizenbaum's program of almost sixty years ago, in the light of
+  Weizenbaum's comments then.
+
+  "Since one of today's popular recreations is to play with chatGPT, I
+  decided on 07 April 2023 to try my own little experiment, as part of a
+  correspondence with Stephen Wolfram. ... I thought of 20 questions that
+  would be interesting to pose to chatGPT. ..."
+
+  Then follow Knuth's 20 questions and ChatGPT's answers.  Knuth comments
+  on each answer. Here are some excerpts and his conclusion:
+
+  "Of course these are extremely impressive responses, sometimes
+  astonishingly so ... The most immediate impression is the quality of the
+  wordsmithing. It's way better than 99% of copy that people actually write.
+  ...
+
+  Question #6 was the question my father asked to Weizenbaum's ELIZA program,
+  in 1968, just before he took a trip to Japan. Dad was very disappointed when
+  the computer responded "Why do you ask?"
+  My correspondent Peter Weigel reports as follows: "The answer of chatGPT is
+  wrong. ..."
+
+  Answer #10 reads as though it's the best answer yet. But it's almost totally
+  wrong! ...  It's amazing how the confident tone lends credibility to all of
+  that made-up nonsense. Almost impossible for anybody without knowledge of
+  the book to believe that those "facts" aren't authorititative and well
+  researched. ...
+
+  #16. Another mission apparently well accomplished yet fake. ... How does one
+  train an AI to make up such convincing lies? ...
+
+  #20. Another great example of surface-only understanding of buzzwords. Are
+  we trying to generate all prime numbers, or to test a number for primality?
+
+  Well this has been interesting indeed. Studying the task of how to fake it
+  certainly leads to insightful subproblems galore. ...
+  On the other hand, Gary Marcus's column in the April (2023) CACM brilliantly
+  describes the terrifying consequences of these developments.
+
+  I myself shall certainly continue to leave such research to others, and to
+  devote my time to developing concepts that are authentic and trustworthy.
+  And I hope you do the same."
 
  8 Aug 2022  <a name="8-Aug-2022"></a>
 
