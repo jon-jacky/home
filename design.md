@@ -44,11 +44,17 @@ Companion page, a commonplace book:
   See also the 1950's Olivetti showroom in Manhattan at [20 Jun 2022](#20-Jun-2022), and
   Ettore Sottsass' design in 1959 of the Olivetti Elea 9003 at [22 Sep 2022](#22-Sep-2022).
 
-27 Mar 2023  <a name="27-Mar-2023"></a>
+27 Mar 2023,  <a name="27-Mar-2023"></a>
+ 6 Jun 2023  <a name="6-Jun-2023"></a>
 
 - <https://moritzfuerst.net/projects/smalltalk-type> - Smalltalk Type -
   "An ongoing restoration project of the typefaces used
    in the graphical user interface of the Smalltalk-80 system."
+
+  Compare to <http://www.typewritten.org/Media/Images/suntools-sunos1-spheresdemo.png>
+  SunTools desktop, SunOS 1.1, on a Sun 2/120.
+  Those black and white desktops of the early 1980s had an appealing
+  absence of clutter.
 
 26 Mar 2023  <a name="26-Mar-2023"></a>
 
