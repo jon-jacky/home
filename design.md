@@ -34,15 +34,20 @@ Companion page, a commonplace book:
   Hokusai's "The Great Wave"
 
   via <https://news.ycombinator.com/item?id=35866283> -
-  *regularfry*: "There's something very... *right* about the black and white rendering from those early macs. Can't exactly put my finger on it but they seem very natural in a way that I can't readily identify in any other setting.
+  *regularfry*: "There's something very... *right* about the black and
+  white rendering from those early macs. Can't exactly put my finger on it
+  but they seem very natural in a way that I can't readily identify in any
+  other setting.
+
+  More black and white screens from this era just below at [27 Mar 2023](#27-Mar-2023).
 
 17 Apr 2023  <a name="17-Apr-2023"></a>
 
 - <https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p> - 
   Ivrea, industrial city of the 20th century: Adriano Olivetti's city
 
-  See also the 1950's Olivetti showroom in Manhattan at [20 Jun 2022](#20-Jun-2022), and
-  Ettore Sottsass' design in 1959 of the Olivetti Elea 9003 at [22 Sep 2022](#22-Sep-2022).
+  See also the 1950's Olivetti showroom in Manhattan at [20 Jun 2020](#20-Jun-2020), and
+  Ettore Sottsass' design in 1959 of the Olivetti Elea 9003 computer at [22 Sep 2022](#22-Sep-2022).
 
 27 Mar 2023,  <a name="27-Mar-2023"></a>
  6 Jun 2023  <a name="6-Jun-2023"></a>
@@ -1388,7 +1393,8 @@ Companion page, a commonplace book:
 
 - <https://beautiful-company.com/> - designed Elliot School logo, and much more
 
-18 May - 20 Jun 2020
+18 May 2020,  <a name="18-May-2020"></a>
+20 Jun 2020  <a name="20-Jun-2020"></a>
 
 - <https://muse.jhu.edu/book/24792> - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
