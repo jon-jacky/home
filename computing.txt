@@ -102,7 +102,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   might be dominant."
 
 13 Jan 2023,
-22 May 2023
+22 May 2023,
+11 Jun 2023
 
 - https://kevinlawler.com/prompts - 
   Oblique Strategies: Prompts for Programmers -  "Brian Eno created a
@@ -156,6 +157,19 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   where it is needed.  I start a new file each month.  That way I keep a 
   record of everything I've written, even the code I decided not to use.
   It often turns out to be useful later."
+
+- http://akkartik.name/freewheeling -
+  Using computers more freely and safely
+
+  "We programmers have a tendency to start with a germ of a neat idea and
+  ... pile on a bunch of requirements to it, just because other things like
+  it satisfy those requirements. Requirements often stem from unconscious
+  acculturation ... One hack I've found useful is to stop trying to seem
+  “professional”. I remember when I started out programming, I wanted my
+  programs to look “professional,” like the programs other “real”
+  programmers made. This desire is the devil. ... In practice, seeming
+  professional is often a way to end up with a pile of stuff you don't need.
+  All it does is slow you down."
 
 14 Aug 2022
 
