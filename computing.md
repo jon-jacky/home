@@ -10,6 +10,56 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Jun 2023  <a name="13-Jun-2023"></a>
+
+- <https://www.marginalia.nu/log/57-dont-know-how-to-build-software/> -
+  I don't know how to build software
+
+  "I’ve been programming for over twenty years ...
+  I’ve built about twelve applications in my twenty years of development, of
+  varying size and complexity.
+  This has granted me in-depth experience with three programming languages out
+  of dozens, a few dozen libraries out of thousands, a few architectural
+  principles, two operating systems, three source control systems, two
+  operations paradigms.
+
+  I have seen approaches coincide with problems, and I’ve seen approaches
+  coincide with success, but usually only one or two times; from this I can’t
+  actually know if the failures and successes were accidental to approach.
+  ...
+
+  I think this is fairly representative. No matter how long you’ve been
+  working with this, I don’t think a human being exists that have actually
+  tried everything so extensively as to be able to say whether it works ...
+  How could anyone judge which of these is the best, given nobody can have
+  experience with them all?
+
+  Most of the critics of waterfall haven’t actually worked in such a project.
+  Most of the critics of either C or javascript haven’t actually built
+  anything noteworthy with it. Most of the critics of OOP don’t have much
+  practical experience with it. Most of these criticisms are criticisms of the
+  strange and other, not the deeply familiar.
+
+  Still when I go talk to other programmers, I find very strong and confident
+  opinions about what is the best way of building software, of why this-and-
+  that is the superior approach to all others. ...
+
+  Given there isn’t enough human lifetime that this actually can come from
+  experience, where do all these confident opinions about building software
+  actually come from? ...
+
+  I think it would be beneficial to start thinking about programming more from
+  personal experience, and less from theoretical models ...
+
+  It’s funny how many in engineering consider themselves skeptics, but they
+  often extend this skepticism only toward what they already doubted, rarely
+  to what they take for granted (which is where it would actually do good).
+
+  What do *I* know? This is the question, not “what is regarded as true”."
+
+  This author created Marginalia,
+  an experimental search engine, see at [17 Sep 2021](#17-Sep-2021). 
+
 13 Mar 2023  <a name="13-Mar-2023"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976),
