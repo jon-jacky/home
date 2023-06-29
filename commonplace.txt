@@ -16,7 +16,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
 14 Mar 2023,
 25 May 2023,
-27 May 2023
+27 May 2023,
+28 Jun 2023
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
   
@@ -221,6 +222,16 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   I myself shall certainly continue to leave such research to others, and to
   devote my time to developing concepts that are authentic and trustworthy.
   And I hope you do the same."
+
+- A.I.D.E.: Artificial Intelligence Dedicated to Empathy, 
+  by Seattle Design Nerds, at *Seattle: City of the Future*,
+  art exhibit/multimedia installation, June 2023
+
+  "Despite, or perhaps because of, its complete lack of understanding
+  A.I.D.E. has long become bored with humanity.
+  It sits on its throne confidently issuing (mostly incorrect) proclamations
+  while being completely unaware of the invisible confines and biases
+  of its digital kingdom."
 
  8 Aug 2022
 
