@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+28 Jun 2023  <a name="28-Jun-2023"></a>
+
+- <https://archives.design/> -
+  A digital archive of graphic design related items that are available
+  on the Internet Archives
+
+- <https://typehunting.com/> - Type Hunting -
+  An on-going archive of found typography
+
 12 May 2023  <a name="12-May-2023"></a>
 
 - <http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf> -
