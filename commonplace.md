@@ -17,7 +17,8 @@ Some of my own comments:
 14 Mar 2023,  <a name="14-Mar-2023"></a>
 25 May 2023,  <a name="25-May-2023"></a>
 27 May 2023,  <a name="27-May-2023"></a>
-28 Jun 2023  <a name="28-Jun-2023"></a>
+28 Jun 2023,  <a name="28-Jun-2023"></a>
+10 Jul 2023  <a name="10-Jul-2023"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
 
@@ -125,7 +126,7 @@ Some of my own comments:
   Language Communication Between Man and Machine, *Communications of the ACM*,
   9(1), January 1966, 36 - 45.
 
-  "It is said that• to explain is to explain away. This maxim is nowhere so
+  "It is said that to explain is to explain away.  This maxim is nowhere so
   well fulfilled as in the area of computer programming, especially in what is
   called heuristic programming and artificial intelligence. For in those
   realms machines are made to behave in wondrous ways, often sufficient to
@@ -222,6 +223,55 @@ Some of my own comments:
   I myself shall certainly continue to leave such research to others, and to
   devote my time to developing concepts that are authentic and trustworthy.
   And I hope you do the same."
+
+- <https://www.theatlantic.com/ideas/archive/2023/07/godel-escher-bach-geb-ai/674589/>
+  also at <https://archive.is/SPRZ3> -
+  Godel, Escher, Bach, and AI by Douglas Hofstadter
+
+  "... (a reader) of my 1979 book, *Godel, Escher,
+  Bach: an Eternal Golden Braid*, ...  (asked the) large language
+  model GPT-4 to compose ... a one-page essay with the title “Why Did
+  I Write GEB?”
+
+  The AI system obliged ... by instantly producing a statement written
+  in the first person (thus impersonating me, the book’s author) ...
+  I have reproduced GPT-4’s output verbatim below. ...
+
+  I would say that that text, in sharp contrast to what I myself wrote
+  in the book’s 20th-anniversary preface, consists only in generic
+  platitudes and fluffy handwaving.  The prose has virtually nothing
+  in common with my writing style and what it says does not agree at
+  all with the actual story that underlies the book’s
+  genesis. Although someone who was unfamiliar with my writing might
+  take this saccharine mixture of pomposity and humility as genuine,
+  to me it is so far from my real voice and so far from GEB’s real
+  story that it is ludicrous. ...
+
+  I am profoundly troubled by today’s large language models, such as
+  GPT-4. I find them repellent and threatening to humanity, partly
+  because they are inundating the world with fakery, as is exemplified
+  by the piece of text produced by the ersatz Hofstadter. ...
+
+  ... the issues that this bizarre episode raises continue to trouble
+  me enormously.  I frankly am baffled by the allure, for so many
+  unquestionably insightful people (including many friends of mine),
+  of letting opaque computational systems perform intellectual tasks
+  for them. Of course it makes sense to let a computer do obviously
+  mechanical tasks, such as computations, but when it comes to using
+  language in a sensitive manner and talking about real-life
+  situations where the distinction between truth and falsity and
+  between genuineness and fakeness is absolutely crucial, to me it
+  makes no sense whatsoever to let the artificial voice of a chatbot,
+  chatting randomly away at dazzling speed, replace the far slower but
+  authentic and reflective voice of a *thinking, living human being*.
+
+  To fall for the illusion that computational systems “who” have never
+  had a single experience in the real world outside of text are
+  nevertheless perfectly reliable authorities about the world at large
+  is a deep mistake, and, if that mistake is repeated sufficiently
+  often and comes to be widely accepted, it will undermine the very
+  nature of truth on which our society—and I mean all of human
+  society—is based."
 
 - A.I.D.E.: Artificial Intelligence Dedicated to Empathy,
   by Seattle Design Nerds, at *Seattle: City of the Future*,
