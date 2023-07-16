@@ -1840,7 +1840,9 @@ Companion page, a commonplace book:
   Many other articles by these authors about computing history at
   <http://www.tomandmaria.com/Tom/Home>
 
- 9 Feb 2021, also 10 Dec 2021  <a name="9-Feb-2021"></a>
+ 9 Feb 2021,  <a name="9-Feb-2021"></a>
+10 Dec 2021,  <a name="10-Dec-2021"></a>
+15 Jul 2023  <a name="15-Jul-2023"></a>
 
 - <https://esoteric.codes/blog/100-rabbits> - *Esoteric Codes*, 2021-02-04,
   Interview with 100 Rabbits:
@@ -1909,6 +1911,93 @@ Companion page, a commonplace book:
   software is software that gets smaller over time, that sheds the
   superfluous, and that reaches further backward in time for that onto
   which it can run. ..."
+
+  <https://100r.co/site/weathering_software_winter.html> -
+  Weathering Software Winter
+
+  We started sailing seven years ago ...
+  The moment we cast off ...
+  Many of the tools that we thought we could rely on broke down, whether it is
+  Apple products, or software that require subscription services, DRM, etc.
+
+  As an artist you spend time developping a skill, you become a Photoshop
+  illustrator. When your connection to the internet fails and that the
+  software locks up, that skill that you thought was yours was actually
+  entirely owned by someone, and can be taken away.
+  Even though we've been paying for this sort of software for years, the
+  moment that you can't have access to authenticate yourself that skill is
+  gone. We didn't expect this, it scared us.
+
+  Nowadays, everything is built on the cloud. ...
+  It seemed that no one was building things that we could use. This was a sad
+  realization. I love programming, and for a time it seemed that it was
+  utterly incompatible with our new way of life.
+
+  We noticed that all the software that we had written in the past was
+  gradually becoming unusable. ...
+  The projects that we made in the past on the Apple stack, Electron, or on
+  Unity3D ... had a lifespan of three to four years. ...
+  We are in a dark age, where game developers and artists spend years building
+  games that quickly become lost bitrot.
+
+  All that I am writing now is very naive ...
+  I draw, and I make music ...
+  I had a vague idea of what programming was. I had written Swift and
+  Objective C, but had no conception of how it actually tied to processors. It
+  seemed like I was learning a service, the same way I was learning "To
+  Photoshop". It wasn't like learning a skill, you don't learn to draw when
+  you use Photoshop, you learn how to operate within the confines of someone
+  else's playground, and when that rug is pulled from underneath you, there's
+  nothing you can say or do, and you never really understood how it worked in
+  the first place so you can't really replicate it.
+
+  We eventually stumbled on the words *virtual machine*. ...
+  We decided to not give up entirely on software, and to see what could be
+  done in that space using virtual machines. ...
+  We became interested in seeing how we could repurpose old electronics. ...
+  There were a lot of ideas in the past that were forgotten. ...
+  We're going to look into the past to see how people did it ...
+
+  There was a time when computers were super playful, but now they feel cold,
+  and have been weaponized against people.
+  The sort of playfulness that you'd find in (some software of the past), I
+  can't really find a parallel for today. ...
+  I don't think we, as a society, have a system in place that would foster the
+  creation of something as playful as this.
+
+  A realization that I had working on something like this was that customizing
+  your hardware, and your software, makes you care. ...
+  Devices that were customized, or built from near-scratch, are still loved,
+  but as for your old iPhone6, you don't know where it is, and even if you did
+  it's probably unusable. ...
+
+  Instead of trying to make things as broadly accessible as possible, we
+  thought we'd try to see what we could do if we designed it for just one
+  person, a sort of personal computing that was not designed to scale. ...
+  something that would be designed and tailored to help you play.
+
+  I wanted a way of doing computers that nobody could take away from me.
+
+  The modern stack doesn't really work for us, it doesn't apply to the
+  limitations that we have on the boat. We have 180 watts of solar. We just
+  spent the whole summer with two 6-volt batteries, which is very small. ...
+  The limits of a sailboat gives us a space for creativity, and these
+  limitations became a sort of playground for us.
+
+  In the end, I ended up with this napkin definition of a system that I kind
+  of liked. My goal throughout this whole process was to make a system that
+  could fit on a t-shirt. I might lose my computer, especially on a sailboat,
+  but I don't want to keep preserving all the documentation.
+
+  We built this little system that is tailored to host the games we make.
+  It'll be alien to anyone else, and that's okay, we are not trying to sell
+  you on this idea, what we want is for everyone to try and make their own
+  personal computer instead of piggybacking on someone else's idea that's
+  cluttered with artifacts. I don't think we've even begun to scratch the
+  surface of what can be done with this."
+
+  They built the *Uxn* system described here:
+  <https://100r.co/site/uxn.html>
 
 21 Jan 2021  <a name="21-Jan-2021"></a>
 
