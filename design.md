@@ -13,6 +13,19 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+21 Jul 2023  <a name="21-Jul-2023"></a>
+
+- <https://www.linyangchen.com/Typography-Fell-Types-font> -
+  A 17th-century font in a 21st-century thesis
+
+  via <https://news.ycombinator.com/item?id=36807108>
+  with links to other antique looking fonts and lots of font lore.
+
+- <https://dtinth.github.io/comic-mono-font/> - Comic Mono
+
+  via <https://news.ycombinator.com/item?id=36787059>
+  with links to other Comic Sans inspired fonts.
+
 28 Jun 2023  <a name="28-Jun-2023"></a>
 
 - <https://archives.design/> -
