@@ -18,8 +18,10 @@ Companion page, a commonplace book:
 - <https://www.linyangchen.com/Typography-Fell-Types-font> -
   A 17th-century font in a 21st-century thesis
 
+  In the terminal: <https://building-m.net/xbackbone/jOGE6/sUGEqePe74/raw.png>
+
   via <https://news.ycombinator.com/item?id=36807108>
-  with links to other antique looking fonts and lots of font lore.
+  with links to other antique looking fonts, more font lore.
 
 - <https://dtinth.github.io/comic-mono-font/> - Comic Mono
 
