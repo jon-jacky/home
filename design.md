@@ -535,7 +535,8 @@ Companion page, a commonplace book:
 - <https://literature-clock.jenevoldsen.com/> - Literature Clock - 
   Tells the current time in the form of a literary quote.
 
-26 Dec 2021  <a name="26-Dec-2021"></a>
+26 Dec 2021,  <a name="26-Dec-2021"></a>
+21 Jul 2023  <a name="21-Jul-2023"></a>
 
 - <https://gto76.github.io/python-cheatsheet/> - 
   Comprehensive Python Cheatsheet
@@ -546,9 +547,13 @@ Companion page, a commonplace book:
 - <https://ipgp.github.io/scientific_python_cheat_sheet/> - 
   Scientific Python Cheatsheet
 
+- <https://learnbyexample.github.io/python-regex-cheatsheet/> -
+  Python regular expression cheatsheet and examples
+
   Approaches to presenting compact language summaries ("cheat sheets"),
   via <https://news.ycombinator.com/item?id=19075325> with comments on
   these, and links  to more summaries for Python and other languages.
+  More discussion in Jul 2023: <https://news.ycombinator.com/item?id=36806753>
 
 - <http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts> -
   Lua: Good, bad, and ugly parts

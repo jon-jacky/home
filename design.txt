@@ -535,7 +535,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://literature-clock.jenevoldsen.com/ - Literature Clock - 
   Tells the current time in the form of a literary quote.
 
-26 Dec 2021
+26 Dec 2021,
+21 Jul 2023
 
 - https://gto76.github.io/python-cheatsheet/ - 
   Comprehensive Python Cheatsheet
@@ -546,9 +547,13 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://ipgp.github.io/scientific_python_cheat_sheet/ - 
   Scientific Python Cheatsheet
   
+- https://learnbyexample.github.io/python-regex-cheatsheet/ -
+  Python regular expression cheatsheet and examples
+
   Approaches to presenting compact language summaries ("cheat sheets"),
   via https://news.ycombinator.com/item?id=19075325 with comments on
   these, and links  to more summaries for Python and other languages.
+  More discussion in Jul 2023: https://news.ycombinator.com/item?id=36806753
 
 - http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts -
   Lua: Good, bad, and ugly parts
