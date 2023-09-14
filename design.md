@@ -13,6 +13,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Sep 2023  <a name="13-Sep-2023"></a>
+
+- <https://archive.computerhistory.org/resources/access/text/2023/05/102707549-05-01-acc.pdf> -
+  *World of Numbers*, IBM, 1958
+
+  An introduction to computing in 22 pages, in a classic 1950s graphic design.
+
+  More on IBM design at [18 May 2020](#18-May-2020).   The design here especially
+  reminds me of the two short Eames films.
+
 21 Jul 2023  <a name="21-Jul-2023"></a>
 
 - <https://www.linyangchen.com/Typography-Fell-Types-font> -
