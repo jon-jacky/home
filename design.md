@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+30 Sep 2023  <a name="30-Sep-2023"></a>
+
+- <https://punkx.org/overflow/index.html> - 
+  PROJEKT: OVERFLOW  RISC-V assembly board game
+
+  Apparently played with paper and pencil on printed-out PDF forms.
+  Many photos and diagrams show play in progress.
+
 13 Sep 2023  <a name="13-Sep-2023"></a>
 
 - <https://archive.computerhistory.org/resources/access/text/2023/05/102707549-05-01-acc.pdf> -

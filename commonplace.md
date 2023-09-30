@@ -14,6 +14,15 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+30 Sep 2023  <a name="30-Sep-2023"></a>
+
+- *The Milagro Beanfield War*, John Nichols (1974),
+  Afterword by the author (1993) (no link)
+
+  "I don't know if *Milagro* is a good book, or just one with a lot
+  of upbeat energy that has captured a certain fancy.  ..."
+
+
 14 Mar 2023,  <a name="14-Mar-2023"></a>
 25 May 2023,  <a name="25-May-2023"></a>
 27 May 2023,  <a name="27-May-2023"></a>
