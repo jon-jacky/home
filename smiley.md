@@ -1,0 +1,108 @@
+<!- Draft possibly to be added to commonplace book after additions or edits ->
+
+ 2 Nov 2023  <a name="2-Nov-2023"></a>
+
+- *Thirteen Ways of Looking at the Novel* by Jane Smiley, 2005 (no link) -
+
+  From Chapter 6, Morality and the Novel, pages 118 - 122:
+
+  "... Dicken's gift for empathy with sociopathic personalities constitutes
+  a philosophy that has had enormous effect on how modern people understand
+  evil as a form of logic, and even of madness that is internally consistent,
+  unrecognized as evil by the perpetrator, and compelling.  By the end of his
+  career, Dickens was as good as anyone who has ever lived at clarifying the
+  motivations of those who harm others.
+
+  ... Even when Dicken's psychological theories don't hold water, the idea of
+  cause and effect, the idea that there can be a theory of evil (and
+  goodness), does.  As early as *Oliver Twist*, Dickens is laying out a
+  how-to manual for making criminals. ... It is a very short step from this
+  sort of causal logic to the advocacy of political and social solutions for
+  what had always been considered individual moral failings, and Dickens
+  readily made it.
+
+  What nineteenth-century novelists discovered was that the exploration of
+  cause and effect that is natural to the novel mitigates the idea that
+  evil is random ... both the author and the reader start to feel that evil
+  can be fixed, and fixed by amateurs ...
+
+  The novel has certain inherent characteristics -- it is naturally
+  democratic; it promotes individuality and freedom; it is intimate and
+  social and connective; it elevates inner life over appearance; it is,
+  often in spite of itself, hopeful; and it is naturally popular.  These
+  qualities fit into and exemplify the idea of the modern liberal society
+  and in the course of the nineteenth century came to be seen as moral
+  issues. ...
+
+  The great conflict of the twentieth century concerned whether morality was
+  made up of a set of personal choices having to do with right and wrong
+  behavior, as described by, say, the Ten Commandments, or whether it was
+  made up of a set of political choices having to do with the inequitable
+  distribution and abuse of power and wealth.   All sorts of social and
+  economic institutions that had once been considered more or less the natural
+  order of things became moral dilemmas (and zones of ideological conflict)
+  -- slavery, marriage and domestic abuse, child labor, the rewards of
+  capital versus the rewards of labor, genocide in war or as an act of
+  conquest, exploitation and destruction of natural resources, the
+  impoverishment of the human spirit as an effect of labyrinthine and
+  secretive bureaucracy.
+
+  The novel promoted this moral shift. The novel as a form is usually seen
+  to be moral if its readers consider freedom, individuality, democracy,
+  privacy, social connection, tolerance, and hope to be morally good,
+  but it is not considered moral if the highest values of a society are
+  adherence to rules and traditional mores, the maintenance of hierarchical
+  relationships, and absolute ideas of right and wrong.   Any society based
+  on the latter will find novels inherently immoral and subversive."
+
+  From Chapter 8, The Novel and History, pages 173 - 177:
+
+  "In the course of 650 years, Boccaccio and his successors have helped to
+  create a certain kind of world.  It is a world not unlike the novel ...
+  In this world everyone, male or female, could become, might be, his or her
+  own protagonist ... In this world individual existence has the potential for
+  meaning -- it can be understood and possibly changed ... Cause and effect
+  can be disentangled and observed ... In this world the ordinary person
+  can step back, observe both the world and himself or herself, make a
+  judgment, and then make a choice ...
+
+  ... the world I thought was established and secure, at least
+  in the West, is more fragile than I thought, because it is newer than I
+  realized.  That a woman could be an agent rather than an object or a
+  possession, that a marriage can be chosen, then rejected, that an identity
+  can be constructed by an ordinary person -- these are difficult ideas,
+  strange to many, and dangerous to some.   The tension between the
+  individual and the group that the novel depicts is ofen intolerable to
+  the group, and for some groups, an individual does not have a right to
+  a point of view.  The routine quality of the novel, the way that novels
+  seem ubiquitous and benign, pleasurable, or fun, or even tedious to
+  schoolchildren, masks their subversiveness and helps us forget how they
+  have remade the world. ...
+
+  Pride, arrogance, moral blindness, and narcissism are endemic among
+  humans, especially humans who occupy positions of power, either in society
+  or in the family.  But when I have read a long novel, when I have entered
+  systematically into a sensibility that is alien to mine, the author's or
+  a character's, when I have become interested in another person because he
+  is interesting, not because he is privileged or great, there is a possibility
+  that at the end I will be a degree less self-centered than I was at the
+  beginning, that I will be a degree more able to see the world as another
+  sees it.  And there is a possibity that I will be able to reason about my
+  own emotions.   In the end I will be more empathetic ... and I will be
+  more sympathetic ...
+
+  When we talk about the death of the novel, what we are really talking
+  about is the possibility that empathy, however minimal, would no longer
+  be attainable by those for whom the novel has died. ... If the novel has
+  died for men ... then the inner lives of their friends and family
+  members are a degree more closed to them than before.  If the novel dies,
+  or never lives, for children and teenagers who spend their time watching
+  TV or playing video games, then they will always be somewhat mystified by
+  others, and by themselves as well. ...
+
+  My guess is that mere technology will not kill the novel. ... Nor do I
+  believe that novels are bannable. ...  But novels can be sidelined --
+  dismissed to the seraglio where they are read by women and children and
+  have no effect on those in power.   When that happens, our society will
+  be brutalized and coarsened by people who speak rather like us and look
+  rather like us but who have no way of understanding us or each other."
