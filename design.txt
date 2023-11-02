@@ -16,6 +16,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
  1 Nov 2023
 
+Two formerly well-known examples of 1960s and 1970s design:
+
 - https://wholeearth.info/ - Whole Earth Index
 
   "a nearly-complete archive of Whole Earth publications, a series of
@@ -26,7 +28,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   every interior page.  Does not include the original 1968 Catalog, but 
   does include the 1970 edition and later editions, as well as
   issues of *CoEvolution Quarterly*, *Whole Earth Review* etc. and 
-  single publications inlcuding *II Cybernetic Frontiers* etc.
+  single publications including *II Cybernetic Frontiers* etc.
 
 - https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf -
 
@@ -35,6 +37,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   Quentin Fiore to popularize ideas from his earlier books.  It is a 
   small paperback with black and white graphics on every page
   and bits of text on some pages.
+
+  The original book begins on page 5 of this PDF.
 
  3 Oct 2023
 
