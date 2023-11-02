@@ -13,6 +13,29 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+
+ 1 Nov 2023
+
+- https://wholeearth.info/ - Whole Earth Index
+
+  "a nearly-complete archive of Whole Earth publications, a series of
+  journals and magazines descended from the Whole Earth Catalog, published
+  ... between 1970 and 2002."
+
+  This page shows the cover of every issue, which links to JPEG images of
+  every interior page.  Does not include the original 1968 Catalog, but 
+  does include the 1970 edition and later editions, as well as
+  issues of *CoEvolution Quarterly*, *Whole Earth Review* etc. and 
+  single publications inlcuding *II Cybernetic Frontiers* etc.
+
+- https://ia803407.us.archive.org/21/items/pdfy-vNiFct6b-L5ucJEa/Marshall%20McLuhan%20-%20The%20Medium%20is%20The%20Massage.pdf -
+
+  *The Medium is the Massage* by Marshall McLuhan and Quentin Fiore (1967) - 
+  This is a picture book Marshall McLuhan made with graphic designer
+  Quentin Fiore to popularize ideas from his earlier books.  It is a 
+  small paperback with black and white graphics on every page
+  and bits of text on some pages.
+
  3 Oct 2023
 
 - https://neglectedbooks.com/ - The Neglected Books Page
