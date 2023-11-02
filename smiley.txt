@@ -1,10 +1,61 @@
 <!- Draft possibly to be added to commonplace book after additions or edits ->
 
+ 2 Nov 2023
+
 - *Thirteen Ways of Looking at the Novel* by Jane Smiley, 2005 (no link) -
 
-  <!- Ch 8  The Novel and History ->
+  From Chapter 6, Morality and the Novel, pages 118 - 122:
 
-  <!- p. 173 - 177 ->
+  "... Dicken's gift for empathy with sociopathic personalities constitutes
+  a philosophy that has had enormous effect on how modern people understand
+  evil as a form of logic, and even of madness that is internally consistent,
+  unrecognized as evil by the perpetrator, and compelling.  By the end of his
+  career, Dickens was as good as anyone who has ever lived at clarifying the
+  motivations of those who harm others.
+
+  ... Even when Dicken's psychological theories don't hold water, the idea of
+  cause and effect, the idea that there can be a theory of evil (and 
+  goodness), does.  As early as *Oliver Twist*, Dickens is laying out a
+  how-to manual for making criminals. ... It is a very short step from this
+  sort of causal logic to the advocacy of political and social solutions for
+  what had always been considered individual moral failings, and Dickens
+  readily made it.
+
+  What nineteenth-century novelists discovered was that the exploration of
+  cause and effect that is natural to the novel mitigates the idea that 
+  evil is random ... both the author and the reader start to feel that evil
+  can be fixed, and fixed by amateurs ...  
+
+  The novel has certain inherent characteristics -- it is naturally 
+  democratic; it promotes individuality and freedom; it is intimate and
+  social and connective; it elevates inner life over appearance; it is,
+  often in spite of itself, hopeful; and it is naturally popular.  These
+  qualities fit into and exemplify the idea of the modern liberal society
+  and in the course of the nineteenth century came to be seen as moral
+  issues. ...
+
+  The great conflict of the twentieth century concerned whether morality was
+  made up of a set of personal choices having to do with right and wrong
+  behavior, as described by, say, the Ten Commandments, or whether it was 
+  made up of a set of political choices having to do with the inequitable
+  distribution and abuse of power and wealth.   All sorts of social and 
+  economic institutions that had once been considered more or less the natural
+  order of things became moral dilemmas (and zones of ideological conflict)
+  -- slavery, marriage and domestic abuse, child labor, the rewards of 
+  capital versus the rewards of labor, genocide in war or as an act of
+  conquest, exploitation and destruction of natural resources, the 
+  impoverishment of the human spirit as an effect of labyrinthine and 
+  secretive bureaucracy.   
+
+  The novel promoted this moral shift. The novel as a form is usually seen
+  to be moral if its readers consider freedom, individuality, democracy,
+  privacy, social connection, tolerance, and hope to be morally good,
+  but it is not considered moral if the highest values of a society are
+  adherence to rules and traditional mores, the maintenance of hierarchical
+  relationships, and absolute ideas of right and wrong.   Any society based
+  on the latter will find novels inherently immoral and subversive."
+  
+  From Chapter 8, The Novel and History, pages 173 - 177:
 
   "In the course of 650 years, Boccaccio and his successors have helped to
   create a certain kind of world.  It is a world not unlike the novel ...
@@ -41,7 +92,7 @@
   more sympathetic ...
 
   When we talk about the death of the novel, what we are really talking
-  about is the possilibility that empathy, however minimal, would no longer
+  about is the possibility that empathy, however minimal, would no longer
   be attainable by those for whom the novel has died. ... If the novel has
   died for men ... then the inner lives of their friends and family 
   members are a degree more closed to them than before.  If the novel dies,
