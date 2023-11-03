@@ -217,7 +217,8 @@
   receptive to the influence of another human mind, because it is a
   state of contemplation that is essential to the true appreciation of
   the novel. ...
-      Outside of literature, maybe the closest thing to this is guided
+
+  Outside of literature, maybe the closest thing to this is guided
   meditation, where the voice of a guru suggests images and ways of
   thinking that are intended to result in a particular state of mind. ...
   A novel, too, induces a contemplative state of mind, but rather than
@@ -240,6 +241,39 @@
   intentionally set into a wide landscape that is meant ot comment upon
   and contrast to the narrow intensity of human desires and preoccupations. ...
 
+  Everyone acknowledges that true stories can never be fully known --
+  too many details lack corroboration, too many witnesses disagree about
+  what really happened.  Every true story is unsatisfying insofar as it
+  is required to be true.   But since the novel is required to be complete
+  (its dispensation from truthfulness), its acknowledged untruthfulness
+  removes it from the world of consequences.  The reader suspending disbelief
+  expects a novel to take place in a designated game area (inside a book)
+  under rules that apply only to the game.  ... However serious its subject
+  matter, the reader suspends disbelief because the novel is a form of play.
+  ... The game quality of the novel gives it meaning and form, because
+  all games begin, have a playing time, and end. ...
 
+  As with all games, the novel game has many levels of play.  The lowest
+  level is, perhaps, simply following the sequence of the story and
+  understanding what happens and why.   Higher levels move toward greater
+  complexity and efficiency ... A novel with a very high level of game
+  quotient has more and more internal and external references, a denser
+  and denser network of connections between words and of intuitive meanings
+  ...  In a novel such as *Ulysses* or any one of a dozen other modern or
+  postmodern novels, no character, no image, no incident stands alone --
+  everything is part of a network of allusions that constantly offers
+  various meanings aand reinforces the playful nature of the novel as
+  a form. ...
 
+  And as any game becomes grows more complex, it becomes more abstract
+  and exclusive ... fans have to be highly versed in the rules and the
+  moves of the game and willing to play the game (read the book) over and
+  over to get everything out of it. ... the novel as a game gives itself
+  over to all the tendencies of games to consume insiders and deflect
+  outsiders ...
+
+  The fact remains, though, that the reader possesses the novel, and so
+  if she finds that the residue of truth or insight remaining after the
+  intracacies of an extremely sophisticate novel game have been worked out
+  isn't really worth the effort, she is entitled to her opinion."
 
