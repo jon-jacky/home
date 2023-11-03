@@ -12,7 +12,10 @@
   world culture, grows out of these five small facts that apply to every
   novel.
 
-  Because a novel is a printed book ... It retains its purity and constitutes  a direct communication from one person to another.   A reader who doesn't   like what an author has to say may close it, burn it, recommend against  it, give it a bad review in a publication, or even censor it, but she   doesn't thereby destroy it, as she would if she simply retold the story,  leaving out the objectionable parts or adding a little bit of sentiment  or clarification here and there.  A novel is known to be a book.  A  redaction of a novel, by Hollywood or Broadway or *Reader's Digest* or   a paraphrase or any other means, is known not to be a novel, not to be  authentic.   A novel can be dropped or outmoded or rediscovered by readers,  but it can't be changed into something else, in the way that the stories  that were bases of epic poems or traditional folktales were changed in   the telling.  The protagonist, made accessible by prose and interesting by narrative
+  Because a novel is a printed book ... It retains its purity and constitutes  a direct communication from one person to another.   A reader who doesn't   like what an author has to say may close it, burn it, recommend against  it, give it a bad review in a publication, or even censor it, but she   doesn't thereby destroy it, as she would if she simply retold the story,  leaving out the objectionable parts or adding a little bit of sentiment
+  or clarification here and there.  A novel is known to be a book.  A  redaction of a novel, by Hollywood or Broadway or *Reader's Digest* or   a paraphrase or any other means, is known not to be a novel, not to be  authentic.   A novel can be dropped or outmoded or rediscovered by readers,  but it can't be changed into something else, in the way that the stories  that were bases of epic poems or traditional folktales were changed in   the telling.
+
+  The protagonist, made accessible by prose and interesting by narrative
   and familiar by length ... has entered the lives and minds of millions
   and recreated them, at least a bit, in his or her own image.  ...
   A protagonist is usually interesting not because he is someone special ...
@@ -57,11 +60,17 @@
   background and in whatever time period, cannot be wholly good or wholly bad
   and still be interesting enough to read about. ... Consequently, readers
   with an essential political agenda, looking for models of proper thinking
-  and behavior, are hardly ever going to find them in novels. ...
+  and behavior, are hardly ever going to find them in novels. ..."
 
   From Chapter 6, Morality and the Novel, pages 118 - 122:
 
-  "... Dicken's gift for empathy with sociopathic personalities constitutes
+  "In the nineteenth century the theory of evil changed, which changed the
+  nature of morality in the novel, and therefore the portrayal of brutes,
+  criminals, and psychopaths. ...
+
+  It seems that Charles Dickens, the most influential English author of the
+  nineteenth century, was generally drawn to criminals and pyschopaths.
+  ... Dicken's gift for empathy with sociopathic personalities constitutes
   a philosophy that has had enormous effect on how modern people understand
   evil as a form of logic, and even of madness that is internally consistent,
   unrecognized as evil by the perpetrator, and compelling.  By the end of his
