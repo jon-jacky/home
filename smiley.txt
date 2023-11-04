@@ -3,7 +3,7 @@
 
 - *Thirteen Ways of Looking at the Novel* by Jane Smiley, 2005 (no link) -
 
-  From Chapter 2, What is a Novel?, pages 14, 22 - 26:
+  From Chapter 2, What is a Novel?, pages 14, 22 - 28:
  
   "A novel is a (1) *lengthy*, (2) *written*, (3) *prose*, (4) *narrative*
   with a (5) *protagonist*.  Everything that the novel is and does, and
@@ -58,7 +58,7 @@
   of real importance.  A protagonist in a novel, of whatever ethnic 
   background and in whatever time period, cannot be wholly good or wholly bad
   and still be interesting enough to read about. ... Consequently, readers
-  with an essential political agenda, looking for models of proper thinking
+  with an essentialy political agenda, looking for models of proper thinking
   and behavior, are hardly ever going to find them in novels. ..."
 
   From Chapter 6, Morality and the Novel, pages 118 - 122:
@@ -281,6 +281,6 @@
 
   The fact remains, though, that the reader possesses the novel, and so
   if she finds that the residue of truth or insight remaining after the
-  intracacies of an extremely sophisticate novel game have been worked out
+  intracacies of an extremely sophisticated novel game have been worked out
   isn't really worth the effort, she is entitled to her opinion."
 
