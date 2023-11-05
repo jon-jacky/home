@@ -153,7 +153,8 @@ Companion page, a commonplace book:
 
 13 Jan 2023,  <a name="13-Jan-2023"></a>
 22 May 2023,  <a name="22-May-2023"></a>
-11 Jun 2023  <a name="11-Jun-2023"></a>
+11 Jun 2023,  <a name="11-Jun-2023"></a>
+ 5 Nov 2023  <a name="5-Nov-2023"></a>
 
 - <https://kevinlawler.com/prompts> - 
   Oblique Strategies: Prompts for Programmers -  "Brian Eno created a
@@ -220,6 +221,89 @@ Companion page, a commonplace book:
   programmers made. This desire is the devil. ... In practice, seeming
   professional is often a way to end up with a pile of stuff you don't need.
   All it does is slow you down."
+
+- *Thirteen Ways of Looking at a Novel* by Jane Smiley, 2005 (no link)
+
+  From Chapter 10, A Novel of Your Own, pages 222 - 224
+
+  Some of this author's advice for writing novels also applies to other
+  of ambitious projects.   Just replace "book" or "novel" by "program" here:
+
+  "What if you lose interest in your material?  Boredom is only a symptom,
+  and boredom with the material that first inspired you to write a novel
+  can mean any number of things, but it never means that your material is
+  inherently uninteresting. ...
+
+  The first thing that boredom can mean is that you don't know enough
+  about your material.  ... Ignorance is a self-generating state of mind,
+  and one of its characteristics is that it doesn't recognize itself as
+  ignorance. ... The remedy is to find out more -- read more ... ask
+  questions, look for orginal documents ... gain more knowledge about
+  what you are writing about.  If you are bored with
+  your subject, it is fatal to try to think your way out of it.
+
+  Another possible reason for boredom is that you are confused about
+  how things take place in your book, so you can't see your way forward
+  to the next step. ... The plot is a piece of logic. ... Logic draws
+  conclusions from premises.  If you don't know your premises, you will
+  draw illogical conclusions from them, get confused, and then get bored.
+  This boredom feels different from the other sort of boredome -- less dull,
+  more avoidant.  If you are staying away from your desk because it just
+  seems like too much to handle, then perhaps its time to make yourself
+  figure out (by rereading, not rewriting) what is going on.  This is a
+  good time to make an outline, to assign roles, to draw a picture or a
+  graphic. ... Any aid to organization is all to the good. ...
+
+  Sometimes a feeling of boredom is really a feeling a fear.  As the rough
+  draft takes shape, it isn't turning out the way you thought it would.
+  Of course it isn't very "good". ... maybe you suspect the place you are
+  going is a place you don't want to be.    There are several ways of
+  approaching this sort of fear/boredom.   The primary one is to have faith
+  even in this, that you will recognize your baby and love it no matter
+  what it looks like.  The second one is to recognize that this child will
+  never leave the house unless you send it away.  Once you get to the end
+  of the rough draft you can go back and reshape, rewrite, remake it as many
+  times as you want to. ...
+  What is happening is that you intuition is conflicting with your reason ...
+  it is perfectly understandable that you would feel anxious now,
+  but just keep going. ... The saving grace of a novel as an artistic
+  process is that it takes a long time to produce.  You cannot write a
+  novel on impulse.  Writing a novel cannot be a form of acting out or
+  flying off the handle.   The very process itself submits impulses to
+  reason and makes something thought-out of them.
+
+  For some writers, boredom is a sign that their ability to execute their
+  own work is less sophisticated that their taste in the work of others ...
+  If your faculty for passing judgments is highly developed ... boredom
+  can be a cover for shame.  The critical faculty does not ... promote
+  creative freedom.  If you are adept at criticism ... your lovely first
+  draft will appear to be full of mistakes ...
+  that will enhance your feelings of shame
+  and cause your rough draft to fail in the only way that it can fail  --
+  by not arriving at the end of the story.
+  The only remedy for this problem is ... to ignore your own critical
+  habits ... If your material arouses true passion in you, you might get
+  there.   If you treat your novel as a product of your desire for status
+  ... you are less likely to get there.
+  Avid readers who become novelists are always a little ahead of themselves
+  in terms of taste, but only a little ahead.   Admiration for the work
+  of other writers ... should open up your desire to write, not shut it
+  down.  ...
+
+  Ignorance, confusion, fear, and shame are the enemies of your novel.
+  Desire and pleasure are its friends -- the desire to communicate and
+  the pleasure of contemplation.    Fortunately, you don't have to
+  permanently resolve the balance of these urges in your life to begin a
+  novel; you only have to cope with them. ..."
+
+- <https://news.ycombinator.com/item?id=290842> - 
+  When programmes can write no more
+
+  *ewd519* writes:
+  "Set the project aside and work on something easy and fun that no one
+  needs and provides little value to anyone. The byproduct is that
+  suddenly, you'll discover you're working and enjoying it. The next
+  thing you know, you'll want to go back to the more difficult project."
 
 14 Aug 2022  <a name="14-Aug-2022"></a>
 
