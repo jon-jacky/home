@@ -297,13 +297,13 @@ Companion page, a commonplace book:
   novel; you only have to cope with them. ..."
 
 - <https://news.ycombinator.com/item?id=290842> - 
-  When programmes can write no more
+  Projects from "Stupid (Stuff) No One Needs and Terrible Ideas" Hackathon
 
-  *ewd519* writes:
-  "Set the project aside and work on something easy and fun that no one
-  needs and provides little value to anyone. The byproduct is that
-  suddenly, you'll discover you're working and enjoying it. The next
-  thing you know, you'll want to go back to the more difficult project."
+  *blhack* writes:
+  "This is always my hacker's-block-breaker. If I'm stuck on
+  something, and not feeling particularly creative, I'll make something
+  intentionally useless, and funny, and it usually cheers me back up and
+  gets me working again."
 
 14 Aug 2022  <a name="14-Aug-2022"></a>
 
