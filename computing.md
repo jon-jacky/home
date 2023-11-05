@@ -296,7 +296,7 @@ Companion page, a commonplace book:
   permanently resolve the balance of these urges in your life to begin a
   novel; you only have to cope with them. ..."
 
-- <https://news.ycombinator.com/item?id=290842> - 
+- <https://news.ycombinator.com/item?id=8622136> - 
   Projects from "Stupid (Stuff) No One Needs and Terrible Ideas" Hackathon
 
   *blhack* writes:
