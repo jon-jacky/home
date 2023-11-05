@@ -300,6 +300,8 @@ Some of my own comments:
   intracacies of an extremely sophisticated novel game have been worked out
   isn't really worth the effort, she is entitled to her opinion."
 
+  For another novelist on novels, see Anthony Burgess at [12 Apr 2021](#12-Apr-2021).
+
 30 Sep 2023  <a name="30-Sep-2023"></a>
 
 - *The Milagro Beanfield War*, John Nichols (1974),
