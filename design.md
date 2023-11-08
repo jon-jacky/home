@@ -1496,11 +1496,14 @@ Formerly well-known examples of 1960s and 1970s design:
   Color plates from the book: <https://muse.jhu.edu/chapter/897088/pdf>
 
 - <https://www.ibm.com/design/language/> - IBM Design Language -
-  Their current design web site.
+  The current IBM design web site.
   "What we borrow from our own design history is not a mid-century
   aesthetic in stylistic terms, but the modernist attitudes and approach ...
   Eliot Noyes ... Paul Rand ... Charles and Ray Eames ...
-  Their methods are as modern today as ever before ..."
+  Their methods are as modern today as ever before ...
+
+  It is essential that we own our own design ethos and incorporate an
+  *instantly identifiable* IBMness into everything we design. ..."
 
 - <https://www.italianways.com/the-olivetti-store-set-to-conquer-fifth-avenue/> - 
   "(IBM CEO Thomas) Watson (Jr.) determined that IBM should adopt a new
