@@ -16,7 +16,12 @@ Companion page, a commonplace book:
 
  1 Nov 2023  <a name="1-Nov-2023"></a>
 
-Two formerly well-known examples of 1960s and 1970s design:
+Formerly well-known examples of 1960s and 1970s design:
+
+- <https://archive.org/details/whole-earth-fall-1968/page/n1/mode/2up> -
+  *Whole Earth Catalog*, Fall 1968
+
+  The original *Whole Earth Catalog*, in several formats including PDF.
 
 - <https://wholeearth.info/> - Whole Earth Index
 
@@ -65,7 +70,7 @@ Two formerly well-known examples of 1960s and 1970s design:
 
   An introduction to computing in 22 pages, in a classic 1950s graphic design.
 
-  More on IBM design at [18 May 2020](#18-May-2020).   The design here especially
+  Much more on IBM design at [18 May 2020](#18-May-2020).   The design here especially
   reminds me of the two short Eames films.
 
 21 Jul 2023  <a name="21-Jul-2023"></a>
@@ -1478,7 +1483,8 @@ Two formerly well-known examples of 1960s and 1970s design:
 - <https://beautiful-company.com/> - designed Elliot School logo, and much more
 
 18 May 2020,  <a name="18-May-2020"></a>
-20 Jun 2020  <a name="20-Jun-2020"></a>
+20 Jun 2020,  <a name="20-Jun-2020"></a>
+ 7 Nov 2023  <a name="7-Nov-2023"></a>
 
 - <https://muse.jhu.edu/book/24792> - 
   *The Interface: IBM and the Transformation of Corporate Design, 1945 --
@@ -1488,6 +1494,13 @@ Two formerly well-known examples of 1960s and 1970s design:
   philosophy, from buildings and exhibits through computers and
   typewriters to publications and letterhead.
   Color plates from the book: <https://muse.jhu.edu/chapter/897088/pdf>
+
+- <https://www.ibm.com/design/language/> - IBM Design Language -
+  Their current design web site.
+  "What we borrow from our own design history is not a mid-century
+  aesthetic in stylistic terms, but the modernist attitudes and approach ...
+  Eliot Noyes ... Paul Rand ... Charles and Ray Eames ...
+  Their methods are as modern today as ever before ..."
 
 - <https://www.italianways.com/the-olivetti-store-set-to-conquer-fifth-avenue/> - 
   "(IBM CEO Thomas) Watson (Jr.) determined that IBM should adopt a new

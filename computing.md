@@ -222,7 +222,7 @@ Companion page, a commonplace book:
   professional is often a way to end up with a pile of stuff you don't need.
   All it does is slow you down."
 
-- *Thirteen Ways of Looking at a Novel* by Jane Smiley, 2005 (no link)
+- *Thirteen Ways of Looking at the Novel* by Jane Smiley, 2005 (no link)
 
   From Chapter 10, A Novel of Your Own, pages 222 - 224
 
@@ -247,7 +247,7 @@ Companion page, a commonplace book:
   to the next step. ... The plot is a piece of logic. ... Logic draws
   conclusions from premises.  If you don't know your premises, you will
   draw illogical conclusions from them, get confused, and then get bored.
-  This boredom feels different from the other sort of boredome -- less dull,
+  This boredom feels different from the other sort of boredom -- less dull,
   more avoidant.  If you are staying away from your desk because it just
   seems like too much to handle, then perhaps its time to make yourself
   figure out (by rereading, not rewriting) what is going on.  This is a
