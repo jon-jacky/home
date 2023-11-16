@@ -1637,8 +1637,11 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 5 May 2023:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 16 Nov 2023:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://www.marginalia.nu/links/bookmarks/> - Very plain page of links.
+  via <https://www.marginalia.nu/log/19-website-discoverability-crisis/>
 
 - <http://tn5250j.org/> - Well chosen font, text colors, colored background panels
 
