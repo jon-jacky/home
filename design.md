@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+27 Nov 2023  <a name="27-Nov-2023"></a>
+
+- <https://periodictableoftools.com/index.html> -
+  The Periodic Table of Tools
+
+  Compare to McMaster-Carr catalog at [27 Nov 2021](#27-Nov-2021)
 
  1 Nov 2023  <a name="1-Nov-2023"></a>
 
