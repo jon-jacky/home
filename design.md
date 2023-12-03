@@ -1643,8 +1643,11 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 26 Nov 2023:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 2 Dec 2023:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- <https://www.htmhell.dev/adventcalendar/2023/2/> -
+  Clever logo, uncluttered body, nicely set off code fragments.
 
 - <https://syllabusproject.org/syllabus-for-taking-an-internet-walk/> - 
   Insane black on orange color scheme turns out to be surprisingly legible.
