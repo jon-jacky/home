@@ -1,0 +1,2 @@
+This file test2.txt is written in the home repo on the Chromebook.  
+Commit to local repo and see if we can push to github.
