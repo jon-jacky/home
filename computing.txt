@@ -3613,7 +3613,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   for encouraging people to develop a bespoke private universe
   that's hard for other people to get a handle on."
 
-28 Feb 2019
+28 Feb 2019, 26 Dec 2023
 
 - https://news.ycombinator.com/item?id=19263295 - Comments on
   *Hypercard Users Guide* (1987) - "Hypercard was a thrust in the
@@ -3670,6 +3670,33 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   and refine it over time.  Line numbers were needed on the old 8-bit
   systems that didn't have full screen text editors with copy/paste
   built in. It's how you told BASIC where to put new lines in the program. ..."
+
+- https://news.ycombinator.com/item?id=38749457 -
+  Comments on Was BASIC that horrible or better? - 
+  "Line numbers, for beginners, eliminate the
+  advanced OS concepts of "files" and with them "editors" and "saving"
+  and "loading" and much else.
+
+  If you type the code without a number, that means: do this now.
+
+  If you type code with a number in front, it means: remember this for
+  later.
+
+  And that is all you need to enter, edit and run code.
+
+  No "editor" that loads "files" from a "directory" on a "drive" which
+  you must "save" before you "execute" the code in a language.
+
+  To try it: type the code; hit Return.
+
+  To run the code you entered earlier: type RUN, hit Return.
+
+  This is a very powerful abstraction which simplifies a lot for
+  beginners.
+
+  That you can further expose this by using those numbers in the code is
+  a great first step into thinking about program structure as more than
+  a consecutive list of steps. It leads naturally into loops and things."
 
 20 Feb 2019
 
