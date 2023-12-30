@@ -15,9 +15,8 @@ Companion page, a commonplace book:
 
 29 Dec 2023  <a name="29-Dec-2023"></a>
 
-- <https://flashbak.com/new-york-city-in-kodachrome-color-photos->
-found-in-a-trashcan-from-the-1950s-and-1960s-465476/ -
-  New York City In Kodachrome -- Color Photos Found In A
+- <https://flashbak.com/new-york-city-in-kodachrome-color-photos-found-in-a-trashcan-from-the-1950s-and-1960s-465476/>
+  - New York City In Kodachrome -- Color Photos Found In A
 Trashcan From the 1950s and 1960s
 
   Compare these pictures to the "West Side Story" movies - both the
