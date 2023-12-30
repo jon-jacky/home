@@ -13,6 +13,17 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+29 Dec 2023  <a name="29-Dec-2023"></a>
+
+- <https://flashbak.com/new-york-city-in-kodachrome-color-photos-found-in-a-trashcan-from-the-1950s-and-1960>  s-465476/ - 
+  New York City In Kodachrome -- Color Photos Found In A
+Trashcan From the 1950s and 1960s
+
+  Compare these pictures to the "West Side Story" movies - both the
+  original 1961 version, contemporary with these photos, and the 2021
+  version, where they tried hard to reconstruct this look, especially the
+  cars and clothes but also the shops on the street.
+
 27 Nov 2023  <a name="27-Nov-2023"></a>
 
 - <https://periodictableoftools.com/index.html> -
