@@ -13,6 +13,21 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+
+ 8 Jan 2024
+
+- https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/ -
+  Comics I Loved In 2023
+
+  Lengthy reviews of many books, with color reproductions of the cover
+  of each.
+
+- https://ktye.github.io/pdp11/index.html - k on pdp11
+
+  k is a cryptic APL-like array language.   Here it is running on a simulated
+  PDP 11/40, with explanations.
+
+  
 29 Dec 2023
 
 - https://flashbak.com/new-york-city-in-kodachrome-color-photos-found-in-a-trashcan-from-the-1950s-and-1960s-465476/  - New York City In Kodachrome -- Color Photos Found In A 
