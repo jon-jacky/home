@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+17 Jan 2024  <a name="17-Jan-2024"></a>
+
+- <https://mariokartwii.com/armv8/> -
+  ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial
+
+  Each chapter looks like a screen on a terminal.
 
  8 Jan 2024  <a name="8-Jan-2024"></a>
 
