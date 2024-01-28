@@ -13,6 +13,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+
+27 Jan 2024  <a name="27-Jan-2024"></a>
+
+- <https://pycco-docs.github.io/pycco/> - 
+  A literate programming tool -- applied to itself!
+
+  "... the original quick-and-dirty, hundred-line-long, literate-
+  programming-style documentation generator. It produces HTML that
+  displays your comments alongside your code. ..."
+
 17 Jan 2024  <a name="17-Jan-2024"></a>
 
 - <https://mariokartwii.com/armv8/> -
@@ -31,7 +41,7 @@ Companion page, a commonplace book:
 - <https://ktye.github.io/pdp11/index.html> - k on pdp11
 
   k is a cryptic APL-like array language.   Here it is running on a simulated
-  PDP 11/40, with explanations.
+  PDP 11/40, with compiler source code and explanations.
 
 
 29 Dec 2023  <a name="29-Dec-2023"></a>
