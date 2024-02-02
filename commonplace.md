@@ -315,7 +315,8 @@ Some of my own comments:
 25 May 2023,  <a name="25-May-2023"></a>
 27 May 2023,  <a name="27-May-2023"></a>
 28 Jun 2023,  <a name="28-Jun-2023"></a>
-10 Jul 2023  <a name="10-Jul-2023"></a>
+10 Jul 2023,  <a name="10-Jul-2023"></a>
+ 1 Feb 2024  <a name="1-Feb-2024"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
 
@@ -569,6 +570,48 @@ Some of my own comments:
   often and comes to be widely accepted, it will undermine the very
   nature of truth on which our society—and I mean all of human
   society—is based."
+
+- Tech Babble: AI Meets Dostoevsky's Grand Inquisitor,
+  Eric Naiman, *TLS*, Jan 26 2024, p. 7 (no link):
+
+  "In thirty years of teaching at Berkeley, I have read thousands of
+  undergraduate essays, but until recently, I don't think any of my
+  students had ever used the word 'delve'.  As I read their compositions on
+  *The Brothers Karamazov*, I saw that things had changed.  (Several
+  excerpts all including the word 'delve'.)   There were other suddenly
+  prominent words.  Dostoevsky is an *intricate* and *complex* writer,
+  certainly, but I never knew he was so *multifaceted*.
+
+  The villain, of course, was ChatGPT, an easy-to-access AI system
+  released in 2022.  Of thirty-six students taking my upper-level course
+  on Dostoevsky, eight made such extensive use of the technology that it
+  was easy to spot.  You don't need an AI detection program.  As Justice
+  Poetter Stewart of the United States Supreme Court said about something
+  else, 'I know it when I see it.' ...
+
+  ChatGPT essays now rarely make factual errors, as they had the previous
+  semester ... Now, while they rarely muddle the details of a plot, and
+  while they continue to be grammatically perfect, these essays still say
+  almost nothing.  In many cases the key word in the title -- hysteria,
+  masculinity, time -- could be replaced by any other.   And there are
+  giveaway vocabulary items. ... ChatGPT 'weaves' and 'unravels' a lot
+  of fabrics.   It loves to talk about 'complexities', 'intricacies',
+  and 'intricate webs'. ... It is infatuated with 'multifaceted' and nuts
+  about 'nuanced'.  ,,.  And
+  strangely enough, it adores 'delve'.  In this year's iteration, that is
+  the word that jumps up and down and says: 'Look at me, I am AI.'
+
+  To be fair, some students seem to be using ChatGPT not to write an
+  entire essay, but to draw up an outline, to write the introduction,
+  to 'judge' and improve paragraphs, or just to see what their essay
+  'should be like'. ... The result, though, is nearly as deleterious,
+  because the structure of the paper is that of a list, the ideas are
+  banal and the AI language seeps in nonetheless.  Eventually the students
+  who work with ChatGPT may become so adept at understanding what
+  'good writing' looks like that they will not even need to use it:
+  they themselves will become artificially intelligent.  That won't be an
+  improvement, because an essay that sounds as though it were written by
+  a computer is not better than an essay actually written by one. ..."
 
 - A.I.D.E.: Artificial Intelligence Dedicated to Empathy,
   by Seattle Design Nerds, at *Seattle: City of the Future*,
