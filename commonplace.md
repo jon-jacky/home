@@ -14,6 +14,40 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+25 Feb 2024  <a name="25-Feb-2024"></a>
+
+- Succeeding With Excess by Henry Hitchings, review of
+  *Erotic Vagrancy: Everything About Richard Burton and Elizabeth Taylor*
+  by Roger Lewis in *TLS*, Feb 9 2024, p. 26 (no link):
+
+  "Richard Burton ... didn't meet (Elizabeth Taylor) properly until 1961,
+  ... on the set of ... *Cleopatra*. ... Taylor, twenty-nine, was already
+  on her fourth husband (Eddie Fisher, who said of their relationship that
+  'Just a little $50,000 diamond would make everything wonderful for up to
+  four days').  Lust erupted.  Both switfly dispensed with their existing
+  partners.  They wed in 1964, divorced a decade later ...
+
+  Later, ravaged by booze and guilt, Burton ... retained the mighty asset
+  of his voice, which Lewis considers 'one of the twentieth century's
+  great noises'.
+
+  A child star at twelve, (Taylor) was a 'public baby' ever after:
+  tardy, petulant, fond of fluffy clothes, reliant on others to clean
+  up her mess ...  'I have a lust for diamonds, almost like a disease',
+  bragged Taylor, and when staying at the Beverly Hills Hotel she
+  requested that her largest be placed on a bed of lettuce and paraded
+  around the dining room. ...
+
+  To detractors, gaudy acquistiveness and sexual avidity made the couple
+  seem the epitome of 1960s sin. ... the Vatican's newspaper ... warned,
+  'You will finish in an erotic vagrancy, without end or without a safe
+  port'. ...
+
+  But, after 605 pages ... what lodges most firmly in the mind is the
+  stellar couple's unhappiness.  Their swanky excesses were less a mask
+  for pain than an amplification of it. ...  (Lewis) is strikingly
+  attuned to the sourness of stardom and its capacity to corrode the soul."
+
 
  2 Nov 2023  <a name="2-Nov-2023"></a>
 
