@@ -18,7 +18,7 @@ Some of my own comments:
  3 Mar 2024  <a name="3-Mar-2024"></a>
 
 - Frank Herbert *Dune*, chapter 48 in *Science Fiction: The 100 Best Novels*
-  by David Pringle, 1985, pps. 115 -- 116.
+  by David Pringle, 1985, pps. 115 -- 116 (no link):
 
   "Why has *Dune* been such an enormously popular novel? ... It is part
   'hard sf', part Ruritanian romance, part family saga.  It embraces
@@ -27,7 +27,7 @@ Some of my own comments:
    desert planet Arrakis with its giant sandworms -- and encompasses a
    great deal of action, from individual swordfights to vast armored battles.
    ... And with its emphasis on hierarchy, messianic leadership and
-   militaristic virtues it gives off a faint musk of fascism -- an arorma
+   militaristic virtues it gives off a faint musk of fascism -- an aroma
    which, I regret to say, does make for popularity.
 
    Above all, it is a *yarn*.  It moves along for almost five hundred pages,
