@@ -386,7 +386,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 27 May 2023,
 28 Jun 2023,
 10 Jul 2023,
- 1 Feb 2024 
+ 1 Feb 2024,
+ 8 Mar 2024
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
   
@@ -489,6 +490,22 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   to the questions I have expressed, and hope that their larger implications
   will emerge spontaneously."
 
+  *Incomprensible Programs*, p. 236, pps. 239-240
+
+  "Our society's growing reliance on computer systems that were initially
+  intended to 'help' people make analyses and decisions, but which have 
+  long since both surpassed the understanding of their users and become
+  indispensable to them, is a very serious development. ... decisions are
+  made with the aid of, and sometimes entirely by, computers whose programs
+  no one anymore knows explicitly or understands.  Hence no one can know
+  the criteria or the rules on which such decisions are based. ...
+
+  ... no human at all is responsible for the computer's output.  The 
+  enormous computer systems ...
+  in our culture have, in a very real sense, no authors.
+  Thus they do not admit of any questions of right or wrong, of justice,
+  or of any theory with which one can agree or disagree. ... 
+   
 - https://dl.acm.org/doi/10.1145/365153.365168 - 
   Joseph Weizenbaum, ELIZA -- A Computer Program For the Study of Natural
   Language Communication Between Man and Machine, *Communications of the ACM*,

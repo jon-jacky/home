@@ -386,7 +386,8 @@ Some of my own comments:
 27 May 2023,  <a name="27-May-2023"></a>
 28 Jun 2023,  <a name="28-Jun-2023"></a>
 10 Jul 2023,  <a name="10-Jul-2023"></a>
- 1 Feb 2024  <a name="1-Feb-2024"></a>
+ 1 Feb 2024,  <a name="1-Feb-2024"></a>
+ 8 Mar 2024  <a name="8-Mar-2024"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
 
@@ -488,6 +489,22 @@ Some of my own comments:
   demanded.  I therefore grapple with questions that couple more directly
   to the questions I have expressed, and hope that their larger implications
   will emerge spontaneously."
+
+  *Incomprensible Programs*, p. 236, pps. 239-240
+
+  "Our society's growing reliance on computer systems that were initially
+  intended to 'help' people make analyses and decisions, but which have
+  long since both surpassed the understanding of their users and become
+  indispensable to them, is a very serious development. ... decisions are
+  made with the aid of, and sometimes entirely by, computers whose programs
+  no one anymore knows explicitly or understands.  Hence no one can know
+  the criteria or the rules on which such decisions are based. ...
+
+  ... no human at all is responsible for the computer's output.  The
+  enormous computer systems ...
+  in our culture have, in a very real sense, no authors.
+  Thus they do not admit of any questions of right or wrong, of justice,
+  or of any theory with which one can agree or disagree. ...
 
 - <https://dl.acm.org/doi/10.1145/365153.365168> - 
   Joseph Weizenbaum, ELIZA -- A Computer Program For the Study of Natural
