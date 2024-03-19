@@ -22,7 +22,8 @@ Companion page, a commonplace book:
 
 - <https://www.thesamba.com/vw/archives/manuals/70beetle/61.jpg> - 
   from the 1970 Volkswagen Beetle Owner's manual.  Compare to the
-  drawing from Muir and Aschwanden in the preceding article.
+  drawing from Muir and Aschwanden's *How To Keep Your Volkswagen Alive*
+  about halfway down in the preceding article.
 
 27 Jan 2024  <a name="27-Jan-2024"></a>
 
