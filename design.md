@@ -20,10 +20,10 @@ Companion page, a commonplace book:
   Step by Step: Thinking Through and Beyond the Repair Manual
   by Shannon Matton
 
-- <https://www.thesamba.com/vw/archives/manuals/70beetle/61.jpg> - 
-  from the 1970 Volkswagen Beetle Owner's manual.  Compare to the
-  drawing from Muir and Aschwanden's *How To Keep Your Volkswagen Alive*
-  about halfway down in the preceding article.
+- <https://archive.org/details/howtokeepyourvol00muir/mode/2up> -
+  *How To Keep Your Volkswagen Alive: A Manual of Step-by-Step
+  Procedures for the Compleat Idiot* by John Muir and Peter Aschwanden
+  (first edition 1969).  Discussed in the above article, about halfway down.
 
 27 Jan 2024  <a name="27-Jan-2024"></a>
 
