@@ -615,7 +615,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   for serious work than the latest silicon, something has gone quite
   wrong."
 
-  https://news.ycombinator.com/item?id=31571276 - Why are you here? - 
+- https://news.ycombinator.com/item?id=31571276 - Why are you here? - 
   *yadoomerta* writes: I literally cannot think of the last time software
   has changed and made my life better. And there are endless examples of
   it making the world worse. ...
@@ -623,6 +623,25 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   decades old Photoshop because you could actually buy it back then and
   the new features really arent worth it. ..."
 
+- https://news.ycombinator.com/item?id=39786984 - 
+  Picotron is a Fantasy Workstation
+
+  *bitwize* writes:
+  "It's a sign of the fact that personal computing has gone way, way off
+  the rails that we make pretend computers to run on our real computers
+  just to have fun ways to compute again. I really really appreciate work
+  like this, but why aren't our actual operating systems "cozy" enough to
+  support creative work anymore?"
+  
+  https://news.ycombinator.com/item?id=39789974
+  
+  *richardjdare* writes:
+  "I agree, why do so many think that an immersive computer environment
+  that makes the full power of the machine ergonomically ready-to-hand is
+  some kind of retro thing? It sounds like a futuristic improvement to me.
+  40 years ago we had bicycles for the mind. Today I want a Kawasaki h2r
+  for the mind, but the tech industry wants me to ride the bus."
+ 
  4 Apr 2022, 8 Apr 2022
 
 - http://www-formal.stanford.edu/jmc/lisp20th/node2.html -
