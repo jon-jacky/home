@@ -624,7 +624,7 @@ Companion page, a commonplace book:
   the new features really arent worth it. ..."
 
 - <https://news.ycombinator.com/item?id=39786984> - 
-  Picotron is a Fantasy Workstation
+  Comments on Picotron is a Fantasy Workstation
 
   *bitwize* writes:
   "It's a sign of the fact that personal computing has gone way, way off
@@ -632,8 +632,6 @@ Companion page, a commonplace book:
   just to have fun ways to compute again. I really really appreciate work
   like this, but why aren't our actual operating systems "cozy" enough to
   support creative work anymore?"
-
-  <https://news.ycombinator.com/item?id=39789974>
 
   *richardjdare* writes:
   "I agree, why do so many think that an immersive computer environment
