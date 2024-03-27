@@ -10,20 +10,6 @@ Companion page on design, typography, and graphics:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-26 Mar 2024  <a name="26-Mar-2024"></a>
-
-- <http://antirez.com/news/124> - 
-  Writing system software: code comments, by antirez
-
-  "Writing good comments is harder than writing good code. ...
-  Comments require always to have some design process ongoing, and to
-  understand the code you are writing in a deeper sense. ...
-  I write code because I have an urgent sense to share and communicate
-  more than anything else. Comments coadiuvate the code, assist it,
-  describe our efforts, and after all I love writing them as much as I
-  love writing code itself."
-
-  Other comments by antirez at 9 Jul 2019 and at [9 Oct 2018](#9-Oct-2018)
 
 13 Jun 2023  <a name="13-Jun-2023"></a>
 
@@ -3286,7 +3272,9 @@ Companion page, a commonplace book:
   Organizing code into functions is a luxury not usually affordable.
   It sounds tedious, but it was fun. ..."
 
- 9 Jul 2019, 30 Dec 2022  <a name="9-Jul-2019"></a>
+ 9 Jul 2019,  <a name="9-Jul-2019"></a>
+30 Dec 2022,  <a name="30-Dec-2022"></a>
+26 Mar 2024  <a name="26-Mar-2024"></a>
 
 - <http://oldblog.antirez.com/post/redis-manifesto.html> - Redis Manifesto by antirez -
   "Code is like a poem; it's not just something we write to reach some practical
@@ -3312,6 +3300,16 @@ Companion page, a commonplace book:
   that C is one of the best languages available to code as a form of
   art. It allows to be both brutal and honest, or abstract and
   deceiving. Not many languages are so semantically powerful."
+
+  <http://antirez.com/news/124> - 
+  Writing system software: code comments, by antirez -
+  "Writing good comments is harder than writing good code. ...
+  Comments require always to have some design process ongoing, and to
+  understand the code you are writing in a deeper sense. ...
+  I write code because I have an urgent sense to share and communicate
+  more than anything else. Comments coadiuvate the code, assist it,
+  describe our efforts, and after all I love writing them as much as I
+  love writing code itself."
 
  1 Jul 2019  <a name="1-Jul-2019"></a>
 
