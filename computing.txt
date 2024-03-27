@@ -10,6 +10,11 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+Not all entries on this page are in chronological order.   Some recent
+entries are not  near the top, but appear with older entries by the
+same author, or on  similar topics.   To find recent entries, consult
+the commit history.
+
 
 13 Jun 2023
 
