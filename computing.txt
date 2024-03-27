@@ -10,6 +10,21 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+26 Mar 2024
+
+- http://antirez.com/news/124 - 
+  Writing system software: code comments, by antirez
+
+  "Writing good comments is harder than writing good code. ...
+  Comments require always to have some design process ongoing, and to
+  understand the code you are writing in a deeper sense. ...
+  I write code because I have an urgent sense to share and communicate
+  more than anything else. Comments coadiuvate the code, assist it,
+  describe our efforts, and after all I love writing them as much as I
+  love writing code itself."
+
+  Other comments by antirez at 9 Jul 2019 and at 9 Oct 2018
+
 13 Jun 2023
 
 - https://www.marginalia.nu/log/57-dont-know-how-to-build-software/ -
