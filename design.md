@@ -29,6 +29,12 @@ Companion page, a commonplace book:
   paper with Times New Roman lettering is better and more effective
   communication than any decoration or mystification."
 
+- <https://sciencenotes.org/wp-content/uploads/2016/01/goldenbookchemistry.pdf>
+  *The Golden Book of Chemistry Experiments:
+  How To Set Up A Home Laboaratory - Over 200 Simple Experiments* (1960)
+
+  "You - scientist!"
+
 18 Mar 2024  <a name="18-Mar-2024"></a>
 
 - <https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/> -
