@@ -14,6 +14,20 @@ Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
 
+30 Mar 2024  <a name="30-Mar-2024"></a>
+
+- <https://normadesign.it/en/> - Norma
+
+  "Norma is a Turin-based graphic design studio that explores the
+  nihilistic possibility of removing aesthetic choice from the
+  transmission of information. Norma does absolutely nothing special.
+  This website works on any browser and is built to be the least website
+  possible ...
+
+  Since 2018 Norma has been experimenting with radical ideas through
+  graphic design ...   in the belief that a quickly printed sheet of A4
+  paper with Times New Roman lettering is better and more effective
+  communication than any decoration or mystification."
 18 Mar 2024  <a name="18-Mar-2024"></a>
 
 - <https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/> -
