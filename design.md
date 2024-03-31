@@ -28,6 +28,7 @@ Companion page, a commonplace book:
   graphic design ...   in the belief that a quickly printed sheet of A4
   paper with Times New Roman lettering is better and more effective
   communication than any decoration or mystification."
+
 18 Mar 2024  <a name="18-Mar-2024"></a>
 
 - <https://placesjournal.org/article/step-by-step-repair-manuals-political-ecology/> -
