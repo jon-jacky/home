@@ -15,7 +15,86 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 1 Apr 2024
 
+- https://www.youtube.com/watch?v=87jfTIWosBw - 
+  Pico-8 and the Search for Cosy Design Spaces by Joseph White (2018)
+
+  Pico-8 is a 'Fantasy Console' - a self-contained environment for 
+  creating and playing video games, including the development tools.
+  It is a kind of miniature version of self-contained programming
+  environments like Smalltalk, Lisp Machines, and the Oberon system.
+  In this 60 minute talk, its developer Joseph White explains its
+  motivation and rationale while he demonstrates some of its features.
+
+  "I went with the smallest resolution I could that can still express
+  roughly any game that someone's interested in exploring ...
+
+  The choice of (limiting program size to
+  32K) was also important because I'm valuing design over content. I
+  want people to just make something to capture the concept and then
+  just move on to something else. ...
+
+  Maybe the most important feature of Pico 8 is simply that the tools
+  are built in ... I'm giving this talk in Pico 8 (to display  the
+  slides)  so if I press escape I get a command prompt and so you can
+  just type Lua  (programming language) commands directly.
+
+  I love CLS (the command).  As soon as I type CLS I feel good. In the
+  old BASIC machines it's what you typed first.  It feels like a
+  ceremony.    When you're starting a new program and type CLS, you're
+  not just clearing the screen, you're clearing your mind and your soul
+  preparing for something new.
+
+  I wanted to make something that lets me work how I like to work rather
+  than fighting against other tools.   I wanted to get rid of all of
+  these interfering thoughts ... and just make games in their abstract
+  space ...
+
+  Also, I just get frustrated with software.  Software sucks.  It's
+  terrible.   I'm a calm person in general.  I don't get road   rage.  I
+  have no idea what that feels like, but I have software rage ... I
+  feel it's much more disruptive to creative work than we   generally
+  realize.
+
+  I wanted people to feel that they were the authors of this thing.  They
+  weren't just making a little code for another platform.  That's
+  what gave me the concept of cartridges as a basic unit
+  of expression that's shareable ...
+
+  Cartridge size is chosen so that you can't make big things.
+  I think it's just really liberating to make small things and to feel
+  okay to make small things.  It forces you to think more about design
+  than manufacturing a lot of content, and to focus on what's important
+  to you, and throw away things that are not important. ...
+  The API is minimal not just to keep things simple but also because I
+  don't want anything magic to happen. ... If you want to make
+  a collision function or if you want two things to glide you just have
+  to write the code  or you have to copy it from another cartridge.
+  As a result I think people will be naturally introduced to
+  classic problems and have the satisfaction of solving this. ...
+
+  Fantasy consoles are basically impressionist hardware.  When you're
+  designing one you're not thinking about how to solve engineering
+  problems.  You're thinking about the feeling of the person using the
+  console and and how to provoke all of those associations and emotions.
+  ...
+
+  You don't need to state a manifesto.  The tool sometimes has   the
+  manifesto inside itself because it lets you do things which are
+  congruent with that set of design values ...
+
+  In a cozy design space you don't feel afraid to do anything wrong.
+  You can leave your ego behind and not try to be impressing anybody ...
+  You just want to make something for the for the love of it. You feel
+  playful.  You feel compelled to explore and you want to make
+  connections with other people. ...
+
+  What it's fighting against is decision fatigue.  There are so many
+  things that you need to think about when you're doing a project and
+  many of them really interfere with with design and creative thought.
+  ...  I want to throw all of that away.
+ 
 13 Jun 2023
 
 - https://www.marginalia.nu/log/57-dont-know-how-to-build-software/ -
