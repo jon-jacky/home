@@ -67,6 +67,7 @@ the commit history.
   okay to make small things.  It forces you to think more about design
   than manufacturing a lot of content, and to focus on what's important
   to you, and throw away things that are not important. ...
+ 
   The API is minimal not just to keep things simple but also because I
   don't want anything magic to happen. ... If you want to make
   a collision function or if you want two things to glide you just have
