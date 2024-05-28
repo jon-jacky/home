@@ -13,6 +13,12 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+28 May 2024  <a name="28-May-2024"></a>
+
+- <https://chrisbuilds.github.io/terminaltexteffects/showroom/> -
+  Terminal Text Effects
+
+  Applies visual effects to text in the terminal, including complex animations.
 
 30 Mar 2024  <a name="30-Mar-2024"></a>
 
