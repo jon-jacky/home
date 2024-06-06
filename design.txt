@@ -1727,8 +1727,8 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - https://tinyawards.net/?2024 - Tiny Awards -
   Unusual background color.   No text on the first page, only a line drawing.  
-  Scroll down to see the text, in a single narrow
-  column, short sections separated by simple graphics.
+  Scroll down to see the text, in a single column with very wide margins,
+  short sections separated by simple graphics.
 
 - https://blog.taoetc.org/my_new_computer/index.html -
   Wide margins, restful background color, unaggressive typography, 
