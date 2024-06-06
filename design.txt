@@ -1722,8 +1722,13 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - https://inverse.website/ - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 17 Jan 2024:
+21 Apr 2020 and ongoing, most recent 5 Jun 2024:
    designs for blogs, personal web pages, etc., most recent at the top.
+
+- https://tinyawards.net/?2024 - Tiny Awards -
+  Unusual background color.   No text on the first page, only a line drawing.  
+  Scroll down to see the text, in a single narrow
+  column, short sections separated by simple graphics.
 
 - https://blog.taoetc.org/my_new_computer/index.html -
   Wide margins, restful background color, unaggressive typography, 
