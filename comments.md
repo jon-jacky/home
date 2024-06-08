@@ -434,6 +434,23 @@ Jun 2019
 
   "No one is bored, everything is boring." -- K-Punk
 
+Dec 2018
+
+- <https://www.metafilter.com/178395/Beware-The-Holiday-Candy-Bowl>
+ Comment on Thomas Pynchon's novels
+
+  I recommend his first novel, *V*. It covers his favorite themes: world
+  history (especially colonialism and Africa), conspiracies , bohemians and
+  other outsiders. It is long enough to build up the layers of detail and
+  cross-reference that make for the characteristic feel of his big books.
+  But I found it more accessible than his other long books. It helps you
+  keep reading --- a page turner! --- thanks in part to its ingenious
+  structure. Chapters alternate between two story lines --- one around the
+  turn of the 19th and 20th centuries, mostly around the Mediterranean, the
+  other in the 1950's, mostly among New York city artists, musicians,
+  writers --- beatniks! --- and sailors. There is a character who connects
+  the two story lines.
+
 Oct 2018
 
 - <https://news.ycombinator.com/item?id=18275164> on The Bookish Life: How
