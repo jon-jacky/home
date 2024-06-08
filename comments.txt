@@ -98,6 +98,13 @@ Apr 2022
   This book appears to be part of Lockhart's remedy to the problems he
   described in his well-known essay *The Mathematician's Lament*.
 
+  I also recommend *Mathematics: A Very Short Introduction* by Timothy Gowers.
+  Unlike Lockart (upthread) he touches on many topics instead of presenting
+  a single line of development, but like Lockhart he presents mathematics
+  from the inside -- the reader participates in the discovery. Both are good
+  at conveying that mathematics creates an independent self-contained
+  reality with its own internal logic.
+
 Jan 2022
 
 - https://news.ycombinator.com/item?id=29831612 - 
