@@ -436,7 +436,7 @@ Jun 2019
 
 Dec 2018
 
-- <https://www.metafilter.com/178395/Beware-The-Holiday-Candy-Bowl>
+- <https://www.metafilter.com/178395/Beware-The-Holiday-Candy-Bowl#7595306>
  Comment on Thomas Pynchon's novels
 
   I recommend his first novel, *V*. It covers his favorite themes: world
