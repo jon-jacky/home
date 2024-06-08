@@ -14,6 +14,90 @@ more context).
 I also keep a commonplace book of writings by others:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+Jul 2023
+
+- <https://www.metafilter.com/200118/A-Index-of-the-Insanity-of-Our-World#8432586>
+  Comments on computer scientist Joseph Weizenbaum
+
+  (Another commenter wrote)
+  *We already have intelligence lacking compassion running the world. ... Why
+  worry about the use of computer systems, when the existing frame work
+  already does this?*
+
+  Because computers make it worse, Weizenbaum argued at book length,
+  supported by many examples.
+
+  His book is an argument against what he called "the imperialism of
+  instrumental reason." What he meant by this is treating every human
+  activity --- all of human society and every human individual in it --- as
+  a mechanism to be manipulated and optimized to reach some goal chosen by
+  people in power.
+
+  Of course this tendency precedes computers but, Weizenbaum argued,
+  computers made it worse, in at least two ways:
+
+  1. Computers made this tendency more legitimate in fields where previously
+  it had not been so pervasive. Weizenbaum used the example of psychiatrists
+  who came to regard their own patients this way -- they proposed using an
+  ELIZA-like program to actually treat them.
+
+  2. Computers made it possible to apply this tendency on a larger scale.
+  Weizenbaum argued that computers have been a conservative force because
+  they enabled corporations and governments to continue to use methods of
+  organization and management on a scale that would have been infeasible
+  without them.
+
+  When ChatGPT came along I re-read Weizenbaum's book *Computer Power and
+  Human Reason*, and also his paper on ELIZA. I was impressed how pertinent
+  they still are. I was also impressed how little scientific progress AI has
+  made in 60 years. ChatGPT and other large language models are no deeper
+  than ELIZA. They're just a lot wider -- they have bigger sets of training
+  data and more intricate computations --- but they still don't understand
+  what they're saying. In some ways, large language models are worse than
+  ELIZA. When ELIZA couldn't find anything to say, it printed "Go on" or
+  "Tell me more" -- it didn't print lies and nonsense.
+
+Mar 2023
+
+- <https://www.metafilter.com/198476/everything-in-physics-is-made-up-to-make-the-math-work-out#8369589>
+  Comments on the role of mathematics in physics
+
+  The really good mathematical theories don't just fit existing
+  observations, they make predictions of new, previously unexpected aspects
+  of reality that can then be confirmed by observations.
+
+  So Newtonian gravity predicted the return of comets and the discovery of
+  the planet Neptune, Maxwell's electrodynamic equations predicted radio
+  waves, Einstein's general relativity predicted black holes and gravity
+  waves, Dirac's quantum equations predicted antiparticles etc.
+
+  This happens when the theories aren't just arbitrary mathematical
+  expressions, but they express some insight into physical reality: Newton's
+  equations express the gravitational forces among planets, comets and the
+  sun; Maxwell's equations express how fields are created by electric
+  charges and magnets; general relativity describes how mass bends space;
+  etc. That is, they express the explanations (another commenter) *biogeo*
+  mentioned upthread.
+
+Apr 2022
+
+- <https://ask.metafilter.com/362849/Math-themed-books#5172757>
+  Comment on mathematics books
+
+  I recommend *Measurement* by Paul Lockhart . It's quite different from most
+  of the books recommended here so far. It isn't *about* mathematics (that is,
+  history, biography, philosophy, with the mathematical content summarized
+  or paraphrased). It *is* mathematics --- it starts with simple geometry and
+  develops calculus and differential equations. It is accessible and self-
+  contained -- it doesn't assume you know anything about these subjects when
+  you begin. It's almost 400 pages, but large print with several hand-drawn
+  diagrams on almost every page. There is a fair amount of philosophy and
+  even some memoir, but they are there to support the development of the
+  math.
+
+  This book appears to be part of Lockhart's remedy to the problems he
+  described in his well-known essay *The Mathematician's Lament*.
+
 Jan 2022
 
 - <https://news.ycombinator.com/item?id=29831612> - 

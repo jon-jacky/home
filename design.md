@@ -1724,11 +1724,14 @@ Formerly well-known examples of 1960s and 1970s design:
 
 21 Apr 2020 and ongoing, most recent 5 Jun 2024:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
+   Some of these pages have changed their design so the comments here no
+   longer apply.
 
 - <https://tinyawards.net/?2024> -
-  Unusual background color.   No text on the first page, only a line drawing.
-  Scroll down to see the text, in a single column with very wide margins,
-  short sections separated by simple graphics.
+  Unusual background color.   No text on the first page, only a line
+  drawing.     Scroll down to see the text, large type in a single centered
+  column with very wide margins,   short sections separated by simple
+  graphics.
 
 - <https://blog.taoetc.org/my_new_computer/index.html> -
   Wide margins, restful background color, unaggressive typography,
