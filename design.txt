@@ -13,6 +13,21 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 9 Jun 2024
+
+- https://psb1558.github.io/Junicode-font/ - Junicode, the font for medievalists
+
+  "Play with the font by selecting a style from the drop-down menu below,
+  selecting a language, and finally checking and unchecking boxes to try out
+  a selection of the font's many features ..."   
+
+  Don't miss the *futhark* (or *futhorc*) check boxes!
+ 
+  Also https://psb1558.github.io/Junicode-font/Searchability.html
+
+  "Here is the beginning of the ... Old Norse *Voluspa* ... Looks great, right?
+  ... There's just one problem ..." 
+ 
 28 May 2024
 
 - https://chrisbuilds.github.io/terminaltexteffects/showroom/ -
