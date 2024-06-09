@@ -22,7 +22,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   a selection of the font's many features ..."   
 
   Don't miss the *futhark* (or *futhorc*) check boxes, especially in
-  combination with *Insular letter-forms*!
+  combination with the Old Irish language and *Insular letter-forms*!
  
   Also https://psb1558.github.io/Junicode-font/Searchability.html
 
