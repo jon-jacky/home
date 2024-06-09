@@ -21,7 +21,8 @@ Companion page, a commonplace book:
   selecting a language, and finally checking and unchecking boxes to try out
   a selection of the font's many features ..."
 
-  Don't miss the *futhark* (or *futhorc*) check boxes!
+  Don't miss the *futhark* (or *futhorc*) check boxes, especially in
+  combination with *Insular letter-forms*!
 
   Also <https://psb1558.github.io/Junicode-font/Searchability.html>
 
