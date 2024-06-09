@@ -34,7 +34,7 @@ Jul 2023
   people in power.
 
   Of course this tendency precedes computers but, Weizenbaum argued,
-  computers made it worse, in at least two ways:
+  computers made it worse, in at least three ways:
 
   1. Computers made this tendency more legitimate in fields where previously
   it had not been so pervasive. Weizenbaum used the example of psychiatrists
@@ -47,6 +47,12 @@ Jul 2023
   organization and management on a scale that would have been infeasible
   without them.
 
+  3. Computers made it easier for the powerful to evade responsibility for
+  their policies by attributing them to computer programs whose workings
+  cannot be explained or understood.   They can claim their actions are the
+  inevitable  outcomes of a reality that requires no rationale and provides no
+  alternatives.
+
   When ChatGPT came along I re-read Weizenbaum's book *Computer Power and
   Human Reason*, and also his paper on ELIZA. I was impressed how pertinent
   they still are. I was also impressed how little scientific progress AI has
@@ -56,6 +62,9 @@ Jul 2023
   what they're saying. In some ways, large language models are worse than
   ELIZA. When ELIZA couldn't find anything to say, it printed "Go on" or
   "Tell me more" -- it didn't print lies and nonsense.
+
+  (Item iii above does not appear in my original Metafilter post -- I
+  added it here.   Weizenbaum does discuss this at length.)
 
 Mar 2023
 
