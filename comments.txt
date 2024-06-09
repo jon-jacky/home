@@ -48,7 +48,7 @@ Jul 2023
   without them.
 
   3. Computers made it easier for the powerful to evade responsibility for
-  their policies by attributing them to computer programs whose workings
+  their policies by delegating decisions to computer programs whose workings
   cannot be explained or understood.   They can claim their actions are the
   inevitable  outcomes of a reality that requires no rationale and provides no
   alternatives.
