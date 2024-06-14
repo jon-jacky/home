@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+13 Jun 2024  <a name="13-Jun-2024"></a>
+
+- <https://text-mode.org/?p=9172> - 
+  *Typewriter Town* by William Jay Smith, 1960. Colourized typewriter art.
+
+  Much more from **text-mode.org**, "Text graphics and its distant relatives"
+  for example  <https://text-mode.org/?p=9188> *Unicode Patterns*, 
+  <https://text-mode.org/?p=9232> *ASCII Curtains*, etc.
+
  9 Jun 2024  <a name="9-Jun-2024"></a>
 
 - <https://psb1558.github.io/Junicode-font/> - Junicode, the font for medievalists
