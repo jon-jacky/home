@@ -18,8 +18,8 @@ Companion page, a commonplace book:
 - <https://text-mode.org/?p=9172> - 
   *Typewriter Town* by William Jay Smith, 1960. Colourized typewriter art.
 
-  Much more from **text-mode.org**, "Text graphics and its distant relatives"
-  for example  <https://text-mode.org/?p=9188> *Unicode Patterns*, 
+  Much more at text-mode.org: "Text graphics and its distant relatives".
+  For example  <https://text-mode.org/?p=9188> *Unicode Patterns*, 
   <https://text-mode.org/?p=9232> *ASCII Curtains*, etc.
 
  9 Jun 2024  <a name="9-Jun-2024"></a>
