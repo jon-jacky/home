@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+25 Jun 2025  <a name="25-Jun-2025"></a>
+
+- <https://principia.lib.uiowa.edu/?n=110.643&n=110> -
+  Map of *Principia Mathematica*, entry for proposition 110.643: 1 + 1 = 2
+
+  Guide: <https://principia.lib.uiowa.edu/guide.html>
+  Rationale: <https://www.principiarewrite.com/>
+  Explanation: <https://blog.plover.com/math/PM.html>
+
 13 Jun 2024  <a name="13-Jun-2024"></a>
 
 - <https://text-mode.org/?p=9172> - 
