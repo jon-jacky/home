@@ -21,6 +21,7 @@ Companion page, a commonplace book:
   Guide: <https://principia.lib.uiowa.edu/guide.html>
   Rationale: <https://www.principiarewrite.com/>
   Explanation: <https://blog.plover.com/math/PM.html>
+  Background: <https://plato.stanford.edu/entries/principia-mathematica/>
 
 13 Jun 2024  <a name="13-Jun-2024"></a>
 
