@@ -18,10 +18,10 @@ Companion page, a commonplace book:
 - <https://principia.lib.uiowa.edu/?n=110.643&n=110> -
   Map of *Principia Mathematica*, entry for proposition 110.643: 1 + 1 = 2
 
-  Guide: <https://principia.lib.uiowa.edu/guide.html>
+  Explanation: <https://principia.lib.uiowa.edu/guide.html>
   Rationale: <https://www.principiarewrite.com/>
-  Explanation: <https://blog.plover.com/math/PM.html>
-  Background: <https://plato.stanford.edu/entries/principia-mathematica/>
+  Background: <https://plato.stanford.edu/entries/principia-mathematica/>  
+  Some notes: <https://blog.plover.com/math/PM.html>  
 
 13 Jun 2024  <a name="13-Jun-2024"></a>
 
