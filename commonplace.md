@@ -17,7 +17,7 @@ Some of my own comments:
 
 28 Jul 2024  <a name="28-Jul-2024"></a>
 
-- Metal Machine Music by Laurent Dubriel, Harper's Magazine, Vol 349, No 2090,
+- Metal Machine Music by Laurent Dubriel, *Harper's Magazine*, Vol 349, No 2090,
   July 2024, pps. 31 - 36 (no link):
 
   "... What remains impossible to address within the current technical
@@ -32,7 +32,7 @@ Some of my own comments:
   ... more and more, texts available online will be co-written (or simply
   written) by their own tools.  Relying on such polluted data would inevitably
   degrade the quality of future iterations of the model, making completions
-  more standardized and predicatable. ... We do not need artificial intelligence
+  more standardized and predictable. ... We do not need artificial intelligence
   to lose sight of the value of true innovation or original ideas, but if
   most of what we consume is artificially generated, we risk no longer being
   able to discern the differences so many of us are already so intent on
