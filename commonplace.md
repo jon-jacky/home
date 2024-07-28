@@ -44,8 +44,8 @@ Some of my own comments:
   incredible dullness.'  It is up to us to determine whether we now wish to
   multiply dullness through AI or refuse to be subjected to it. ..."
 
-  Much more on AI at [14 Mar 2023](#14-Mar-2023) etc., Douglas Hofstadter's remarks are espcially
-  pertitent to the above essay.
+  Much more on AI at [14 Mar 2023](#14-Mar-2023) etc. The remarks by Douglas Hofstadter and 
+  Eric Naiman are especially pertitent to the above essay.
 
 24 Jun 2024  <a name="24-Jun-2024"></a>
 
