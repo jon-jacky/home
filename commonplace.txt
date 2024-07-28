@@ -15,6 +15,38 @@ Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
 
+28 Jul 2024
+
+- Metal Machine Music by Laurent Dubriel, Harper's Magazine, Vol 349, No 2090,
+  July 2024, pps. 31 - 36 (no link):
+
+  "... What remains impossible to address within the current technical 
+  paradigm is the lack of meaningful creation.   The key reason we may be
+  so amazed to read a pedestrian stanza 'authored' by ChatGPT ... is that
+  we have already habituated ourselves to banality and mediocrity.   This is
+  what our society now emphasizes and rewards: run-of-the-mill statements,
+  canned remarks, uniform pronouncements, recitations of creeds and commandments,
+  ready-made soliloquies, stories or arguments obtained through the mere
+  application of stylistic recipes. ...
+
+  ... more and more, texts available online will be co-written (or simply
+  written) by their own tools.  Relying on such polluted data would inevitably
+  degrade the quality of future iterations of the model, making completions
+  more standardized and predicatable. ... We do not need artificial intelligence
+  to lose sight of the value of true innovation or original ideas, but if
+  most of what we consume is artificially generated, we risk no longer being
+  able to discern the differences so many of us are already so intent on
+  forgetting.  This is our bland future, the consequence of intellectual
+  downsizing ,,,
+
+  ... We have a choice.  At the end of *Walden*, Thoreau writes, 'There is
+  an incessant influx of novelty into the world, and yet we tolerate
+  incredible dullness.'  It is up to us to determine whether we now wish to 
+  multiply dullness through AI or refuse to be subjected to it. ..."
+
+  Much more on AI at 14 Mar 2023 etc., Douglas Hofstadter's remarks are espcially
+  pertitent to the above essay.
+   
 24 Jun 2024
 
 - https://www.online-literature.com/wilde/1305/ and many other sources - 
