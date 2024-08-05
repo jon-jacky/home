@@ -13,7 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-25 Jun 2025  <a name="25-Jun-2025"></a>
+ 5 Aug 2024  <a name="5-Aug-2024"></a>
+
+- <https://penguinseriesdesign.com/> - Penguin series design
+
+  <https://www.flickr.com/photos/joekral/albums/72157594264351021/> - 
+  Penguin and Pelican collection
+
+25 Jun 2024  <a name="25-Jun-2024"></a>
 
 - <https://principia.lib.uiowa.edu/?n=110.643&n=110> -
   Map of *Principia Mathematica*, entry for proposition 110.643: 1 + 1 = 2

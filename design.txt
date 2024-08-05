@@ -13,7 +13,14 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
-25 Jun 2025
+ 5 Aug 2024
+
+- https://penguinseriesdesign.com/ - Penguin series design
+
+  https://www.flickr.com/photos/joekral/albums/72157594264351021/ - 
+  Penguin and Pelican collection
+
+25 Jun 2024
 
 - https://principia.lib.uiowa.edu/?n=110.643&n=110 -
   Map of *Principia Mathematica*, entry for proposition 110.643: 1 + 1 = 2
