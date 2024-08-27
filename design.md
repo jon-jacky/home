@@ -13,6 +13,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+27 Aug 2024  <a name="27-Aug-2024"></a>
+
+- <https://owickstrom.github.io/the-monospace-web/> - The Monospace Web
+
+  I'm not recommending this, but it's an interesting experiment.  Looks
+  pretty good on the phone, on a computer looks best when magnified so the text
+  mostly fills the browser page.
+
  5 Aug 2024  <a name="5-Aug-2024"></a>
 
 - <https://penguinseriesdesign.com/> - Penguin series design
