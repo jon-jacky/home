@@ -21,6 +21,11 @@ Companion page, a commonplace book:
   pretty good on the phone, on a computer looks best when magnified so the text
   mostly fills the browser page.
 
+  <https://wonger.dev/posts/monospace-dump#web> - 
+  Inspiration for monospace webpage aesthetic
+
+  Links to many examples and discussion.
+
  5 Aug 2024  <a name="5-Aug-2024"></a>
 
 - <https://penguinseriesdesign.com/> - Penguin series design
