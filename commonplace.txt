@@ -5510,7 +5510,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   Also,
   https://ask.metafilter.com/326239/Please-recommend-me-many-requiems-music-books-movies-anything
 
-26 Aug 2018 
+26 Aug 2018, 31 Aug 2024
 
 - https://arxiv.org/abs/1807.08416 - Some Fundamental Theorems in
   Mathematics by Oliver Knill - Linked PDF is a survey of modern math
@@ -5523,6 +5523,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   extension school led me to write up the present document. ... I’m
   reporting on many of these theorems as a tourist and not as a
   local."
+
+  https://arxiv.org/pdf/1807.08416 - Full pdf, updated through Feb 2022.
+  This document is now 217 pages long.
 
  7 Aug 2018 
 
