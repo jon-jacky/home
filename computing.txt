@@ -15,6 +15,32 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+16 Sep 2024
+
+- https://drewdevault.com/2018/09/04/Conservative-web-development.html -
+  Conservative web development by Drew DeVault, September 4, 2018
+
+  "Today I turned off my ad blocker, enabled JavaScript, opened my network
+  monitor, and clicked the first link on Hacker News - a New York Times
+  article. It started by downloading a megabyte of data as it rendered the
+  page over the course of eight full seconds. The page opens with an
+  advertisement 281 pixels tall, placed before even the title of the article.
+  As I scrolled down, more and more requests were made, downloading a total of
+  2.8 MB of data with 748 HTTP requests. An article was weaved between a grand
+  total of 1419 vertical pixels of ad space, greater than the vertical
+  resolution of my display. Another 153-pixel ad is shown at the bottom, after
+  the article. Four of the ads were identical. ...
+  
+  The text of the article is a total of 9037 bytes, including the title,
+  author, and date. I downloaded the images relevant to the article ... they
+  weighed 260 KB ... 8% of the total download was dedicated to the content. 5
+  discrete external companies were informed of my visit to the page and given
+  the opportunity to run artibrary JavaScript on it. ..."
+  
+  So 90+ percent of the computer power used in browsing a typical site 
+  on the modern web is devoted to showing you ads and performing tracking 
+  and surveillance.
+   
  1 Apr 2024
 
 - https://www.youtube.com/watch?v=87jfTIWosBw - 
