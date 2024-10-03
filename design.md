@@ -17,14 +17,10 @@ Companion page, a commonplace book:
 
 - <https://owickstrom.github.io/the-monospace-web/> - The Monospace Web
 
-  I'm not recommending this, but it's an interesting experiment.  Looks
-  pretty good on the phone, on a computer looks best when magnified so the text
-  mostly fills the browser page.
+  "It's semantic HTML, rendered as if we were back in the 70s."
 
   <https://wonger.dev/posts/monospace-dump#web> - 
   Inspiration for monospace webpage aesthetic
-
-  Links to many examples and discussion.
 
  5 Aug 2024  <a name="5-Aug-2024"></a>
 
