@@ -18,7 +18,7 @@ Companion page, a commonplace book:
 - <https://chrisdone.com/posts/tour-of-hell/> - A Tour of Hell
 
   Hell is a shell scripting dialect of the Haskell programming language.
-  Scripts have the extension *.hell*:  *hello.hell* etc.
+  Scripts have the extension *hell*:  *hello.hell* etc.
 
   This unusual page design shows slides and accompanying lecture text side-by-side.
 
