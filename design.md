@@ -1782,10 +1782,15 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 5 Jun 2024:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 7 Oct 2024:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
+
+- <https://dfns.dyalog.com/n_sudoku.htm> - Dense text 
+  including many mathematical symbols.  Looks like it was typed on a typewriter.
+  Uses a single precise font in the same size and strength for everything:
+  headings, explanation, code, and diagrams.
 
 - <https://tinyawards.net/?2024> -
   Unusual background color.   No text on the first page, only a line
