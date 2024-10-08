@@ -1787,9 +1787,9 @@ Formerly well-known examples of 1960s and 1970s design:
    Some of these pages have changed their design so the comments here no
    longer apply.
 
-- <https://dfns.dyalog.com/n_sudoku.htm> - Dense text 
-  including many mathematical symbols.  Looks like it was typed on a typewriter.
-  Uses a single precise font in the same size and strength for everything:
+- <https://dfns.dyalog.com/n_sudoku.htm> - Sudoku in APL.  Lots of information,
+  absolutely no clutter.  Entire page is nothing but text in a single precise
+  sans-serif typewriter font, the same size and strength for everything:
   headings, explanation, code, and diagrams.
 
 - <https://tinyawards.net/?2024> -
