@@ -13,6 +13,34 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 3 Nov 2024
+ 
+- https://n-o-d-e.net/makeityourself.html = *Make it Yourself*
+
+  "... a digital book called *Make it Yourself: 1000 Useful Things to
+  Make*, and it's basically a showcase of some of the best open hardware
+  and DIY projects from across the Internet. ..."
+
+  The brief video at the top of the page shows sample pages from the PDF book,
+  each illustrating several projects in simple line drawings.  Clicking
+  on each drawing in the PDF opens the web page about that project.
+     
+  This page links directly to some projects: https://n-o-d-e.net/index.html
+
+- https://smolweb.org/specs/index.html - smolweb HTML specification
+
+  "Nowadays, hardware resources of our personal devices are essentially
+  oversized to manage bloated websites. If we incite web designers to
+  return to a lighter web, small devices such as old PC, old
+  smartphones, retro-machines and small boards could be usable.   
+  This is the goal of the smolweb concept. ...
+
+  This is a proposed specification for HTML elements (tags) and their
+  attributes. The goal is to mix the best of old and recent HTML
+  versions ..."
+
+  This is a nice summary of many HTML tags, gathered into categories.
+     
  3 Oct 2024
  
 - https://chrisdone.com/posts/tour-of-hell/ - A Tour of Hell
