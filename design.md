@@ -15,7 +15,7 @@ Companion page, a commonplace book:
 
  3 Nov 2024  <a name="3-Nov-2024"></a>
 
-- <https://n-o-d-e.net/makeityourself.html> = *Make it Yourself*
+- <https://n-o-d-e.net/makeityourself.html> - *Make it Yourself*
 
   "... a digital book called *Make it Yourself: 1000 Useful Things to
   Make*, and it's basically a showcase of some of the best open hardware
@@ -39,7 +39,7 @@ Companion page, a commonplace book:
   attributes. The goal is to mix the best of old and recent HTML
   versions ..."
 
-  This is a nice summary of many HTML tags, gathered into categories.
+  A nice summary of many HTML tags, gathered into categories.
 
  3 Oct 2024  <a name="3-Oct-2024"></a>
 
