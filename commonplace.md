@@ -107,6 +107,18 @@ Some of my own comments:
   what some imagined final state might be -- and even, implicitly, that there
   need not be a final state at all. ..."
 
+12 Nov 2024  <a name="12-Nov-2024"></a>
+
+- New Chapter by Louis Menand, *The New Yorker*, Nov 18 2024, p. 64 (no link):
+
+  "The (First World) war was a traumatic event in both Europe and the United
+  States, and it led people to wonder whether they had really understood
+  the apparently tranquil and prosperous North Atlantic world that preceded
+  it.  'The tide that bore us along,' Henry James wrote in a letter to a
+  friend ten days after fighting broke out, 'was then all the the while
+  moving to *this* as its grand Niagra ... It seems to me to *undo*
+  everything, everything that was ours, in the most horrible retroactive way.'"
+
  1 Nov 2024  <a name="1-Nov-2024"></a>
 
 - Scoops and Leaks by Neal Ascherson, review of
