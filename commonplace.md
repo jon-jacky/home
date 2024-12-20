@@ -14,6 +14,36 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+20 Dec 2024  <a name="20-Dec-2024"></a>
+
+- "Magical Idealism" by Alberto Manguel, review of *The Novices of Lerna*
+  by Angel Bonomini, in *TLS* Dec 6 2024, p. 19 (no link):
+
+  "In 1971 ... in Argentina ... the military dictatorship was in full force.
+  Jorge Luis Borges was soon to publish an open letter accusing the generals
+  of leading young soldiers to the slaughter, they themselves "having never
+  heard a bullet whistle past their own ears".  An indignant retired
+  general retorted: "I am an Argentian general and I have heard a bullet
+  whistle past my ears".  Borges replied:  "I was mistaken. There is *one*
+  Argentinian general who has heard *one* bullet whistle past his ears".
+  At a time when writers were routinely kidnapped, imprisoned, tortured,
+  and made to "disappear", Borges was deemed too famous to punish."
+
+  "... Bonomini liked to quote Borges's dictum aimed at Juan Peron in 1946:
+  'Dictatorships encourage cruelty; more abominable is the fact that they
+  encourage idiocy ... To fight against these sad monotonies is one of the
+  writer's many duties'."
+
+- "Never Stop Writing" by Christy Edwall, review of *The Rest is Silence*
+  by Augusto Monterroso, in *TLS* Dec 6, 2024, p. 20 (no link):
+
+  "Monterroso ... was born in Honduras and worked as an
+  editor and later a diplomat.  Having moved to Guatemala as a child, he
+  settled in Mexico in adulthood, having fallen afoul of the dictatorship
+  of Jorge Ubico for his outspoken views.  'Sooner or later the Latin American
+  writer faces three possible fates: exile, imprisonment, or burial',
+  Monterroso wrote in 1983.
+
 22 Nov 2024  <a name="22-Nov-2024"></a>
 
 - *We Don't Know Ourselves: A Personal History of Modern Ireland*
