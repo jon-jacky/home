@@ -13,6 +13,19 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+26 Dec 2024
+
+- https://code-poetry.com/  Code poetry
+
+  "This website displays a collection of sixteen code poems, each
+  written in the source code of a different programming language. Every
+  poem is also a valid program which produces a visual representation of
+  itself when compiled and run. ..."
+  
+  Click on a thumbnail at the top of the page.  The source code appears
+  in the left panel and the running program's output appears in the
+  right panel. Often both are interesting, in different ways.
+
  3 Nov 2024
  
 - https://n-o-d-e.net/makeityourself.html - *Make it Yourself*
