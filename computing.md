@@ -1830,7 +1830,7 @@ the commit history.
   read, understanding what's written.  Would make a lot of things easier
   for everybody ..."
 
- 9 Aug 2021  <a name="9-Aug-2021"></a>
+ 9 Aug 2021, 16 Jan 2025  <a name="9-Aug-2021"></a>
 
 - <https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf> - 
   The Moral Character of Cryptographic Work by Phillip Rogaway (2015)
@@ -1878,6 +1878,25 @@ the commit history.
   conviction. Your aim is to *Collect it All, Exploit it All, Know
   it All.*  What would frustrate you?  What problems do you *not* want a bunch
   of super-smart academics to solve?"
+
+- <https://web.cs.ucdavis.edu/~rogaway/papers/radical.pdf> -
+  Radical CS by Phillip Rogaway (2024)
+
+  "For years I have anguished over the direction and character of my
+  research area, cryptography, and my field, computer science (CS). Here
+  I own up to my grumpy discontent and identify what I take to be its
+  primary cause: a rejection of the standard technological narrative
+  (STN), by which I mean techno-optimism, embedded in an enticing story
+  of technologys central role in mans glorious ascent. By radical CS I
+  mean CS that rejects the STN. I try to imagine what a program of
+  radical CS might look like. Then I provide a postmortem on three
+  pieces of my prior work that were, in retrospect, attempts at radical
+  CS: writing about technopolitics in The Moral Character of
+  Cryptographic Work (2015); defining a strong secret-sharing notion in
+  Reimagining Secret Sharing (2020); and replacing much of my technical
+  teaching with a distressing course on ethics-and-technology
+  (2004 -- 2023). While none of these efforts were entirely successful, it's
+  better to have tried."
 
  4 Aug 2021, 7 Aug 2021  <a name="4-Aug-2021"></a>
 
