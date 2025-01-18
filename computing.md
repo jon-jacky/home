@@ -41,7 +41,7 @@ the commit history.
   on the modern web is devoted to showing you ads and performing tracking
   and surveillance.
 
- 1 Apr 2024  <a name="1-Apr-2024"></a>
+ 1 Apr 2024, 17 Jan 2025  <a name="1-Apr-2024"></a>
 
 - <https://www.youtube.com/watch?v=87jfTIWosBw> - 
   Pico-8 and the Search for Cosy Design Spaces by Joseph White (2018)
@@ -121,6 +121,21 @@ the commit history.
   things that you need to think about when you're doing a project and
   many of them really interfere with with design and creative thought.
   ...  I want to throw all of that away.
+
+- <https://demobasics.pixienop.net/> - 
+  Demoscene Basics from a Basic Demoscener
+
+  This is a tutorial on programming the Pico-8, the 'fantasy console'
+  discussed n the link right above. It shows many short programs and
+  videos of them running. It never names the programming language, but I
+  believe it is Lua.
+
+- <https://healeycodes.com/building-game-prototypes-with-love> -
+  Building Game Prototypes with LOVE
+
+  LOVE is a framework for programaming games in Lua.  It uses a similar
+  programming style as Pico-8 (above) but it runs on an ordinary
+  computer, not a fantasy console.
 
 13 Jun 2023  <a name="13-Jun-2023"></a>
 
