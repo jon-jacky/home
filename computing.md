@@ -137,6 +137,13 @@ the commit history.
   programming style as Pico-8 (above) but it runs on an ordinary
   computer, not a fantasy console.
 
+- <https://akkartik.name/lines.html> - Plain text.  With lines. 
+
+  Another LOVE application, not a game, but an editor for documents
+  containing both text and line drawings.
+  More of this author's LOVE programs, and some rationale, here:
+  <https://akkartik.name/prose-all>
+
 13 Jun 2023  <a name="13-Jun-2023"></a>
 
 - <https://www.marginalia.nu/log/57-dont-know-how-to-build-software/> -
