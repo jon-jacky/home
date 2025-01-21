@@ -63,7 +63,7 @@ Companion page, a commonplace book:
 
   This unusual page design shows slides and accompanying lecture text side-by-side.
 
-27 Aug 2024  <a name="27-Aug-2024"></a>
+27 Aug 2024, 25 Jan 2025  <a name="27-Aug-2024"></a>
 
 - <https://owickstrom.github.io/the-monospace-web/> - The Monospace Web
 
@@ -72,12 +72,18 @@ Companion page, a commonplace book:
   <https://wonger.dev/posts/monospace-dump#web> - 
   Inspiration for monospace webpage aesthetic
 
+- <https://www.sacred.computer/> - SRCL
+
+  "SRCL is an open-source React component and style repository that
+  helps you build web applications, desktop applications, and static
+  websites with terminal aesthetics. ..."
+
  5 Aug 2024  <a name="5-Aug-2024"></a>
 
-- <https://penguinseriesdesign.com/> - Penguin series design
+- <https://penguinseriesdesign.com/> - Penguin book covers series design
 
   <https://www.flickr.com/photos/joekral/albums/72157594264351021/> - 
-  Penguin and Pelican collection
+  Penguin and Pelican book covers collection
 
 25 Jun 2024  <a name="25-Jun-2024"></a>
 
