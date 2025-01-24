@@ -1829,10 +1829,14 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 7 Oct 2024:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 24 Jan 2025:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
+
+- <http://everythingi.love/> - by "an artist of internet ambiences":
+  "a landscape full of browser windows".
+  via her essay at <https://www.figma.com/blog/making-space-for-a-handmade-web/>
 
 - <https://dfns.dyalog.com/n_sudoku.htm> - Sudoku in APL.  Lots of information,
   absolutely no clutter.  Entire page is nothing but text in a single precise
