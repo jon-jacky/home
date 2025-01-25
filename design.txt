@@ -13,6 +13,26 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+24 Jan 2025
+
+- http://everythingi.love/ - "a landscape full of browser windows" 
+  by Chia Amisola, "an artist of internet ambiences".
+  
+  Interview with the artist:
+  https://bombmagazine.org/articles/2024/10/16/chia-amisola-by-meg-miller/
+
+- http://kakakompyutermoyan.com/opening/ - KAKAKOMYUTER  MO YAN! -
+
+  "The third world makes the internet what it is. From call center
+  agents, migrant workers staffing data centers, paid trolls, your third
+  wife found in FOREIGNER SEEKING FILIPINA groups, livestreamers, the
+  laborers behind artificial intelligence, the disinformed, the kidnap-
+  for-ransom recruitment, new evangelists, hubs for radicalization, your
+  family Viber chat, cottage printers... our history, made and unmade,
+  our life, lived and unlived."
+  
+  via Chia Amisola's page, above.
+
 26 Dec 2024
 
 - https://code-poetry.com/  Code poetry
@@ -1833,10 +1853,6 @@ Formerly well-known examples of 1960s and 1970s design:
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
-
-- http://everythingi.love/ - "a landscape full of browser windows" 
-  by "an artist of internet ambiences".  Interview with the artist:
-  https://bombmagazine.org/articles/2024/10/16/chia-amisola-by-meg-miller/
 
 - https://dfns.dyalog.com/n_sudoku.htm - Sudoku in APL.  Lots of information,
   absolutely no clutter.  Entire page is nothing but text in a single precise
