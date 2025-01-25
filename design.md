@@ -22,15 +22,6 @@ Companion page, a commonplace book:
   <https://bombmagazine.org/articles/2024/10/16/chia-amisola-by-meg-miller/>
 
 - <http://kakakompyutermoyan.com/opening/> - KAKAKOMYUTER  MO YAN! -
-
-  "The third world makes the internet what it is. From call center
-  agents, migrant workers staffing data centers, paid trolls, your third
-  wife found in FOREIGNER SEEKING FILIPINA groups, livestreamers, the
-  laborers behind artificial intelligence, the disinformed, the kidnap-
-  for-ransom recruitment, new evangelists, hubs for radicalization, your
-  family Viber chat, cottage printers... our history, made and unmade,
-  our life, lived and unlived."
-
   via Chia Amisola's page, above.
 
 26 Dec 2024  <a name="26-Dec-2024"></a>

@@ -71,6 +71,28 @@ the commit history.
   Some of Chia Amisola's art and writings are linked here:
   <http://everythingi.love/>      
 
+- <http://kakakompyutermoyan.com/opening/> - KAKAKOMYUTER  MO YAN! -
+
+  "What does the third world get for being on the internet?
+  Exploitation, labor, repression, disinformation but also liberation,
+  community, self- preservation. This collection speaks to our
+  counternarratives: the identities, selves, and bodies that carry,
+  inhabit, and dwell within the internet but are often obfuscated in its
+  tellings.
+
+  The third world makes the internet what it is. From call center
+  agents, migrant workers staffing data centers, paid trolls, your third
+  wife found in FOREIGNER SEEKING FILIPINA groups, livestreamers, the
+  laborers behind artificial intelligence, the disinformed, the kidnap-
+  for-ransom recruitment, new evangelists, hubs for radicalization, your
+  family Viber chat, cottage printers... our history, made and unmade,
+  our life, lived and unlived."
+
+  via Chia Amisola's page, above.
+
+  For more on computing and the third word, see Nabil Hassein
+  at [11 Dec 2019](#11-Dec-2019)
+
 16 Sep 2024  <a name="16-Sep-2024"></a>
 
 - <https://drewdevault.com/2018/09/04/Conservative-web-development.html> -
