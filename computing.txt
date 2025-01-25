@@ -15,6 +15,62 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+24 Jan 2025
+
+- https://bombmagazine.org/articles/2024/10/16/chia-amisola-by-meg-miller/ -
+  Interview: Chia Amisola by Meg Miller, *BOMB* Oct 16, 2024
+  
+  "Growing up in Metro Manila, my world was lived between a bedroom,
+  church, and shopping mall. On the internet, I had less material and
+  social constraints, and could see and abandon and try different
+  possibilities, selves, and lives, and also make sense of my politics,
+  faith, queerness, which are aspects that I'm still trying to make and
+  unmake on the internet today. Making websites allowed me to make
+  myself.
+ 
+  When I was younger, I thought technology and religion were at opposite
+  extremes. Now with some distance, I understand them as the same thing
+  in that they are both containers in which I can place faith. I started
+  with thinking about the rosary as infrastructure and Marian
+  apparitions. Women are the most devout figures in my family; they
+  recite the rosary's prayers for hours each day and go on pilgrimages to
+  religious sightings. What I see in their devotion is similar to what I
+  see in computers. Repetition and ritual characterize so much of the
+  domestic and divine. From pebbles, to ropes, to beads, we've always
+  used technologies to aid in prayer. Maybe this tallying could be
+  considered computation.
+ 
+  Catholicism and computing are built atop of feminist infrastructures,
+  whether networks, computers, or rosaries, or Mary herself. These
+  containers are often surveilled and obfuscated. Think of the third
+  world's gendered labor that services call centers, sex work, data
+  labeling, and the like. Technology and faith have always been
+  mystified by the erasure of their feminine intercessors. Perhaps when
+  prayer is so deeply programmed, its power appears to diminish.
+  
+  I started Developh (to exhibit Filipino internet artists) when I was
+  sixteen and came to the United States for college at eighteen. I'm
+  working and living around Silicon Valley for now, which sits at the
+  opposite end of many of my values and beliefs. I'm less interested in
+  being in dialogue with the West, whose notions of intelligence, high
+  technology, progress, craft, and representation feel unproductive and
+  uninteresting to me. I'm more interested in the Filipino struggle for
+  national memory, faith, agency, democracy, and liberation. The third
+  world internet is an internet of exploitation, colonialism, and
+  resistance. My work speaks to pockets of love, labor, and liberation
+  against an internet that has been weaponized against me from its
+  inception. I wield the internet because it is what I had access to. My
+  people are enveloped in the internet without much choice.
+  
+  ... Why does our art look and sound the way it does? Why do we speak your
+  language? How have I fought all my life for my vulnerabilities to be
+  splayed for consumption? If anything is to be grasped about third
+  world internet art, I hope it's a greater consciousness about the
+  conditions we are entrenched in."
+
+  Some of Chia Amisola's art and writings are linked here:
+  http://everythingi.love/      
+      
 16 Sep 2024
 
 - https://drewdevault.com/2018/09/04/Conservative-web-development.html -

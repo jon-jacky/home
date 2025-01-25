@@ -1834,9 +1834,9 @@ Formerly well-known examples of 1960s and 1970s design:
    Some of these pages have changed their design so the comments here no
    longer apply.
 
-- <http://everythingi.love/> - by "an artist of internet ambiences":
-  "a landscape full of browser windows".
-  via her essay at <https://www.figma.com/blog/making-space-for-a-handmade-web/>
+- <http://everythingi.love/> - "a landscape full of browser windows" 
+  by "an artist of internet ambiences".  Interview with the artist:
+  <https://bombmagazine.org/articles/2024/10/16/chia-amisola-by-meg-miller/>
 
 - <https://dfns.dyalog.com/n_sudoku.htm> - Sudoku in APL.  Lots of information,
   absolutely no clutter.  Entire page is nothing but text in a single precise
