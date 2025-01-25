@@ -4960,7 +4960,7 @@ the commit history.
   ... Nebulet lets us try ideas that have been left dormant again."
   via <https://news.ycombinator.com/item?id=17187384>
 
-24 May 2018, also 16 Dec 2021  <a name="24-May-2018"></a>
+24 May 2018, also 16 Dec 2021, 25 Jan 2025  <a name="24-May-2018"></a>
 
 - <http://uzebox.org/wiki/index.php?title=Main_Page> - Uzebox -
   "retro-minimalist homebrew game console. ... video sync generation,
@@ -4987,6 +4987,10 @@ the commit history.
   Comprehensive description and instructions including photos and
   circuit diagrams on one web page.  AVR code at
   <https://github.com/Panda381/ATX80>
+
+  Compare to <http://searle.x10host.com/zx80/zx80.html>, a DIY replica
+  of the original ZX80 including all of the original ICs and a copy of
+  the original ROM.
 
 - <https://create.arduino.cc/projecthub/michalin70/the-arduino-commodore-64-a7ec45> -
   The Arduino Commodore 64 -
