@@ -14,6 +14,18 @@ Companion page on design, typography, and graphics:
 Some of my own comments:
 <https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
 
+14 Feb 2025  <a name="14-Feb-2025"></a>
+
+- "The Pen Steers a Routine and a Life", by Elizabeth Egan,
+   interview with novelist Anne Tyler, *The New York Times*,
+   Feb 12, 2015, pages C1, C4 (no link):
+
+   "She quit writing reviews years ago, 'That was my one foray into
+   nonfiction,' Tyler said.  'If I'm writing fiction and I get deep
+   enough into it, all of a sudden it feels like I'm telling the truth.
+   If I'm writing nonfiction, I write down something I absolulely believe,
+   and it'l look like a lie.'"
+
 20 Dec 2024  <a name="20-Dec-2024"></a>
 
 - "Magical Idealism" by Alberto Manguel, review of *The Novices of Lerna*
@@ -691,7 +703,8 @@ Some of my own comments:
 28 Jun 2023,  <a name="28-Jun-2023"></a>
 10 Jul 2023,  <a name="10-Jul-2023"></a>
  1 Feb 2024,  <a name="1-Feb-2024"></a>
- 8 Mar 2024  <a name="8-Mar-2024"></a>
+ 8 Mar 2024,  <a name="8-Mar-2024"></a>
+14 Feb 2025  <a name="14-Feb-2025"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
 
@@ -1003,6 +1016,30 @@ Some of my own comments:
   they themselves will become artificially intelligent.  That won't be an
   improvement, because an essay that sounds as though it were written by
   a computer is not better than an essay actually written by one. ..."
+
+- Chatbottery, Regina Rini, *TLS*, Jan 3 2025, p. 27 (no link):
+
+  "Will 2025 be the year we give up the teaching of writing? ...
+  Every professor I know wasted countless hours of 2024 in the
+  prevention or detection of AI-powered cheating.  It is a miserable
+  war of attrition that seems doomed to defeat.  Perhaps the time has
+  come, then, to declare a strategic withdrawal from writing as pedagogy?
+
+  The problem is double-barelled; writing has simultaneously become
+  less valuable and much harder to teach.  Start with the value proposition:
+  few students will need to compose essays after leaving school. ...
+  Now try to pursuade the arriving generation of college students ... that
+  writing is a skill they must internalize for future success.  Brace
+  for eyeroll-impact.  An ever-increasing share of adults will regard
+  AI writing tools as just more productivity apps on their phone,
+  no more sensible to abjure than calculators.
+
+  As for the other side -- the terrible cost for educators struggling
+  to hold the line against AI cheating -- at stake is the personal
+  indignity of seeing one's time treated as worthless. ... A pedagogical
+  future of thousands of hours analysing the semantic output of
+  uneducable robots sounds like a particularly sadistic existential
+  hell ..."
 
 - A.I.D.E.: Artificial Intelligence Dedicated to Empathy,
   by Seattle Design Nerds, at *Seattle: City of the Future*,
