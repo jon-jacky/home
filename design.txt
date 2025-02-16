@@ -18,8 +18,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 -  https://aresluna.org/the-hardest-working-font-in-manhattan/ -
    The hardest working font in Manhattan
    
-   Don't miss the animations about ten percent down, and about 
-   seventy percent down.
+   The font's name is Gorton. Remarkably long and thorough article
+   with many many photos. Don't miss the animations about ten percent
+   down, and about seventy percent down.
    
    via https://news.ycombinator.com/item?id=43053419 - 
    *chiph* writes: "Emotionally, what I feel when I see text using it
@@ -38,7 +39,9 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
    recollection. The next time I pass some routed Gorton I'm going to
    run my finger over it and see if it makes me feel like a kid
    again."
-   
+
+   See also the related font Routed Gothic at 4 Feb 20222.
+      
 24 Jan 2025
 
 - http://everythingi.love/ - "a landscape full of browser windows" 

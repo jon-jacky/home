@@ -18,8 +18,9 @@ Companion page, a commonplace book:
 -  <https://aresluna.org/the-hardest-working-font-in-manhattan/> -
    The hardest working font in Manhattan
 
-   Don't miss the animations about ten percent down, and about
-   seventy percent down.
+   The font's name is Gorton. Remarkably long and thorough article
+   with many many photos. Don't miss the animations about ten percent
+   down, and about seventy percent down.
 
    via <https://news.ycombinator.com/item?id=43053419> - 
    *chiph* writes: "Emotionally, what I feel when I see text using it
@@ -38,6 +39,8 @@ Companion page, a commonplace book:
    recollection. The next time I pass some routed Gorton I'm going to
    run my finger over it and see if it makes me feel like a kid
    again."
+
+   See also the related font Routed Gothic at [4 Feb 2022](#4-Feb-2022)2.
 
 24 Jan 2025  <a name="24-Jan-2025"></a>
 
