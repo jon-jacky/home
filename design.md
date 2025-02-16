@@ -13,6 +13,32 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+15 Jan 2015  <a name="15-Jan-2015"></a>
+
+-  <https://aresluna.org/the-hardest-working-font-in-manhattan/> -
+   The hardest working font in Manhattan
+
+   Don't miss the animations about ten percent down, and about
+   seventy percent down.
+
+   via <https://news.ycombinator.com/item?id=43053419> - 
+   *chiph* writes: "Emotionally, what I feel when I see text using it
+   is: 'This information is serious and if you don't pay attention to
+   what this says someone could get hurt.'  There's nothing playful
+   about it at all, which makes sense in how it was used for
+   industrial controls, military signage, elevators, and the like.
+
+   also via <https://www.metafilter.com/207663/The-hardest-working-font-in-Manhattan>
+   *phooky* writes: "This is gorgeous. The tactility of routed text is
+   deeply embedded in my memories of childhood-- while reading this
+   article I could feel my fingertip, much smaller and softer than it
+   is today, tracing the floor numbers on the elevator to my
+   grandparent's apartment, a plastic sign near a swimming pool. It
+   is a font, but also a texture and a lightning bolt of
+   recollection. The next time I pass some routed Gorton I'm going to
+   run my finger over it and see if it makes me feel like a kid
+   again."
+
 24 Jan 2025  <a name="24-Jan-2025"></a>
 
 - <http://everythingi.love/> - "a landscape full of browser windows" 
@@ -21,7 +47,7 @@ Companion page, a commonplace book:
   Interview with the artist:
   <https://bombmagazine.org/articles/2024/10/16/chia-amisola-by-meg-miller/>
 
-- <http://kakakompyutermoyan.com/opening/> - KAKAKOMYUTER  MO YAN! -
+- <http://kakakompyutermoyan.com/opening/> - KAKAKOMPYUTER  MO YAN! -
   via Chia Amisola's page, above.
 
 26 Dec 2024  <a name="26-Dec-2024"></a>
