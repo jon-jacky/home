@@ -879,6 +879,14 @@ Some of my own comments:
   precondition to making an ELIZA-like program the basis for an effective
   natural language man machine communication system. ..."
 
+- <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai>
+  - Weizenbaum's nightmares: how the inventor of the first chatbot
+  turned against AI
+
+  Long article in *The Guardian* about Joseph Weizenbaum including a
+  biography, a summary of *Computer Power and Human Reason*, reactions
+  to that book, and what came after.
+
 - <https://cs.stanford.edu/~knuth/chatGPT20.txt> -
   Don Knuth plays with ChatGPT
 
