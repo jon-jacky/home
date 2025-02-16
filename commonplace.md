@@ -1,4 +1,3 @@
-
 Commonplace Book: a book into which notable extracts from other works
 are copied for personal use.
 
@@ -245,7 +244,7 @@ Some of my own comments:
   incredible dullness.'  It is up to us to determine whether we now wish to
   multiply dullness through AI or refuse to be subjected to it. ..."
 
-  Much more on AI at [14 Mar 2023](#14-Mar-2023) etc. The remarks by Douglas Hofstadter and 
+  Much more on AI at [27 May 2023](#27-May-2023) etc. The remarks by Douglas Hofstadter and 
   Eric Naiman are especially pertitent to the above essay.
 
 24 Jun 2024  <a name="24-Jun-2024"></a>
@@ -699,12 +698,8 @@ Some of my own comments:
 
 14 Mar 2023,  <a name="14-Mar-2023"></a>
 25 May 2023,  <a name="25-May-2023"></a>
-27 May 2023,  <a name="27-May-2023"></a>
-28 Jun 2023,  <a name="28-Jun-2023"></a>
-10 Jul 2023,  <a name="10-Jul-2023"></a>
- 1 Feb 2024,  <a name="1-Feb-2024"></a>
  8 Mar 2024,  <a name="8-Mar-2024"></a>
-14 Feb 2025  <a name="14-Feb-2025"></a>
+15 Feb 2025  <a name="15-Feb-2025"></a>
 
 - *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
 
@@ -879,13 +874,19 @@ Some of my own comments:
   precondition to making an ELIZA-like program the basis for an effective
   natural language man machine communication system. ..."
 
-- <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai>
-  - Weizenbaum's nightmares: how the inventor of the first chatbot
+- <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial> -intelligence-ai - 
+  Weizenbaum's nightmares: how the inventor of the first chatbot
   turned against AI
 
   Long article in *The Guardian* about Joseph Weizenbaum including a
   biography, a summary of *Computer Power and Human Reason*, reactions
   to that book, and what came after.
+
+27 May 2023,  <a name="27-May-2023"></a>
+28 Jun 2023,  <a name="28-Jun-2023"></a>
+10 Jul 2023,  <a name="10-Jul-2023"></a>
+ 1 Feb 2024,  <a name="1-Feb-2024"></a>
+14 Feb 2025  <a name="14-Feb-2025"></a>
 
 - <https://cs.stanford.edu/~knuth/chatGPT20.txt> -
   Don Knuth plays with ChatGPT
