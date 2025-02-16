@@ -40,7 +40,7 @@ Companion page, a commonplace book:
    run my finger over it and see if it makes me feel like a kid
    again."
 
-   See also the related font Routed Gothic at [4 Feb 2022](#4-Feb-2022)2.
+   See also the related font Routed Gothic at [4 Feb 2022](#4-Feb-2022).
 
 24 Jan 2025  <a name="24-Jan-2025"></a>
 
