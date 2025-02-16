@@ -874,7 +874,7 @@ Some of my own comments:
   precondition to making an ELIZA-like program the basis for an effective
   natural language man machine communication system. ..."
 
-- <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial> -intelligence-ai - 
+- <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai> - 
   Weizenbaum's nightmares: how the inventor of the first chatbot
   turned against AI
 
