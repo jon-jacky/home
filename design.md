@@ -1874,6 +1874,12 @@ Formerly well-known examples of 1960s and 1970s design:
    Some of these pages have changed their design so the comments here no
    longer apply.
 
+- <https://webb.page/> - All text, all in the same font (recalling early
+  monochrome Mac) on many gray panels in narrow columns side-by-side, extending
+  past the right edge of the screen. "Scroll vertically to scroll
+  horizontally."  When you scroll to the bottom of a column, the screen
+  scrolls to the left, exposing new panels on the right.
+
 - <https://dfns.dyalog.com/n_sudoku.htm> - Sudoku in APL.  Lots of information,
   absolutely no clutter.  Entire page is nothing but text in a single precise
   sans-serif typewriter font, the same size and strength for everything:
