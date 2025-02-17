@@ -13,6 +13,22 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+16 Feb 2025
+
+- "The Condemned Man's Cell",  by Rachel Hadas, review of
+  *The Poems from On The Consolation of Philosphy by Boethius*
+  "Translated out of the original Latin into diverse historical
+  Englishings diligently collaged by Peter Glassglold".  
+  *TLS*, Jan 31, 2025, p. 19 (no link):
+  
+  ".... Glassgold evokes (the experience) of a range of texts
+  in front of him as he worked '... propped up on stands in chronological
+  order from left to right, along with piles of dictionaries in, behind,
+  and around them'.  Consulting a whole library is part of the pleasure
+  of reading any great work in translation.  Glassgold cites Gregory 
+  Rabassa's comment about translations from Homer: 'The poor Greeks, they
+  had only one Homer, while we have so many!'"
+
 14 Feb 2025
 
 - "The Pen Steers a Routine and a Life", by Elizabeth Egan,
@@ -22,8 +38,8 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
    "She quit writing reviews years ago, 'That was my one foray into
    nonfiction,' Tyler said.  'If I'm writing fiction and I get deep
    enough into it, all of a sudden it feels like I'm telling the truth.
-   If I'm writing nonfiction, I write down something I absolulely believe,
-   and it'l look like a lie.'"
+   If I'm writing nonfiction, I write down something I absolutely believe,
+   and it'll look like a lie.'"
    
 20 Dec 2024
 
@@ -244,7 +260,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   incredible dullness.'  It is up to us to determine whether we now wish to 
   multiply dullness through AI or refuse to be subjected to it. ..."
 
-  Much more on AI at 27 May 2023 etc. The remarks by Douglas Hofstadter and 
+  Much more on AI at 10 Jul 2023 etc. The remarks by Douglas Hofstadter and 
   Eric Naiman are especially pertitent to the above essay.
    
 24 Jun 2024
@@ -882,59 +898,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   biography, a summary of *Computer Power and Human Reason*, reactions
   to that book, and what came after.
 
-27 May 2023,
-28 Jun 2023,
 10 Jul 2023,
  1 Feb 2024,
-14 Feb 2025
+14 Feb 2025,
+27 May 2023,
+28 Jun 2023 
    
-- https://cs.stanford.edu/~knuth/chatGPT20.txt -
-  Don Knuth plays with ChatGPT
-
-  Knuth reviews this year's AI Chat program.  It is telling to compare
-  ChatGPT to Weizenbaum's program of almost sixty years ago, in the light of
-  Weizenbaum's comments then.
-
-  "Since one of today's popular recreations is to play with chatGPT, I
-  decided on 07 April 2023 to try my own little experiment, as part of a
-  correspondence with Stephen Wolfram. ... I thought of 20 questions that
-  would be interesting to pose to chatGPT. ..."
-
-  Then follow Knuth's 20 questions and ChatGPT's answers.  Knuth comments
-  on each answer. Here are some excerpts and his conclusion:
-
-  "Of course these are extremely impressive responses, sometimes
-  astonishingly so ... The most immediate impression is the quality of the
-  wordsmithing. It's way better than 99% of copy that people actually write.
-  ...
-
-  Question #6 was the question my father asked to Weizenbaum's ELIZA program,
-  in 1968, just before he took a trip to Japan. Dad was very disappointed when
-  the computer responded "Why do you ask?"
-  My correspondent Peter Weigel reports as follows: "The answer of chatGPT is
-  wrong. ..."
-
-  Answer #10 reads as though it's the best answer yet. But it's almost totally
-  wrong! ...  It's amazing how the confident tone lends credibility to all of
-  that made-up nonsense. Almost impossible for anybody without knowledge of
-  the book to believe that those "facts" aren't authorititative and well
-  researched. ...
-
-  #16. Another mission apparently well accomplished yet fake. ... How does one
-  train an AI to make up such convincing lies? ...
-
-  #20. Another great example of surface-only understanding of buzzwords. Are
-  we trying to generate all prime numbers, or to test a number for primality?
-
-  Well this has been interesting indeed. Studying the task of how to fake it
-  certainly leads to insightful subproblems galore. ...
-  On the other hand, Gary Marcus's column in the April (2023) CACM brilliantly
-  describes the terrifying consequences of these developments.
-
-  I myself shall certainly continue to leave such research to others, and to
-  devote my time to developing concepts that are authentic and trustworthy.
-  And I hope you do the same."
-
 - https://www.theatlantic.com/ideas/archive/2023/07/godel-escher-bach-geb-ai/674589/
   also at https://archive.is/SPRZ3 -
   Godel, Escher, Bach, and AI by Douglas Hofstadter
@@ -1049,7 +1018,32 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   future of thousands of hours analysing the semantic output of
   uneducable robots sounds like a particularly sadistic existential 
   hell ..."
-       
+
+- https://cs.stanford.edu/~knuth/chatGPT20.txt -
+  Don Knuth plays with ChatGPT
+
+  "Since one of today's popular recreations is to play with chatGPT, I
+  decided on 07 April 2023 to try my own little experiment, as part of a
+  correspondence with Stephen Wolfram. ... I thought of 20 questions that
+  would be interesting to pose to chatGPT. ..."
+
+  Then follow Knuth's 20 questions and ChatGPT's answers.  Knuth comments
+  on each answer. Here are some excerpts and his conclusion:
+
+  "... Answer #10 reads as though it's the best answer yet. But it's
+  almost totally wrong! ... It's amazing how the confident tone lends
+  credibility to all of that made-up nonsense. Almost impossible for
+  anybody without knowledge of the book to believe that those "facts"
+  aren't authorititative and well researched. ... How does one train an
+  AI to make up such convincing lies? ...
+
+  Well this has been interesting indeed. Studying the task of how to fake it
+  certainly leads to insightful subproblems galore. ...
+
+  I myself shall certainly continue to leave such research to others, and to
+  devote my time to developing concepts that are authentic and trustworthy.
+  And I hope you do the same."
+        
 - A.I.D.E.: Artificial Intelligence Dedicated to Empathy, 
   by Seattle Design Nerds, at *Seattle: City of the Future*,
   art exhibit/multimedia installation, June 2023
