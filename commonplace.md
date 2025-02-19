@@ -4850,7 +4850,7 @@ Some of my own comments:
   mathematician Richard Dedekind proposed the first firm foundation for
   the real number system and, even more importantly, established a new
   way to think about -- or maybe I should say a new way to *avoid* thinking
-  about the ultimate nature of mathematical reality.
+  about -- the ultimate nature of mathematical reality.
 
   You may remember from last months essay that Dedekind had come up with
   an axiom called the Completeness Axiom which, in combination with the
@@ -4858,8 +4858,8 @@ Some of my own comments:
   the real number system that calculus needs. This is the *postulational
   approach*: list the properties you want numbers (or points or lines or
   whatever) to have, postulate that those properties hold, and see what
-  consequences follow. But theres a problem with this method: how do we
-  know that the postulates are true? ...
+  consequences follow. But there's a problem with this method: how do we
+  know that the postulates are true?
 
   For instance, consider the assertion that twice the cube root of 2
   equals the cube root of 16. If we postulate the existence of a number
@@ -4878,8 +4878,8 @@ Some of my own comments:
   and we can operate on such pairs with new operations *(+)* and *(x)* and given
   by the definitions *(a, b) (+) (c, d) = (a+c, b+d)* and
   *(a, b)(x)(c, d) = (ac-bd, ad+bc)*,
-  and then the question But what does *sqrt(-1)* mean?
-  drops out of view; weve got the ordered pair *(0,1)* sitting in front of
+  and then the question "But what does *sqrt(-1)* mean?"
+  drops out of view; we've got the ordered pair *(0,1)* sitting in front of
   us, and when we square it (that is, when we *(x)*-multiply it by itself
   in accordance with our definition of *(x)*) we get *(-1, 0)*, which acts
   just like the ordinary number *-1* in a whole lot of ways. So then we
