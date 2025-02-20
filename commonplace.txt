@@ -13,6 +13,75 @@ https://github.com/jon-jacky/home/blob/gh-pages/design.md
 Some of my own comments:
 https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
+Not all entries on this page are in chronological order.   Some recent
+entries are not  near the top, but appear with older entries by the
+same author, or on  similar topics.   To find recent entries, consult
+the commit history.
+ 
+19 Feb 2025
+
+- https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/ -
+  Dedekind's Subtle Knife by James Propp from his blog *Mathematical
+  Enchantments*.
+  
+  "The modern era of mathematics began on November 24, 1858, when
+  mathematician Richard Dedekind proposed the first firm foundation for
+  the real number system and, even more importantly, established a new
+  way to think about -- or maybe I should say a new way to *avoid* thinking
+  about -- the ultimate nature of mathematical reality. 
+  
+  You may remember from last months essay that Dedekind had come up with
+  an axiom called the Completeness Axiom which, in combination with the
+  rules of algebra, will let you prove all the important properties of
+  the real number system that calculus needs. This is the *postulational
+  approach*: list the properties you want numbers (or points or lines or
+  whatever) to have, postulate that those properties hold, and see what
+  consequences follow. But there's a problem with this method: how do we
+  know that the postulates are true?
+
+  For instance, consider the assertion that twice the cube root of 2
+  equals the cube root of 16. If we postulate the existence of a number
+  *x* that satisfies *x^3 = 2* while also obeying the ordinary rules of
+  algebra, its easy to show that *(2x)^3 = (2^3)(x^3) = (8)(2) = 16*. But
+  how do we know that such a number *x* exists to begin with? It seems a
+  bit like circular reasoning.
+
+  Dedekind found a way out of the circle, relying on the gimmick that
+  you can sometimes build a new number system by hitching a ride on an old
+  one.
+   
+  Longtime readers of this blog will already have seen several examples
+  of this kind of bootstrapping. For instance, the complex number 
+  *a + b sqrt(-1)* can be replaced by the ordered pair of real numbers *(a,b)*
+  and we can operate on such pairs with new operations *(+)* and *(x)* and given
+  by the definitions *(a, b) (+) (c, d) = (a+c, b+d)* and 
+  *(a, b)(x)(c, d) = (ac-bd, ad+bc)*, 
+  and then the question "But what does *sqrt(-1)* mean?"
+  drops out of view; we've got the ordered pair *(0,1)* sitting in front of
+  us, and when we square it (that is, when we *(x)*-multiply it by itself
+  in accordance with our definition of *(x)*) we get *(-1, 0)*, which acts
+  just like the ordinary number *-1* in a whole lot of ways. So then we
+  switch to writing *(+)* as *+*, writing *(x)* as *x*, writing *(-1, 0)* as 
+  *-1*, and (why not) writing *(0, 1)* as *i*, and suddenly, weve returned from
+  our sojourn in Oz only to find that Kansas has changed: now *-1* has a
+  square root.
+
+  Putting the gimmick differently, to work with the complex number 
+  *a + b sqrt(-1)* compounded of the real numbers *a* and *b* along with their
+  imaginary friend *sqrt(-1)*, all you need to know is what *a* and *b* are,
+  not what sort of magical creature *sqrt(-1)* is. So we can banish
+  *sqrt(-1)*, and with it all ontological qualms about imaginary numbers,
+  by avoiding the expression *sqrt(-1)* entirely and just writing *(a, b)*.
+  This surrogate can be taught how to do everything we could ask 
+  *a + b sqrt(-1)* to do, so it's all we need.
+
+  Dedekind realized that in an analogous way, questions about real
+  numbers can be reduced to questions about rational numbers. ..."
+
+  Propp's explanation of Dedekind cuts follows in the linked blog post.
+
+  This entry resonates with Timothy Gowers' remarks at 10 Mar 2020.
+   
 18 Feb 2025
 
 - "Graham Nickson, 78, Ardent Steward of New York Studio School, Dies",
@@ -4689,7 +4758,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
   and emotionally satisfying the geometric view may be, the analytic
   approach is, in the end, far more elegant and powerful."
 
-10 Mar 2020, 19 Feb 2025
+10 Mar 2020
 
 - *Mathematics: A Very Short Introduction* by Timothy Gowers (2002), preface,
   pages 14-16, 18-24, 86-103, 118-121, 124, 132-133 (no link): 
@@ -4841,67 +4910,6 @@ https://github.com/jon-jacky/home/blob/gh-pages/comments.md
 
   This book is not online but the author has some related essays here:
   https://www.dpmms.cam.ac.uk/~wtg10/vsipage.html
-
-- https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/ -
-  Dedekind's Subtle Knife by James Propp from his blog *Mathematical
-  Enchantments*.
-  
-  "The modern era of mathematics began on November 24, 1858, when
-  mathematician Richard Dedekind proposed the first firm foundation for
-  the real number system and, even more importantly, established a new
-  way to think about -- or maybe I should say a new way to *avoid* thinking
-  about -- the ultimate nature of mathematical reality. 
-  
-  You may remember from last months essay that Dedekind had come up with
-  an axiom called the Completeness Axiom which, in combination with the
-  rules of algebra, will let you prove all the important properties of
-  the real number system that calculus needs. This is the *postulational
-  approach*: list the properties you want numbers (or points or lines or
-  whatever) to have, postulate that those properties hold, and see what
-  consequences follow. But there's a problem with this method: how do we
-  know that the postulates are true?
-
-  For instance, consider the assertion that twice the cube root of 2
-  equals the cube root of 16. If we postulate the existence of a number
-  *x* that satisfies *x^3 = 2* while also obeying the ordinary rules of
-  algebra, its easy to show that *(2x)^3 = (2^3)(x^3) = (8)(2) = 16*. But
-  how do we know that such a number *x* exists to begin with? It seems a
-  bit like circular reasoning.
-
-  Dedekind found a way out of the circle, relying on the gimmick that
-  you can sometimes build a new number system by hitching a ride on an old
-  one.
-   
-  Longtime readers of this blog will already have seen several examples
-  of this kind of bootstrapping. For instance, the complex number 
-  *a + b sqrt(-1)* can be replaced by the ordered pair of real numbers *(a,b)*
-  and we can operate on such pairs with new operations *(+)* and *(x)* and given
-  by the definitions *(a, b) (+) (c, d) = (a+c, b+d)* and 
-  *(a, b)(x)(c, d) = (ac-bd, ad+bc)*, 
-  and then the question "But what does *sqrt(-1)* mean?"
-  drops out of view; we've got the ordered pair *(0,1)* sitting in front of
-  us, and when we square it (that is, when we *(x)*-multiply it by itself
-  in accordance with our definition of *(x)*) we get *(-1, 0)*, which acts
-  just like the ordinary number *-1* in a whole lot of ways. So then we
-  switch to writing *(+)* as *+*, writing *(x)* as *x*, writing *(-1, 0)* as 
-  *-1*, and (why not) writing *(0, 1)* as *i*, and suddenly, weve returned from
-  our sojourn in Oz only to find that Kansas has changed: now *-1* has a
-  square root.
-
-  Putting the gimmick differently, to work with the complex number 
-  *a + b sqrt(-1)* compounded of the real numbers *a* and *b* along with their
-  imaginary friend *sqrt(-1)*, all you need to know is what *a* and *b* are,
-  not what sort of magical creature *sqrt(-1)* is. So we can banish
-  *sqrt(-1)*, and with it all ontological qualms about imaginary numbers,
-  by avoiding the expression *sqrt(-1)* entirely and just writing *(a, b)*.
-  This surrogate can be taught how to do everything we could ask 
-  *a + b sqrt(-1)* to do, so it's all we need.
-
-  Dedekind realized that in an analogous way, questions about real
-  numbers can be reduced to questions about rational numbers. ..."
-
-  Propp's explanation of Dedekind cuts follows in the linked blog post.
-
     
 22 Feb 2020
 
