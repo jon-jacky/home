@@ -17,36 +17,37 @@ the commit history.
 
 21 Mar 2025  <a name="21-Mar-2025"></a>
 
-- Thredsnek: a tiny Python-flavored programming language,
+- <https://dercuano.github.io/notes/thredsnek.html> -
+  Thredsnek: a tiny Python-flavored programming language,
   Kragen Javier Sitaker, 2017-03-20
 
   "I think the most important linguistic reasons current Python is so
   effective are the following:
 
-    -- The memory model is the Lisp-style object-graph, a    garbage-
+  - The memory model is the Lisp-style object-graph, a    garbage-
     collected heap.
 
-    -- A small number of general-purpose, flexible-sized data structures
+  - A small number of general-purpose, flexible-sized data structures
     (containers): specifically hash tables (“dicts”) and dynamic arrays
     (“lists”).  ...
 
-    -- “Duck typing”: interactions between objects are indirected through
+  - “Duck typing”: interactions between objects are indirected through
     interfaces, and so it generally doesn’t matter what concrete type
     an object is, just what interfaces or protocols it supports. ...
 
-    -- As a special case, iteration indirects through an “iterator
+  - As a special case, iteration indirects through an “iterator
     protocol” which allows for composable iterators, and there is a
     coroutine facility for this (“generators”) which can be put to many
     different uses. ...
 
-    -- Errors are handled with exceptions.  Ambiguity and implicitness is
+  - Errors are handled with exceptions.  Ambiguity and implicitness is
     an error ...
 
-    -- Reflection allows the in-language implementation of debugging
+  - Reflection allows the in-language implementation of debugging
     facilities and transparent and semitransparent persistence
     facilities ...
 
-    -- Tasteful and largish standard library (“batteries included”). It’s
+  - Tasteful and largish standard library (“batteries included”). It’s
     very easy to, for example, run unit tests, split strings on whitespace,
     ... sort and reverse lists, encode and decode UTF-8 and other common
     character encodings, and so on.
