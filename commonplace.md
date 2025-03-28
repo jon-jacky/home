@@ -18,11 +18,67 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+27 Mar 2025  <a name="27-Mar-2025"></a>
+
+- Cold Comfort Farm, by Kieran Setiya, review of
+  *Pessimism, Quietism, and Nature as Refuge* by David E. Cooper
+  and *Hopeful Pessimism* by Mara van der Lugt.
+  *TLS*, Mar 14, 2025, pps. 3 -- 4 (no link):
+
+  "... despair is not, to put it mildly, a popular stance. ...
+  Forced to choose between optimism and pessimism, hope and despair,
+  the well-adjusted opt for optimism and hope.
+
+  Two recent books take issue with this upbeat orientation.
+  Both (of these books) take the bleakness of the future as a premiss.
+  For van der Lugt, pessimism 'is simply the assumption of a dark view
+  of the present as well as the future'.  For Cooper, 'the human condition
+  is a bad one ...' -- and it's not likely to improve.  To this he adds
+  misanthropy, 'not hatred of human beings but a negative judgment on the
+  moral and spiritual condition of humankind'.  The question is what to do
+  about this pessimistic truth.
+
+  Cooper lays out our options.  There's amnesia or willful disregard ...
+  There's nihilism ... There's activism ... And then there's quietism,
+  the position Cooper gently advocates.
+
+  What quietism feels about the human prospect is, ironically, 'disquiet'.
+  But it is tempered by acceptance and practical disengagement.   The
+  quietist is not a moral or political activist.  Still, she endeavors to
+  defy her own misanthropy, to forswear 'jealousy, vanity, hubris, greed,
+  cruelty, hatred, contentiousness, and the rest'. ... We must recognize
+  the limits of our 'ability to impose [ourselves] on the world and each
+  other, and confine [our] practices to those in which [we] are skilled and
+  effective'.  At the same time, we should be compassionate to those around
+  us.
+
+  It's easy to feel the allure of quietism.  Facing an inhospitable world,
+  who isn't tempted to retreat, if they can, into their own safe space? ...
+  Yet for all its manifest appeal, there's something egoistic in the
+  strategy of withdrawal.  What about those who can't retreat, for whom
+  the pessimist's grim prognosis is a lived reality?  They are abandoned
+  by the quietist.  Should those who are not among them feel no more
+  than disquiet at their plight?  Are they not called on to act?
+
+  As van der Lugt argues, pessimism is perfectly compatible with hope.
+  The pessimist believes that things are likely to get worse.  But
+  so long as there's uncertaintly about how much worse, she can hope for
+  the best -- and strive towards it. ... Thus, van der Lugt's 'hopeful
+  pessimism'.
+
+  As the author warns, we should not conflate a pessimistic outlook,
+  in which 'the future looks bleak', with fatalism, 'the view that nothing
+  can be done, and so we may as well give up'.  Cooper comes close to
+  doing that.  But there is all the difference in the world between goals
+  I can do nothing to bring about and goals for which I can do 'next to
+  nothing' -- meaning 'maybe something'.   A live possibility is all
+  hope needs."
+
  7 Mar 2025  <a name="7-Mar-2025"></a>
 
 - "Wash Out Your Ears", by Adam Shatz, review of
   *Olivier Messiaen: A Critical Biography* by Robert Scholl and
-  *Messiaen in Context* editd by Robert Scholl.  *London Review of Books*,
+  *Messiaen in Context* edited by Robert Scholl.  *London Review of Books*,
   Feb 20, 2025, pps. 7 -- 11 (no link):
 
   "He discovered that when he heard a chord, he would see 'corresponding
