@@ -4153,6 +4153,23 @@ the commit history.
   away everything irrelevant from the problem to end up with an easy
   one. ..."
 
+  Also <https://news.ycombinator.com/item?id=43503897>
+  "Forth exposes both problems and solutions that aren't germane to the
+  bulk of everyday computing systems:
+
+  - I want to debug my assembly code with a REPL
+
+  - I don't want abstraction, I want minimalism
+
+  - I want to write solutions in the context of specific hardware
+
+  When you have all three, you have Forth's wheelhouse. Minimalism means
+  you do get a sense of "seeing the Matrix" - the machine is controlled
+  precisely to your specification. But as soon as you think that you can
+  layer on a more abstract idiom, even those that are usually
+  conventional in high level programming, it also reveals that it really
+  won't help you do that. ...."
+
 22 Dec 2018  <a name="22-Dec-2018"></a>
 
 - <https://smallstep.com/blog/everything-pki.html> - Everything you
