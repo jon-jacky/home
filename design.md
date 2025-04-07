@@ -13,6 +13,13 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 6 Apr 2025  <a name="6-Apr-2025"></a>
+
+- <https://thehtml.review/04/> - *The HTML Review*, Issue 04, Spring 2025
+
+  "THE HTML REVIEW is an annual journal of literature made to exist on the web. ..."
+  Some interesting links are on their ABOUT page: <https://thehtml.review/about>
+
  9 Mar 2025  <a name="9-Mar-2025"></a>
 
 - <https://saulsteinbergfoundation.org/essay/drawing-table-reliefs/>
