@@ -117,6 +117,11 @@ Companion page, a commonplace book:
 
   A nice summary of many HTML tags, gathered into categories.
 
+  <https://gist.github.com/wong-justin/fdf839cbae6550ca2454c2a503a148f8> - 
+  Permitted content and nesting rules for HTML elements
+
+  Contrast with the simplicity in the preceding link. So many tags!
+
  3 Oct 2024  <a name="3-Oct-2024"></a>
 
 - <https://chrisdone.com/posts/tour-of-hell/> - A Tour of Hell
