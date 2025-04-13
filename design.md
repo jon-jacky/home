@@ -1903,7 +1903,7 @@ Formerly well-known examples of 1960s and 1970s design:
    longer apply.
 
 - <https://wonger.dev/nuggets> - "A stream of thoughts, tips, doings and dones."
-  Presents a lot of very short posts as entries in a sort of table.
+  A lot of very short posts in a sort of table.
   Appears as a single column on a phone.  Via <https://wonger.dev>
 
 - <https://webb.page/> - All text, all in the same font (recalling early
