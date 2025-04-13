@@ -138,7 +138,7 @@ Companion page, a commonplace book:
   "It's semantic HTML, rendered as if we were back in the 70s."
 
   <https://wonger.dev/posts/monospace-dump#web> - 
-  Inspiration for monospace webpage aesthetic
+  Inspiration for monospace webpage aesthetic.   More at <https://wonger.dev>
 
 - <https://www.sacred.computer/> - SRCL
 
@@ -1901,6 +1901,10 @@ Formerly well-known examples of 1960s and 1970s design:
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
+
+- <https://wonger.dev/nuggets> - "A stream of thoughts, tips, doings and dones."
+  Presents a lot of very short posts as entries in a sort of table.
+  Appears as a single column on a phone.  Via <https://wonger.dev>
 
 - <https://webb.page/> - All text, all in the same font (recalling early
   monochrome Mac) on many gray panels in narrow columns side-by-side, extending
