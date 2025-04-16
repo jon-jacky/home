@@ -26,7 +26,7 @@ the commit history.
 
    "... I can't think in terms of wrong notes -- in fact, I don't hear
    any notes as being wrong.  It's a matter of knowing how to integrate
-   the notes, and, if you must, resolve them.  ... I'm particular
+   the notes, and, if you must, resolve them.  ... I'm particularly
    interested in the possibilities of dissonance.  If it's a consonant
    sound it's going to sound smaller.  The more dissonance, the bigger
    the sound.  It sounds like more horns; in fact, you can't always tell
