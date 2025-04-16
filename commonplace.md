@@ -18,6 +18,21 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+15 Apr 2015  <a name="15-Apr-2015"></a>
+
+- *Eric Dolphy at the Five Spot: Vol. 1* (1961), Prestige 7611, liner notes
+   by Michael Cuscuna, quoting trumpet player Booker Little from
+   an interview in *Metronome* magazine (no link):
+
+   "... I can't think in terms of wrong notes -- in fact, I don't hear
+   any notes as being wrong.  It's a matter of knowing how to integrate
+   the notes, and, if you must, resolve them.  ... I'm particular
+   interested in the possibilities of dissonance.  If it's a consonant
+   sound it's going to sound smaller.  The more dissonance, the bigger
+   the sound.  It sounds like more horns; in fact, you can't always tell
+   how many there are.  And your shadings can be more varied. Dissonance
+   is a tool to achieve these things."
+
 27 Mar 2025  <a name="27-Mar-2025"></a>
 
 - Cold Comfort Farm, by Kieran Setiya, review of
