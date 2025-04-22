@@ -1,4 +1,4 @@
-oCommonplace Book: a book into which notable extracts from other works
+Commonplace Book: a book into which notable extracts from other works
 are copied for personal use.
 
 Begun November 2016.
