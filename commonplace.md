@@ -1,4 +1,4 @@
-Commonplace Book: a book into which notable extracts from other works
+oCommonplace Book: a book into which notable extracts from other works
 are copied for personal use.
 
 Begun November 2016.
@@ -18,7 +18,65 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
-15 Apr 2015  <a name="15-Apr-2015"></a>
+21 Apr 2025  <a name="21-Apr-2025"></a>
+
+- <https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html> -
+  *ANTIQUA ET NOVA: Note on the Relationship Between
+  Artificial Intelligence and Human Intelligence*.
+  "Francis, ... on 14 January 2025, ... approved this Note and ordered
+  its publication."
+  via <https://news.ycombinator.com/item?id=43750835>, 
+  comment by *jimmcslim* on Pope Francis has died.
+
+  "... AI can be trained on the results of human creativity and then
+  generate new “artifacts” with a level of speed and skill that often
+  rivals or surpasses what humans can do, such as producing text or
+  images indistinguishable from human compositions. ... This new
+  situation has prompted many people to reflect on what it means to be
+  human and the role of humanity in the world. ...
+
+  Underlying (many technologists') perspectives on the subject is the
+  implicit assumption that the term “intelligence” can be used in the
+  same way to refer to both human intelligence and AI. Yet, this does
+  not capture the full scope of the concept. In the case of humans,
+  intelligence is a faculty that pertains to the person in his or her
+  entirety, whereas in the context of AI, “intelligence” is understood
+  functionally, often with the presumption that the activities
+  characteristic of the human mind can be broken down into digitized
+  steps that machines can replicate. ... it does not account for the
+  full breadth of human experience ... the “intelligence” of a system is
+  evaluated methodologically, but also reductively, based on its ability
+  to produce appropriate responses ... regardless of how those responses
+  are generated. ...
+
+  Human beings are ordered by their very nature to interpersonal
+  communion ... Accordingly, human intelligence is not an isolated
+  faculty but is exercised in relationships, finding its fullest
+  expression in dialogue, collaboration, and solidarity. We learn with
+  others, and we learn through others.
+
+  Human intelligence is ultimately ... for the assimilation of truth.
+  ... it enables the person to explore realities that surpass mere
+  sensory experience or utility, since the desire for truth is part of
+  human nature itself. ... intelligence, in its fullest sense, also
+  includes the ability to savor what is true, good, and beautiful. As
+  the twentieth-century French poet Paul Claudel expressed,
+  'intelligence is nothing without delight.' ...
+
+  Drawing an overly close equivalence between human intelligence and AI
+  risks succumbing to a functionalist perspective, where people are
+  valued based on the work they can perform. However, a person’s worth
+  does not depend on possessing specific skills, cognitive and
+  technological achievements, or individual success, but on the person’s
+  inherent dignity ...
+
+  Considering all these points, as Pope Francis observes, 'the very use
+  of the word intelligence’ in connection with AI 'can prove
+  misleading' and risks overlooking what is most precious in the human
+  person. In light of this, AI should not be seen as *an artificial form*
+  of human intelligence but as *a product* of it."
+
+15 Apr 20255  <a name="15-Apr-2025"></a>
 
 - *Eric Dolphy at the Five Spot: Vol. 1* (1961), Prestige 7611, liner notes
    by Michael Cuscuna, quoting trumpet player Booker Little from
