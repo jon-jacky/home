@@ -23,17 +23,16 @@ the commit history.
 - <https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html> -
   *ANTIQUA ET NOVA: Note on the Relationship Between
   Artificial Intelligence and Human Intelligence*.
-  "Francis, ... on 14 January 2025, ... approved this Note and ordered
+  "Francis ... on 14 January 2025 ... approved this Note and ordered
   its publication."
   via <https://news.ycombinator.com/item?id=43750835>, 
   comment by *jimmcslim* on Pope Francis has died.
 
-  "... AI can be trained on the results of human creativity and then
+  "AI can be trained on the results of human creativity and then
   generate new “artifacts” with a level of speed and skill that often
-  rivals or surpasses what humans can do, such as producing text or
-  images indistinguishable from human compositions. ... This new
-  situation has prompted many people to reflect on what it means to be
-  human and the role of humanity in the world. ...
+  rivals or surpasses what humans can do ... This new situation has
+  prompted many people to reflect on what it means to be human and the
+  role of humanity in the world.
 
   Underlying (many technologists') perspectives on the subject is the
   implicit assumption that the term “intelligence” can be used in the
@@ -47,7 +46,7 @@ the commit history.
   full breadth of human experience ... the “intelligence” of a system is
   evaluated methodologically, but also reductively, based on its ability
   to produce appropriate responses ... regardless of how those responses
-  are generated. ...
+  are generated.
 
   Human beings are ordered by their very nature to interpersonal
   communion ... Accordingly, human intelligence is not an isolated
@@ -61,7 +60,14 @@ the commit history.
   human nature itself. ... intelligence, in its fullest sense, also
   includes the ability to savor what is true, good, and beautiful. As
   the twentieth-century French poet Paul Claudel expressed,
-  'intelligence is nothing without delight.' ...
+  'intelligence is nothing without delight.'
+
+  Human intelligence is not primarily about completing functional tasks
+  but about understanding and actively engaging with reality in all its
+  dimensions; it is also capable of surprising insights. Since AI lacks
+  the richness of corporeality, relationality, and the openness of the
+  human heart to truth and goodness, its capacities —- though seemingly
+  limitless -- are incomparable with the human ability to grasp reality.
 
   Drawing an overly close equivalence between human intelligence and AI
   risks succumbing to a functionalist perspective, where people are
@@ -73,8 +79,7 @@ the commit history.
   Considering all these points, as Pope Francis observes, 'the very use
   of the word intelligence’ in connection with AI 'can prove
   misleading' and risks overlooking what is most precious in the human
-  person. In light of this, AI should not be seen as *an artificial form*
-  of human intelligence but as *a product* of it."
+  person.
 
 15 Apr 20255  <a name="15-Apr-2025"></a>
 
