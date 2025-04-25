@@ -104,6 +104,9 @@ the commit history.
   This author, Gary Chapman, served in Vietnam in the US Army Special
   Forces "Green Berets".  He wrote this almost forty years ago.
 
+  More on AI at [28 Jul 2024](#28-Jul-2024) and 
+  at [10 Jul 2023](#10-Jul-2023).
+
 15 Apr 20255  <a name="15-Apr-2025"></a>
 
 - *Eric Dolphy at the Five Spot: Vol. 1* (1961), Prestige 7611, liner notes
