@@ -81,6 +81,29 @@ the commit history.
   misleading' and risks overlooking what is most precious in the human
   person.
 
+- The New Generation of High Technology Weapons by Gary Chapman.
+  in *Computers in Battle: Will They Work?* ed. David Bellin and
+  Gary Chapman, 1987.
+
+  "Cynics might argue that it is romantic and anachronistic to to
+  invoke the contstraints of war crime law as a means of heading off
+  autonomous weapons. .. But the recognition of limits on the use of
+  force is fundamental to a nation's claim to civilized stature.
+
+  Computers cannot understand the relationship of means to ends
+  because they have no sense of history, no compassion, no longing
+  to live to see their grandchilren, and so on. ... Computers could
+  destroy the world without a moment's reflection or remorse, and
+  for no end whatsoever.
+
+  Autonomous weapons would turn what we call war into unreflective,
+  organized, automatic, near-complete destruction.  They would empty
+  conflict of its human purpose, consequently making war more senseless
+  than ever, even while it became more devastating."
+
+  This author, Gary Chapman, served in Vietnam in the US Army Special
+  Forces "Green Berets".  He wrote this almost forty years ago.
+
 15 Apr 20255  <a name="15-Apr-2025"></a>
 
 - *Eric Dolphy at the Five Spot: Vol. 1* (1961), Prestige 7611, liner notes
