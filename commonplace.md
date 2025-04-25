@@ -83,7 +83,7 @@ the commit history.
 
 - The New Generation of High Technology Weapons by Gary Chapman.
   in *Computers in Battle: Will They Work?* ed. David Bellin and
-  Gary Chapman, 1987 (no link):
+  Gary Chapman, 1987, pages 98 -- 99 (no link):
 
   "Cynics might argue that it is romantic and anachronistic to to
   invoke the contstraints of war crime law as a means of heading off
