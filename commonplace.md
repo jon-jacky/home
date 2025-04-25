@@ -83,11 +83,11 @@ the commit history.
 
 - The New Generation of High Technology Weapons by Gary Chapman.
   in *Computers in Battle: Will They Work?* ed. David Bellin and
-  Gary Chapman, 1987.
+  Gary Chapman, 1987 (no link):
 
   "Cynics might argue that it is romantic and anachronistic to to
   invoke the contstraints of war crime law as a means of heading off
-  autonomous weapons. .. But the recognition of limits on the use of
+  autonomous weapons. ... But the recognition of limits on the use of
   force is fundamental to a nation's claim to civilized stature.
 
   Computers cannot understand the relationship of means to ends
