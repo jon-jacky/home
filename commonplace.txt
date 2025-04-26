@@ -23,7 +23,7 @@ the commit history.
 - A Vocation to Read, by Tim Parks, in *TLS*, Apr 11 2025, p. 27 (no link):
 
   "Why is it so hard to throw books away?  ...
-  In the past, every time I trid to throw away books, I'd find
+  In the past, every time I tried to throw away books, I'd find
   myself reading a page or two, hesitating, thinking, ... 'Maybe I'll get
   around to this on some empty day in old age'.
 
