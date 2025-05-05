@@ -13,6 +13,30 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 5 May 2025  <a name="5-May-2025"></a>
+
+- <https://matthewstrom.com/writing/album-art/> -
+  The history of album art
+
+  Shows the invention of album art by Alex Steinweiss, for Columbia
+  Records, in 1940.  Shows the work of subsequent designers with special
+  emphasis on the Blue Note jazz albums.
+
+- <https://www.flickr.com/photos/jl-incrowd/albums/72157604531858301/> -
+  Vinyl Gallery: Vintage classical album cover graphics
+
+  Many more early classical album covers by Alex Steinweiss and others.
+
+- <https://birkajazz.se/archive/blueNote1500.htm> 
+
+  Blue Note jazz album covers.
+
+  <https://www.openculture.com/2018/11/the-impossibly-cool-album-covers-of-blue-note-records.html>
+
+  Seven minute video about Blue Note records and their album art.
+
+  More album covers at [13 Mar 2021](#13-Mar-2021).
+
  6 Apr 2025  <a name="6-Apr-2025"></a>
 
 - <https://thehtml.review/04/> - *The HTML Review*, Issue 04, Spring 2025
@@ -1314,11 +1338,10 @@ Formerly well-known examples of 1960s and 1970s design:
 
 13 Mar 2021  <a name="13-Mar-2021"></a>
 
-- <https://www.volver.ca/genres/> - "An appointment-only record store ...
+- <https://www.volver.ca/> - "An appointment-only record store ...
   You browse online and pick up in person. I do not ship."
 
-  Use your browser's *Find* function to search for a genre, for example
-  *jazz*. Click on any album cover to enlarge and see both sides, liner
+  Click on any album cover to enlarge, sometimes see both sides, liner
   notes and more.
 
 11 Mar 2021  <a name="11-Mar-2021"></a>
