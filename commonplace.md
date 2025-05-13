@@ -18,6 +18,43 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+12 May 2025  <a name="12-May-2025"></a>
+
+- Golden Gates by John Arlidge, review of *Source Code* by Bill Gates,
+  in *TLS* Feb 21 2025, p. 7 (no link):
+
+  "Gates writes an endearing account of growing up in Seattle in the 1960s
+  ...  It is ironic -- and at times uncomfortable -- that the man more
+  responsible than anyone for the always-on digital world paints an uplifting
+  picture of the pre-tech era, when life was about libraries and a
+  high-school boy ringing up a girl to ask her if she would accompany him
+  to the prom."
+
+- Trying Too Hard by Nikhil Venkatesh, review of *Utilitarianism as a
+  Way of Life* by Bart Schultz, *TLS* Apr 18 2025, p. 11 (no link):
+
+  "given utilitanrianism's need for speculations so prone to error
+  and bias, and its historical support for empire, it might better promote
+  happiness if we reject utilitarianism.  This is not to say that
+  utilitarianism is false.  Rather, it is to say that if utilitarianism
+  is true, and we therefore ought to bring about the most happiness, we
+  ought not to be utilitarians.  Utilitarianism would be what Derek Parfit
+  called 'self-effacing': it would tell us not to believe in itself."
+
+- The Critic as Creator by Jessie Munton, review of *Authority* by
+  Andrea Long Chu, *TLS* Apr 25 2015, p. 21 (no link):
+
+  "Long Chu has acquired a reputation for 'takedowns' ...  Her discussion
+  of Bret Easton Ellis's book of essays *White* ('deeply needless'),
+  for instance, is savage, clever, and read-aloud funny.  Her review
+  of another hapless memoir ('astonishingly clueless') misses the mark
+  because the target isn't substantial enough.  It's like buzzing a hedge
+  trimmer over a pot of struggling tulips.
+
+  Long Chu is a self-described recovering academic, and the superiority
+  of her tone sometimes leaves the reader feeling that she has made it
+  as far as the bar after the seminar, but not much further."
+
 26 Apr 2025  <a name="26-Apr-2025"></a>
 
 - A Vocation to Read, by Tim Parks, in *TLS*, Apr 11 2025, p. 27 (no link):
