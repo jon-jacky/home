@@ -73,7 +73,7 @@ the commit history.
 
 21 Apr 2025  <a name="21-Apr-2025"></a>
 
-- <https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html> -
+- <https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html>  
   *ANTIQUA ET NOVA: Note on the Relationship Between
   Artificial Intelligence and Human Intelligence*.
   "Francis ... on 14 January 2025 ... approved this Note and ordered
@@ -157,9 +157,9 @@ the commit history.
   This author, Gary Chapman, served in Vietnam in the US Army Special
   Forces "Green Berets".  He wrote this almost forty years ago.
 
-- <https://www.vatican.va/news_services/liturgy/2025/documents/ns_lit_doc_20250418_via-crucis-meditazioni_en.html>
-  Way of the Cross at the Colosseum, meditation by Pope Francis on Good Friday,
-  18 April 2025
+- <https://www.vatican.va/news_services/liturgy/2025/documents/ns_lit_doc_20250418_via-crucis-meditazioni_en.html>  
+  *VIA CRUCIS*: Meditation by Pope Francis on Good Friday, 18 April 2025
+  Quoted by James Butler in *London Review of Books*, 8 May 2025, p. 32.
 
   "Today's builders of Babel tell us that there is no room for losers, and
   that those who fall along the way are losers. Theirs is the construction
