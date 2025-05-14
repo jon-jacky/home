@@ -55,7 +55,8 @@ the commit history.
   of her tone sometimes leaves the reader feeling that she has made it
   as far as the bar after the seminar, but not much further."
 
-26 Apr 2025  <a name="26-Apr-2025"></a>
+26 Apr 2025,  <a name="26-Apr-2025"></a>
+13 May 2025  <a name="13-May-2025"></a>
 
 - A Vocation to Read, by Tim Parks, in *TLS*, Apr 11 2025, p. 27 (no link):
 
@@ -155,6 +156,14 @@ the commit history.
 
   This author, Gary Chapman, served in Vietnam in the US Army Special
   Forces "Green Berets".  He wrote this almost forty years ago.
+
+- <https://www.vatican.va/news_services/liturgy/2025/documents/ns_lit_doc_20250418_via-crucis-meditazioni_en.html>
+  Way of the Cross at the Colosseum, meditation by Pope Francis on Good Friday,
+  18 April 2025
+
+  "Today's builders of Babel tell us that there is no room for losers, and
+  that those who fall along the way are losers. Theirs is the construction
+  site of Hell."
 
   More on AI at [28 Jul 2024](#28-Jul-2024) and 
   at [10 Jul 2023](#10-Jul-2023).
