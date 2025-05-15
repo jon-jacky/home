@@ -170,7 +170,9 @@ the commit history.
   on the modern web is devoted to showing you ads and performing tracking
   and surveillance.
 
- 1 Apr 2024, 17 Jan 2025  <a name="1-Apr-2024"></a>
+ 1 Apr 2024,  <a name="1-Apr-2024"></a>
+ 17 Jan 2025,  <a name="17-Jan-2025"></a>
+ 15 May 2025  <a name="15-May-2025"></a>
 
 - <https://www.youtube.com/watch?v=87jfTIWosBw> - 
   Pico-8 and the Search for Cosy Design Spaces by Joseph White (2018)
