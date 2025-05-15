@@ -279,7 +279,22 @@ the commit history.
 
   "I was excited to learn Lua so I could make games
   with the Love 2D game engine. ..."
-   
+
+- http://lua-users.org/lists/lua-l/2012-04/msg00331.html - 
+  What makes Lua tick?
+  
+  "Is very small, both source and binary, an order of magnitude or more
+  smaller than many more popular languages (Python etc). Because the Lua
+  source code is so small and simple, it's perfectly reasonable to just
+  include the entire Lua implementation in your source tree, if you want
+  to avoid adding an external dependency.
+
+  Is very fast. The Lua interpreter is much faster than most scripting
+  languages (again, an order of magnitude is not uncommon), and LuaJIT2
+  is a very good JIT compiler for some popular CPU architectures (x86,
+  ppc). Using LuaJIT can often speed things up by another order of
+  magnitude, and in many cases, the result approaches the speed of C. ..."
+
 13 Jun 2023
 
 - https://www.marginalia.nu/log/57-dont-know-how-to-build-software/ -
