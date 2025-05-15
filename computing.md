@@ -295,6 +295,10 @@ the commit history.
   ppc). Using LuaJIT can often speed things up by another order of
   magnitude, and in many cases, the result approaches the speed of C. ..."
 
+- <https://www.lua.org/manual/5.2/manual.html#9> - The Complete Syntax of Lua
+
+  "Here is the complete syntax of Lua in extended BNF."
+
 13 Jun 2023  <a name="13-Jun-2023"></a>
 
 - <https://www.marginalia.nu/log/57-dont-know-how-to-build-software/> -
