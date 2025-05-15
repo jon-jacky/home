@@ -273,6 +273,11 @@ the commit history.
   More of this author's LOVE programs, and some rationale, here:
   <https://akkartik.name/prose-all>
 
+- <https://tylerneylon.com/a/learn-lua/> - Learn Lua in 15 Minutes
+
+  "I was excited to learn Lua so I could make games
+  with the Love 2D game engine. ..."
+
 13 Jun 2023  <a name="13-Jun-2023"></a>
 
 - <https://www.marginalia.nu/log/57-dont-know-how-to-build-software/> -
