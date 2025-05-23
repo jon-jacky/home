@@ -18,6 +18,19 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+23 May 2025  <a name="23-May-2025"></a>
+
+- At 77, as Sophomoric, and Funny, as Ever, by Dwight Garner,
+  review of *Class Clown* by Dave Barry, in *The New York Times*
+  May 20 2025, p. C3 (no link):
+
+  "(Barry) took an unlikely seven-year detour into teaching business
+  writing to the employees of major companies.  It made him a better writer:
+
+  'I became more conscious of details, of how even minor changes in
+  vocabulary and structure affect the tone of a sentence -- to make it
+  sound more pompous, or more stupid, or whatever effect I'm going for.'"
+
 12 May 2025  <a name="12-May-2025"></a>
 
 - Golden Gates by John Arlidge, review of *Source Code* by Bill Gates,
@@ -251,7 +264,7 @@ the commit history.
   erupting decision in favor of ignorance, of deliberate exclusion,
   a shutting of one's windows, an internal No to this or that, a refusal
   to let things approach, a kind of state of defence against much that is
-  knowable, a satisfacgtion with the dark, with the limiting horizon,
+  knowable, a satisfaction with the dark, with the limiting horizon,
   a Yea and Amen to ignorance'. ...
 
   'The world is a recaclitrant place', Lilla writes, and 'there are things
