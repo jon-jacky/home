@@ -18,6 +18,26 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 4 Jun 2025
+ 
+- *The Elements of Marie Curie* by Dava Soble, p. 127 (no link):
+
+  (While recuperating from an illness, Marie) passed hours watching
+  the silkworms that (her daughters) Irene and Eve raised in glass jars
+  on the windowsills.  In a letter to her niece Hanna, she said that 
+  the silkworms' incessant activity sometimes made her fancy herself one
+  of them.  ... like them, she always strove with determination toward
+  a goal.  Like them, she said, she had never had the least assurance
+  of knowing her goal was true, or whether she could reach it, regardless
+  of the effort expended. 'I did those things because something obliged
+  me to, just as the silkworm is obliged to spin its cocoon,' she told Hanna.
+  ... These musings lead her to conclude, 'Each of us must spin our own
+  cocoon, dear Hanna, without asking why, or to what end.'"
+
+  Marie Curie achieved success and fame after working for years in a shed,
+  refining a ton of ore to finally discover and purify a tenth of a gram
+  of the element radium.
+  
 23 May 2025
 
 - At 77, as Sophomoric, and Funny, as Ever, by Dwight Garner,
