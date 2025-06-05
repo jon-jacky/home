@@ -20,7 +20,7 @@ the commit history.
 
  4 Jun 2025  <a name="4-Jun-2025"></a>
 
-- *The Elements of Marie Curie* by Dava Soble, p. 127 (no link):
+- *The Elements of Marie Curie* by Dava Sobel, p. 127 (no link):
 
   (While recuperating from an illness, Marie) passed hours watching
   the silkworms that (her daughters) Irene and Eve raised in glass jars
@@ -36,7 +36,7 @@ the commit history.
 
   Marie Curie achieved success and fame after working for years in a shed,
   refining a ton of ore to finally discover and purify a tenth of a gram
-  of the element radium.
+  of the previously unknown element radium.
 
 23 May 2025  <a name="23-May-2025"></a>
 
