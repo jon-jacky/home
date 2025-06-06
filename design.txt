@@ -13,6 +13,16 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+ 5 Jun 2025
+ 
+- https://diagram.website/ 
+
+  Diagram with links to many unusual web sites. Click day (etc.) button
+  in lower left corner to change color scheme and show labels for
+  sections of the diagram.
+  
+  via https://www.are.na/editorial/paging-the-poetic-web
+  
  5 May 2025
  
 - https://matthewstrom.com/writing/album-art/ -
