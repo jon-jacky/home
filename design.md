@@ -22,6 +22,7 @@ Companion page, a commonplace book:
   sections of the diagram.
 
   via <https://www.are.na/editorial/paging-the-poetic-web>
+  mostly about the printed  *Internet Phone Book*.
 
  5 May 2025  <a name="5-May-2025"></a>
 
