@@ -111,6 +111,8 @@ Companion page, a commonplace book:
 - <http://kakakompyutermoyan.com/opening/> - KAKAKOMPYUTER  MO YAN! -
   via Chia Amisola's page, above.
 
+- <https://chia.design/> - her home page
+
 26 Dec 2024  <a name="26-Dec-2024"></a>
 
 - <https://code-poetry.com/>  Code poetry
