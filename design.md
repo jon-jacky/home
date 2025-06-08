@@ -13,11 +13,30 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 7 Jun 2025  <a name="7-Jun-2025"></a>
+
+- <https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html> - Improved Web Component for Pixel-Accurate Atkinson Dithered Images
+
+  via <https://www.metafilter.com/209090/RIP-Bill-Atkinson> - RIP Bill Atkinson
+
+  "Sad news. His eponymous dithering algorithm has never been beaten for
+  crushing images down to crisp black and white.
+
+  A few years ago I made a web component that implements Atkinson
+  Dithering, using some tricks to get the same sharp pixelated look that
+  you might remember from the 80s. You can play with it here with your own
+  images.  *AndrewStephens*"
+
+  also <https://github.com/tgray/hyperdither> - 
+  Simple Atkinson style dithering using Python
+
+  Similar effects below at 9 May 2023 and at [12 May 2022](#12-May-2022)
+
  5 Jun 2025  <a name="5-Jun-2025"></a>
 
 - <https://diagram.website/> 
 
-  Diagram with links to many unusual web sites. Click day (etc.) button
+  Diagram with links to many unusual web sites. Click 'day' (etc.) button
   in lower left corner to change color scheme and show labels for
   sections of the diagram.
 
