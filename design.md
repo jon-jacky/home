@@ -25,7 +25,7 @@ Companion page, a commonplace book:
   A few years ago I made a web component that implements Atkinson
   Dithering, using some tricks to get the same sharp pixelated look that
   you might remember from the 80s. You can play with it here with your own
-  images.  *AndrewStephens*"
+  images."  -- *AndrewStephens*
 
   also <https://github.com/tgray/hyperdither> - 
   Simple Atkinson style dithering using Python
