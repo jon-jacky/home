@@ -30,7 +30,7 @@ Companion page, a commonplace book:
   also <https://github.com/tgray/hyperdither> - 
   Simple Atkinson style dithering using Python
 
-  Similar effects below at 9 May 2023 and at [12 May 2022](#12-May-2022)
+  Similar effects below at [9 May 2023](#9-May-2023) and at [12 May 2022](#12-May-2022)
 
  5 Jun 2025  <a name="5-Jun-2025"></a>
 
