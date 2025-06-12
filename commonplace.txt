@@ -18,6 +18,37 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+11 Jun 2025
+
+- With Fresh Eyes by Diarmid McCulloch, review of
+  *Journeys of the Mind: A Life in History* by Peter Brown, 
+  in *London Review of Books*, 5 Jun 2025, p. 37 (no link):
+  
+  "Most people in Western cultures are comfortable with the terms
+  'Middle Ages' and 'medieval' ... Often a term will reveal some
+  half-expressed idea of progress: that's how things were, and now
+  they are better -- hence the commonplace use of 'medieval' with a 
+  pejorative or condescending edge.  ...
+  
+  Alternatively the historical narrative may be one of decline ...
+  An early example of decline periodisation has been one of the most
+  influential ... (it) is owed to the prolific historian Cassius Dio.
+  ...  Capturing the gloom that had been a frequent mood among the 
+  senatorial class since the days of the republic, he looked back on
+  his own lifetime, and described the transition after 180 CE from the
+  rule of competent and sane Antonine emporers to that of a bunch of
+  imperial lunatics, chancers and tyrants.  It was a preciptous descent
+  'from a kingdom of gold to one of iron and rust', still rusting away
+  at the end of his story sometime around 230. 
+  
+  Dio's periodisation effectively gave the title to one of the most
+  influential books in Western historiography, Edward Gibbon's *History
+  of the Decline and Fall of the Roman Empire* (1776-88).  Gibbon began
+  his story in Dio's fashion: ... he commented that seven centuries of 
+  Roman history, both republican and imperial, had witnessed 'a rapid 
+  succession of triumphs', until 180 CE, when 'the prosperous condition 
+  of their empire' began to erode.  After that it was downhill all the way." 
+  
  4 Jun 2025
  
 - *The Elements of Marie Curie* by Dava Sobel, p. 127 (no link):
