@@ -30,7 +30,7 @@ Companion page, a commonplace book:
   also <https://github.com/tgray/hyperdither> - 
   Simple Atkinson style dithering using Python
 
-  Similar effects below at [9 May 2023](#9-May-2023) and at [12 May 2022](#12-May-2022)
+  Similar effects below at 9 May 2023 and at [12 May 2022](#12-May-2022)
 
  5 Jun 2025  <a name="5-Jun-2025"></a>
 
@@ -1952,7 +1952,7 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 24 Jan 2025:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 14 Jun 2025:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
@@ -1967,10 +1967,15 @@ Formerly well-known examples of 1960s and 1970s design:
   horizontally."  When you scroll to the bottom of a column, the screen
   scrolls to the left, exposing new panels on the right.
 
+- <https://research.mietek.io/mi.MartinLof2006.html> -
+  Zermelo's axiom of choice.   Another typewriter font with mathematical
+  symbols.
+
 - <https://dfns.dyalog.com/n_sudoku.htm> - Sudoku in APL.  Lots of information,
   absolutely no clutter.  Entire page is nothing but text in a single precise
   sans-serif typewriter font, the same size and strength for everything:
-  headings, explanation, code, and diagrams.
+  headings, explanation, code, and diagrams.  Typewriter font includes
+  mathematical symbols.
 
 - <https://tinyawards.net/?2024> -
   Unusual background color.   No text on the first page, only a line
