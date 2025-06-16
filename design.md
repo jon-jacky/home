@@ -13,6 +13,28 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+15 Jun 2025  <a name="15-Jun-2025"></a>
+
+- <https://www.ina.fr/ina-eclaire-actu/video/cpf86651489/les-mods> -
+  Les Mods (1965)
+
+  "A la dcouverte de la nouvelle jeunesse anglaise, dans le quartier de
+  Hammersmith, banlieue de Londres et plus particulierement du mouvement
+  "Mods" ou "Modern", nouveaux dandys, anticonformistes issus du milieu
+  ouvrier.  Les interviews ... alternent avec des sequences de concert des
+  WHO sur une petite scene a Londres."
+
+  Performance by the Who starts at 7:15 and is scattered through the video.
+  Pete Townshend interview starts at 9:15 but his words are inaudible
+  under the French voice-over.
+
+  This simple, clear page design contrasts with
+  the clutter of YouTube and most other video sites.
+  I especially like how the plain colored rectangle sets off
+  the equally plain video window with its simple black and white content.
+
+  via <https://www.metafilter.com/98418/The-Who-Live-in-1965>
+
  7 Jun 2025  <a name="7-Jun-2025"></a>
 
 - <https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html> - Improved Web Component for Pixel-Accurate Atkinson Dithered Images
