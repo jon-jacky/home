@@ -13,6 +13,17 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+21 Jul 2025  <a name="21-Jul-2025"></a>
+
+- <https://www.flickr.com/photos/maraid/albums/72157604922299315/> -
+  Japanese Matchbox Labels, 1920s - 1940s
+
+- <https://www.miniaturejapanesewoodblocks.net/> - 
+  Miniature Japanese Woodblock Prints
+
+- <https://50watts.com/filter/editor>'s-choice/A-Story-of-Books-Becoming-a-Mountain -
+  Children's Book and Magazine Covers from Korea, 1940s and 50s
+
 15 Jun 2025  <a name="15-Jun-2025"></a>
 
 - <https://www.ina.fr/ina-eclaire-actu/video/cpf86651489/les-mods> -
