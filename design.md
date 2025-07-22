@@ -21,7 +21,7 @@ Companion page, a commonplace book:
 - <https://www.miniaturejapanesewoodblocks.net/> - 
   Miniature Japanese Woodblock Prints
 
-- <https://50watts.com/filter/editor>'s-choice/A-Story-of-Books-Becoming-a-Mountain -
+- <https://50watts.com/filter/editor's-choice/A-Story-of-Books-Becoming-a-Mountain> -
   Children's Book and Magazine Covers from Korea, 1940s and 50s
 
 15 Jun 2025  <a name="15-Jun-2025"></a>
