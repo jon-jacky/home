@@ -18,6 +18,92 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+28 Aug 2025
+
+- Life beyond literature: a year without reading, by Daniel Karlin,
+  in *TLS*, Aug 1, 2025, pps 3 - 4 (no link):
+   
+  "On January 1, 2024, I embarked on a project I had had in mind since my
+  retirement four years earlier: to spend a year without reading a single
+  book, newspaper, magazine, learned journal, academic treatise -- indeed,
+  anything printed on paper that did not 'officially' require me to read it. 
+  ...
+  
+  My reasons for trying the experiment seemed, to me, plain enough.  I have
+  no memory, or only wisps and fragments, of a time in my life when I could
+  not read.   I cannot remember what it was like, not just to be 'illiterate',
+  but to be 'illiterary'.  One of my reasons for not reading was to recover
+  this anterior self -- a naive, an impossible quest.  Like other explorers,
+  I stumbled on places I hadn't set out to find. ...   I was able to think
+  through what reading meant to me, in the historical perspective of my life.
+  Here ... are three of the discoveries I made.
+  
+  The first was how odd, and difficult, I found it to think for myself.
+  (19th century author Charles) Lamb comments:
+  
+      - 'I must confess that I dedicate no inconsiderable portion of 
+         of my time to other people's thoughts.  I dream away my life
+         in others' speculations. ... I cannot sit and think.  Books think
+         for me.'
+
+  I found there was some truth in this, and that, in depriving myself of
+  books, I had removed the wall against which I had bounced my thoughts.
+  It was much harder than I expected to think deliberately about something,
+  anything. ... that final short sentence, 'Books think for me', opened up
+  a gulf at my feet.  Is that what had happened to me?   The sentence has a 
+  glint of the sinister ... with the book as living parasite or body-snatcher.
+  ... If I were to rebel against God, it would take the form of denying that
+  books think for me, and I would be flying in the face of evidence.
+  
+  My second discovery was about memory.  I became aware of (or anxious 
+  about, to be honest) how little of the literature I'd read, particularly
+  poetry, I could remember -- that is, remember verbatim. ... it was 
+  disconcerting to find that, if I had been asked to participate in the
+  famous last scene of Francois Truffaut's film adaptation of *Fahrenheit 451*,
+  I would have been unable to introduce myself by saying 'I am the poems
+  of Robert Browning', or even 'I am a few poems of Robert Browning', but
+  only 'I am a few scattered verses of Robert Browning, some of which may
+  not even be by him'.  On a desert island, I would be without resource.
+
+  Both of these discoveries concerned aspects of mental life (thinking
+  and remembering); the third was perhaps less a discovery than a
+  realization, a coming-to-consciousness. ... (Discovering books) is a
+  joyous discovery, but also a fraught, a dangerous one. ... the danger
+  affects any young reader ... who sets out alone on a journey through
+  the 'world of books'. This is because -- in the resonant phrase I did
+  remember -- 'the world of books is still the world'. Reading is not
+  segregated from 'real life', but part of it; and in this world not
+  everyone is benign. Books, like people, have power over you, and some
+  will wield that power without scruple and without mercy. ... Their
+  power to seduce, to enchant, to rescue, to corrupt hangs by the thread
+  of our attention ... (I felt) anguish at the thought of what some
+  books had done to me ...
+
+  The emblematic instance, for me, is Walter Scott's *Ivanhoe*, a master
+  key to the 'work' of imagination and fantasy in my adolescence.
+  I read it in the year following my father's death in Paris, when my
+  family returned to England, and I started school there, I was thirteen
+  years old. ... The book embodied the dissociation I felt (and continue
+  to feel) between, on the one hand, Englishness, Britishness, and on the
+  other, Jewishness, foreigness, alienation -- the side from which I turned
+  away. ...  Of course I knew myself to be Jewish, yet it wasn't with Isaac
+  or Rebecca or any of the Jewish characters I identified, but with Ivanhoe
+  or Richard Coeur-de-Lion.  ... This is a familiar syndrome in the Jewish
+  experience of assimilation, I know, and I don't repeat it for its own sake
+  but because of what it suggests, specifically, about the part played
+  by reading in my 'make-up'.  Scott was joined by C. S. Lewis,  Rudyard
+  Kipling, John Buchan and Ian Fleming, among many others; I became, and
+  have remained, 'English' by a form of literary-ideological adoption.
+  I must have desired this, yet it seems to me also that I yielded to the
+  desire of the books I read. ..
+  
+  When I began the project, I didn't envision it as a memoir, and 
+  conceived of my experience as representative and, so to speak,
+  neutral ... It was naive of me not to antiicipate what stopping reading --
+  stopping to think about reading -- would involve.   If reading has been
+  my life's work, that means more -- far more -- than its having merely
+  occupied my 'working life'."
+        
 11 Jun 2025
 
 - With Fresh Eyes by Diarmid McCulloch, review of
@@ -140,7 +226,7 @@ the commit history.
   
 
 26 Apr 2025,
-13 May 2025 
+13 May 2025
 
 - A Vocation to Read, by Tim Parks, in *TLS*, Apr 11 2025, p. 27 (no link):
 
@@ -154,7 +240,7 @@ the commit history.
   life to books: reading, writing, teaching, translating, reviewing.
   Now here they all are, piled floor to ceiling, choking my space.
   Far from creating an illusion of possessing culture, they seem to mock me."
-   
+
 21 Apr 2025
 
 - https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html  
