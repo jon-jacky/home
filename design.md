@@ -21,7 +21,7 @@ Companion page, a commonplace book:
 - <https://www.miniaturejapanesewoodblocks.net/> - 
   Miniature Japanese Woodblock Prints
 
-- <https://50watts.com/filter/editor's-choice/A-Story-of-Books-Becoming-a-Mountain> -
+- <https://50watts.com/filter/editor>'s-choice/A-Story-of-Books-Becoming-a-Mountain -
   Children's Book and Magazine Covers from Korea, 1940s and 50s
 
 15 Jun 2025  <a name="15-Jun-2025"></a>
@@ -1059,9 +1059,15 @@ Formerly well-known examples of 1960s and 1970s design:
 
   More about *Tractatus* at [26 Jul 2020](#26-Jul-2020)
 
- 7 Nov 2021, 17 Mar 2022, 16 Nov 2022, 20 Nov 2022  <a name="7-Nov-2021"></a>
+ 7 Nov 2021, 17 Mar 2022, 16 Nov 2022, 20 Nov 2022, 12 Sep 2025  <a name="7-Nov-2021"></a>
 
 - Meta: pages *about* some of the technology behind computer typography.
+
+  <https://iamvishnu.com/posts/utf8-is-brilliant-design> -
+  UTF-8 is a Brilliant Design
+  "Designing a system that scales to millions of characters and still be
+  compatible with the old systems that use just 128 characters is a
+  brilliant design."
 
   <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/> -
   The Absolute Minimum Every Software Developer Absolutely, Positively
@@ -1144,6 +1150,10 @@ Formerly well-known examples of 1960s and 1970s design:
   We concluded that the actual encoding is relatively unimportant to the
   software; the adoption of large characters and a byte-stream encoding
   per se are much deeper issues. ..."
+
+  <https://research.swtch.com/utf8> - UTF-8: Bits, Bytes, and Benefits
+  One page summary from the same group that created UTF-8 and wrote the
+  preceding paper.
 
   <https://nedbatchelder.com/text/unipain.html> - Pragmatic Unicode (2012)
 
