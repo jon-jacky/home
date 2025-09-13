@@ -13,6 +13,18 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 
+13 Sep 2025
+
+- https://dws.rip/ - DWS OS, a Plan 9 Inspired Web "OS"
+
+  "I've always loved the aesthetic, quirks, and concepts of Plan9, and I
+  wanted to see how far I could vibe-code a web desktop/OS that
+  resembled it. ..."
+  
+  The desktop actually works -- it is surprisingly complete!
+
+  via https://news.ycombinator.com/item?id=45223053  with more details.
+  
 21 Jul 2025
 
 - https://www.flickr.com/photos/maraid/albums/72157604922299315/ -
@@ -1153,6 +1165,8 @@ Formerly well-known examples of 1960s and 1970s design:
 
   https://research.swtch.com/utf8 - UTF-8: Bits, Bytes, and Benefits
   One page summary from the same group that created UTF-8 and wrote the
+
+
   preceding paper.
 
   https://nedbatchelder.com/text/unipain.html - Pragmatic Unicode (2012)
