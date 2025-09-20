@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+19 Sep 2025  <a name="19-Sep-2025"></a>
+
+- <https://casualarchivist.substack.com/p/order-up> -
+  "Todays collection is a grab bag of midcentury North American restaurant
+  placemats. ..."
+
+  via <https://news.ycombinator.com/item?id=45265487> 
+  with more links to nostalgic ephemera.
+
 13 Sep 2025  <a name="13-Sep-2025"></a>
 
 - <https://dws.rip/> - DWS OS, a Plan 9 Inspired Web "OS"
@@ -21,7 +30,7 @@ Companion page, a commonplace book:
   wanted to see how far I could vibe-code a web desktop/OS that
   resembled it. ..."
 
-  The desktop actually works -- it is surprisingly complete!
+  Click some buttons - many actually work.
 
   via <https://news.ycombinator.com/item?id=45223053>  with more details.
 
