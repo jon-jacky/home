@@ -15,6 +15,19 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 1 Oct 2025  <a name="1-Oct-2025"></a>
+
+- <https://user.eng.umd.edu/~blj/funny/requium.html> -
+  A Requiem for a Dying Operating System by Rachael Padman
+
+  "Douglas Adams may well have had Unix in mind when he described the
+  products of the Sirius Cybernetics Corporation thus: 'It is very easy
+  to be blinded to the essential uselessness of them by the sense of
+  achievement you get from getting them to work at all. In other words
+  --- and this is the rock solid principle on which the whole of [its]
+  Galaxy-wide success is founded --- their fundamental design flaws are
+  completely hidden by their superficial design flaws.'"
+
 21 Mar 2025  <a name="21-Mar-2025"></a>
 
 - <https://dercuano.github.io/notes/thredsnek.html> -
