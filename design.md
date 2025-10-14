@@ -2018,10 +2018,14 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 14 Jun 2025:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 13 Oct 2025:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
+
+- <https://sites.gatech.edu/alexburgin/on-self-respect-by-joan-didion/> -
+  Dramatic sepia photograph contrasts with understated gray
+  text on light gray background with lots of empty space.
 
 - <https://wonger.dev/nuggets> - "A stream of thoughts, tips, doings and dones."
   A lot of very short posts in a sort of table.
