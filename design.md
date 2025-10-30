@@ -13,6 +13,15 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+30 Oct 2025  <a name="30-Oct-2025"></a>
+
+- <https://visualrambling.space/dithering-part-1/> - Dithering
+
+  Animated, interactive demo and explanation of dithering, that is,
+  rendering grayscale images with just black and white pixels.
+
+  More on dithering at [7 Jun 2025](#7-Jun-2025)
+
 19 Sep 2025  <a name="19-Sep-2025"></a>
 
 - <https://casualarchivist.substack.com/p/order-up> -
