@@ -28,7 +28,7 @@ the commit history.
   'What if we were all sidemen?'" ...
 
 - World-Beating Buster Upper by Colin Barrow, review of *The Letters of
-  Muriel Spark, Vol 1: 1944-63 by Dan Gunn and *Electric Spark: The
+  Muriel Spark, Vol 1: 1944-63* by Dan Gunn and *Electric Spark: The
   Enigma of Muriel Spark* by Frances Wilson.  In *London Review of Books*
   9 Oct 2025, p.35 -- 36 (no link).  <a name="9-Oct-2025"></a>
 
