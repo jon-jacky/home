@@ -13,6 +13,25 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+27 Nov 2025  <a name="27-Nov-2025"></a>
+
+- <https://zehfernandes.com/posts/the-folded-world> - 
+  The Folded World by Zeh Fernandes
+
+  " ... Classical paintings, early computer interfaces, neon vector grids, and
+  digital remnants sit side by side, compressed into a single surface
+  much like features in a neural layer. ..."
+
+  The link in the lower left corner seems to lead to some kind of control
+  panel.
+
+- <https://reverser.dev/linux-kernel-explorer> - 
+  Linux Kernel Explorer
+
+  For viewng the Linux kernel source files.   The left panel lists
+  directories and files, the middle panel shows the contents of the
+  selected file, and the right panel is a hyperlinked manual.
+
 15 Nov 2025  <a name="15-Nov-2025"></a>
 
 - <https://minimalissimo.com/> - Minimalism in Art and Design
