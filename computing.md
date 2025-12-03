@@ -15,6 +15,51 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 2 Dec 2025  <a name="2-Dec-2025"></a>
+
+- <https://github.com/farant/rhubarb> - C89 Libraries in Latin
+
+  via <https://news.ycombinator.com/item?id=46088823> where the author writes:
+
+  "Considering all the supply chain dependencies lately I've been
+  building a collection of C89 libraries to make zero dependency stuff.
+  For fun I have also been programming it in latin! ..."
+
+  And in the repository in *docs/latina.h.md*:
+
+  "Alright. I know what you're thinking. You opened this file, you saw C
+  keywords replaced with Latin words, and you thought "this person has
+  lost their mind." ... But if you're still reading, I'm gonna explain
+  why this exists, what it actually does, and why it's not as insane as
+  it looks at first glance. ...
+
+  Software has been on this incredibly short time horizon ... Gold rush
+  mentality. First mover advantage. Move fast and break things. All that
+  nonsense.
+
+  But what if you're trying to build something that lasts? Not five
+  years. Not ten years. Generations. Centuries, potentially. What does
+  that even look like? ...
+
+  You know what language has been a universal language for educated
+  people for over 2000 years? Latin. The Catholic Church has been using
+  it since before there was a printing press. Cicero would recognize it.
+  Thomas Aquinas would recognize it. It's stable in a way English never
+  will be.
+
+  So if you're building something for the long term - really long term,
+  multi-generational long term - using Latin isn't crazy. It's actually
+  kind of obvious. ..."
+
+  In *include/latina.h*, they use the C preprocessor to redefine the C
+  keywords in Latin. Also, many numeric constants -- instead of *4096* you
+  write *MMMMXCVI*.
+
+  The other files in docs explain each library routine in English, but
+  the code samples are in Latin. The source files - a lot of them! - are
+  in *include* and *lib*. The code is all in Latin, including the error
+  messages and comments.
+
  1 Oct 2025  <a name="1-Oct-2025"></a>
 
 - <https://user.eng.umd.edu/~blj/funny/requium.html> -
