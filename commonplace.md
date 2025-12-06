@@ -40,7 +40,7 @@ the commit history.
   until some time after the novel has been written and published.'"
 
 - Reflexive Hostility by Blake Morrison, review of *Flashlight* by
-  Susan Choi in *London Review of Books*  9 Oct 2025, p. 47
+  Susan Choi in *London Review of Books*  9 Oct 2025, p. 47 (no link).
 
   "It's brave of Choi to make her main character so dislikable,  a trick
   she learned from Muriel Spark.  'The great thing about Spark,' she said
@@ -50,7 +50,8 @@ the commit history.
   Jean Brodie is terrible.  And the writing is terrific.'"
 
   (I don't agree it is infantile to want to identify with good.
-  Also, there is a big difference between likable and good.)
+  Also, there is a big difference between likable and good.
+  But Choi and Spark are both worth reading.)
 
 28 Aug 2025  <a name="28-Aug-2025"></a>
 
