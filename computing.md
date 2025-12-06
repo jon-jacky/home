@@ -17,21 +17,12 @@ the commit history.
 
  2 Dec 2025  <a name="2-Dec-2025"></a>
 
-- <https://github.com/farant/rhubarb> - C89 Libraries in Latin
+- <https://github.com/farant/rhubarb/blob/main/docs/latina.h.md>
 
-  via <https://news.ycombinator.com/item?id=46088823> where the author writes:
-
-  "Considering all the supply chain dependencies lately I've been
-  building a collection of C89 libraries to make zero dependency stuff.
-  For fun I have also been programming it in latin! ..."
-
-  And in the repository in *docs/latina.h.md*:
-
-  "Alright. I know what you're thinking. You opened this file, you saw C
-  keywords replaced with Latin words, and you thought "this person has
-  lost their mind." ... But if you're still reading, I'm gonna explain
-  why this exists, what it actually does, and why it's not as insane as
-  it looks at first glance. ...
+  "You opened this file, you saw C keywords replaced with Latin words,
+  and you thought "this person has lost their mind." ... I'm gonna
+  explain why this exists, what it actually does, and why it's not as
+  insane as it looks at first glance. ...
 
   Software has been on this incredibly short time horizon ... Gold rush
   mentality. First mover advantage. Move fast and break things. All that
@@ -39,7 +30,17 @@ the commit history.
 
   But what if you're trying to build something that lasts? Not five
   years. Not ten years. Generations. Centuries, potentially. What does
-  that even look like? ...
+  that even look like?
+
+  Well, you probably don't use JavaScript. You use something lower
+  level, something that's been stable for decades. Like C89. That's a
+  good start.
+
+  But there's another problem. English isn't a sacred language. It's not
+  a universal language. It's the current lingua franca because of
+  historical accidents - British Empire, American dominance, whatever.
+  In 500 years? Who knows. Maybe everyone speaks Mandarin. Maybe we're
+  all speaking some creole nobody can predict.
 
   You know what language has been a universal language for educated
   people for over 2000 years? Latin. The Catholic Church has been using
@@ -51,14 +52,11 @@ the commit history.
   multi-generational long term - using Latin isn't crazy. It's actually
   kind of obvious. ..."
 
-  In *include/latina.h*, they use the C preprocessor to redefine the C
-  keywords in Latin. Also, many numeric constants -- instead of *4096* you
-  write *MMMMXCVI*.
+  From <https://github.com/farant/rhubarb>, C89 libraries rewritten in Latin.
+  The source files, all in Latin, are in *include* and *lib*.
 
-  The other files in docs explain each library routine in English, but
-  the code samples are in Latin. The source files - a lot of them! - are
-  in *include* and *lib*. The code is all in Latin, including the error
-  messages and comments.
+  The same author's *Aquinas OS* at <https://github.com/farant/aquinas>
+  is also interesting.
 
  1 Oct 2025  <a name="1-Oct-2025"></a>
 

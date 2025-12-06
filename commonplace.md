@@ -18,7 +18,7 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
-24 Nov 2025  <a name="24-Nov-2025"></a>
+24 Nov 2025, 6 Dec 2025  <a name="24-Nov-2025"></a>
 
 - Jack DeJohnette, Jazz Drummer in Era-Defining Bands, Dies at 83.
   *New York Times*, Tues Oct 28 2025, p. A24 (no link).
@@ -38,6 +38,19 @@ the commit history.
   the novel that she has written. ...  As the heroine, Fleur Talbot, says,
   'Sometimes I don't actually meet a character I have created in a novel
   until some time after the novel has been written and published.'"
+
+- Reflexive Hostility by Blake Morrison, review of *Flashlight* by
+  Susan Choi in *London Review of Books*  9 Oct 2025, p. 47
+
+  "It's brave of Choi to make her main character so dislikable,  a trick
+  she learned from Muriel Spark.  'The great thing about Spark,' she said
+  in an interview, 'is that she frees you from that infantile desire to
+  affirm your own goodness by identifying with characters who are good.
+  There's no moral center.   The girls are awful.  The men are awful.
+  Jean Brodie is terrible.  And the writing is terrific.'"
+
+  (I don't agree it is infantile to want to identify with good.
+  Also, there is a big difference between likable and good.)
 
 28 Aug 2025  <a name="28-Aug-2025"></a>
 
