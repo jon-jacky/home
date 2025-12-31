@@ -15,6 +15,25 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+30 Dec 2025  <a name="30-Dec-2025"></a>
+
+- <https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f> -
+  Andrej Karpathy on programming with AI assistance
+
+  "I've never felt this much behind as a programmer. ... There's a new
+  programmable layer of abstraction to master (in addition to the usual
+  layers below) involving agents, subagents, their prompts, contexts,
+  memory, modes, permissions, tools, plugins, skills, hooks, MCP, LSP,
+  slash commands, workflows, IDE integrations, and a need to build an
+  all-encompassing mental model for strengths and pitfalls of
+  fundamentally stochastic, fallible, unintelligible and changing
+  entities suddenly intermingled with what used to be good old fashioned
+  engineering. Clearly some powerful alien tool was handed around except
+  it comes with no manual and everyone has to figure out how to hold it
+  and operate it ..."
+
+  The author is a prominent AI researcher and programmer.
+
  2 Dec 2025  <a name="2-Dec-2025"></a>
 
 - <https://github.com/farant/rhubarb/blob/main/docs/latina.h.md>
