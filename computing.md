@@ -17,7 +17,7 @@ the commit history.
 
 30 Dec 2025  <a name="30-Dec-2025"></a>
 
-- <https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f> -
+- <https://x.com/karpathy/status/2004607146781278521> -
   Andrej Karpathy on programming with AI assistance
 
   "I've never felt this much behind as a programmer. ... There's a new
