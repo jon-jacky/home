@@ -1118,7 +1118,7 @@ Formerly well-known examples of 1960s and 1970s design:
 
   More about *Tractatus* at 26 Jul 2020
  
- 7 Nov 2021, 17 Mar 2022, 16 Nov 2022, 20 Nov 2022, 12 Sep 2025
+ 7 Nov 2021, 17 Mar 2022, 16 Nov 2022, 20 Nov 2022, 12 Sep 2025, 3 Jan 2026
 
 - Meta: pages *about* some of the technology behind computer typography.
 
@@ -1143,6 +1143,11 @@ Formerly well-known examples of 1960s and 1970s design:
   https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt - UTF-8 History 
   (2003, recalls 1992).  via https://news.ycombinator.com/item?id=26735958
 
+  https://fontgenerator.design/symbols - Unicode symbols -
+  Curated symbol sets for math, arrows, box drawing, block elements,
+  control pictures, geometry, tech/UI, and punctuation.
+  via https://news.ycombinator.com/item?id=46384975 with many alternatives
+  
   https://www.cl.cam.ac.uk/~mgk25/ucs/UTF-8-Plan9-paper.pdf - UTF-8 in
   Plan 9 - *Winter 1993 USENIX Conference*. The original implementation.
   This paper provides a good explanation of the distinction between
