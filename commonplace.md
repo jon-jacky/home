@@ -18,9 +18,9 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
- 6 Dec 2025  <a name="6-Dec-2025"></a>
+ 6 Dec 2025, 11 Jan 2026  <a name="6-Dec-2025"></a>
 
-- *Minor Black Figures* by Brandon Taylor.  Chapter 10, pps. 245 -- 245
+- *Minor Black Figures* by Brandon Taylor.  Chapter 10, pps. 245 -- 246
   (no link).
 
   "There had been something very homemade in (the printmakers') efforts,
@@ -37,6 +37,40 @@ the commit history.
   as much dexterity as they have in their fingers.  I need that more than
   the subject matter itself.'"
 
+- Craftwork, by Susan Owens, review of *Craftland* by James Fox and
+  *The Lost Folk* by Lally MacBeth in *TLS*, Nov 28 2025, p. 39 (no link):
+
+  "'Craft is a tricky word, and James Fox admits that not all the people
+  featured in his new book are happy to own it.  In Devon, he witnesses
+  a tourist greeting a wheelwright with with the words, 'Good for you, good
+  for you old chap, keeping the craft alive!', and records the latter's
+  furious reaction: 'When someone says 'craft' to me I think of a church
+  fayre ... I'm not a craftsman and this isn't a hobby, and I'm not keeping
+  anything 'alive'. This here's a trade.'  In Hackney Wick, East London, Fox
+  visits an all-female ceramic studio with young members from India, New
+  Zealand, Vietnam, and Hong Kong; each rejects what he ruefully calls the
+  'c-word', one defining herself as a product designer, another as a maker,
+  a third as a multidisciplinary artist and researcher. ...
+
+  Time and again, the author uncovers instances of dedication that border
+  on the obsessive.  There is almost always an easier, quicker and cheaper
+  way of producing something, but throughout the book craftspeople speak of
+  profound value in the process of making as much as in the product itself.
+  All too often however, the work is frustrating and the materials are
+  intractable.  The withy potmaker David French, Fox writes, is not
+  'motivated by fame ('you must be joking!'), money ('belive me, there isn't
+  any') or even the pleasure of making ('sometimes I bloody hate it')'. ...
+
+  Yet he ends on a positive note. ... Craft is sustainable, he writes, and
+  practising it 'can be a powerful antidote' to the anxieties created by
+  new technologies that distance us from the hand made.  As Sarah Ready,
+  a low-impact, low-pollution commercial fisherwoman points out,
+  'Sometimes the past is actually the future'."
+
+  These observations are especially timely and poignant for me now, in 2026.
+  Computer programming -- in the sense of writing the code yourself --
+  may become one of those exotic crafts practiced by an eccentric
+  minority, as AI pervades the field.
 
 24 Nov 2025, 6 Dec 2025  <a name="24-Nov-2025"></a>
 
