@@ -18,6 +18,18 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+11 Jan 2026  <a name="11-Jan-2026"></a>
+
+- Literature, Lies, and Life, review of *When All the Men Wore Hats*
+  by Susan Cheever, *TLS* Dec 12 2025, p. 3 (no link):
+
+  The book by Susan Cheever is about her father, the author John Cheever.
+
+  "The epigraph, an excerpt from John Cheever's journals, includes the
+  following sentence: 'As for Susie, she makes the error of daring not
+  to have been invented by me, of laughing at the wrong times and of
+  speaking lines I have not written'."
+
  6 Dec 2025, 11 Jan 2026  <a name="6-Dec-2025"></a>
 
 - *Minor Black Figures* by Brandon Taylor.  Chapter 10, pps. 245 -- 246
