@@ -3661,7 +3661,8 @@ the commit history.
 26 Mar 2024,
 12 Jan 2026
 
-- http://oldblog.antirez.com/post/redis-manifesto.html - Redis Manifesto by antirez -
+- http://oldblog.antirez.com/post/redis-manifesto.html (March 2001) -
+  Redis Manifesto by antirez -
   "Code is like a poem; it's not just something we write to reach some practical
   result. Sometimes people that are far from the Redis philosophy suggest using
   other code written by other authors (frequently in other languages) in order
@@ -3680,13 +3681,13 @@ the commit history.
   writing code, the best thing to do is stop. To prevent this, we'll avoid
   taking paths that will make Redis less of a joy to develop."
 
-  https://news.ycombinator.com/item?id=34185630 - 50 Years of C,
+  https://news.ycombinator.com/item?id=34185630 (Dec 2022) - 50 Years of C,
   comment by antirez - "I write code mainly artistically, and I found
   that C is one of the best languages available to code as a form of
   art. It allows to be both brutal and honest, or abstract and
   deceiving. Not many languages are so semantically powerful."
 
-  http://antirez.com/news/124 - 
+  http://antirez.com/news/124 (2018) - 
   Writing system software: code comments, by antirez -  
   "Writing good comments is harder than writing good code. ...
   Comments require always to have some design process ongoing, and to
