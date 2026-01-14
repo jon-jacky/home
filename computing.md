@@ -34,6 +34,8 @@ the commit history.
 
   The author is a prominent AI researcher and programmer.
 
+  See also antirez' last comments (made in Jan 2026) below at [9 Jul 2019](#9-Jul-2019).
+
  2 Dec 2025  <a name="2-Dec-2025"></a>
 
 - <https://github.com/farant/rhubarb/blob/main/docs/latina.h.md>
@@ -3656,7 +3658,8 @@ the commit history.
 
  9 Jul 2019,  <a name="9-Jul-2019"></a>
 30 Dec 2022,  <a name="30-Dec-2022"></a>
-26 Mar 2024  <a name="26-Mar-2024"></a>
+26 Mar 2024,  <a name="26-Mar-2024"></a>
+12 Jan 2026  <a name="12-Jan-2026"></a>
 
 - <http://oldblog.antirez.com/post/redis-manifesto.html> - Redis Manifesto by antirez -
   "Code is like a poem; it's not just something we write to reach some practical
@@ -3692,6 +3695,28 @@ the commit history.
   more than anything else. Comments coadiuvate the code, assist it,
   describe our efforts, and after all I love writing them as much as I
   love writing code itself."
+
+- <https://antirez.com/news/158> (Jan 2026) -
+  Don't fall into the anti-AI hype, by antirez -
+  "I love writing software, line by line. It could be said that my
+  career was a continuous effort to create software well written,
+  minimal, where the human touch was the fundamental feature. I also
+  hope for a society where the last are not forgotten. Moreover, I don't
+  want AI to economically succeed ...
+
+  But, I would not respect myself and my intelligence if my idea of
+  software and society would impair my vision: facts are facts, and AI
+  is going to change programming forever.
+  ... it is now clear that for most projects, writing the code yourself is
+  no longer sensible, if not to have fun. ...
+
+  It is simply impossible not to see the reality of what is happening.
+  Writing code is no longer needed for the most part. ...
+  It does not matter if AI companies will not be able to get their money
+  back and the stock market will crash. ...
+  It does not matter if this or the other CEO of some unicorn is telling
+  you something that is off putting, or absurd. Programming changed
+  forever, anyway."
 
  1 Jul 2019  <a name="1-Jul-2019"></a>
 
