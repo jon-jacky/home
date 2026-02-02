@@ -15,7 +15,7 @@ Companion page, a commonplace book:
 
  1 Feb 2026  <a name="1-Feb-2026"></a>
 
-- <https://wemadethis.co.uk/blog/2021/09/graphic-design-history-resources/> -    
+- <https://wemadethis.co.uk/blog/2021/09/graphic-design-history-resources/> -
   Graphic Design History Resources
 
   "I thought it might be useful to pull together a list of some really
