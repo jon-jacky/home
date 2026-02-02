@@ -24,8 +24,6 @@ Companion page, a commonplace book:
   I've organised the list below into loose collections, but there's no
   particular hierarchy to them, nor to the entries within each collection. ..."
 
-  There is a huge amount of stuff here -- keep scrolling down.
-
 27 Nov 2025  <a name="27-Nov-2025"></a>
 
 - <https://zehfernandes.com/posts/the-folded-world> - 
