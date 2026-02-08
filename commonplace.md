@@ -1,4 +1,4 @@
-Commonplace Book: a book into which notable extracts from other works
+ommonplace Book: a book into which notable extracts from other works
 are copied for personal use.
 
 Begun November 2016.
@@ -17,6 +17,25 @@ Not all entries on this page are in chronological order.   Some recent
 entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
+
+ 7 Feb 2026  <a name="7-Feb-2026"></a>
+
+- Men Are Like Road Signs by Natasha Fedorson, review of *Kidnapped: A Story
+  In Crimes* by Ludmilla Petrushevskaya, in *London Review of Books*,
+  22 Jan 2026, p. 41 - 43 (no link):  <a name="22-Jan-2026"></a>
+
+  Now 87, Petrushevskaya lives in Vilnius and claims she has given up
+  writing: the war in Ukraine 'put an end to my profession' since she
+  is no longer interested in what her countrymen have to say.
+
+  - I have always written about my people ... I felt sorry for them,
+    the drunks and wretches ... But now I don't feel sorry for my people --
+    invaders, thieves, and rapists, murderers of children and destroyers
+    of people's lives -- or their hateful families, their wives and mothers ...
+    I will never write about them or for them.
+
+  ... She now focuses on cabaret singing, which she began at 69,
+  and painting.
 
 11 Jan 2026  <a name="11-Jan-2026"></a>
 
@@ -142,10 +161,10 @@ the commit history.
   The first was how odd, and difficult, I found it to think for myself.
   (19th century author Charles) Lamb comments:
 
-      - 'I must confess that I dedicate no inconsiderable portion of
-         of my time to other people's thoughts.  I dream away my life
-         in others' speculations. ... I cannot sit and think.  Books think
-         for me.'
+  - 'I must confess that I dedicate no inconsiderable portion of
+     of my time to other people's thoughts.  I dream away my life
+     in others' speculations. ... I cannot sit and think.  Books think
+     for me.'
 
   I found there was some truth in this, and that, in depriving myself of
   books, I had removed the wall against which I had bounced my thoughts.
