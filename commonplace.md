@@ -18,6 +18,23 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+11 Feb 2026  <a name="11-Feb-2026"></a>
+
+- <https://blgtylr.substack.com/p/american-symbolism> -
+  American Symbolism by Brandon Tayler, in his *Sweater Weather*, Jan 14, 2026.
+
+  "... The other day, I posted something on Notes about people needing to go
+  outside and feel the bracing cold on their faces. Someone replied and
+  said that that was a cliche.
+
+  My reply to that was that there are no cliches in actual human life.
+  Cliche is an aspect of narrative, and life is not a narrative. Life is
+  not a story. You are not a character in a story. ..."
+
+  More by Brandon Taylor at [6 Dec 2025](#6-Dec-2025), 
+  at [25 Apr 2024](#25-Apr-2024), and 
+  at [2 Jun 2020](#2-Jun-2020).
+
  7 Feb 2026  <a name="7-Feb-2026"></a>
 
 - Men Are Like Road Signs by Natasha Fedorson, review of *Kidnapped: A Story
