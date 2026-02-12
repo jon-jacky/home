@@ -22,7 +22,7 @@ Companion page, a commonplace book:
   "*Type Designers of the Twentieth Century* falls into a category.
   It joins the ranks of, to name two recent beauties, Paul McNeil's
   *Visual History of Type* (672 pages) and Argetsinger's *Grammar
-  of Typography* (528 pages) as yet another vast, dautning hardback
+  of Typography* (528 pages) as yet another vast, daunting hardback
   that no student of type history will want to omit ..."
 
   I am just making a note of these books here, in case I want to look them up
