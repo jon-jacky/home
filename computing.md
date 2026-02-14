@@ -20,7 +20,7 @@ the commit history.
 - <https://aredridel.dinhe.net/2026/02/12/the-ai-haters-guide-to-code-with-llms/> -
   The AI hater's guide to code with LLMs by Aria Stewart, Feb 12, 2026:
 
-  "We dont get addicted to rewards. We get addicted to potential rewards.
+  "We don't get addicted to rewards. We get addicted to potential rewards.
   Notice that gamblers aren't actually motivated by having won. They're
   motivated by maybe winning next time. ..."
 
