@@ -15,6 +15,16 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+13 Feb 2026  <a name="13-Feb-2026"></a>
+
+- <https://aredridel.dinhe.net/2026/02/12/the-ai-haters-guide-to-code-with-llms/> -
+  The AI hater's guide to code with LLMs by Aria Stewart, Feb 12, 2026:
+
+  "We dont get addicted to rewards. We get addicted to potential rewards.
+  Notice that gamblers aren't actually motivated by having won. They're
+  motivated by maybe winning next time. ..."
+
+
 30 Dec 2025  <a name="30-Dec-2025"></a>
 
 - <https://x.com/karpathy/status/2004607146781278521> -
