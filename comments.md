@@ -49,7 +49,7 @@ Jun 2024
   I first read *Catcher* in 1964 when I was 13. Someone (not me) asked our
   eighth grade teacher about it. He said, "It's not recommended for
   readers your age. It's not really pornographic ..." So I went home and
-  found the copy I remmbered seeing on my parent's' shelves. It was the
+  found the copy I remembered seeing on my parent's' shelves. It was the
   crumbling pocket book edition from 1948 with the garish cover painting
   of Holden in his red baseball cap turned backward, wandering the
   streets of New York. It looked like sensational pulp fiction -- there
@@ -93,7 +93,8 @@ Jun 2024
 
   (I have since learned that *Catcher* was serialized in magazines in
   1945 and 1946 and published as a book in 1951. The paperback edition I
-  remember was published in 1953.)
+  remember was published in 1953.  I still have it.  Its lurid cover says,
+  "This unusual book may shock you -- but you will never forget it!")
 
 Jul 2023
 
