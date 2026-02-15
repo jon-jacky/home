@@ -27,6 +27,49 @@ March 2025
   way you do, what you see emphasized in the media and on the internet
   is not the whole story.
 
+Jun 2024
+
+- <https://www.metafilter.com/204239/We-all-love-The-Catcher-in-the-Rye-and-we-all-hate-it#8576783>
+  Comments on *Catcher in the Rye*
+
+  I have noticed that when some contemporary critics write about books
+  and other works from the mid-twentieth century, they seem totally
+  unaware of what other books were like when that book appeared, and
+  the impression it made on its readers at that time. So they are unable
+  to recognize what was innovative about it and unable to understand
+  what made it popular.
+
+  The giveaway here is this critic's remark about "feeding on YA as a
+  source for literary fiction." There was no YA genre as we understand
+  it in 1948 when *Catcher* appeared. Salinger *created* some of the tropes
+  of the YA genre -- I might argue that *Catcher* was the first modern YA
+  book. That's why the book became so popular and influential, I believe
+  --- based on my own experience:
+
+  I first read *Catcher* in 1964 when I was 13. Someone (not me) asked our
+  eighth grade teacher about it. He said, "It's not recommended for
+  readers your age. It's not really pornographic ..." So I went home and
+  found the copy I remmbered seeing on my parent's' shelves. It was the
+  crumbling pocket book edition from 1948 with the garish cover painting
+  of Holden in his red baseball cap turned backward, wandering the
+  streets of New York. It looked like sensational pulp fiction -- there
+  was no such genre as "literary fiction" in those days either.
+
+  I found it was the story of a troubled high school kid, told in his
+  own words. I had never read anything like it -- and I was an avid,
+  prolific reader. I don't recall that I "loved" it, but I did find it
+  gripping and read it right through.
+
+  So it was quite innovative and unique *for its time*. I think what
+  Salinger did was remarkable. He wrote a story about a (presumably)
+  wealthy prep school kid, for a rather highbrow *New Yorker* style
+  audience. It became hugely well-known and popular among a large
+  audience who, it might seem, had little in common with the character
+  or its intended readership. How did he bring that off?
+
+  (*Catcher* was serialized in magazines in 1945 and 1946 and published
+  as a book in 1951.   The paperback I remmber was published in 1953.)
+
 Jul 2023
 
 - <https://www.metafilter.com/200118/A-Index-of-the-Insanity-of-Our-World#8432586>
