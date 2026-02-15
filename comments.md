@@ -67,8 +67,9 @@ Jun 2024
   audience who, it might seem, had little in common with the character
   or its intended readership. How did he bring that off?
 
-  (*Catcher* was serialized in magazines in 1945 and 1946 and published
-  as a book in 1951.   The paperback I remmber was published in 1953.)
+  (I have since learned that *Catcher* was serialized in magazines in
+  1945 and 1946 and published as a book in 1951. The paperback I
+  remember was published in 1953.)
 
 Jul 2023
 
