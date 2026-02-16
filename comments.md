@@ -29,6 +29,24 @@ March 2025
 
 Jun 2024
 
+- <https://ask.metafilter.com/380724/Your-Favorite-OLD-Movie#5403997>
+  Comments on old movies:
+
+  Seconding *The Best Years of Our Lives*.
+
+  In this 1946 movie about the difficulties of veterans returning from
+  WWII, one of the veterans is played by an actual veteran who lost both
+  hands and uses prosthetic hooks. The courage of this veteran and the
+  unflinching honesty of the movie makers who depicted his life in
+  detail and at length, realistically and without sentimentality, have
+  not been matched in any movie since.
+
+  It also says much for the audience who could face up to its content
+  and made this film a commercial success. According to Wikipedia, it
+  was the highest grossing film of the 1940s. The film won Best Picture
+  and other academy awards including Best Supporting Actor for the
+  veteran.
+
 - <https://www.metafilter.com/204239/We-all-love-The-Catcher-in-the-Rye-and-we-all-hate-it#8576783>
   Comments on *Catcher in the Rye*
 
@@ -169,6 +187,48 @@ Mar 2023
   charges and magnets; general relativity describes how mass bends space;
   etc. That is, they express the explanations (another commenter) *biogeo*
   mentioned upthread.
+
+Oct 2022
+
+- <https://ask.metafilter.com/367816/UK-movie-and-TV-recommendations-wanted#5237828>
+  Comment on English movies
+
+  These are famous movies, made in the early 1960s, about working class
+  people at that time. They are set in cities - that's where most
+  working class people lived.
+
+  These movies don't present a cozy, sentimental view of English life.
+  For the working class, it was pretty tough in those years. One thing
+  you will see is how much poorer the English were than the Americans at
+  that time. In *Saturday Night and Sunday Morning*, the protagonist's
+  fiance tells him, "I want a *new* house -- with a bathroom and
+  everything!"
+
+  *A Taste of Honey* (1961) - This is a *great* movie, acclaimed for its
+  then-daring themes and its young leads, unknown teenagers in their
+  first roles. Also notable for the images of their grim town, and even
+  for the unusual soundtrack -- which does not include the popular song
+  with the same title, but instead is composed entirely of children
+  singing the songs that accompany their games in the streets.
+
+  *Saturday Night and Sunday Morning* (1960) - with Albert Finney as the
+  working class Angry Young Man.
+
+  *The Loneliness of the Long Distance Runner* (1962) - Tom Courtenay as a
+  borstal (reform school) athletic star.
+
+  Those three are pretty grim. This one is a comedy, sort of:
+
+  *Billy Liar* (1963) Tom Courtenay again, as a sort of English Walter
+  Mitty, with Julie Christie.
+
+  An interesting companion to these is the first Beatles movie *A Hard
+  Day's Night* (1964) which is not a realistic film about typical people,
+  but still has a lot of similarities. The Beatles came from the same
+  time, place, and class as is shown in the other four movies.
+
+  (The paragraph here on *A Taste of Honey* is edited to include
+  comments from another posting on movies, excerpted at Jun 2024 above)
 
 Aug 2022
 
