@@ -18,12 +18,11 @@ Companion page, a commonplace book:
 - <https://www.modernillustration.org/> - Modern Illustration,
   An archive of illustration from c.1950-1975
 
-  Many examples of a style that was ubiquitous in the mid-century
-  but has now vanished.
+  For example  *You and the Computer*, General Electric, 1960:
 
-  For example <https://www.modernillustration.org/archive/generalelectric1960billcharmatz?rq=computer>
-  *You and the Computer*, General Electric, 1960.  Compare to *World of Numbers*,
-  IBM, 1958, at [13 Sep 2023](#13-Sep-2023)
+  <https://www.modernillustration.org/archive/generalelectric1960billcharmatz?rq=computer>  
+
+  Compare to *World of Numbers*, IBM, 1958, at [13 Sep 2023](#13-Sep-2023)
 
 11 Feb 2026  <a name="11-Feb-2026"></a>
 
