@@ -2098,10 +2098,20 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 13 Oct 2025:  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 9 Mar 2026:  <a name="21-Apr-2020"></a>
    designs for blogs, personal web pages, etc., most recent at the top.
    Some of these pages have changed their design so the comments here no
    longer apply.
+
+- <https://ribo.zone/> - 
+  "You find yourself in a laboratory. Will you dig through the drawers ...?"
+
+- <https://garden.bradwoods.io/> - 
+  Interesting combination of typography, layout, black and white graphics
+
+- <https://anhvn.com/noir/> - A page of noir illustrations, must hunt for links 
+
+- <https://www.nicchan.me/> - A retro desktop, icons are links
 
 - <https://sites.gatech.edu/alexburgin/on-self-respect-by-joan-didion/> -
   Dramatic sepia photograph contrasts with understated gray
