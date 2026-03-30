@@ -186,13 +186,13 @@ the commit history.
   Look at a Work In Progress* by Jessica Hooten Wilson.  In *London Review
   of Books* 19 Mar 2026, p. 46 (no link):
 
-  "In all of O'Connor's work, there isn't a single you could describe as
-  admirable, or even sympathetic. ... O'Connor said that her interest in
-  such unedifying types was an antidote to 'the hazy compassion expected
-  demanded of the writer now.'  If anything, she was inclined to exaggerate
-  the unsavoury. 'Certainly the grotesque is used in a legitmate way,' she
-  explained, 'the intellectual and moral judgments implicit in it will have
-  the ascendancy over feeling.'
+  "In all of O'Connor's work, there isn't a single character you could
+  describe as admirable, or even vaguely sympathetic. ... O'Connor said
+  that her interest in such unedifying types was an antidote to 'the
+  hazy compassion demanded of the writer now.' If anything, she
+  was inclined to exaggerate the unsavoury. 'Certainly the grotesque is
+  used in a legitmate way,' she explained, 'the intellectual and moral
+  judgments implicit in it will have the ascendancy over feeling.'
 
   Her judgments were broadly religious in character.  'If I were not a
   Catholic,' she wrote in 1955, 'I would have no reason to write, no reason
