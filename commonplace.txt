@@ -143,7 +143,7 @@ the commit history.
   may become one of those exotic crafts practiced by an eccentric 
   minority, as AI pervades the field.
    
-24 Nov 2025, 6 Dec 2025
+24 Nov 2025
 
 - Jack DeJohnette, Jazz Drummer in Era-Defining Bands, Dies at 83.
   *New York Times*, Tues Oct 28 2025, p. A24 (no link).
@@ -151,6 +151,8 @@ the commit history.
   "The trio with Mr. Jarret and the bassist Gary Peacock made its debut
   in 1983 ... the original prompt for the band was, as Mr. Jarret recalled,
   'What if we were all sidemen?'" ...
+
+24 Nov 2025, 6 Dec 2025, 29 Mar 2026
   
 - World-Beating Buster Upper by Colin Barrow, review of *The Letters of 
   Muriel Spark, Vol 1: 1944-63* by Dan Gunn and *Electric Spark: The 
@@ -177,6 +179,27 @@ the commit history.
   (I don't agree it is infantile to want to identify with good.
   Also, there is a big difference between likable and good.
   But Choi and Spark are both worth reading.)
+
+- Atheist with a Wooden Leg by Edmund Gordon, review of *Good Country People
+  and Other Stories* by Flannery O'Connor, edited by Lauren Groff, and
+  *Flannery O'Connor's 'Why Do the Heathen Rage?': A Behind the Scenes
+  Look at a Work In Progress* by Jessica Hooten Wilson.  In *London Review
+  of Books* 19 Mar 2026, p. 46 (no link):
+  
+  "In all of O'Connor's work, there isn't a single you could describe as
+  admirable, or even sympathetic. ... O'Connor said that her interest in 
+  such unedifying types was an antidote to 'the hazy compassion expected 
+  demanded of the writer now.'  If anything, she was inclined to exaggerate
+  the unsavoury. 'Certainly the grotesque is used in a legitmate way,' she
+  explained, 'the intellectual and moral judgments implicit in it will have
+  the ascendancy over feeling.'
+  
+  Her judgments were broadly religious in character.  'If I were not a 
+  Catholic,' she wrote in 1955, 'I would have no reason to write, no reason
+  to see, no reason ever to feel horrified.'  She described her subject as 
+  'the action of grace in territory largely held by the devil'. 
+  
+  (Muriel Spark, like Flannery O'Connor, was a Catholic.)
      
 28 Aug 2025
 
