@@ -19,9 +19,9 @@ the commit history.
 
 - https://tropes.fyi/ - tropes
 
-  Do not waste your time reading words that nobody wrote. Something void
+  "Do not waste your time reading words that nobody wrote. Something void
   of character, flare, passion and risk. These tools will help you both
-  (generously) identify AI writing and save you from having to read it.
+  (generously) identify AI writing and save you from having to read it. ..."
 
   https://tropes.fyi/vetter - AI Vetter   
   Drop a link. We'll tell you if it's worth reading.
