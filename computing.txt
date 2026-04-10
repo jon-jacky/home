@@ -24,10 +24,10 @@ the commit history.
   (generously) identify AI writing and save you from having to read it. ..."
 
   https://tropes.fyi/vetter - AI Vetter   
-  Drop a link. We'll tell you if it's worth reading.
+  "Drop a link. We'll tell you if it's worth reading."
   
   https://tropes.fyi/aidr - ai;dr  
-  Just the prompt please. Paste a link, get the prompt.
+  "Just the prompt please. Paste a link, get the prompt."
       
 13 Feb 2026
 
