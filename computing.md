@@ -15,6 +15,20 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+10 Apr 2026  <a name="10-Apr-2026"></a>
+
+- <https://tropes.fyi/> - tropes
+
+  Do not waste your time reading words that nobody wrote. Something void
+  of character, flare, passion and risk. These tools will help you both
+  (generously) identify AI writing and save you from having to read it.
+
+  <https://tropes.fyi/vetter> - AI Vetter   
+  Drop a link. We'll tell you if it's worth reading.
+
+  <https://tropes.fyi/aidr> - ai;dr  
+  Just the prompt please. Paste a link, get the prompt.
+
 13 Feb 2026  <a name="13-Feb-2026"></a>
 
 - <https://aredridel.dinhe.net/2026/02/12/the-ai-haters-guide-to-code-with-llms/> -
