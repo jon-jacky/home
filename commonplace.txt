@@ -18,7 +18,7 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
-14 Apr 2025
+14 Apr 2026
 
 - The Shaken Globe by Heather Cass White, review of *The Quantity Theory of
   Morality* by Will Self, *TLS* Apr 3, 2026, p. 28 (no link):
@@ -28,7 +28,7 @@ the commit history.
   you read the way I write?'  Stein's reply is an excellent goad to 
   reviewers ..."
   
-24 Feb 2025
+24 Feb 2026
 
 - I Am The One Who Is Sitting Here for Hours and Hours and Hours, 
   by Lauren Oyler, in *No Judgment: Essays*, p.174, 178 - 179 (no link):
@@ -74,7 +74,7 @@ the commit history.
   In Crimes* by Ludmilla Petrushevskaya, in *London Review of Books*, 
   22 Jan 2026, p. 41 - 43 (no link):
   
-  Now 87, Petrushevskaya lives in Vilnius and claims she has given up
+  "Now 87, Petrushevskaya lives in Vilnius and claims she has given up
   writing: the war in Ukraine 'put an end to my profession' since she
   is no longer interested in what her countrymen have to say.
   
@@ -84,8 +84,7 @@ the commit history.
     of people's lives -- or their hateful families, their wives and mothers ...
     I will never write about them or for them.
     
-  ... She now focuses on cabaret singing, which she began at 69, 
-  and painting.      
+  She now focuses on cabaret singing, which she began at 69, and painting."
   
 11 Jan 2026
 
@@ -531,7 +530,7 @@ the commit history.
   that those who fall along the way are losers. Theirs is the construction
   site of Hell."
  
-15 Apr 20255
+15 Apr 2025, 18 Apr 2026
 
 - *Eric Dolphy at the Five Spot: Vol. 1* (1961), Prestige 7611, liner notes
    by Michael Cuscuna, quoting trumpet player Booker Little from
@@ -545,7 +544,53 @@ the commit history.
    the sound.  It sounds like more horns; in fact, you can't always tell
    how many there are.  And your shadings can be more varied. Dissonance
    is a tool to achieve these things."
-    
+
+- https://www.metafilter.com/109908/The-John-Coltrane-Quartet-performs-A-Love-Supreme#4054070
+  - comments on The John Coltrane Quartet Performs A Love Supreme
+  
+  "(A performance in Paris in 1960) was one of Coltrane's, and Mile' s, most
+  notorious appearances. Perhaps fuelled by his uncharacteristic anger,
+  Coltrane's performance is almost contemptuous in its uncompromising
+  ugliness. Its also one of his most inspired performances. His
+  performances would not be so far-out again until 1965.
+  
+  'All of You' is bad enough with its passages entirely in multiphonics,
+  its weird altissimo shrills, and its barking honks. But 'Bye Bye
+  Blackbird' takes the cake. About midway into Trane's solo, the air
+  begins to fill with the distinct sound of Gallic boos and hisses, and
+  the occasional contemptuous whistle.
+  
+  Coltrane's style had evolved light years beyond what it had been even
+  when he had recorded Kind of Blue the previous year. The Bye Bye
+  Blackbird performance sometimes seems even to ignore bar lines, simply
+  allowing Coltrane to work off his frustrations in repeated, angry
+  motifs, screeches and honks.
+  
+  When the crowd keeps booing, Coltrane seems to falter at first; then
+  in a sonic 'big finger' he begins playing even more fiercely, as if
+  deliberately trying to annoy the audience. When his solo ends, it is
+  hard to tell if those are genuine cheers among the shouts of rage, or
+  whether the crowd is simply relieved it's all over.
+  
+  After the performance Frank Tenot, a French jazz journalist, rushed
+  backstage to find Trane. 'Don't you go too far?' he asked in English.
+  Trane smiled gently. I don't go far enough" he replied.
+  
+  Video from a 1965 performance of A Love Supreme:
+  https://vimeo.com/89837165, 
+  via https://www.metafilter.com/170480/July-26-1965-A-Love-Supreme-Live        
+
+- *Three Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the 
+   Lost Empire of Cool* by James Kaplan, p. 368 (no link):
+   
+   "... two years after his death, a married pair of San Francisco clergy
+   founded the Saint John Coltrane Church. ... Initially the Kings hadn't
+   been impressed by Coltrane's recorded music, but then they attended a
+   Coltrane concert at the Jazz Workshop.  'It was as though he was speaking
+   in tongues and there was fire coming from heaven -- a sound baptism. ...
+   (We bcame) believers in that annointed sound that leapt down from the
+   tone of heaven out of the very mind of God. ...'"
+  
 27 Mar 2025, 5 May 2025
 
 - Cold Comfort Farm, by Kieran Setiya, review of
