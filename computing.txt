@@ -45,7 +45,15 @@ the commit history.
 - https://lindbakk.com/blog/introducing-brunost -
   Brunost: The Nynorsk Programming Language   
 
-  "One of the most important aspects of Brunost is that it requires
+  "In Norway, we technically have three languages: Bokmal, Nynorsk, and
+  Sami. I made a purely Nynorsk programming language: Brunost.
+  
+  Brunost is a delightful functional language. ... The Brunost
+  interpreter is written in Zig, which is why it is blazingly fast-ish.
+  ... With Brunost, you'll get unmatched aesthetic performance with
+  unmatched Nordic bravado.
+  
+  One of the most important aspects of Brunost is that it requires
   Nynorsk. Variable, parameters and function names must be in Nynorsk.
   The interpreter ships with a Nynorsk dictionary that is used during
   the interpretation, and if the developer tries to do anything but
