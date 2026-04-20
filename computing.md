@@ -67,6 +67,8 @@ the commit history.
   via <https://news.ycombinator.com/item?id=47756320>, 
   many comments on Nynorsk and other Norwegian languages.
 
+  See also C89 in Latin at [2 Dec 2025](#2-Dec-2025)
+
 10 Apr 2026  <a name="10-Apr-2026"></a>
 
 - <https://tropes.fyi/> - tropes
