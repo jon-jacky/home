@@ -15,6 +15,50 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+19 Apr 2026  <a name="19-Apr-2026"></a>
+
+- <https://github.com/australia/kukuos> - KukuOS
+
+  "An i386 operating system written entirely in Kuku Yalanji, an
+  Aboriginal Australian language -- with a self-hosted stack-language
+  compiler also in Kuku.
+
+  KukuOS is best understood as a language-and-systems research artifact
+  with an unusually tight vertical slice: naming, syntax, compiler,
+  runtime, operating system, cryptography, and ML are all expressed
+  inside the same small language. The interesting claim is not just
+  'this works', but 'how much of modern computing can be reconstructed
+  inside a semantically coherent, self-hosted, non-English concatenative
+  environment?'
+
+  Every identifier is a Kuku Yalanji word; the glosses are meaningful
+  (*kujil* -- hold -- is *dup*; *bana* -- water -- is the serial stream;
+  *milka* -- ear -- is the keyboard). ... Entry is *jakalbaku-warri*
+  (Kuku Yalanji "first thing").
+
+  Kuku is not a Forth clone with renamed words. The repo treats Kuku
+  Yalanji as part of the programming model ...
+  Naming is treated as semantics, not just syntax sugar.
+  The language boundary forces a different style of abstraction and code
+  reading."
+
+- <https://lindbakk.com/blog/introducing-brunost> -
+  Brunost: The Nynorsk Programming Language
+
+  "One of the most important aspects of Brunost is that it requires
+  Nynorsk. Variable, parameters and function names must be in Nynorsk.
+  The interpreter ships with a Nynorsk dictionary that is used during
+  the interpretation, and if the developer tries to do anything but
+  Nynorsk, they'll get a clear message. ...
+
+  Brunost knows that developers overuse jargon and should use plain
+  (Nynorsk) language rather than fancy abbreviations. ..."
+
+  Also <https://github.com/atomfinger/brunost> (all in Nynorsk)
+
+  via <https://news.ycombinator.com/item?id=47756320>, 
+  many comments on Nynorsk and other Norwegian languages.
+
 10 Apr 2026  <a name="10-Apr-2026"></a>
 
 - <https://tropes.fyi/> - tropes
