@@ -13,6 +13,17 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+26 Apr 2026  <a name="26-Apr-2026"></a>
+
+- <https://dl.ndl.go.jp/pid/1899550/1/7> - Hokusai Pattern Album
+
+  In Japanese, but you can figure it out -- or click English button in
+  upper right corner.
+
+  via <https://news.ycombinator.com/item?id=47902993>
+
+  A rendering of Hokusai's Great Wave is at [9 May 2023](#9-May-2023) below. 
+
 28 Feb 2026  <a name="28-Feb-2026"></a>
 
 - <https://www.modernillustration.org/> - Modern Illustration,
