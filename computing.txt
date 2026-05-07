@@ -15,6 +15,18 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 7 May 2026  
+
+- https://telcontar.net/About/ - excerpt from 
+  *The Autocrat of the Breakfast-Table( (1858), by Oliver Wendell Holmes, Sr.,
+  seen on a web page by Daniel Beardsmore
+
+  "What a satire, by the way, is that machine [Babbage's Engine], on the
+  mere mathematician! A Frankenstein-monster, a thing without brains and
+  without heart, too stupid to make a blunder; that turns out results
+  like a corn-sheller, and never grows any wiser or better, though it
+  grind a thousand bushels of them!"
+  
 19 Apr 2026
 
 - https://github.com/australia/kukuos - KukuOS
