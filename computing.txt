@@ -18,7 +18,7 @@ the commit history.
  7 May 2026  
 
 - https://telcontar.net/About/ - excerpt from 
-  *The Autocrat of the Breakfast-Table( (1858), by Oliver Wendell Holmes, Sr.,
+  *The Autocrat of the Breakfast-Table* (1858), by Oliver Wendell Holmes, Sr.,
   seen on a web page by Daniel Beardsmore
 
   "What a satire, by the way, is that machine [Babbage's Engine], on the
