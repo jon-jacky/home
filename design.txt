@@ -2,9 +2,6 @@
 Pages with interesting design, typography, or graphics, in addition to 
 their content.  
 
-Includes some 'literate programs' that present code with explanations in a
-variety of styles.
-
 More here: http://jon-jacky.github.io/home/links.html#graphics
 
 Companion page on computing:
@@ -12,6 +9,20 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
+
+ 7 May 2026
+ 
+- https://www.jennyvolvovski.com/category/unsolicited - Unsolicited 
+
+  "In 2012, I really wanted to design book covers but didnt have any
+  book cover work. So I hired myself to redesign my personal library. ..."
+  
+  I like the large panels of plain color that appear immediately and
+  remain for quite a while until the book cover images load.
+
+  More book covers by this artist at 
+  https://www.jennyvolvovski.com/category/published
+  and https://www.jennyvolvovski.com/category/unused  
 
 26 Apr 2026
 
