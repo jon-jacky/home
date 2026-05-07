@@ -24,6 +24,8 @@ Companion page, a commonplace book:
   <https://www.jennyvolvovski.com/category/published>
   and <https://www.jennyvolvovski.com/category/unused>  
 
+  More book covers in a very different style at [5 Aug 2024](#5-Aug-2024)
+
 26 Apr 2026  <a name="26-Apr-2026"></a>
 
 - <https://dl.ndl.go.jp/pid/1899550/1/7> - Hokusai Pattern Album
