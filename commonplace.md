@@ -18,6 +18,29 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+15 May 2026  <a name="15-May-2026"></a>
+
+- How to Think Like John Milton, Ch.9 in *How to Think Like a Poet*
+  by Dai George, pps. 110 -- 111 (no link):
+
+  "All in all then, Milton remains a tough sell. On the charitable side
+  of the ledger, one could follow Moshenska in saying that he is
+  'a national monument rather than national treasure'.   We know that
+  *Paradise Lost* is one of the most outstanding literary achievenents
+  of all time, though we'd rather do almost anything else than sit down
+  and read it.  Even Milton's fans have a tendency to talk about his
+  brilliance as a problem to be wrestled with.  William Blake first set
+  this train in motion when he proposed that '[t]he reason Milton wrote
+  in fetters when he wrote of Angels & God, and at liberty when he wrote
+  of Devils & Hell, is because he was a true Poet and of the Devil's party
+  without knowing it'. The underlying assumption here is that a an
+  Orthodox Christian couldn't possibly be a 'true Poet', and that --
+  ergo -- Milton reveals his heretical impulses by being a great poet.
+  Anyone who has felt their blood rise reading Satan's soaring hymn to
+  liberty from Book I of *Paradise Lost* ('Better to reign in Hell, than
+  serve in Heav'n') might be inclined to agree.  But it remains a curious
+  form of admiration."
+
 14 Apr 2026  <a name="14-Apr-2026"></a>
 
 - The Shaken Globe by Heather Cass White, review of *The Quantity Theory of
