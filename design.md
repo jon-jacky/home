@@ -12,20 +12,19 @@ Companion page, a commonplace book:
 
 29 May 2026  <a name="29-May-2026"></a>
 
-- <https://www.harmless.ink/index.html> - 
+- <https://www.harmless.ink/soda2026.html>
   Hand-drawn illustrations for theoretical computer science
   by Nathan Harms
 
   "Long ago, in the dark and distant past, I was a fine arts student who
   dropped out after my work was criticized as 'too analytical'. ..."
 
-  For example:
+  Also:
 
-  <https://www.harmless.ink/soda2026.html>
+  <https://www.harmless.ink/itcs2024_convex.html> and
+  <https://www.harmless.ink/arts.html> 
 
-  <https://www.harmless.ink/itcs2024_convex.html>
-
-  Much more here: <https://www.harmless.ink/arts.html>
+  About: <https://www.harmless.ink/index.html> 
 
  7 May 2026  <a name="7-May-2026"></a>
 
