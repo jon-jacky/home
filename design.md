@@ -16,8 +16,8 @@ Companion page, a commonplace book:
   Hand-drawn illustrations for theoretical computer science
   by Nathan Harms
 
-  "Long ago, in the dark and distant past, I was a fine arts student who
-  dropped out after my work was criticized as 'too analytical'. ..."
+  "Long ago ... I was a fine arts student
+  who dropped out after my work was criticized as 'too analytical'. ..."
 
   Also <https://www.harmless.ink/itcs2024_convex.html> and
   <https://www.harmless.ink/arts.html> 
