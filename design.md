@@ -19,9 +19,7 @@ Companion page, a commonplace book:
   "Long ago, in the dark and distant past, I was a fine arts student who
   dropped out after my work was criticized as 'too analytical'. ..."
 
-  Also:
-
-  <https://www.harmless.ink/itcs2024_convex.html> and
+  Also <https://www.harmless.ink/itcs2024_convex.html> and
   <https://www.harmless.ink/arts.html> 
 
   About: <https://www.harmless.ink/index.html> 
