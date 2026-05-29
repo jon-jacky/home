@@ -10,6 +10,23 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+29 May 2026  <a name="29-May-2026"></a>
+
+- <https://www.harmless.ink/index.html> - 
+  Hand-drawn illustrations for theoretical computer science
+  by Nathan Harms
+
+  "Long ago, in the dark and distant past, I was a fine arts student who
+  dropped out after my work was criticized as 'too analytical'. ..."
+
+  For example:
+
+  <https://www.harmless.ink/soda2026.html>
+
+  <https://www.harmless.ink/itcs2024_convex.html>
+
+  Much more here: <https://www.harmless.ink/arts.html>
+
  7 May 2026  <a name="7-May-2026"></a>
 
 - <https://www.jennyvolvovski.com/category/unsolicited> - Unsolicited 
