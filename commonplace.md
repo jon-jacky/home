@@ -40,8 +40,8 @@ the commit history.
     changing ... The Kaiser picked up ideas, became excited about them,
     got bored and dropped them ... He was, as Friedrich von Holstein
     observed, 'unfortunately very impressionable' ...
-    (From 'How powerful was the Kaiser', *London Review of Books,
-    April 23, 2025)
+    (From 'How powerful was the Kaiser', *London Review of Books*,
+    April 23, 2015)
 
   Does this sound familiar? Clark wrote all this early in 2015, before
   he would have realized he was prefiguring a certain American president."
