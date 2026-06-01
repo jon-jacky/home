@@ -27,7 +27,7 @@ the commit history.
   of the monumental biography of Wilhelm by John Rohl, Christopher Clark
   summarized the impressions gained from a mountain of evidence. ...
 
-  - William II spent most of his waking hours talking, arguing, shouting,
+  - Wilhelmm II spent most of his waking hours talking, arguing, shouting,
     speechifying, preaching, threatening and generally unbosoming himself
     of his latest preoccupations to whoever happened to be within earshot.
     He was like a Tourette's tic at the heart of the German state executive ...
@@ -35,12 +35,7 @@ the commit history.
     interlocutors (and the readers) with fantastical geopolitical
     speculations, crackpot plans, sarcastic asides and off color jokes ...
     [The effect] is like listening for days on end to a dog barking
-    inside a locked car ...   
-    Wilhelm's interventions were often impulsive
-    shots from the hip and his objectives were diffuse and constantly
-    changing ... The Kaiser picked up ideas, became excited about them,
-    got bored and dropped them ... He was, as Friedrich von Holstein
-    observed, 'unfortunately very impressionable' ...   
+    inside a locked car ...
     (From 'How powerful was the Kaiser', *London Review of Books*,
     April 23, 2015)
 
