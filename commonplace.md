@@ -18,30 +18,6 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
-31 May 2026  <a name="31-May-2026"></a>
-
-- History Lessons? by Philip Zelikow, review of *The Coming Storm* by
-  by Odd Arne Westad, *TLS* Apr 17, 2026, p. 3 - 4 (no link):
-
-  "Now let us return to the character of Wilhelm II.   In a review of
-  of the monumental biography of Wilhelm by John Rohl, Christopher Clark
-  summarized the impressions gained from a mountain of evidence. ...
-
-  - Wilhelmm II spent most of his waking hours talking, arguing, shouting,
-    speechifying, preaching, threatening and generally unbosoming himself
-    of his latest preoccupations to whoever happened to be within earshot.
-    He was like a Tourette's tic at the heart of the German state executive ...
-    He cajoles, whines, demands, vociferates and babbles, bombarding his
-    interlocutors (and the readers) with fantastical geopolitical
-    speculations, crackpot plans, sarcastic asides and off color jokes ...
-    [The effect] is like listening for days on end to a dog barking
-    inside a locked car ...
-    (From 'How powerful was the Kaiser', *London Review of Books*,
-    April 23, 2015)
-
-  Does this sound familiar? Clark wrote all this early in 2015, before
-  he would have realized he was prefiguring a certain American president."
-
 15 May 2026  <a name="15-May-2026"></a>
 
 - How to Think Like John Milton, Ch.9 in *How to Think Like a Poet*
