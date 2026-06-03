@@ -10,6 +10,21 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+ 3 Jun 2026  <a name="3-Jun-2026"></a>
+
+- <https://wiki.wordsoftype.com/> - Words of Type Encyclopedia
+
+  "Words of Type brings together the terms used in typography, illustrated
+  and explained in multiple languages. ...
+  It includes 200 terms covering multiple categories, such as type
+  design anatomy, digital and analog typography, historical,
+  technological and conceptual terms, as well as terms specific to
+  certain scripts. ..."
+
+  Clear and inviting page design, diagrams, and typography.
+  Click on the menu icon to the left of the search box
+  for About, Manifesto and more.
+
 29 May 2026  <a name="29-May-2026"></a>
 
 - <https://www.harmless.ink/soda2026.html>
