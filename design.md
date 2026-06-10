@@ -10,6 +10,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+10 Jun 2026  <a name="10-Jun-2026"></a>
+
+- <https://mnmm.xyz/> - Minimum
+
+  "Minimal websites directory.  00137 websites collected."
+
+  Minimal here means mostly text.  Many are designer's websites.
+
  3 Jun 2026  <a name="3-Jun-2026"></a>
 
 - <https://wiki.wordsoftype.com/> - Words of Type Encyclopedia
