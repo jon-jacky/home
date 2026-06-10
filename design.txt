@@ -15,9 +15,12 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
 - https://mnmm.xyz/ - Minimum
 
   "Minimal websites directory.  00137 websites collected."
-  
+   
   Minimal here means mostly text.  Many are designer's websites.
-  
+
+  Quite different from the minimal *industrial* design linked
+  at 15 Nov 2025 and at 20 Oct 2022.
+    
  3 Jun 2026
  
 - https://wiki.wordsoftype.com/ - Words of Type Encyclopedia

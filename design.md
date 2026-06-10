@@ -18,6 +18,9 @@ Companion page, a commonplace book:
 
   Minimal here means mostly text.  Many are designer's websites.
 
+  Quite different from the minimal *industrial* design linked
+  at 15 Nov 2025 and at [20 Oct 2022](#20-Oct-2022).
+
  3 Jun 2026  <a name="3-Jun-2026"></a>
 
 - <https://wiki.wordsoftype.com/> - Words of Type Encyclopedia
