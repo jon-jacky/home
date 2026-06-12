@@ -19,6 +19,9 @@ Companion page, a commonplace book:
   <https://www.getty.edu/art/collection/object/103QT4?tab=exhibitions> - 
   Pearblossom Hwy., 11 - 18th April 1986, #2, by David Hockney, phote collage.
 
+  <https://lightroom.uk/whats-on/david-hockney> -
+  David Hockney: Bigger & Closer, large scale projections.
+
   via <https://www.metafilter.com/213503/A-Bigger-Splash> - A Bigger Splash
 
  3 Jun 2026  <a name="3-Jun-2026"></a>
