@@ -17,7 +17,7 @@ Companion page, a commonplace book:
   iPad drawings.
 
   <https://www.getty.edu/art/collection/object/103QT4?tab=exhibitions> - 
-  Pearblossom Hwy., 11 - 18th April 1986, #2, by David Hockney, phote collage.
+  Pearblossom Hwy., 11 - 18th April 1986, #2, by David Hockney, photo collage.
 
   <https://lightroom.uk/whats-on/david-hockney> -
   David Hockney: Bigger & Closer, large scale projections.
