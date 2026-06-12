@@ -18,6 +18,64 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+11 Jun 2026  <a name="11-Jun-2026"></a>
+
+- *The Lonely City: Adventures in the Art of Being Alone* by Olivia Laing,
+   Chapter 3, My Heart Opens to Your Voice, pps. 56 -- 67 (no link):
+
+  "At the beginning of the 1960s, Warhol reinvented himself.  Instead
+  of whimsical drawings of shoes for fashion magazines ... he began to
+  produce flat, commodified, eerily exact paintings of even more despicable
+  objects ... Starting with Coke bottles, he progressed rapidly to Campbell's
+  soup cans, food stamps, and dollar bills .... Ugly things, unwanted things,
+  things that couldn't possibly belong in the sublime white chamber of the
+  gallery.
+
+  Sameness, especially for the immigrant, the shy boy agonizingly  aware of
+  his failures to fit in, is a profoundly desirable state; an antidote
+  agains the pain of begin singular, alone ...  Warhol emphasized the glamour
+  of sameness as well as its potentially unnerving aspect by producing
+  his common objects as multiples: a generative bombardment of repeating
+  images in fluxing palettes.  In 1962 he discovered the mechanical,
+  wonderfully chancy process of silk-screening.  ... That summer, he filled
+  (his) living-room-cum-studio ... with hundreds of Marilyns and
+  Elvises, their faces rollered on to canvases covered in tonal splashes
+  of pink and lavender, fuschia and pale green.
+
+  'The reason I'm painting this way is that I want to be a machine,'
+  he famously (said) in an interview for *Art News* ...
+  The desire to transform himself into a machine didn't end with the
+  production of art. ... (he) redesigned his own image, converting himself
+  into a product. ... he consciously developed himself as a replicable
+  entity, exaggerating his physical appearance to create an automaton
+  or simulacrum ... The new Andy was immediately recognizable, a
+  caricature that could be cloned at will.  In fact, in 1967 he did just
+  that, secretly sending the actor Alan Midgette out in Warhol drag to do
+  a university lecture tour on his behalf. ...
+
+  But the desire to turn oneself into a multiple or machine is also a
+  desire to be liberated from human feeling.  ... 'Machines have less
+  problems.  I'd like to be a machine, wouldn't you?' he told *Time*
+  in 1963.  ... Becoming a machine also meant having relationships with
+  machines, using physical devices as a way of filling the uncomfortable,
+  sometimes unbearable space between self and world.  Warhol could not
+  have achieved his blankness, his enviable detachment, without the
+  use of these charismatic substitutes for human intimacy and love. ...
+  Over the years he employed a range of devices, from the stationary
+  16 mm Bolex on which he recorded the Screen Tests of the 1960s to the
+  Polaroid camera that was his permanent companion at the parties in the
+  1980s. ... His favorite was the tape recorder, a device that so radically
+  transformed his need for people that he nicknamed it *my wife*.
+
+  Becoming a machine, hiding behind machines, employing machines as
+  companions or managers of human communication and connection: Andy was
+  ever at the vanguard, the breaking wave of a change in culture, abandoning
+  himself to what would become the driving obsession of our times.  His
+  attachment at once prefigures and establishes our own age of automation:
+  our rapturous, narcissistic fixation with screens; the enormous
+  devolution of our emotional and practical lives to technological
+  apparatuses and contraptions of one kind or another."
+
 15 May 2026  <a name="15-May-2026"></a>
 
 - How to Think Like John Milton, Ch.9 in *How to Think Like a Poet*
