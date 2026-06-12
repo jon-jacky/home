@@ -10,6 +10,17 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+12 Jun 2016  <a name="12-Jun-2016"></a>
+
+- <https://www.hockney.com/works/digital/arrival-of-spring-woldgate> -
+  The Arrival of Spring in Woldgate, East Yorkshire, 2011, by David Hockney,
+  iPad drawings.
+
+  <https://www.getty.edu/art/collection/object/103QT4?tab=exhibitions> - 
+  Pearblossom Hwy., 11 - 18th April 1986, #2, by David Hockney, phote collage.
+
+  via <https://www.metafilter.com/213503/A-Bigger-Splash> - A Bigger Splash
+
  3 Jun 2026  <a name="3-Jun-2026"></a>
 
 - <https://wiki.wordsoftype.com/> - Words of Type Encyclopedia
