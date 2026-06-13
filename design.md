@@ -22,7 +22,11 @@ Companion page, a commonplace book:
   <https://lightroom.uk/whats-on/david-hockney> -
   David Hockney: Bigger & Closer, large scale projections.
 
-  via <https://www.metafilter.com/213503/A-Bigger-Splash> - A Bigger Splash
+  <https://www.ft.com/content/3862cf23-855b-443e-ab38-7579527a4f60?syn-25a6b1a6=1>
+  Simon Schama on David Hockney, with several examples pictured.
+
+  via <https://www.metafilter.com/213503/A-Bigger-Splash> - A Bigger Splash,
+  with more links.
 
  3 Jun 2026  <a name="3-Jun-2026"></a>
 
