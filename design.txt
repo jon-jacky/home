@@ -27,7 +27,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
   drawings pictured.
   
   via https://www.metafilter.com/213503/A-Bigger-Splash - A Bigger Splash,
-  with more links.
+  obituary with more links.
 
  3 Jun 2026
  
@@ -2170,10 +2170,14 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - https://inverse.website/ - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 10 Jun 2026:
-   designs for blogs, personal web pages, etc., most recent at the top.
-   Some of these pages have changed their design so the comments here no
-   longer apply.
+21 Apr 2020 and ongoing, most recent 14 Jun 2026
+
+  Designs for blogs, personal web pages, etc., most recent at the top.
+  Some of these pages have changed their design so the comments here no
+  longer apply.
+
+- https://sidhion.com/blog - 
+  Nice index, here is a page: https://sidhion.com/blog/oberon_notes
 
 - https://dbushell.com/blog/ -
   Charming retro design, logo, and color palette.
