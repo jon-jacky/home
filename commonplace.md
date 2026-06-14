@@ -108,8 +108,12 @@ the commit history.
   had retired from teaching. ... The 17th century poem ... consists of
   10,565 lines, or more than 60,000 words, across 12 books.
 
+  Mr. Basinger aimed to show that Milton's magnum opus was compelling and
+  dramatic.  In December 2001, after eight years and 10 months of practice,
+  he put on a marathon three-day peformance at a theater in Norwich.
+
   'I knew I wanted to do something of size and substance, perhaps not unlike
-  Milton himself,' Mr. Basinger said ... 'What was time to me? It was a gift.'"
+  Milton himself,' Mr. Basinger said ... 'What was time to me? It was a gift.'
 
 14 Apr 2026  <a name="14-Apr-2026"></a>
 
