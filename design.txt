@@ -2176,8 +2176,9 @@ Formerly well-known examples of 1960s and 1970s design:
   Some of these pages have changed their design so the comments here no
   longer apply.
 
-- https://sidhion.com/blog - 
-  Nice index, here is a page: https://sidhion.com/blog/oberon_notes
+- https://sidhion.com/blog - Nice index.
+  https://sidhion.com/blog/oberon_notes - 
+  Page with a note floating in the margin.
 
 - https://dbushell.com/blog/ -
   Charming retro design, logo, and color palette.
