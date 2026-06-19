@@ -18,6 +18,15 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+19 Jun 2026
+
+- Near Misses, review by Zoe Guttenplan of *Underfoot in Show Business*
+  by Helene Hanff, in *Times Literary Supplement*, Jun 12, 2026, p. 44
+  (no link):
+  
+  "Fran Lebowitz, the high priestess of nicotine and grouchiness, once said:
+  'No one can afford to live in New York.  Yet, eight million people do'."
+   
 11 Jun 2026
 
 - *The Lonely City: Adventures in the Art of Being Alone* by Olivia Laing,
