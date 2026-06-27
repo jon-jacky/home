@@ -339,7 +339,8 @@ the commit history.
 
  1 Apr 2024,  <a name="1-Apr-2024"></a>
  17 Jan 2025,  <a name="17-Jan-2025"></a>
- 15 May 2025  <a name="15-May-2025"></a>
+ 15 May 2025,  <a name="15-May-2025"></a>
+ 27 Jun 2026  <a name="27-Jun-2026"></a>
 
 - <https://www.youtube.com/watch?v=87jfTIWosBw> - 
   Pico-8 and the Search for Cosy Design Spaces by Joseph White (2018)
@@ -465,6 +466,24 @@ the commit history.
 - <https://www.lua.org/manual/5.2/manual.html#9> - The Complete Syntax of Lua
 
   "Here is the complete syntax of Lua in extended BNF."
+
+- <https://github.com/bytexenon/Tiny-Lua-Compiler> - Tiny Lua Compiler
+
+  "An educational Lua 5.1 compiler and virtual machine in one Lua file ...
+
+  It is not a production compiler, and it is not trying to replace the
+  standard Lua implementation. It is an educational compiler that tries
+  to stay honest: small enough to understand and complete enough to be
+  interesting.
+
+  Tiny Lua Compiler is not a port of the standard Lua implementation. It
+  was built completely from scratch. That keeps it extremely small and
+  straightforward ...
+
+  The code runs in a straight line. Utilities first, then the tokenizer,
+  the parser, the code generator, the bytecode emitter, the VM, and the
+  public API, in that order, with nothing out of place. You can trace a
+  single source program through every stage without losing the thread. ..."
 
 13 Jun 2023  <a name="13-Jun-2023"></a>
 
