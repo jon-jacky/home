@@ -676,7 +676,8 @@ Formerly well-known examples of 1960s and 1970s design:
 - <https://wendybowman.com/sarah-morris-artworks> - 
   Sarah Morris artworks
 
- 9 Dec 2022  <a name="9-Dec-2022"></a>
+ 9 Dec 2022,  <a name="9-Dec-2022"></a>
+28 Jun 2026  <a name="28-Jun-2026"></a>
 
 - <https://letters.temporarystate.net/entry/1/> - 
   Soyuz Grotesk, about designing Cyrillic fonts, by Roman Gornitsky.
@@ -695,6 +696,9 @@ Formerly well-known examples of 1960s and 1970s design:
   Colored words and panels break up the wall of text, make it easier to read.
   Click the About button in the upper right corner for explanations,
   then refresh the page to restore the original contents.
+
+  <https://nchrs.xyz/uxn_notes.html> - "A collection of illustrated notes
+  on the virtual machine uxn."
 
  2 Dec 2022  <a name="2-Dec-2022"></a>
 
