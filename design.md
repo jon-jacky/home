@@ -2174,11 +2174,16 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 14 Jun 2026  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 7 Jul 2026  <a name="21-Apr-2020"></a>
 
   Designs for blogs, personal web pages, etc., most recent at the top.
   Some of these pages have changed their design so the comments here no
   longer apply.
+
+- <https://thebaffler.com/latest/the-music-of-destruction-fuelling> -
+  The Music of Destruction by Mathias Feulling, book review in *The Baffler* -
+  Begins with dramatic black and white photograph.
+  Beautiful typography including pull quotes and block quotes.
 
 - <https://sidhion.com/blog> - Nice index.
   <https://sidhion.com/blog/oberon_notes> - 
