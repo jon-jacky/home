@@ -15,6 +15,20 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 8 Jul 2026  <a name="8-Jul-2026"></a>
+
+- Diary by Paul Taylor, in *London Review of Books* 7 May 2026, p. 43 -- 45
+  (no link):
+
+  "It is possible that the first profession to be replaced by artificial
+  intelligence will be that of computer programmer. ...  For most of the
+  time it has existed it has seemed to be very much of the future, and it's
+  strange to think of it becoming something of the past, made redundant by
+  the craftsmanship of other programmers.  But we are approaching that point."
+
+  For more about programming with AI see Karpathy at [30 Dec 2025](#30-Dec-2025)
+  and antirez (writing in Jan 2026) at [9 Jul 2019](#9-Jul-2019).
+
  7 May 2026  <a name="7-May-2026"></a>
 
 - <https://telcontar.net/About/> - excerpt from 
