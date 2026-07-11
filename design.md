@@ -10,7 +10,14 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
-12 Jun 2016  <a name="12-Jun-2016"></a>
+11 Jul 2026  <a name="11-Jul-2026"></a>
+
+- <https://www.lars-mueller-publishers.com/> - Lars Mueller Publishers
+
+  Click on any book cover to see inside.  Then click on the blue darts < and >
+  to page through the book.
+
+12 Jun 2026  <a name="12-Jun-2026"></a>
 
 - <https://www.hockney.com/works/digital/arrival-of-spring-woldgate> -
   The Arrival of Spring in Woldgate, East Yorkshire, 2011, by David Hockney,
