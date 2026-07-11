@@ -14,8 +14,8 @@ Companion page, a commonplace book:
 
 - <https://www.lars-mueller-publishers.com/> - Lars Mueller Publishers
 
-  Click on any book cover to see inside.  Then click on the blue darts < and >
-  to page through the book.
+  Architecture and design. Click on any book cover to see inside. Then
+  click on the darts < and > to page through the book.
 
 12 Jun 2026  <a name="12-Jun-2026"></a>
 
