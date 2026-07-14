@@ -10,6 +10,17 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+14 Jul 2026  <a name="14-Jul-2026"></a>
+
+- <https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-1/> -
+  Unconventional Graphic Design Tools workshop
+
+  "I spent a week of November on hosting a workshop for 15 Aalto students
+  on making a collective zine without Adobe software. ..."
+
+  via <https://hlnet.notion.site/text-art-tools> and 
+  <https://news.ycombinator.com/item?id=48831384>
+
 11 Jul 2026  <a name="11-Jul-2026"></a>
 
 - <https://www.lars-mueller-publishers.com/> - Lars Mueller Publishers
