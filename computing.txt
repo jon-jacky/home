@@ -15,6 +15,27 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+21 Jul 2026
+
+- https://civboot.github.io/blog/2026-07-21-fighting-ai.html -
+  If you want to fight AI, build a Civboot
+
+  "Working a corporate job had enough drudgery to begin with, but the
+  last year it has become more necessary than ever to have a place of
+  accomplishment which is simple and fun. ... Having a project where I
+  can directly use my skill on distinctly human tools is a breath of
+  fresh air that has kept me sane and happy.
+
+  I highly recommend thinking about how your tools and craft can be
+  distilled so that other people can pick them up, use them and
+  eventually modify them. ... Build like you are the only user and most
+  complexity will melt away. Write your tools to be fast for O(H), where
+  H is human use only. The editor I write in is pure-lua and yet has
+  zero latency despite asynchronously syntax highlighting the file. I've
+  designed it to be able to load and edit million line files using only
+  KiB of added memory. Sometimes problems seem harder than they really
+  are."
+
  8 Jul 2026
  
 - Diary by Paul Taylor, in *London Review of Books* 7 May 2026, p. 43 -- 45
