@@ -2200,7 +2200,7 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - https://htmldayseattle.neocities.org/ - HTML Day Seattle -
   Floating windows made with *div class="window"*.  
-  Subtle rotating background image -- is it made with *<style> #star* - ?
+  Subtle rotating background design -- is it made with *<style> #star* - ?
  
 - https://thebaffler.com/latest/the-music-of-destruction-fuelling -
   The Music of Destruction by Mathias Feulling, book review in *The Baffler* -
