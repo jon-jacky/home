@@ -2199,7 +2199,7 @@ Formerly well-known examples of 1960s and 1970s design:
   longer apply.
 
 - <https://htmldayseattle.neocities.org/> - HTML Day Seattle -
-  Floating windows made with *div class="window".
+  Floating windows made with *div class="window"*.
   Subtle rotating background image -- is it made with *<style> #star* - ?
 
 - <https://thebaffler.com/latest/the-music-of-destruction-fuelling> -
