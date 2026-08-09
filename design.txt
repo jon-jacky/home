@@ -9,7 +9,7 @@ https://github.com/jon-jacky/home/blob/gh-pages/computing.md
 
 Companion page, a commonplace book:
 https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md
-
+ 
 14 Jul 2026
 
 - https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-1/ -
@@ -2192,12 +2192,16 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - https://inverse.website/ - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 7 Jul 2026
+21 Apr 2020 and ongoing, most recent 8 Aug 2026
 
   Designs for blogs, personal web pages, etc., most recent at the top.
   Some of these pages have changed their design so the comments here no
   longer apply.
 
+- https://htmldayseattle.neocities.org/ - HTML Day Seattle -
+  Floating windows made with *div class="window".  
+  Subtle rotating background image -- is it made with *<style> #star* - ?
+ 
 - https://thebaffler.com/latest/the-music-of-destruction-fuelling -
   The Music of Destruction by Mathias Feulling, book review in *The Baffler* -
   Begins with dramatic black and white photograph.
