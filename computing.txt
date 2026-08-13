@@ -15,7 +15,7 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
-21 Jul 2026
+21 Jul 2026, 13 Aug 2026
 
 - https://civboot.github.io/blog/2026-07-21-fighting-ai.html -
   If you want to fight AI, build a Civboot
@@ -36,6 +36,9 @@ the commit history.
   KiB of added memory. Sometimes problems seem harder than they really
   are."
 
+  At https://civboot.github.io/index.html, they write:
+  "Civstack: boiling the ocean down to a kiddie pool. ..."
+  
  8 Jul 2026
  
 - Diary by Paul Taylor, in *London Review of Books* 7 May 2026, p. 43 -- 45

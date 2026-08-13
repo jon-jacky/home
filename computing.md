@@ -15,7 +15,7 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
-21 Jul 2026  <a name="21-Jul-2026"></a>
+21 Jul 2026, 13 Aug 2026  <a name="21-Jul-2026"></a>
 
 - <https://civboot.github.io/blog/2026-07-21-fighting-ai.html> -
   If you want to fight AI, build a Civboot
@@ -35,6 +35,9 @@ the commit history.
   designed it to be able to load and edit million line files using only
   KiB of added memory. Sometimes problems seem harder than they really
   are."
+
+  At <https://civboot.github.io/index.html>, they write:
+  "Civstack: boiling the ocean down to a kiddie pool. ..."
 
  8 Jul 2026  <a name="8-Jul-2026"></a>
 
