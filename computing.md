@@ -166,7 +166,7 @@ the commit history.
 
  2 Dec 2025  <a name="2-Dec-2025"></a>
 
-- <https://github.com/farant/rhubarb/blob/main/docs/latina.h.md>
+- <https://github.com/farant/rhubarb/blob/main/docs/old/latina.h.md>
 
   "You opened this file, you saw C keywords replaced with Latin words,
   and you thought "this person has lost their mind." ... I'm gonna
