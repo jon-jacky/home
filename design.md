@@ -2192,11 +2192,19 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 8 Aug 2026  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 6 Sep 2026  <a name="21-Apr-2020"></a>
 
   Designs for blogs, personal web pages, etc., most recent at the top.
   Some of these pages have changed their design so the comments here no
   longer apply.
+
+- <https://www.anthropic.com/research/formalizing-fermats-last-theorem> -
+  Large illustration in black and white and two shades of one hue precedes
+  text.
+
+- https://aethermug.com/posts/text-is-my-gimmick, also <https://aethermug.com/posts/tract> - 
+  Illustration in black and white and one hue on left, same width as text,
+  title on right, under that empty black.
 
 - <https://htmldayseattle.neocities.org/> - HTML Day Seattle -
   Simple content made interesting with multiple windows floating
