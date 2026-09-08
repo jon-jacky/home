@@ -18,6 +18,14 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+ 8 Sep 2026
+ 
+- Cassandra Wilson, *Jazz Times* interview with Geoffrey Himes, 2002 (no link):
+ 
+  "Jazz is not a certain repertoire or instrumentation; it's about being
+  truly in the moment and being able to improvise, being able to swing
+  and drawing on the blues. We do all those things."
+
 19 Jun 2026
 
 - Near Misses, review by Zoe Guttenplan of *Underfoot in Show Business*
