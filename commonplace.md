@@ -38,6 +38,8 @@ the commit history.
      circumstance that you are the reader of these exercises, and I
      their author."
 
+  More about Borges at [20 Dec 2024](#20-Dec-2024).
+
  8 Sep 2026  <a name="8-Sep-2026"></a>
 
 - Cassandra Wilson, *Jazz Times* interview with Geoffrey Himes, 2002 (no link):
