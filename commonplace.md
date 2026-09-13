@@ -18,6 +18,26 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+13 Sep 2026  <a name="13-Sep-2026"></a>
+
+- "Letter from Geneva" by Alberto Manguel, in *TLS* Aug 21, 2026, p 21.
+   (no link):
+
+   "Lyoi had asked each of us to read a Borges poem.  I chose "El
+   remordimiento" ("Remorse"), a sonnet that my father had cut out of
+   the Buenos Aires paper in which it was first published and kept by
+   his bed until the day of his death.  The first line reads: "I have
+   committed the worst of sins: I have not been happy".  ...
+
+   In 1923, Borges dedicated his first poetry collection to his readers
+   ... The dedication reads:
+
+   - If the pages of this book contain any successful verses, may the
+     reader forgive me the discourtesy of having claimed them first.
+     Our nothingnesses hardly differ; it is a trivial and fortuitous
+     circumstance that you are the reader of these exercises, and I
+     their author."
+
  8 Sep 2026  <a name="8-Sep-2026"></a>
 
 - Cassandra Wilson, *Jazz Times* interview with Geoffrey Himes, 2002 (no link):
