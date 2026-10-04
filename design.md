@@ -13,7 +13,7 @@ Companion page, a commonplace book:
 14 Jul 2026  <a name="14-Jul-2026"></a>
 
 - <https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-1/> -
-  Unconventional Graphic Design Tools workshop
+  Unconventional Graphic Design Tools workshop (scroll down)
 
   "I spent a week of November on hosting a workshop for 15 Aalto students
   on making a collective zine without Adobe software. ..."
@@ -2049,6 +2049,12 @@ Formerly well-known examples of 1960s and 1970s design:
   philosophy, from buildings and exhibits through computers and
   typewriters to publications and letterhead.
   Color plates from the book: <https://muse.jhu.edu/chapter/897088/pdf>
+
+- <https://esotericsurvey.blogspot.com/2013/05/eliot-noyes.html> -
+  Eliot Noyes (1910-1977) designed the IBM Selectric typewriter.
+  He also brought Paul Rand and the Eames (along with several other
+  major figures) to IBM. He was the father of corporate design identity
+  in modern America, first with IBM, then with Westinghouse and Mobil.
 
 - <https://www.ibm.com/design/language/> - IBM Design Language -
   The current IBM design web site.
