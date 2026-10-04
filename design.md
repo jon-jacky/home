@@ -2083,6 +2083,9 @@ Formerly well-known examples of 1960s and 1970s design:
   behind the glass windows facing the plaza, where the computer and its
   operators could be seen by shoppers and passers by.
 
+- <https://esotericsurvey.blogspot.com/2014/05/ibm-aerospace-noyes.html> -
+  IBM Aerospace building (1963) in Los Angeles, designed by Eliot Noyes.
+
 - <https://www.paulrand.design/work/IBM.html> -
   On his design for IBM's logo, Paul Rand wrote, "IBM's products are too
   complex to be understood by the average buyer. [They] must rely on
@@ -2103,6 +2106,10 @@ Formerly well-known examples of 1960s and 1970s design:
   had to fight for my foothold in (architecture) ... I'm really an
   architect and industrial designer ..." (quote in Conclusion, p. 218
   in Harwood).
+
+- <https://esotericsurvey.blogspot.com/2021/09/ibm-1401-mainframe-design.html>
+  "In all, by the mid-1960s nearly half of all computer systems in the
+  world were 1401-type systems."
 
 - <http://www.righto.com/2019/04/iconic-consoles-of-ibm-system360.html> -
   "The IBM System/360 was a ... family of mainframe computers announced on
