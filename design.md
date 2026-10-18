@@ -10,6 +10,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+17 Oct 2026  <a name="17-Oct-2026"></a>
+
+- <https://mediainspiratorium.com/1960-1970/> - 
+  *mediainspiratorium*, an intermedia art history 1800 - 2015,
+  1960 - 1970 decade
+
+  Many dense collages, each about a notable technology artifact,
+  *avant-garde* art work, or pop culture production from the decade.
+  For other decades, open the hamburger menu in the upper right corner.
+
 14 Jul 2026  <a name="14-Jul-2026"></a>
 
 - <https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-1/> -
