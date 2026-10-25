@@ -18,9 +18,42 @@ entries are not  near the top, but appear with older entries by the
 same author, or on  similar topics.   To find recent entries, consult
 the commit history.
 
+25 Oct 2026  <a name="25-Oct-2026"></a>
+
+- Where the Wild Things Are an Economic Blessing by Riley Ober,
+  in *The New York Times* Oct 24, 2026, p. C9 (no link):
+
+  "While growing up in Scandinavia, (Thomas) Dambo loved learning about
+  trolls from Nordic folklore ... While studying ... he got a gig
+  working in a warehouse, where he saw how much plywood from around the
+  world ended up discarded in Denmark. The self-proclaimed 'garbage
+  artist' had an idea: what if we built an army of trolls and returned
+  them to the forest? ... over the years, he's installed nearly 200
+  across the globe.
+
+  Mr. Dambo's migrating sculptures have left a stream of tourism revenue
+  in their wake. ... Mr. Dambo said he never set out to spur economic
+  growth. But the fact that he's made such a big impact from discarded
+  materials is an 'ultimate proof of concept that we should build our
+  world out of trash, rather than drown in it.'"
+
+- I'm Not Sorry by Thomas Nagel, review of *Morality and Responsibility*
+  by T. M. Scanlon, in *London Review of Books* 21 May 2026, p. 17 - 18
+  (no link):
+
+  "... I continue to feel that the wicked should suffer, and that this
+  makes sense only if they have some kind of free will, even though I don't
+  have an account of what that is. ... I also can't rid myself of the idea
+  that free will is part of my conception of myself as a rational agent
+  and thinker, and is presupposed in my attitudes toward others.  Without
+  it, my view of them is hollowed out, even if I continue to interact with
+  them as if they were more than parts of the natural causal order.  Scanlon
+  is certainly right that it is because humans can respond to reasons that
+  we hold them, but not tigers, responsible. ..."
+
 13 Sep 2026  <a name="13-Sep-2026"></a>
 
-- "Letter from Geneva" by Alberto Manguel, in *TLS* Aug 21, 2026, p 21.
+- Letter from Geneva by Alberto Manguel, in *TLS* Aug 21, 2026, p 21.
    (no link):
 
    "Lyoi had asked each of us to read a Borges poem.  I chose "El
