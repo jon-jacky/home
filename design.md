@@ -2215,11 +2215,15 @@ Formerly well-known examples of 1960s and 1970s design:
 
 - <https://inverse.website/> - *in:verse* a poetic programming language 
 
-21 Apr 2020 and ongoing, most recent 6 Sep 2026  <a name="21-Apr-2020"></a>
+21 Apr 2020 and ongoing, most recent 26 Oct 2026  <a name="21-Apr-2020"></a>
 
   Designs for blogs, personal web pages, etc., most recent at the top.
   Some of these pages have changed their design so the comments here no
   longer apply.
+
+- <https://catherineproject.org/> - Slightly oversize typography on a series 
+  of panels in complementary background colors, with small graphic accents
+  placed throughout. .
 
 - <https://www.anthropic.com/research/formalizing-fermats-last-theorem> -
   Large illustration in black and white and two shades of one hue precedes
