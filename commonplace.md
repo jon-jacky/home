@@ -1,0 +1,6911 @@
+Commonplace Book: a book into which notable extracts from other works
+are copied for personal use.
+
+Begun November 2016.
+Successor to <http://jon-jacky.github.io/home/links.html>, Spring 2001 -- July 2017
+
+Companion page on computing:
+<https://github.com/jon-jacky/home/blob/gh-pages/computing.md>
+
+Companion page on design, typography, and graphics:
+<https://github.com/jon-jacky/home/blob/gh-pages/design.md>
+
+Some of my own comments:
+<https://github.com/jon-jacky/home/blob/gh-pages/comments.md>
+
+Not all entries on this page are in chronological order.   Some recent
+entries are not  near the top, but appear with older entries by the
+same author, or on  similar topics.   To find recent entries, consult
+the commit history.
+
+25 Oct 2026  <a name="25-Oct-2026"></a>
+
+- Where the Wild Things Are an Economic Blessing by Riley Ober,
+  in *The New York Times* Oct 24, 2026, p. C9 (no link):
+
+  "While growing up in Scandinavia, (Thomas) Dambo loved learning about
+  trolls from Nordic folklore ... While studying ... he got a gig
+  working in a warehouse, where he saw how much plywood from around the
+  world ended up discarded in Denmark. The self-proclaimed 'garbage
+  artist' had an idea: what if we built an army of trolls and returned
+  them to the forest? ... over the years, he's installed nearly 200
+  across the globe.
+
+  Mr. Dambo's migrating sculptures have left a stream of tourism revenue
+  in their wake. ... Mr. Dambo said he never set out to spur economic
+  growth. But the fact that he's made such a big impact from discarded
+  materials is an 'ultimate proof of concept that we should build our
+  world out of trash, rather than drown in it.'"
+
+- I'm Not Sorry by Thomas Nagel, review of *Morality and Responsibility*
+  by T. M. Scanlon, in *London Review of Books* 21 May 2026, p. 17 - 18
+  (no link):
+
+  "... I continue to feel that the wicked should suffer, and that this
+  makes sense only if they have some kind of free will, even though I don't
+  have an account of what that is. ... I also can't rid myself of the idea
+  that free will is part of my conception of myself as a rational agent
+  and thinker, and is presupposed in my attitudes toward others.  Without
+  it, my view of them is hollowed out, even if I continue to interact with
+  them as if they were more than parts of the natural causal order.  Scanlon
+  is certainly right that it is because humans can respond to reasons that
+  we hold them, but not tigers, responsible. ..."
+
+13 Sep 2026  <a name="13-Sep-2026"></a>
+
+- Letter from Geneva by Alberto Manguel, in *TLS* Aug 21, 2026, p 21.
+   (no link):
+
+   "Lyoi had asked each of us to read a Borges poem.  I chose "El
+   remordimiento" ("Remorse"), a sonnet that my father had cut out of
+   the Buenos Aires paper in which it was first published and kept by
+   his bed until the day of his death.  The first line reads: "I have
+   committed the worst of sins: I have not been happy".  ...
+
+   In 1923, Borges dedicated his first poetry collection to his readers
+   ... The dedication reads:
+
+   - If the pages of this book contain any successful verses, may the
+     reader forgive me the discourtesy of having claimed them first.
+     Our nothingnesses hardly differ; it is a trivial and fortuitous
+     circumstance that you are the reader of these exercises, and I
+     their author."
+
+  More about Borges at [20 Dec 2024](#20-Dec-2024).
+
+ 8 Sep 2026  <a name="8-Sep-2026"></a>
+
+- Cassandra Wilson, *Jazz Times* interview with Geoffrey Himes, 2002 (no link):
+
+  "Jazz is not a certain repertoire or instrumentation; it's about being
+  truly in the moment and being able to improvise, being able to swing
+  and drawing on the blues. We do all those things."
+
+19 Jun 2026  <a name="19-Jun-2026"></a>
+
+- Near Misses, review by Zoe Guttenplan of *Underfoot in Show Business*
+  by Helene Hanff, in *Times Literary Supplement*, Jun 12, 2026, p. 44
+  (no link):
+
+  "Fran Lebowitz, the high priestess of nicotine and grouchiness, once said:
+  'No one can afford to live in New York.  Yet, eight million people do'."
+
+11 Jun 2026  <a name="11-Jun-2026"></a>
+
+- *The Lonely City: Adventures in the Art of Being Alone* by Olivia Laing,
+   Chapter 3, My Heart Opens to Your Voice, pps. 56 -- 67 (no link):
+
+  "At the beginning of the 1960s, Warhol reinvented himself.  Instead
+  of whimsical drawings of shoes for fashion magazines ... he began to
+  produce flat, commodified, eerily exact paintings of even more despicable
+  objects ... Starting with Coke bottles, he progressed rapidly to Campbell's
+  soup cans, food stamps, and dollar bills .... Ugly things, unwanted things,
+  things that couldn't possibly belong in the sublime white chamber of the
+  gallery.
+
+  Sameness, especially for the immigrant, the shy boy agonizingly  aware of
+  his failures to fit in, is a profoundly desirable state; an antidote
+  agains the pain of begin singular, alone ...  Warhol emphasized the glamour
+  of sameness as well as its potentially unnerving aspect by producing
+  his common objects as multiples: a generative bombardment of repeating
+  images in fluxing palettes.  In 1962 he discovered the mechanical,
+  wonderfully chancy process of silk-screening.  ... That summer, he filled
+  (his) living-room-cum-studio ... with hundreds of Marilyns and
+  Elvises, their faces rollered on to canvases covered in tonal splashes
+  of pink and lavender, fuschia and pale green.
+
+  'The reason I'm painting this way is that I want to be a machine,'
+  he famously (said) in an interview for *Art News* ...
+  The desire to transform himself into a machine didn't end with the
+  production of art. ... (he) redesigned his own image, converting himself
+  into a product. ... he consciously developed himself as a replicable
+  entity, exaggerating his physical appearance to create an automaton
+  or simulacrum ... The new Andy was immediately recognizable, a
+  caricature that could be cloned at will.  In fact, in 1967 he did just
+  that, secretly sending the actor Alan Midgette out in Warhol drag to do
+  a university lecture tour on his behalf. ...
+
+  But the desire to turn oneself into a multiple or machine is also a
+  desire to be liberated from human feeling.  ... 'Machines have less
+  problems.  I'd like to be a machine, wouldn't you?' he told *Time*
+  in 1963.  ... Becoming a machine also meant having relationships with
+  machines, using physical devices as a way of filling the uncomfortable,
+  sometimes unbearable space between self and world.  Warhol could not
+  have achieved his blankness, his enviable detachment, without the
+  use of these charismatic substitutes for human intimacy and love. ...
+  Over the years he employed a range of devices, from the stationary
+  16 mm Bolex on which he recorded the Screen Tests of the 1960s to the
+  Polaroid camera that was his permanent companion at the parties in the
+  1980s. ... His favorite was the tape recorder, a device that so radically
+  transformed his need for people that he nicknamed it *my wife*.
+
+  Becoming a machine, hiding behind machines, employing machines as
+  companions or managers of human communication and connection: Andy was
+  ever at the vanguard, the breaking wave of a change in culture, abandoning
+  himself to what would become the driving obsession of our times.  His
+  attachment at once prefigures and establishes our own age of automation:
+  our rapturous, narcissistic fixation with screens; the enormous
+  devolution of our emotional and practical lives to technological
+  apparatuses and contraptions of one kind or another."
+
+15 May 2026,  <a name="15-May-2026"></a>
+14 Jun 2026  <a name="14-Jun-2026"></a>
+
+- How to Think Like John Milton, Ch.9 in *How to Think Like a Poet*
+  by Dai George, pps. 110 -- 111 (no link):
+
+  "All in all then, Milton remains a tough sell. On the charitable side
+  of the ledger, one could follow Moshenska in saying that he is
+  'a national monument rather than national treasure'.   We know that
+  *Paradise Lost* is one of the most outstanding literary achievenents
+  of all time, though we'd rather do almost anything else than sit down
+  and read it.  Even Milton's fans have a tendency to talk about his
+  brilliance as a problem to be wrestled with.  William Blake first set
+  this train in motion when he proposed that '[t]he reason Milton wrote
+  in fetters when he wrote of Angels & God, and at liberty when he wrote
+  of Devils & Hell, is because he was a true Poet and of the Devil's party
+  without knowing it'. The underlying assumption here is that a an
+  Orthodox Christian couldn't possibly be a 'true Poet', and that --
+  ergo -- Milton reveals his heretical impulses by being a great poet.
+  Anyone who has felt their blood rise reading Satan's soaring hymn to
+  liberty from Book I of *Paradise Lost* ('Better to reign in Hell, than
+  serve in Heav'n') might be inclined to agree.  But it remains a curious
+  form of admiration."
+
+- Introduction to Milton's *Paradise Lost* Barnes and Noble Classics
+  Edition, by David Hawkes, 2004. pps. xiii - xv (no link):
+
+  "Many new readers of *Paradise Lost* may be tempted to agree with
+  Victorian critic Sir Walter Raleigh's notorious description of the
+  poem as a 'monument to dead ideas'. ... Did Milton miscalculate when
+  he composed his main legacy to the ages in a theological vocabulary
+  that would be obsolescent within a century?
+
+  The first task facing newcomers to the poem is to overcome the
+  prejudice, shared today by religious fundamentalists and secular atheists
+  alike, that the Bible story must be literally true or utterly false. We
+  must understand that for Milton and his contemporaries, scripture was to
+  be interpreted on many levels, of which the literal was by no means the
+  most significant.  Similarly, we need to move beyond the naive question
+  of whether one "believes in" beings such as God, his Son, or Satan. These
+  are not entities comparable to the Yeti or the Loch Ness Monster, which
+  either do or do not exist.  They designate, rather, aspects of human
+  experience that, today, we usually think of in other terms.  We tend to
+  debate the matters on which Milton meditates through the abstract concepts
+  of philosophy or psychology, but those disciplines employ figures,
+  metaphors, and symbols just as surely as Milton's poem does, with its
+  devlis, angels, and talking snakes. ...
+
+  In *Paradise Lost*, Satan denies the fact that he was created by a power
+  beyond himself, instigates the idolatrous worship of signs, transmits his
+  materialist approach to the world to human beings, and inculcates in them
+  an empty, self-destructive hedonism.  There is a good case to be made that
+  the power Milton calls 'Satan', has, in the twenty-first century, finally
+  conquered the world.  *Paradise Lost* is the prophetic story of how he has
+  achieved his triumph.   There could be no idea less 'dead' than that."
+
+- John Basinger, 92, Who Memorized All 12 Books of 'Paradise Lost,' Dies,
+  *New York Times*, Jun 13, 2026, p. A21 (no link)
+
+  "None of Mr. Basinger's exploits received the kind of attention he got
+  for memorizing 'Paradise Lost.' The idea came to him in 1993, after he
+  had retired from teaching. ... The 17th century poem ... consists of
+  10,565 lines, or more than 60,000 words, across 12 books.
+
+  Mr. Basinger aimed to show that Milton's magnum opus was compelling and
+  dramatic.  In December 2001, after eight years and 10 months of practice,
+  he put on a marathon three-day peformance at a theater in Norwich.
+
+  'I knew I wanted to do something of size and substance, perhaps not unlike
+  Milton himself,' Mr. Basinger said ... 'What was time to me? It was a gift.'
+
+14 Apr 2026  <a name="14-Apr-2026"></a>
+
+- The Shaken Globe by Heather Cass White, review of *The Quantity Theory of
+  Morality* by Will Self, *TLS* Apr 3, 2026, p. 28 (no link):
+
+  "A reporter once asked Gertrude Stein (an eloquent speaker), 'Why
+  don't you write they way you talk?'  Unruffled, Stein replied, 'Why don't
+  you read the way I write?'  Stein's reply is an excellent goad to
+  reviewers ..."
+
+24 Feb 2026  <a name="24-Feb-2026"></a>
+
+- I Am The One Who Is Sitting Here for Hours and Hours and Hours,
+  by Lauren Oyler, in *No Judgment: Essays*, p.174, 178 - 179 (no link):
+
+  "I do not know how long I could go on if I couldn't justify all the
+  bad or even inconvenient things that happen to me as possible future
+  material ... readers of my own work will be able to discern that I
+  endure great suffering at the hands of my own mind ...  It's very
+  possible my suffering would be diminished if I did not write; I would
+  certainly think less about the meaning of my suffering if I did not
+  have to convey it, covertly, to others, and if I did not have to believe
+  that in doing so I am contributing to a bigger project than myself ...."
+
+  "The fictional 'I' is always truer than it purports to be, and the
+  non-fictional less.  ... That memory is fallible and deceptive is
+  almost a cliche; people also often simply lie.  ... But there's
+  a certain nihilism, or at least literalism, in expressing too much
+  excitement about the claim that objectivity is impossible and truth
+  a fiction.  It's nice in theory, but in practie it is the writer's
+  responsibility at least to try.  Actually, it's everyone's responsibility
+  to try.  By trying you can get surprisingly close."
+
+11 Feb 2026  <a name="11-Feb-2026"></a>
+
+- <https://blgtylr.substack.com/p/american-symbolism> -
+  American Symbolism by Brandon Tayler, in his *Sweater Weather*, Jan 14, 2026.
+
+  "... The other day, I posted something on Notes about people needing to go
+  outside and feel the bracing cold on their faces. Someone replied and
+  said that that was a cliche.
+
+  My reply to that was that there are no cliches in actual human life.
+  Cliche is an aspect of narrative, and life is not a narrative. Life is
+  not a story. You are not a character in a story. ..."
+
+  More by Brandon Taylor at [6 Dec 2025](#6-Dec-2025), 
+  at [25 Apr 2024](#25-Apr-2024), and 
+  at [2 Jun 2020](#2-Jun-2020).
+
+ 7 Feb 2026  <a name="7-Feb-2026"></a>
+
+- Men Are Like Road Signs by Natasha Fedorson, review of *Kidnapped: A Story
+  In Crimes* by Ludmilla Petrushevskaya, in *London Review of Books*,
+  22 Jan 2026, p. 41 - 43 (no link):  <a name="22-Jan-2026"></a>
+
+  "Now 87, Petrushevskaya lives in Vilnius and claims she has given up
+  writing: the war in Ukraine 'put an end to my profession' since she
+  is no longer interested in what her countrymen have to say.
+
+  - I have always written about my people ... I felt sorry for them,
+    the drunks and wretches ... But now I don't feel sorry for my people --
+    invaders, thieves, and rapists, murderers of children and destroyers
+    of people's lives -- or their hateful families, their wives and mothers ...
+    I will never write about them or for them.
+
+  She now focuses on cabaret singing, which she began at 69, and painting."
+
+11 Jan 2026  <a name="11-Jan-2026"></a>
+
+- Literature, Lies, and Life, by Maria Margaronis, review of *When All
+  the Men Wore Hats* by Susan Cheever, *TLS* Dec 12 2025, p. 3 (no link):
+
+  "... how can the writer daughter wriggle free of the writer father ...?
+
+  The epigraph, an excerpt from John Cheever's journals, includes the
+  following sentence: 'As for Susie, she makes the error of daring not
+  to have been invented by me, of laughing at the wrong times and of
+  speaking lines I have not written'."
+
+ 6 Dec 2025, 11 Jan 2026  <a name="6-Dec-2025"></a>
+
+- *Minor Black Figures* by Brandon Taylor.  Chapter 10, pps. 245 -- 246
+  (no link).
+
+  "There had been something very homemade in (the printmakers') efforts,
+  intentionally blocky and undefined, fighting against the smoothness and
+  slickness of commercial printing.  This has been explained to him once
+  by a printmaker named Theo.
+
+  'What I'm trying to do is to preserve the human element.  The imperfection.
+  The anti-optimization of it all.  I need it to be slow.  Labor intensive.
+  I want to feel it in my back when I lie down at night that I've spent a whole
+  day pressing and cranking and making images.  I need that.  And I want my
+  images to bear that sign.  That these were made by a human.  A person.
+  With exactly as much strength as they have in their arms and with exactly
+  as much dexterity as they have in their fingers.  I need that more than
+  the subject matter itself.'"
+
+- Craftwork, by Susan Owens, review of *Craftland* by James Fox and
+  *The Lost Folk* by Lally MacBeth in *TLS*, Nov 28 2025, p. 39 (no link):
+
+  "'Craft is a tricky word, and James Fox admits that not all the people
+  featured in his new book are happy to own it.  In Devon, he witnesses
+  a tourist greeting a wheelwright with with the words, 'Good for you, good
+  for you old chap, keeping the craft alive!', and records the latter's
+  furious reaction: 'When someone says 'craft' to me I think of a church
+  fayre ... I'm not a craftsman and this isn't a hobby, and I'm not keeping
+  anything 'alive'. This here's a trade.'  In Hackney Wick, East London, Fox
+  visits an all-female ceramic studio with young members from India, New
+  Zealand, Vietnam, and Hong Kong; each rejects what he ruefully calls the
+  'c-word', one defining herself as a product designer, another as a maker,
+  a third as a multidisciplinary artist and researcher. ...
+
+  Time and again, the author uncovers instances of dedication that border
+  on the obsessive.  There is almost always an easier, quicker and cheaper
+  way of producing something, but throughout the book craftspeople speak of
+  profound value in the process of making as much as in the product itself.
+  All too often however, the work is frustrating and the materials are
+  intractable.  The withy potmaker David French, Fox writes, is not
+  'motivated by fame ('you must be joking!'), money ('belive me, there isn't
+  any') or even the pleasure of making ('sometimes I bloody hate it')'. ...
+
+  Yet he ends on a positive note. ... Craft is sustainable, he writes, and
+  practising it 'can be a powerful antidote' to the anxieties created by
+  new technologies that distance us from the hand made.  As Sarah Ready,
+  a low-impact, low-pollution commercial fisherwoman points out,
+  'Sometimes the past is actually the future'."
+
+  These observations are especially timely and poignant for me now, in 2026.
+  Computer programming -- in the sense of writing the code yourself --
+  may become one of those exotic crafts practiced by an eccentric
+  minority, as AI pervades the field.
+
+24 Nov 2025  <a name="24-Nov-2025"></a>
+
+- Jack DeJohnette, Jazz Drummer in Era-Defining Bands, Dies at 83.
+  *New York Times*, Tues Oct 28 2025, p. A24 (no link).
+
+  "The trio with Mr. Jarret and the bassist Gary Peacock made its debut
+  in 1983 ... the original prompt for the band was, as Mr. Jarret recalled,
+  'What if we were all sidemen?'" ...
+
+24 Nov 2025, 6 Dec 2025, 29 Mar 2026  <a name="24-Nov-2025"></a>
+
+- World-Beating Buster Upper by Colin Barrow, review of *The Letters of
+  Muriel Spark, Vol 1: 1944-63* by Dan Gunn and *Electric Spark: The
+  Enigma of Muriel Spark* by Frances Wilson.  In *London Review of Books*
+  9 Oct 2025, p.35 -- 36 (no link).  <a name="9-Oct-2025"></a>
+
+  "Spark seems not quite jokingly to have thought of herself as writing
+  the world into existence.  In *Loitering With Intent*, her most overtly
+  autobiographical novel, a writer finds that the world keeps re-enacting
+  the novel that she has written. ...  As the heroine, Fleur Talbot, says,
+  'Sometimes I don't actually meet a character I have created in a novel
+  until some time after the novel has been written and published.'"
+
+- Reflexive Hostility by Blake Morrison, review of *Flashlight* by
+  Susan Choi in *London Review of Books*  9 Oct 2025, p. 47 (no link).
+
+  "It's brave of Choi to make her main character so dislikable,  a trick
+  she learned from Muriel Spark.  'The great thing about Spark,' she said
+  in an interview, 'is that she frees you from that infantile desire to
+  affirm your own goodness by identifying with characters who are good.
+  There's no moral center.   The girls are awful.  The men are awful.
+  Jean Brodie is terrible.  And the writing is terrific.'"
+
+  (I don't agree it is infantile to want to identify with good.
+  Also, there is a big difference between likable and good.
+  But Choi and Spark are both worth reading.)
+
+- Atheist with a Wooden Leg by Edmund Gordon, review of *Good Country People
+  and Other Stories* by Flannery O'Connor, edited by Lauren Groff, and
+  *Flannery O'Connor's 'Why Do the Heathen Rage?': A Behind the Scenes
+  Look at a Work In Progress* by Jessica Hooten Wilson.  In *London Review
+  of Books* 19 Mar 2026, p. 46 (no link):
+
+  "In all of O'Connor's work, there isn't a single character you could
+  describe as admirable, or even vaguely sympathetic. ... O'Connor said
+  that her interest in such unedifying types was an antidote to 'the
+  hazy compassion demanded of the writer now.' If anything, she
+  was inclined to exaggerate the unsavoury. 'Certainly when the grotesque is
+  used in a legitmate way,' she explained, 'the intellectual and moral
+  judgments implicit in it will have the ascendancy over feeling.'
+
+  Her judgments were broadly religious in character.  'If I were not a
+  Catholic,' she wrote in 1955, 'I would have no reason to write, no reason
+  to see, no reason ever to feel horrified.'  She described her subject as
+  'the action of grace in territory largely held by the devil'.
+
+  (Muriel Spark, like Flannery O'Connor, was a Catholic.)
+
+28 Aug 2025  <a name="28-Aug-2025"></a>
+
+- Life beyond literature: a year without reading, by Daniel Karlin,
+  in *TLS*, Aug 1, 2025, pps 3 - 4 (no link):
+
+  "On January 1, 2024, I embarked on a project I had had in mind since my
+  retirement four years earlier: to spend a year without reading a single
+  book, newspaper, magazine, learned journal, academic treatise -- indeed,
+  anything printed on paper that did not 'officially' require me to read it.
+  ...
+
+  My reasons for trying the experiment seemed, to me, plain enough.  I have
+  no memory, or only wisps and fragments, of a time in my life when I could
+  not read.   I cannot remember what it was like, not just to be 'illiterate',
+  but to be 'illiterary'.  One of my reasons for not reading was to recover
+  this anterior self -- a naive, an impossible quest.  Like other explorers,
+  I stumbled on places I hadn't set out to find. ...   I was able to think
+  through what reading meant to me, in the historical perspective of my life.
+  Here ... are three of the discoveries I made.
+
+  The first was how odd, and difficult, I found it to think for myself.
+  (19th century author Charles) Lamb comments:
+
+  - 'I must confess that I dedicate no inconsiderable portion of
+     of my time to other people's thoughts.  I dream away my life
+     in others' speculations. ... I cannot sit and think.  Books think
+     for me.'
+
+  I found there was some truth in this, and that, in depriving myself of
+  books, I had removed the wall against which I had bounced my thoughts.
+  It was much harder than I expected to think deliberately about something,
+  anything. ... that final short sentence, 'Books think for me', opened up
+  a gulf at my feet.  Is that what had happened to me?   The sentence has a
+  glint of the sinister ... with the book as living parasite or body-snatcher.
+  ... If I were to rebel against God, it would take the form of denying that
+  books think for me, and I would be flying in the face of evidence.
+
+  My second discovery was about memory.  I became aware of (or anxious
+  about, to be honest) how little of the literature I'd read, particularly
+  poetry, I could remember -- that is, remember verbatim. ... it was
+  disconcerting to find that, if I had been asked to participate in the
+  famous last scene of Francois Truffaut's film adaptation of *Fahrenheit 451*,
+  I would have been unable to introduce myself by saying 'I am the poems
+  of Robert Browning', or even 'I am a few poems of Robert Browning', but
+  only 'I am a few scattered verses of Robert Browning, some of which may
+  not even be by him'.  On a desert island, I would be without resource.
+
+  Both of these discoveries concerned aspects of mental life (thinking
+  and remembering); the third was perhaps less a discovery than a
+  realization, a coming-to-consciousness. ... (Discovering books) is a
+  joyous discovery, but also a fraught, a dangerous one. ... the danger
+  affects any young reader ... who sets out alone on a journey through
+  the 'world of books'. This is because -- in the resonant phrase I did
+  remember -- 'the world of books is still the world'. Reading is not
+  segregated from 'real life', but part of it; and in this world not
+  everyone is benign. Books, like people, have power over you, and some
+  will wield that power without scruple and without mercy. ... Their
+  power to seduce, to enchant, to rescue, to corrupt hangs by the thread
+  of our attention ... (I felt) anguish at the thought of what some
+  books had done to me ...
+
+  The emblematic instance, for me, is Walter Scott's *Ivanhoe*, a master
+  key to the 'work' of imagination and fantasy in my adolescence.
+  I read it in the year following my father's death in Paris, when my
+  family returned to England, and I started school there, I was thirteen
+  years old. ... The book embodied the dissociation I felt (and continue
+  to feel) between, on the one hand, Englishness, Britishness, and on the
+  other, Jewishness, foreigness, alienation -- the side from which I turned
+  away. ...  Of course I knew myself to be Jewish, yet it wasn't with Isaac
+  or Rebecca or any of the Jewish characters I identified, but with Ivanhoe
+  or Richard Coeur-de-Lion.  ... This is a familiar syndrome in the Jewish
+  experience of assimilation, I know, and I don't repeat it for its own sake
+  but because of what it suggests, specifically, about the part played
+  by reading in my 'make-up'.  Scott was joined by C. S. Lewis,  Rudyard
+  Kipling, John Buchan and Ian Fleming, among many others; I became, and
+  have remained, 'English' by a form of literary-ideological adoption.
+  I must have desired this, yet it seems to me also that I yielded to the
+  desire of the books I read. ..
+
+  When I began the project, I didn't envision it as a memoir, and
+  conceived of my experience as representative and, so to speak,
+  neutral ... It was naive of me not to antiicipate what stopping reading --
+  stopping to think about reading -- would involve.   If reading has been
+  my life's work, that means more -- far more -- than its having merely
+  occupied my 'working life'."
+
+11 Jun 2025  <a name="11-Jun-2025"></a>
+
+- With Fresh Eyes by Diarmid McCulloch, review of
+  *Journeys of the Mind: A Life in History* by Peter Brown,
+  in *London Review of Books*, 5 Jun 2025, p. 37 (no link):
+
+  "Most people in Western cultures are comfortable with the terms
+  'Middle Ages' and 'medieval' ... Often a term will reveal some
+  half-expressed idea of progress: that's how things were, and now
+  they are better -- hence the commonplace use of 'medieval' with a
+  pejorative or condescending edge.  ...
+
+  Alternatively the historical narrative may be one of decline ...
+  An early example of decline periodisation has been one of the most
+  influential ... (it) is owed to the prolific historian Cassius Dio.
+  ...  Capturing the gloom that had been a frequent mood among the
+  senatorial class since the days of the republic, he looked back on
+  his own lifetime, and described the transition after 180 CE from the
+  rule of competent and sane Antonine emporers to that of a bunch of
+  imperial lunatics, chancers and tyrants.  It was a preciptous descent
+  'from a kingdom of gold to one of iron and rust', still rusting away
+  at the end of his story sometime around 230.
+
+  Dio's periodisation effectively gave the title to one of the most
+  influential books in Western historiography, Edward Gibbon's *History
+  of the Decline and Fall of the Roman Empire* (1776-88).  Gibbon began
+  his story in Dio's fashion: ... he commented that seven centuries of
+  Roman history, both republican and imperial, had witnessed 'a rapid
+  succession of triumphs', until 180 CE, when 'the prosperous condition
+  of their empire' began to erode.  After that it was downhill all the way."
+
+ 4 Jun 2025  <a name="4-Jun-2025"></a>
+
+- *The Elements of Marie Curie* by Dava Sobel, p. 127 (no link):
+
+  (While recuperating from an illness, Marie) passed hours watching
+  the silkworms that (her daughters) Irene and Eve raised in glass jars
+  on the windowsills.  In a letter to her niece Hanna, she said that
+  the silkworms' incessant activity sometimes made her fancy herself one
+  of them.  ... like them, she always strove with determination toward
+  a goal.  Like them, she said, she had never had the least assurance
+  of knowing her goal was true, or whether she could reach it, regardless
+  of the effort expended. 'I did those things because something obliged
+  me to, just as the silkworm is obliged to spin its cocoon,' she told Hanna.
+  ... These musings lead her to conclude, 'Each of us must spin our own
+  cocoon, dear Hanna, without asking why, or to what end.'"
+
+  Marie Curie achieved success and fame after working for years in a shed,
+  refining a ton of ore to finally discover and purify a tenth of a gram
+  of the previously unknown element radium.
+
+23 May 2025  <a name="23-May-2025"></a>
+
+- At 77, as Sophomoric, and Funny, as Ever, by Dwight Garner,
+  review of *Class Clown* by Dave Barry, in *The New York Times*
+  May 20 2025, p. C3 (no link):
+
+  "(Barry) took an unlikely seven-year detour into teaching business
+  writing to the employees of major companies.  It made him a better writer:
+
+  'I became more conscious of details, of how even minor changes in
+  vocabulary and structure affect the tone of a sentence -- to make it
+  sound more pompous, or more stupid, or whatever effect I'm going for.'"
+
+12 May 2025, 9 Jun 2025  <a name="12-May-2025"></a>
+
+- Golden Gates by John Arlidge, review of *Source Code* by Bill Gates,
+  in *TLS* Feb 21 2025, p. 7 (no link):
+
+  "Gates writes an endearing account of growing up in Seattle in the 1960s
+  ...  It is ironic -- and at times uncomfortable -- that the man more
+  responsible than anyone for the always-on digital world paints an uplifting
+  picture of the pre-tech era, when life was about libraries and a
+  high-school boy ringing up a girl to ask her if she would accompany him
+  to the prom."
+
+- Trying Too Hard by Nikhil Venkatesh, review of *Utilitarianism as a
+  Way of Life* by Bart Schultz, *TLS* Apr 18 2025, p. 11 (no link):
+
+  "given utilitanrianism's need for speculations so prone to error
+  and bias, and its historical support for empire, it might better promote
+  happiness if we reject utilitarianism.  This is not to say that
+  utilitarianism is false.  Rather, it is to say that if utilitarianism
+  is true, and we therefore ought to bring about the most happiness, we
+  ought not to be utilitarians.  Utilitarianism would be what Derek Parfit
+  called 'self-effacing': it would tell us not to believe in itself."
+
+- The Critic as Creator by Jessie Munton, review of *Authority* by
+  Andrea Long Chu, *TLS* Apr 25 2015, p. 21 (no link):
+
+  "Long Chu has acquired a reputation for 'takedowns' ...  Her discussion
+  of Bret Easton Ellis's book of essays *White* ('deeply needless'),
+  for instance, is savage, clever, and read-aloud funny.  Her review
+  of another hapless memoir ('astonishingly clueless') misses the mark
+  because the target isn't substantial enough.  It's like buzzing a hedge
+  trimmer over a pot of struggling tulips.
+
+  Long Chu is a self-described recovering academic, and the superiority
+  of her tone sometimes leaves the reader feeling that she has made it
+  as far as the bar after the seminar, but not much further."
+
+- *Authority* by Andrea Long Chu, from the Epilogue, p. 257 - 258 (no link):
+
+  "So if all the critic does is provide food for thought, I say: Let thought
+  starve.  The only criticism worth doing, for my money, is not the kind
+  that claims to improve society in general, it is, as the late John Berger
+  once wrote, the kind that helps to destroy *this particular one*. ...
+  I do believe that criticism, at its best, can be a small act of freedom.
+  Not, I should say, 'freedom of thought' as the liberal understands it --
+  that is, freedom to entertain every idea and commit to none.  That is not
+  true freedom; it is merely license, and always depends on the approval
+  of some authority. ...
+
+  What after all, was Don Quixote's great delusion? Cervantes tells us:
+  *To put into practice everything he had read*. ... But in one respect,
+  he was absolutely right: he refused to believe that the things he read
+  about existed in a *different world* from the one he already lived in.
+  ... When he rode full tilt at that giant in diguise, he was acting on the
+  correct assumption that reading was not enough."
+
+
+26 Apr 2025,  <a name="26-Apr-2025"></a>
+13 May 2025  <a name="13-May-2025"></a>
+
+- A Vocation to Read, by Tim Parks, in *TLS*, Apr 11 2025, p. 27 (no link):
+
+  "Why is it so hard to throw books away?  ...
+  In the past, every time I tried to throw away books, I'd find
+  myself reading a page or two, hesitating, thinking, ... 'Maybe I'll get
+  around to this on some empty day in old age'.
+
+  But the years go by.  I'm already old and there's no sign of those
+  empty days.  Meanwhile, the books have multiplied. ...   I gave my
+  life to books: reading, writing, teaching, translating, reviewing.
+  Now here they all are, piled floor to ceiling, choking my space.
+  Far from creating an illusion of possessing culture, they seem to mock me."
+
+21 Apr 2025  <a name="21-Apr-2025"></a>
+
+- <https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html>  
+  *ANTIQUA ET NOVA: Note on the Relationship Between
+  Artificial Intelligence and Human Intelligence*.
+  "Francis ... on 14 January 2025 ... approved this Note and ordered
+  its publication."
+  via <https://news.ycombinator.com/item?id=43750835>, 
+  comment by *jimmcslim* on Pope Francis has died.
+
+  "AI can be trained on the results of human creativity and then
+  generate new “artifacts” with a level of speed and skill that often
+  rivals or surpasses what humans can do ... This new situation has
+  prompted many people to reflect on what it means to be human and the
+  role of humanity in the world.
+
+  Underlying (many technologists') perspectives on the subject is the
+  implicit assumption that the term “intelligence” can be used in the
+  same way to refer to both human intelligence and AI. Yet, this does
+  not capture the full scope of the concept. In the case of humans,
+  intelligence is a faculty that pertains to the person in his or her
+  entirety, whereas in the context of AI, “intelligence” is understood
+  functionally, often with the presumption that the activities
+  characteristic of the human mind can be broken down into digitized
+  steps that machines can replicate. ... it does not account for the
+  full breadth of human experience ... the “intelligence” of a system is
+  evaluated methodologically, but also reductively, based on its ability
+  to produce appropriate responses ... regardless of how those responses
+  are generated.
+
+  Human beings are ordered by their very nature to interpersonal
+  communion ... Accordingly, human intelligence is not an isolated
+  faculty but is exercised in relationships, finding its fullest
+  expression in dialogue, collaboration, and solidarity. We learn with
+  others, and we learn through others.
+
+  Human intelligence is ultimately ... for the assimilation of truth.
+  ... it enables the person to explore realities that surpass mere
+  sensory experience or utility, since the desire for truth is part of
+  human nature itself. ... intelligence, in its fullest sense, also
+  includes the ability to savor what is true, good, and beautiful. As
+  the twentieth-century French poet Paul Claudel expressed,
+  'intelligence is nothing without delight.'
+
+  Human intelligence is not primarily about completing functional tasks
+  but about understanding and actively engaging with reality in all its
+  dimensions; it is also capable of surprising insights. Since AI lacks
+  the richness of corporeality, relationality, and the openness of the
+  human heart to truth and goodness, its capacities —- though seemingly
+  limitless -- are incomparable with the human ability to grasp reality.
+
+  Drawing an overly close equivalence between human intelligence and AI
+  risks succumbing to a functionalist perspective, where people are
+  valued based on the work they can perform. However, a person’s worth
+  does not depend on possessing specific skills, cognitive and
+  technological achievements, or individual success, but on the person’s
+  inherent dignity ...
+
+  Considering all these points, as Pope Francis observes, 'the very use
+  of the word intelligence’ in connection with AI 'can prove
+  misleading' and risks overlooking what is most precious in the human
+  person.
+
+  More on AI at [28 Jul 2024](#28-Jul-2024) and 
+  at [10 Jul 2023](#10-Jul-2023).
+
+- The New Generation of High Technology Weapons by Gary Chapman.
+  in *Computers in Battle: Will They Work?* ed. David Bellin and
+  Gary Chapman, 1987, pages 98 -- 99 (no link):
+
+  "Cynics might argue that it is romantic and anachronistic to to
+  invoke the contstraints of war crime law as a means of heading off
+  autonomous weapons. ... But the recognition of limits on the use of
+  force is fundamental to a nation's claim to civilized stature.
+
+  Computers cannot understand the relationship of means to ends
+  because they have no sense of history, no compassion, no longing
+  to live to see their grandchilren, and so on. ... Computers could
+  destroy the world without a moment's reflection or remorse, and
+  for no end whatsoever.
+
+  Autonomous weapons would turn what we call war into unreflective,
+  organized, automatic, near-complete destruction.  They would empty
+  conflict of its human purpose, consequently making war more senseless
+  than ever, even while it became more devastating."
+
+  This author, Gary Chapman, served in Vietnam in the US Army Special
+  Forces "Green Berets".  He wrote this almost forty years ago.
+
+- <https://www.vatican.va/news_services/liturgy/2025/documents/ns_lit_doc_20250418_via-crucis-meditazioni_en.html>  
+  *VIA CRUCIS*: Meditation by Pope Francis on Good Friday, 18 April 2025.
+  via James Butler in *London Review of Books*, 8 May 2025, p. 32.
+
+  "Today's builders of Babel tell us that there is no room for losers, and
+  that those who fall along the way are losers. Theirs is the construction
+  site of Hell."
+
+15 Apr 2025, 18 Apr 2026  <a name="15-Apr-2025"></a>
+
+- *Eric Dolphy at the Five Spot: Vol. 1* (1961), Prestige 7611, liner notes
+   by Michael Cuscuna, quoting trumpet player Booker Little from
+   an interview in *Metronome* magazine (no link):
+
+   "... I can't think in terms of wrong notes -- in fact, I don't hear
+   any notes as being wrong.  It's a matter of knowing how to integrate
+   the notes, and, if you must, resolve them.  ... I'm particularly
+   interested in the possibilities of dissonance.  If it's a consonant
+   sound it's going to sound smaller.  The more dissonance, the bigger
+   the sound.  It sounds like more horns; in fact, you can't always tell
+   how many there are.  And your shadings can be more varied. Dissonance
+   is a tool to achieve these things."
+
+- <https://www.metafilter.com/109908/The-John-Coltrane-Quartet-performs-A-Love-Supreme#4054070> -
+  comments on The John Coltrane Quartet Performs A Love Supreme
+
+  "(A performance in Paris in 1960) was one of Coltrane's, and Miles', most
+  notorious appearances. Perhaps fuelled by his uncharacteristic anger,
+  Coltrane's performance is almost contemptuous in its uncompromising
+  ugliness. Its also one of his most inspired performances. His
+  performances would not be so far-out again until 1965.
+
+  'All of You' is bad enough with its passages entirely in multiphonics,
+  its weird altissimo shrills, and its barking honks. But 'Bye Bye
+  Blackbird' takes the cake. About midway into Trane's solo, the air
+  begins to fill with the distinct sound of Gallic boos and hisses, and
+  the occasional contemptuous whistle.
+
+  Coltrane's style had evolved light years beyond what it had been even
+  when he had recorded Kind of Blue the previous year. The Bye Bye
+  Blackbird performance sometimes seems even to ignore bar lines, simply
+  allowing Coltrane to work off his frustrations in repeated, angry
+  motifs, screeches and honks.
+
+  When the crowd keeps booing, Coltrane seems to falter at first; then
+  in a sonic 'big finger' he begins playing even more fiercely, as if
+  deliberately trying to annoy the audience. When his solo ends, it is
+  hard to tell if those are genuine cheers among the shouts of rage, or
+  whether the crowd is simply relieved it's all over.
+
+  After the performance Frank Tenot, a French jazz journalist, rushed
+  backstage to find Trane. 'Don't you go too far?' he asked in English.
+  Trane smiled gently. I don't go far enough" he replied.
+
+  Video from a 1965 performance of A Love Supreme:
+  <https://vimeo.com/89837165>, 
+  via <https://www.metafilter.com/170480/July-26-1965-A-Love-Supreme-Live>        
+
+- *Three Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the
+   Lost Empire of Cool* by James Kaplan, p. 368 (no link):
+
+   "... two years after his death, a married pair of San Francisco clergy
+   founded the Saint John Coltrane Church. ... Initially the Kings hadn't
+   been impressed by Coltrane's recorded music, but then they attended a
+   Coltrane concert at the Jazz Workshop.  'It was as though he was speaking
+   in tongues and there was fire coming from heaven -- a sound baptism. ...
+   (We bcame) believers in that annointed sound that leapt down from the
+   tone of heaven out of the very mind of God. ...'"
+
+27 Mar 2025, 5 May 2025  <a name="27-Mar-2025"></a>
+
+- Cold Comfort Farm, by Kieran Setiya, review of
+  *Pessimism, Quietism, and Nature as Refuge* by David E. Cooper
+  and *Hopeful Pessimism* by Mara van der Lugt.
+  *TLS*, Mar 14, 2025, pps. 3 -- 4 (no link):
+
+  "... despair is not, to put it mildly, a popular stance. ...
+  Forced to choose between optimism and pessimism, hope and despair,
+  the well-adjusted opt for optimism and hope.
+
+  Two recent books take issue with this upbeat orientation.
+  Both (of these books) take the bleakness of the future as a premiss.
+  For van der Lugt, pessimism 'is simply the assumption of a dark view
+  of the present as well as the future'.  For Cooper, 'the human condition
+  is a bad one ...' -- and it's not likely to improve.  To this he adds
+  misanthropy, 'not hatred of human beings but a negative judgment on the
+  moral and spiritual condition of humankind'.  The question is what to do
+  about this pessimistic truth.
+
+  Cooper lays out our options.  There's amnesia or willful disregard ...
+  There's nihilism ... There's activism ... And then there's quietism,
+  the position Cooper gently advocates.
+
+  What quietism feels about the human prospect is, ironically, 'disquiet'.
+  But it is tempered by acceptance and practical disengagement.   The
+  quietist is not a moral or political activist.  Still, she endeavors to
+  defy her own misanthropy, to forswear 'jealousy, vanity, hubris, greed,
+  cruelty, hatred, contentiousness, and the rest'. ... We must recognize
+  the limits of our 'ability to impose [ourselves] on the world and each
+  other, and confine [our] practices to those in which [we] are skilled and
+  effective'.  At the same time, we should be compassionate to those around
+  us.
+
+  It's easy to feel the allure of quietism.  Facing an inhospitable world,
+  who isn't tempted to retreat, if they can, into their own safe space? ...
+  Yet for all its manifest appeal, there's something egoistic in the
+  strategy of withdrawal.  What about those who can't retreat, for whom
+  the pessimist's grim prognosis is a lived reality?  They are abandoned
+  by the quietist.  Should those who are not among them feel no more
+  than disquiet at their plight?  Are they not called on to act?
+
+  As van der Lugt argues, pessimism is perfectly compatible with hope.
+  The pessimist believes that things are likely to get worse.  But
+  so long as there's uncertaintly about how much worse, she can hope for
+  the best -- and strive towards it. ... Thus, van der Lugt's 'hopeful
+  pessimism'.
+
+  As the author warns, we should not conflate a pessimistic outlook,
+  in which 'the future looks bleak', with fatalism, 'the view that nothing
+  can be done, and so we may as well give up'.  Cooper comes close to
+  doing that.  But there is all the difference in the world between goals
+  I can do nothing to bring about and goals for which I can do 'next to
+  nothing' -- meaning 'maybe something'.   A live possibility is all
+  hope needs."
+
+- To Know or Not to Know, by Costica Bradatan, review of
+  *Ignorance and Bliss: On Wanting Not to Know* by Mark Lilla,
+  in *TLS* Apr 25, 2025, p. 12 (no link):
+
+  "(Lilla writes) without 'the capacity to resist seeing what is right
+  before our eyes, there would be no drama in human life, no movement' ...
+
+  Lilla borrows the notion of the 'will to ignorance' from Friedrich
+  Nietzsche, who describes it -- in inimitable style -- as a 'suddenly
+  erupting decision in favor of ignorance, of deliberate exclusion,
+  a shutting of one's windows, an internal No to this or that, a refusal
+  to let things approach, a kind of state of defence against much that is
+  knowable, a satisfaction with the dark, with the limiting horizon,
+  a Yea and Amen to ignorance'. ...
+
+  'The world is a recaclitrant place', Lilla writes, and 'there are things
+  about it we would prefer not to have to recognize'. ... If someone were
+  to take (our delibrate ignorance) suddenly away from us, thus forcing
+  us to see everything -- the world and ourselves in it -- as it really is,
+  we would count ourselves the most unfortunate of mortals."
+
+ 7 Mar 2025  <a name="7-Mar-2025"></a>
+
+- "Wash Out Your Ears", by Adam Shatz, review of
+  *Olivier Messiaen: A Critical Biography* by Robert Scholl and
+  *Messiaen in Context* edited by Robert Scholl.  *London Review of Books*,
+  Feb 20, 2025, pps. 7 -- 11 (no link):
+
+  "He discovered that when he heard a chord, he would see 'corresponding
+  colours.  Not with my eyes, but inside my head.' ... 'Those aren't orange
+  enough,' he told a pianist playing chords from his *Quartet for the End
+  of Time*.  He proceeded to demonstrate how to achieve a brighter, more
+  'orange' colour.
+
+  A young composer ... confessed in her diary to feeling 'suffocated' by
+  Messiaen's 'dense, vertical writing' and 'endless melancholy melodies,
+  which have nothing to do anymore with counterpoint ... In summary: too many
+  notes; I miss Mozart.'   She wasn't alone. ...
+
+  Messiaen was forced to draft an apology for having shocked 'the old ladies'
+  attending church.  But to 'those who bellow about my so-called dissonances',
+  he said, I tell them quite simply that I am not dissonant: let them wash out
+  their ears.'
+
+  The most feverish expression of Messiaen's vision was his eighty-minute-long
+  *Turangulila-Symphonie*, whose ten movements fused Stravinskian percussiveness,
+  Wagnerian leitmotifs, and Indian rhythms. ... Stravinsky found the work to be
+  'more embarrassment than riches'; while he was 'flattered' by Messiaen's homage,
+  'I would prefer to receive royalties.'
+
+   ... Messaien's work is more popular and more widely performed than ever.
+   You can hear echoes of it in the music of Jonny Greenwood, a member of
+   Radiohead and composer of film scores who ... considers himself a
+   fanatical *messiaenique*. ... (He) perfectly captured the transgressive thrill
+   of it when he said the until he heard the *Turangalila* as a teenager,
+   'I didn't know it was allowed to write music like that.' "
+
+19 Feb 2025  <a name="19-Feb-2025"></a>
+
+- <https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/> -
+  Dedekind's Subtle Knife by James Propp from his blog *Mathematical
+  Enchantments*.
+
+  "The modern era of mathematics began on November 24, 1858, when
+  mathematician Richard Dedekind proposed the first firm foundation for
+  the real number system and, even more importantly, established a new
+  way to think about -- or maybe I should say a new way to *avoid* thinking
+  about -- the ultimate nature of mathematical reality.
+
+  You may remember from last months essay that Dedekind had come up with
+  an axiom called the Completeness Axiom which, in combination with the
+  rules of algebra, will let you prove all the important properties of
+  the real number system that calculus needs. This is the *postulational
+  approach*: list the properties you want numbers (or points or lines or
+  whatever) to have, postulate that those properties hold, and see what
+  consequences follow. But there's a problem with this method: how do we
+  know that the postulates are true?
+
+  For instance, consider the assertion that twice the cube root of 2
+  equals the cube root of 16. If we postulate the existence of a number
+  *x* that satisfies *x^3 = 2* while also obeying the ordinary rules of
+  algebra, its easy to show that *(2x)^3 = (2^3)(x^3) = (8)(2) = 16*. But
+  how do we know that such a number *x* exists to begin with? It seems a
+  bit like circular reasoning.
+
+  Dedekind found a way out of the circle, relying on the gimmick that
+  you can sometimes build a new number system by hitching a ride on an old
+  one.
+
+  Longtime readers of this blog will already have seen several examples
+  of this kind of bootstrapping. For instance, the complex number
+  *a + b sqrt(-1)* can be replaced by the ordered pair of real numbers *(a,b)*
+  and we can operate on such pairs with new operations *(+)* and *(x)* and given
+  by the definitions *(a, b) (+) (c, d) = (a+c, b+d)* and
+  *(a, b)(x)(c, d) = (ac-bd, ad+bc)*,
+  and then the question "But what does *sqrt(-1)* mean?"
+  drops out of view; we've got the ordered pair *(0,1)* sitting in front of
+  us, and when we square it (that is, when we *(x)*-multiply it by itself
+  in accordance with our definition of *(x)*) we get *(-1, 0)*, which acts
+  just like the ordinary number *-1* in a whole lot of ways. So then we
+  switch to writing *(+)* as *+*, writing *(x)* as *x*, writing *(-1, 0)* as
+  *-1*, and (why not) writing *(0, 1)* as *i*, and suddenly, weve returned from
+  our sojourn in Oz only to find that Kansas has changed: now *-1* has a
+  square root.
+
+  Putting the gimmick differently, to work with the complex number
+  *a + b sqrt(-1)* compounded of the real numbers *a* and *b* along with their
+  imaginary friend *sqrt(-1)*, all you need to know is what *a* and *b* are,
+  not what sort of magical creature *sqrt(-1)* is. So we can banish
+  *sqrt(-1)*, and with it all ontological qualms about imaginary numbers,
+  by avoiding the expression *sqrt(-1)* entirely and just writing *(a, b)*.
+  This surrogate can be taught how to do everything we could ask
+  *a + b sqrt(-1)* to do, so it's all we need.
+
+  Dedekind realized that in an analogous way, questions about real
+  numbers can be reduced to questions about rational numbers. ..."
+
+  Propp's explanation of Dedekind cuts follows in the linked blog post.
+
+  This entry resonates with Timothy Gowers' remarks at [10 Mar 2020](#10-Mar-2020).
+
+18 Feb 2025  <a name="18-Feb-2025"></a>
+
+- "Graham Nickson, 78, Ardent Steward of New York Studio School, Dies",
+  by Penelope Green, *New York Times*, Feb 17 2025, p. B6 (no link):
+
+  ... he conceived the Drawing Marathon, a two-week boot camp ... it
+  became a cult-like pilgramage for many, despite the eight hour days and
+  and critiques stretching late into the night, which required enourmous
+  stamina. ...
+
+  For Mr Nickson, drawing was an essential foundational act, and a kind
+  of religion.  "It is the most direct means of describing an experience
+  or an idea," he wrote ...  "Drawing is the most crucial pathway to
+  understanding in art, and is the common bond between the disciplines
+  of painting and sculpture."
+
+  (In 1972) he won the Rome Prize, the prestigious fellowship.
+  That year ... and for two years, he doggedly painted every sunrise
+  and sunset in watercolor.   It was a transgressive act ... because the
+  subject was such a cliche.
+
+  This was a practice he followed throughout his life. ...
+  (He said) "It is obsessive, but it is good for you.  How can you
+  paint bathers for 30 years?  How can you paint sunsets for such
+  a long time?  Well, you can if you feel they are still as thrilling
+  and challenging as they were from the first."
+
+  Mr Nickson led his students through ... exercises ... to help them
+  jettison their ideas about what drawing meant and how to understand
+  space. ... (He) had instructed the students to cut up their
+  drawings and paste them together in weird configurations. ... he had
+  them slice two drawings in half and switch the top bits. "Something
+  happened today that was quite radical," Mr Nickson told the group. ...
+  "Why did we switch the two tops?  It gave us new adventures, new
+  possibilities."
+
+16 Feb 2025  <a name="16-Feb-2025"></a>
+
+- "The Condemned Man's Cell",  by Rachel Hadas, review of
+  *The Poems from On The Consolation of Philosphy by Boethius*
+  "Translated out of the original Latin into diverse historical
+  Englishings diligently collaged by Peter Glassglold".
+  *TLS*, Jan 31, 2025, p. 19 (no link):
+
+  ".... Glassgold evokes (the experience) of a range of texts
+  in front of him as he worked '... propped up on stands in chronological
+  order from left to right, along with piles of dictionaries in, behind,
+  and around them'.  Consulting a whole library is part of the pleasure
+  of reading any great work in translation.  Glassgold cites Gregory
+  Rabassa's comment about translations from Homer: 'The poor Greeks, they
+  had only one Homer, while we have so many!'"
+
+14 Feb 2025  <a name="14-Feb-2025"></a>
+
+- "The Pen Steers a Routine and a Life", by Elizabeth Egan,
+   interview with novelist Anne Tyler, *The New York Times*,
+   Feb 12, 2015, pages C1, C4 (no link):
+
+   "She quit writing reviews years ago, 'That was my one foray into
+   nonfiction,' Tyler said.  'If I'm writing fiction and I get deep
+   enough into it, all of a sudden it feels like I'm telling the truth.
+   If I'm writing nonfiction, I write down something I absolutely believe,
+   and it'll look like a lie.'"
+
+20 Dec 2024  <a name="20-Dec-2024"></a>
+
+- "Magical Idealism" by Alberto Manguel, review of *The Novices of Lerna*
+  by Angel Bonomini, in *TLS* Dec 6 2024, p. 19 (no link):
+
+  "In 1971 ... in Argentina ... the military dictatorship was in full force.
+  Jorge Luis Borges was soon to publish an open letter accusing the generals
+  of leading young soldiers to the slaughter, they themselves "having never
+  heard a bullet whistle past their own ears".  An indignant retired
+  general retorted: "I am an Argentian general and I have heard a bullet
+  whistle past my ears".  Borges replied:  "I was mistaken. There is *one*
+  Argentinian general who has heard *one* bullet whistle past his ears".
+  At a time when writers were routinely kidnapped, imprisoned, tortured,
+  and made to "disappear", Borges was deemed too famous to punish."
+
+  "... Bonomini liked to quote Borges's dictum aimed at Juan Peron in 1946:
+  'Dictatorships encourage cruelty; more abominable is the fact that they
+  encourage idiocy ... To fight against these sad monotonies is one of the
+  writer's many duties'."
+
+- "Never Stop Writing" by Christy Edwall, review of *The Rest is Silence*
+  by Augusto Monterroso, in *TLS* Dec 6, 2024, p. 20 (no link):
+
+  "Monterroso ... was born in Honduras and worked as an
+  editor and later a diplomat.  Having moved to Guatemala as a child, he
+  settled in Mexico in adulthood, having fallen afoul of the dictatorship
+  of Jorge Ubico for his outspoken views.  'Sooner or later the Latin American
+  writer faces three possible fates: exile, imprisonment, or burial',
+  Monterroso wrote in 1983.
+
+22 Nov 2024  <a name="22-Nov-2024"></a>
+
+- *We Don't Know Ourselves: A Personal History of Modern Ireland*
+  by Fintan O'Toole. 2021.  Pages 563, 565 - 570 (no link):
+
+  This history of Ireland during the author's lifetime, from 1958 to the
+  present, tells how Ireland finally emerged from the repressive,
+  corrupt and hypocritical domination of the Fianna Fail political
+  party and the Catholic church, which together had ruled the country
+  since the 1930s.
+
+  "... that older generation ... was always in two minds.  One of them
+  craved certainty, fixity, and the abiility to declare an imaginary
+  future that would conform to an imaginary past.  The other knew that the
+  real lived history of the place and the people who inhabit it was one of
+  being utterly unfixed, of dealing with radical uncertainty through evasions,
+  silences and fictions.  It was time to allow that second, submerged
+  consciousness to come up for air.
+
+  Did it surface because the great monoliths of the church and Fianna Fail
+  had fallen, or where they themselves undermined by its upward pressure?
+  Both, of course ...
+
+  It is just about imaginable that this separation could have gone on
+  indefinitely.  Yet that would have required three things not to happen.
+  The church would have needed not to destroy itself from within by
+  unleashing and facilitating so much viciousness against women and children.
+  The system of patronage and power perfected by Fianna Fail would have
+  needed not to tip over into outright kleptocracy, with such devastating
+  consequences for the indigenous economy, and the lives of its citizens.
+  And Irish nationalism would have had to sustain its romance of martyrdom
+  purely as a matter of sentiment and aspiration, to not become so brutally
+  real that it had to be faced and painfully rethought.
+
+  But all of these things did happen. ...
+
+  We were not holy. The idea of Ireland as an examplar of faithfulness to
+  immemorial religious orthodoxies is now dead.  It had its great revival
+  in the 1980s, but it proved to be almost all performance.  It could not
+  get a grip on reality.  It could not change behavior.  It could not stop
+  women and LGBTQ people and the children of the industrial schools asserting
+  themselves and infiltrating their truths into the collective
+  consciousness.  It could not withstand the revelation of its own betrayals.
+  In particular, it could not endure against the most shockng revelation of
+  all: the recognition by most of the faithful that they were in fact much
+  holier than their preachers, that they had a clearer sense of right and
+  wrong, a more honest and intimate sense of love and compassion and decency.
+
+  We were not violent revolutionaries.  The pull of an irredentist
+  nationalism had been very strong.   Its ideological and emotional
+  sources were still flowing in my childhood and they formed a powerful
+  confluence with the Catholic uprising in Northern Ireland.  They were
+  fed by Loyalist reaction and British misrule.  But violent nationalism
+  did not match the contours of our reality either.  The vast majority of
+  us didn't have the stomach for it -- the killing was too brutal, too
+  nauseating, too futile and too apparently unending.  It did not offer
+  a plausible future.   A United Ireland imposed without consent, with the
+  Brits driven into the sea and the Protestants subdued, was not any kind
+  of possible endpoint.  It could only be the beginning of another conflict.
+
+  The last thing Ireland was not though, was settled.  There had been a long
+  and sometimes desperate struggle to belong, to be accepted as one of those
+  advanced countries that has achieved the proper, privileged state of being
+  fully developed. ... This, too had been another illusion -- the illusion
+  of arrival.  Ireland had not in fact arrived. ...
+
+  In not being all these things there is, at least, a sense of possibility.
+  What is possible now, and what was entirely impossible when I was born,
+  is this: to accept the unknown without being so terrified of it that you
+  have to take refuge in fabrications of absolute conviction.
+
+  In 1958, and for many decades afterward, there was this sense that, if
+  it did not pretend to know itself thoroughly and absolutely, Ireland
+  would not exist at all. It was so unbearably fragile that, without a
+  hyper-exagerrated self-image, it would vanish. So many of its real
+  stories were hidden, occluded in shame and secrecy, that it had to
+  have vast official fictions: the beacon of spiritual values, the
+  oppressed nation moving inexorably towards its destiny of unity and
+  freedom, the poster child of economic globalization. ...
+
+  Perhaps we are learning to live without being so defined. ... Maybe
+  Ireland has reached the point of accepting that half-knowledge --
+  the ability to see clearly what is, while also acknowledging what
+  remains dark -- is better than the swinging between the pretence of
+  knowing everything and the denial of what you really do know.
+
+  When I was born, there was no future and now there is no future again.
+  Back then, it was a distressing thought ... Now it is a more positive
+  idea: there need not be a single, knowable future.  The Belfast agreement
+  of 1998 suggested that it is possible to live and thrive without knowing
+  what some imagined final state might be -- and even, implicitly, that there
+  need not be a final state at all. ..."
+
+12 Nov 2024  <a name="12-Nov-2024"></a>
+
+- New Chapter by Louis Menand, *The New Yorker*, Nov 18 2024, p. 64 (no link):
+
+  "The (First World) war was a traumatic event in both Europe and the United
+  States, and it led people to wonder whether they had really understood
+  the apparently tranquil and prosperous North Atlantic world that preceded
+  it.  'The tide that bore us along,' Henry James wrote in a letter to a
+  friend ten days after fighting broke out, 'was then all the the while
+  moving to *this* as its grand Niagra ... It seems to me to *undo*
+  everything, everything that was ours, in the most horrible retroactive way.'"
+
+ 1 Nov 2024  <a name="1-Nov-2024"></a>
+
+- Scoops and Leaks by Neal Ascherson, review of
+  *Believe Nothing Until It Is Officially Denied:
+  Claud Cockburn and the Invention of Guerilla Journalism*
+  by Patrick Cockburn, *London Review of Books*, 24 Oct 2024,
+  pps. 9 - 12 (no link):
+
+  "... Claud disbelieved strongly in the axiom about 'telling truth to
+  power', knowing that the rulers of the Earth have no wish to hear
+  any such thing. Much more effective, he believed, is to tell truth
+  to the *powerless* so they have a fighting chance in the struggle against
+  the big battalions. ... But it was second core belief that really
+  drove his journalism, that 'decision makers were weaker, more incompetent,
+  more divided, more self-destructively corrupt than they liked people to
+  understand and hence more vulnerable to journalistic attack and exposure.'
+
+  He left behind two daughters ... and three formidable journalistic sons,
+  all leftish, all sharing their father's sparkling command of language. ...
+  None of them wasted time 'telling truth to power'.   All of them stole
+  truths from the powerful and laid them before the powerless.  Their father
+  would have grinned, for that is exactly what his 'guerilla journalism' was
+  about."
+
+14 Aug 2024  <a name="14-Aug-2024"></a>
+
+- <https://geekxgirls.com/article.php?ID=14038> -
+  Famous Poems Rewritten as Limericks
+
+  <https://www.metafilter.com/205065/This-note-on-the-fridge-is-to-say> -
+  This note on the fridge is to say
+
+  <https://www.metafilter.com/63163/There-once-was-a-girl-named-Lenore> -
+  There once was a girl named Lenore
+
+  Too many to include here, too hard to pick a few good ones.  Just go to the links.
+
+ 4 Aug 2024  <a name="4-Aug-2024"></a>
+
+- What's Your Excuse? by Tom Seymour Evans, book review in *TLS*, July 5, 2024,
+  p. 17 (no link):
+
+  "Many things about this novel are wrong and should not work. ... The action
+  ... could be dispatched in many fewer pages ...  While (the author's) first
+  novel was long because there were many characters and events in it, his
+  second novel is long because there are many words in it. ..."
+
+- A Tove on the Table by A. W. Moore, book reviews in *London Review of Books*,
+  1 Aug 2024, p.33 (no link):  <a name="1-Aug-2024"></a>
+
+  "Many books include passages which, despite their authors' best efforts,
+  simply do not make sense.  Wittgenstein may be involved in a mirror image
+  of this: that is, the *Tractatus* may include many passages which, despite its
+  author's best efforts, do make sense! ..."
+
+28 Jul 2024  <a name="28-Jul-2024"></a>
+
+- Metal Machine Music by Laurent Dubriel, *Harper's Magazine*, Vol 349, No 2090,
+  July 2024, pps. 31 - 36 (no link):
+
+  "... What remains impossible to address within the current technical
+  paradigm is the lack of meaningful creation.   The key reason we may be
+  so amazed to read a pedestrian stanza 'authored' by ChatGPT ... is that
+  we have already habituated ourselves to banality and mediocrity.   This is
+  what our society now emphasizes and rewards: run-of-the-mill statements,
+  canned remarks, uniform pronouncements, recitations of creeds and commandments,
+  ready-made soliloquies, stories or arguments obtained through the mere
+  application of stylistic recipes. ...
+
+  ... more and more, texts available online will be co-written (or simply
+  written) by their own tools.  Relying on such polluted data would inevitably
+  degrade the quality of future iterations of the model, making completions
+  more standardized and predictable. ... We do not need artificial intelligence
+  to lose sight of the value of true innovation or original ideas, but if
+  most of what we consume is artificially generated, we risk no longer being
+  able to discern the differences so many of us are already so intent on
+  forgetting.  This is our bland future, the consequence of intellectual
+  downsizing ,,,
+
+  ... We have a choice.  At the end of *Walden*, Thoreau writes, 'There is
+  an incessant influx of novelty into the world, and yet we tolerate
+  incredible dullness.'  It is up to us to determine whether we now wish to
+  multiply dullness through AI or refuse to be subjected to it. ..."
+
+  Much more on AI at [10 Jul 2023](#10-Jul-2023) etc. The remarks by Douglas Hofstadter and 
+  Eric Naiman are especially pertitent to the above essay.
+
+24 Jun 2024  <a name="24-Jun-2024"></a>
+
+- <https://www.online-literature.com/wilde/1305/> and many other sources - 
+  The Critic As Artist.  With some remarks on the importance of doing nothing,
+  by Oscar Wilde  (1891).
+
+  "ERNEST. You have told me many strange things to-night, Gilbert. You have
+  told me that it is more difficult to talk about a thing than to do it, and
+  that to do nothing at all is the most difficult thing in the world; you
+  have told me that all Art is immoral, and all thought dangerous; that
+  criticism is more creative than creation, and that the highest criticism
+  is that which reveals in the work of Art what the artist had not put
+  there; that it is exactly because a man cannot do a thing that he is the
+  proper judge of it; and that the true critic is unfair, insincere, and not
+  rational. ..."
+
+  This excerpt appears at the end of the long essay.  via The Critic as Artist
+  by Craig Raine, *TLS* June 14 2024, p. 27.
+
+25 Apr 2024  <a name="25-Apr-2024"></a>
+
+- Is it even good? Brandon Taylor reads Zola, *London Review of Books*,
+  Vol 46 No 7, 4 April 2024, pps. 14 -- 20 (no link):
+
+  "... I agreed to write about *Les Rougon-Macquart*, Emile Zola's cycle
+  of twenty novels, published between 1871 and 1893 ...
+
+  Zola began writing the cycle with clear intentions. ... his exploration
+  would demostrate his conviction as a naturalist writer that an individual
+  is subject to the natural laws that govern  the physical world.  ... Zola
+  declared that 'a like determinism will govern the stones of the roadway
+  and the brain of man ... determinism dominates everything ...'
+
+  For Zola, a person's psychology and appetites were determined by the
+  biological (the hereditary) and the social (milieu and environment).
+  ...   Zola thought that if he could work out in his novels the exact
+  combination   of biology and environment that gave rise to all the
+  evils in society -- crime, disease,   poverty, violence -- he could
+  save the world. This extra-literary dimension   is what moves his
+  naturalism beyond pessimistic determinism. ... Zola's naturalism not only
+  holds that one can shape and change one's fate, but that it is a moral
+  necessity to do so. ...
+
+  This lowering of man from the Romantic or idealized hero of his own
+  story to the mundane victim of the universe and its cold indifference
+  ... is the perfect vehicle for expressing the alienation we feel after
+  being commodified under capitalism.  ... you can understand why
+  naturalism has been making a sneaky comeback.
+
+  ... I detect strong naturalistic tendencies in my fellow millenial
+  novelists, particularly those who write novels largely concerned with
+  the theme of identity. ... For many Black Americans, there was always
+  a boundary in sight, setting a limit on how prosperous they could be,
+  how happy, how free. ... Every time a young woman in a story sits down
+  and thinks very hard about gender and what she is and is not allowed to
+  do, I think of Zola. ... It's all just Zola, all the way down.
+
+  I'm starting to think that [this] turn in contemporary literature ...
+  really just reflects the feeling that their lives have been determined
+  by forces outside their scope. ... The effort of imagining a person
+  sufficiently free to exercise agency within a traditional plot is
+  beyond their powers ... How does one write about ... any of the large
+  forces that affect a life, without giving them totalising authority over
+  one's self?
+
+  The unacknowledged debt to naturalism and the silent faith in determinism
+  feel like the deep spiritual background to the novels produced by my
+  generation.  In some respects, we live in an era of unprecedented freedoms
+  and scientific information, and yet the myths we make for ourselves have
+  never been smaller or more restrictive.  Is this really the best we can
+  do at this moment: adopt the debunked pseudoscience of waht Angus Wilson
+  ... called 'a fourth-rate cultural superstructure'?  We seem to have moved
+  from believing in a genetic basis for identity to a socially determined
+  one.  This doesn't represent a rejection of Zola's naturalism, but
+  a change in emphasis."
+
+  For more on nineteenth century novels, see Jane Smiley at [2 Nov 2023](#2-Nov-2023),
+  in the section on her Chapter 6.
+
+  For another essay by Brandon Taylor, on his experience training to be
+  a scientist, see at [2 Jun 2020](#2-Jun-2020).
+
+
+ 3 Mar 2024  <a name="3-Mar-2024"></a>
+
+- Frank Herbert *Dune*, chapter 48 in *Science Fiction: The 100 Best Novels*
+  by David Pringle, 1985, pps. 115 -- 116 (no link):
+
+  "Why has *Dune* been such an enormously popular novel? ... It is part
+  'hard sf', part Ruritanian romance, part family saga.  It embraces
+   everything from cynical *realpolitik* and courtly intrigues to religious
+   aphorisms and mystical rhapsodies. ... It has an exotic setting -- the
+   desert planet Arrakis with its giant sandworms -- and encompasses a
+   great deal of action, from individual swordfights to vast armored battles.
+   ... And with its emphasis on hierarchy, messianic leadership and
+   militaristic virtues it gives off a faint musk of fascism -- an aroma
+   which, I regret to say, does make for popularity.
+
+   Above all, it is a *yarn*.  It moves along for almost five hundred pages,
+   building a world for the reader to get lost in. ... Personally, I detest
+   all the courtly intrigue stuff -- it is as though Herbert wants his
+   readers to live in an eternal Middle Ages of the mind.  For me, the
+   book comes to life when Paul and his mother get out into the desert
+   and begin to roam with the Fremen. ... and of course the sandworms are
+   marvellous.
+
+   Frank Herbert (born 1920) was considered a fairly minor sf author before
+   *Dune* took off as an underground bestseller. ... But the success of *Dune*
+   has trapped Herbert into the writing of endless sequels to that famous
+   book.  It has become a 'saga', as unstoppable as the interstellar jihad
+   which Paul Muad'Dib forsees with such sorrow."
+
+   This weekend saw the opening of the movie *Dune: Part Two* directed by
+   Denis Villeneuve, sixty years after the novel was serialized
+   in the sf magazine *Analog*.  Frank Herbert wrote five sequels to *Dune*.
+   Since his death in 1986, his son Brian Herbert (with co-author Kevin J.
+   Anderson) has written more than a dozen additional sequels.
+
+25 Feb 2024  <a name="25-Feb-2024"></a>
+
+- Succeeding With Excess by Henry Hitchings, review of
+  *Erotic Vagrancy: Everything About Richard Burton and Elizabeth Taylor*
+  by Roger Lewis in *TLS*, Feb 9 2024, p. 26 (no link):
+
+  "Richard Burton ... didn't meet (Elizabeth Taylor) properly until 1961,
+  ... on the set of ... *Cleopatra*. ... Taylor, twenty-nine, was already
+  on her fourth husband (Eddie Fisher, who said of their relationship that
+  'Just a little $50,000 diamond would make everything wonderful for up to
+  four days').  Lust erupted.  Both swiftly dispensed with their existing
+  partners.  They wed in 1964, divorced a decade later ...
+
+  Later, ravaged by booze and guilt, Burton ... retained the mighty asset
+  of his voice, which Lewis considers 'one of the twentieth century's
+  great noises'.
+
+  A child star at twelve, (Taylor) was a 'public baby' ever after:
+  tardy, petulant, fond of fluffy clothes, reliant on others to clean
+  up her mess ...  'I have a lust for diamonds, almost like a disease',
+  bragged Taylor, and when staying at the Beverly Hills Hotel she
+  requested that her largest be placed on a bed of lettuce and paraded
+  around the dining room. ...
+
+  To detractors, gaudy acquistiveness and sexual avidity made the couple
+  seem the epitome of 1960s sin. ... the Vatican's newspaper ... warned,
+  'You will finish in an erotic vagrancy, without end or without a safe
+  port'. ...
+
+  But, after 605 pages ... what lodges most firmly in the mind is the
+  stellar couple's unhappiness.  Their swanky excesses were less a mask
+  for pain than an amplification of it. ...  (Lewis) is strikingly
+  attuned to the sourness of stardom and its capacity to corrode the soul."
+
+
+ 2 Nov 2023  <a name="2-Nov-2023"></a>
+
+- *Thirteen Ways of Looking at the Novel* by Jane Smiley, 2005 (no link) -
+
+  From Chapter 2, What is a Novel?, pages 14, 22 - 28:
+
+  "A novel is a (1) *lengthy*, (2) *written*, (3) *prose*, (4) *narrative*
+  with a (5) *protagonist*.  Everything that the novel is and does, and
+  every effect the novel has had on, first, Western Culture, and subsequently,
+  world culture, grows out of these five small facts that apply to every
+  novel.
+
+  Because a novel is a printed book ... It retains its purity and constitutes  a direct communication from one person to another.   A reader who doesn't   like what an author has to say may close it, burn it, recommend against  it, give it a bad review in a publication, or even censor it, but she   doesn't thereby destroy it, as she would if she simply retold the story,  leaving out the objectionable parts or adding a little bit of sentiment
+  or clarification here and there.  A novel is known to be a book.  A  redaction of a novel, by Hollywood or Broadway or *Reader's Digest* or   a paraphrase or any other means, is known not to be a novel, not to be  authentic.   A novel can be dropped or outmoded or rediscovered by readers,  but it can't be changed into something else, in the way that the stories  that were bases of epic poems or traditional folktales were changed in   the telling.
+
+  The protagonist, made accessible by prose and interesting by narrative
+  and familiar by length ... has entered the lives and minds of millions
+  and recreated them, at least a bit, in his or her own image.  ...
+  A protagonist is usually interesting not because he is someone special ...
+  but because something happens to him.  ...  This typical transformation from
+  an ordinary person to someone worth remembering comes to seem both
+  routine and appealing, encouraging readers to see themselves as
+  potentially interesting and their lives as potential material for novels.
+  Thus are the moral lives of readers encouraged to develop complexity ...
+
+  But the most important essential characteristic of the novel that arises
+  out of its structure, out of the combination of narrative and length,
+  is that it is inherently political. ... a novel -- a story that runs a
+  hundred pages or longer -- must for the sake of context and variety
+  include other characters ... so even as a mere filling in the blanks, the
+  author begins to depict the group that the protagonist is part of.
+  As the group takes shape, so the protagonist takes shape. ... as the
+  details mount up, so does the requirement that the author have a theory of
+  individuals and groups.   The narrative, and therefore the logic, of the
+  protagonist's relationship to the group must express some explicit or
+  implicit theory, and inevitably many of these theories are political,
+  because politics is about the division of power in human groups.  ...
+
+  And not only is the novel inherently political, it is inherently liberal
+  -- that is, it embraces the rights and obligations of individualism.  This
+  is easy to understand as soon as we realize that a lengthy prose narrative
+  must be well organized to be readable.   A novel's organization depends upon
+  distinct and readily identifiable characters. ... Thus, purely for the sake
+  of organization, the novel promotes the idea of individuals having
+  memorable idiosyncrasies and importance.  As a result, it appeals to the
+  reader's sense of her own distinctiveness and importance. ... In a society
+  that promotes conformity, novel-reading -- one person experiencing both
+  the mind of another person and her own mind experiencing -- is a
+  subversive force.
+
+  The novel is inherently political, but the organizational demands of the
+  novel form mean that it doesn't fit easily into political ideas of class
+  or group blame or virtue.  Every important character in a novel is
+  portrayed has having moral complexity.  If a character is solely evil, or
+  is solety a victim, then he or she is a symbol of something but not a
+  protagonist, not possessed of agency, which in a novel is the only standard
+  of real importance.  A protagonist in a novel, of whatever ethnic
+  background and in whatever time period, cannot be wholly good or wholly bad
+  and still be interesting enough to read about. ... Consequently, readers
+  with an essentially political agenda, looking for models of proper thinking
+  and behavior, are hardly ever going to find them in novels. ..."
+
+  From Chapter 6, Morality and the Novel, pages 118 - 122:
+
+  "In the nineteenth century the theory of evil changed, which changed the
+  nature of morality in the novel, and therefore the portrayal of brutes,
+  criminals, and psychopaths. ...
+
+  It seems that Charles Dickens, the most influential English author of the
+  nineteenth century, was generally drawn to criminals and pyschopaths.
+  ... Dicken's gift for empathy with sociopathic personalities constitutes
+  a philosophy that has had enormous effect on how modern people understand
+  evil as a form of logic, and even of madness that is internally consistent,
+  unrecognized as evil by the perpetrator, and compelling.  By the end of his
+  career, Dickens was as good as anyone who has ever lived at clarifying the
+  motivations of those who harm others.
+
+  ... Even when Dicken's psychological theories don't hold water, the idea of
+  cause and effect, the idea that there can be a theory of evil (and
+  goodness), does.  As early as *Oliver Twist*, Dickens is laying out a
+  how-to manual for making criminals. ... It is a very short step from this
+  sort of causal logic to the advocacy of political and social solutions for
+  what had always been considered individual moral failings, and Dickens
+  readily made it.
+
+  What nineteenth-century novelists discovered was that the exploration of
+  cause and effect that is natural to the novel mitigates the idea that
+  evil is random ... both the author and the reader start to feel that evil
+  can be fixed, and fixed by amateurs ...
+
+  The novel has certain inherent characteristics -- it is naturally
+  democratic; it promotes individuality and freedom; it is intimate and
+  social and connective; it elevates inner life over appearance; it is,
+  often in spite of itself, hopeful; and it is naturally popular.  These
+  qualities fit into and exemplify the idea of the modern liberal society
+  and in the course of the nineteenth century came to be seen as moral
+  issues. ...
+
+  The great conflict of the twentieth century concerned whether morality was
+  made up of a set of personal choices having to do with right and wrong
+  behavior, as described by, say, the Ten Commandments, or whether it was
+  made up of a set of political choices having to do with the inequitable
+  distribution and abuse of power and wealth.   All sorts of social and
+  economic institutions that had once been considered more or less the natural
+  order of things became moral dilemmas (and zones of ideological conflict)
+  -- slavery, marriage and domestic abuse, child labor, the rewards of
+  capital versus the rewards of labor, genocide in war or as an act of
+  conquest, exploitation and destruction of natural resources, the
+  impoverishment of the human spirit as an effect of labyrinthine and
+  secretive bureaucracy.
+
+  The novel promoted this moral shift. The novel as a form is usually seen
+  to be moral if its readers consider freedom, individuality, democracy,
+  privacy, social connection, tolerance, and hope to be morally good,
+  but it is not considered moral if the highest values of a society are
+  adherence to rules and traditional mores, the maintenance of hierarchical
+  relationships, and absolute ideas of right and wrong.   Any society based
+  on the latter will find novels inherently immoral and subversive."
+
+  From Chapter 8, The Novel and History, pages 173 - 177:
+
+  "In the course of 650 years, Boccaccio and his successors have helped to
+  create a certain kind of world.  It is a world not unlike the novel ...
+  In this world everyone, male or female, could become, might be, his or her
+  own protagonist ... In this world individual existence has the potential for
+  meaning -- it can be understood and possibly changed ... Cause and effect
+  can be disentangled and observed ... In this world the ordinary person
+  can step back, observe both the world and himself or herself, make a
+  judgment, and then make a choice ...
+
+  ... the world I thought was established and secure, at least
+  in the West, is more fragile than I thought, because it is newer than I
+  realized.  That a woman could be an agent rather than an object or a
+  possession, that a marriage can be chosen, then rejected, that an identity
+  can be constructed by an ordinary person -- these are difficult ideas,
+  strange to many, and dangerous to some.   The tension between the
+  individual and the group that the novel depicts is ofen intolerable to
+  the group, and for some groups, an individual does not have a right to
+  a point of view.  The routine quality of the novel, the way that novels
+  seem ubiquitous and benign, pleasurable, or fun, or even tedious to
+  schoolchildren, masks their subversiveness and helps us forget how they
+  have remade the world. ...
+
+  Pride, arrogance, moral blindness, and narcissism are endemic among
+  humans, especially humans who occupy positions of power, either in society
+  or in the family.  But when I have read a long novel, when I have entered
+  systematically into a sensibility that is alien to mine, the author's or
+  a character's, when I have become interested in another person because he
+  is interesting, not because he is privileged or great, there is a possibility
+  that at the end I will be a degree less self-centered than I was at the
+  beginning, that I will be a degree more able to see the world as another
+  sees it.  And there is a possibity that I will be able to reason about my
+  own emotions.   In the end I will be more empathetic ... and I will be
+  more sympathetic ...
+
+  When we talk about the death of the novel, what we are really talking
+  about is the possibility that empathy, however minimal, would no longer
+  be attainable by those for whom the novel has died. ... If the novel has
+  died for men ... then the inner lives of their friends and family
+  members are a degree more closed to them than before.  If the novel dies,
+  or never lives, for children and teenagers who spend their time watching
+  TV or playing video games, then they will always be somewhat mystified by
+  others, and by themselves as well. ...
+
+  My guess is that mere technology will not kill the novel. ... Nor do I
+  believe that novels are bannable. ...  But novels can be sidelined --
+  dismissed to the seraglio where they are read by women and children and
+  have no effect on those in power.   When that happens, our society will
+  be brutalized and coarsened by people who speak rather like us and look
+  rather like us but who have no way of understanding us or each other."
+
+3 Nov 2023  <a name="3-Nov-2023"></a>
+
+- *Thirteen Ways of Looking at the Novel* by Jane Smiley, 2005 (no link) -
+
+  This is the same book as above but the theme of these
+  excerpts is so different I put them in their own entry.
+
+  From Chapter 5, The Psychology of the Novel, pages 84 -- 86:
+
+  "The accessability of the novel renders critical interpretations
+  superfluous to the reader/author interaction.
+  A novel *may* be read on all sorts of levels, as articles and controversies
+  in scholarly journals show, but it can be enjoyably and correctly read
+  just to see what happens next and to enjoy the company of the author,
+  the narrator, and the characters.
+
+  The novelist has many pleasures to offer -- the unusual pleasure of the
+  exotic, the intellectual pleasure of historical understanding, the humane
+  pleasure of psychological insight into one or more characters, the simple
+  pleasure of entertainment and suspense, the exuberant pleasure of laughter
+  and trickery, the guilty pleasure of gossip, the tempting pleasure of
+  secrecy and intimacy, the confessional pleasure of acknowledged sin and
+  attempted redemption, the polemical pleasure of indignation, the rigorous
+  pleasure of intellectual analysis, the reassuring pleasure of identification
+  with one's nation or people, and the vicarious pleasure of romance. ..."
+
+  pages 88 - 89:
+
+  "At the beginning of the "The Metamorphosis," Kafka has Gregor Samsa change
+  into a bug, perhaps one of the most intruiging first premises in literature.
+  However, in teaching this story twenty-two times ...
+  I found that out of every thirty students,  one or two were simply
+  unwilling to believe that Gregor could turn into a bug, and for
+  those students, the story offered no charms at all ... (the other students)
+  enjoyed the idea and suspended disbelief, and once they imagined Gregor's
+  bugness, they were open to every other idea that Kafka had to offer.
+
+  Willing suspension of disbelief is a strange state of mind -- reading
+  nonfiction does not require it and neither does reading poetry, since
+  both are based on logical argument.  Many educated and intelligent
+  persons resist it entirely ... the world is full of people who are
+  rather proud that they don't read novels.
+
+  A literary education not only enlarges a reader's willingness to
+  suspend disbelief by extending her range of pleasures, it also
+  strengthens her ability to enter the meditative state, and to be
+  receptive to the influence of another human mind, because it is a
+  state of contemplation that is essential to the true appreciation of
+  the novel. ...
+
+  Outside of literature, maybe the closest thing to this is guided
+  meditation, where the voice of a guru suggests images and ways of
+  thinking that are intended to result in a particular state of mind. ...
+  A novel, too, induces a contemplative state of mind, but rather than
+  emptying it, it fills it with many different thoughts and feelings.
+  Present with the reader in her mind is the individuality of the writer,
+  whose idiosyncratic phrasing, ideas and emotions, fears and desires
+  are guiding her and influencing her and inviting her to react."
+
+  page 90:
+
+  "A page-turner offers the plesaure of suspense, but ... Relentless page
+  turning gets the reader only where she knew she was going in the first
+  place, and it gets her there faster, without sufficient time to ruminate
+  upon the qualities of the epic protagonist that make him or her interesting
+  and worth reading about.
+
+  Novels with a large component of travel narrative, such as *Moby Dick*,
+  are meant to meander so that the writer and reader can gaze at the
+  scenery and appreciate its exotic qualities.  One of the problems some
+  modern readers have with Melville is that they don't have the patience
+  to realize that the psychological and plot elements of his stories are
+  intentionally set into a wide landscape that is meant ot comment upon
+  and contrast to the narrow intensity of human desires and preoccupations.
+  ..."
+
+  pages 93 - 96:
+
+  "Everyone acknowledges that true stories can never be fully known --
+  too many details lack corroboration, too many witnesses disagree about
+  what really happened.  Every true story is unsatisfying insofar as it
+  is required to be true.   But since the novel is required to be complete
+  (its dispensation from truthfulness), its acknowledged untruthfulness
+  removes it from the world of consequences.  The reader suspending disbelief
+  expects a novel to take place in a designated game area (inside a book)
+  under rules that apply only to the game.  ... However serious its subject
+  matter, the reader suspends disbelief because the novel is a form of play.
+  ... The game quality of the novel gives it meaning and form, because
+  all games begin, have a playing time, and end. ...
+
+  As with all games, the novel game has many levels of play.  The lowest
+  level is, perhaps, simply following the sequence of the story and
+  understanding what happens and why.   Higher levels move toward greater
+  complexity and efficiency ... A novel with a very high level of game
+  quotient has more and more internal and external references, a denser
+  and denser network of connections between words and of intuitive meanings
+  ...  In a novel such as *Ulysses* or any one of a dozen other modern or
+  postmodern novels, no character, no image, no incident stands alone --
+  everything is part of a network of allusions that constantly offers
+  various meanings and reinforces the playful nature of the novel as
+  a form. ...
+
+  And as any game becomes grows more complex, it becomes more abstract
+  and exclusive ... fans have to be highly versed in the rules and the
+  moves of the game and willing to play the game (read the book) over and
+  over to get everything out of it. ... the novel as a game gives itself
+  over to all the tendencies of games to consume insiders and deflect
+  outsiders ...
+
+  The fact remains, though, that the reader possesses the novel, and so
+  if she finds that the residue of truth or insight remaining after the
+  intracacies of an extremely sophisticated novel game have been worked out
+  isn't really worth the effort, she is entitled to her opinion."
+
+  For another novelist on novels, see Anthony Burgess at [12 Apr 2021](#12-Apr-2021).
+
+30 Sep 2023  <a name="30-Sep-2023"></a>
+
+- *The Milagro Beanfield War*, John Nichols (1974),
+  Afterword by the author (1993) (no link)
+
+  "I don't know if *Milagro* is a good book, or just one with a lot
+  of upbeat energy that has captured a certain fancy.  ..."
+
+
+14 Mar 2023,  <a name="14-Mar-2023"></a>
+25 May 2023,  <a name="25-May-2023"></a>
+ 8 Mar 2024,  <a name="8-Mar-2024"></a>
+15 Feb 2025  <a name="15-Feb-2025"></a>
+
+- *Computer Power and Human Reason* by Joseph Weizenbaum (1976)
+
+  Weizenbaum was the author of the original AI Chat program, Eliza,
+  almost sixty years ago.
+
+  *Preface*, pps. ix - x
+
+  "This book is only nominally about computers. ... the computer is used here
+  merely as a vehicle for moving certain ideas that are much more important
+  than computers ... a major point of this book is that we, all of us, have
+  made the world too much into a computer, and that this remaking of the world
+  in the image of the computer started long before there were any electronic
+  computers.  Now that we have computers, it becomes somewhat easier to see
+  this imaginative transformation that we have worked on the world.  Now we
+  can use the computer itself -- that is the idea of the computer -- as a
+  metaphor to help us understand what we have done and are doing. ...
+
+  The rest of this book contains the major arguments, which are, in essence,
+  first, that there is a difference between man and machine, and, second that
+  there are certain tasks which computers *ought* not to be made to do,
+  independent of whether computers can be made to do them."
+
+  *Introduction*, pps. 2 - 10.
+
+  "... My own shock was administered by some people who insisted on
+  misinterpreting a piece of work I had done.  I write this without
+  bitterness and certainly not in a defensive mood.  Indeed, the
+  interpretations I have in mind tended, if anything, to overrate what
+  little I had accomplished and certainly its importance.  ...
+
+  The work was done in the period 1964 - 66 ... I composed a computer program
+  with which one could "converse" in English.  The human conversationalist
+  partner would type his portion of the conversation on a typewriter
+  connected to a computer, and the computer, under control of my program,
+  would analyze the message that had so been transmitted to it, compose a
+  response to it in English, and cause the response to be typed on the
+  computer's typewriter.
+
+  I chose the name ELIZA for the language analysis program, because, like the
+  Eliza of Pygmalion fame, it could be taught to "speak" increasingly well.
+  ... the program was constructed in a two-tier arrangement, the first tier
+  consisting of the language analyzer and the second of a script.  The script
+  is a set of rules rather like those that might be given to an actor to
+  improvise around a certain theme.
+
+  For my first experiment I gave Eliza a script designed to permit it to play
+  (I should really say parody) the role of a Rogerian psychotherapist
+  ... (who) is relatively easy to imitate because much of his technique
+  consists of drawing his patient out by reflecting the patient's statements
+  back to him. ...
+
+  DOCTOR, as ELIZA playing psychiatrist came to be known, soon became famous
+  around the Massachusetts Institute of Technology, where it first came into
+  existence, mainly because it was an easy program to demonstrate. ...
+
+  The shocks I experienced as DOCTOR became widely known and "played"
+  were due principally to three distince events:
+
+  1. A number of practicing psychiatrists seriously believed the DOCTOR
+  computer program could grow into a nearly completely automatic form of
+  psychotherapy. ...
+
+  I had thought it essential, as a prerequisite to the very possibility
+  that one person might help another learn to cope with his emotional
+  problems, that the helper himself participate in the other's experience
+  of those problems, and, in large part by way of his own empathic
+  recognition of them, himself come to understand them. ... But that it was
+  possible for even one practicing psychiatrist to advocate that this
+  crucial component of the therapeutic process be entirely supplanted by
+  pure technique -- *that* I had not imagined!  What must a psychiatrist
+  who makes such a suggestion think he is doing while treating a patient
+  ... ?  What can the psychiatrist's image of his patient be when he sees
+  himself, as a therapist, not as an engaged human being acting as a
+  healer, but as an information processor following rules, etc.?
+
+  2. I was startled to see how quickly and how very deeply people conversing
+  with DOCTOR became emotionally involved with the computer and how
+  unequivocally they anthropomorphized it. ...
+
+  3. Another widespread, and to me surprising, reaction to the ELIZA program
+  was the spread of a belief that it demonstrated a general solution to the
+  problem of computer understanding of natural language.  In my paper, I had
+  tried to say that no general solution to that problem was possible ... .
+  But these conclusions were often ignored.
+  This reaction to ELIZA showed me more vividly than anything I had seen
+  hitherto the enormously exaggerated attributions an even well-educated
+  audience is capable of making, even strives to make, to a technology it does
+  not understand. ...
+
+  As perceptions of these kinds began to reverberate in me ... I began to
+  see that certain quite fundamental questions had infected me more
+  chronically than I had first perceived.  I shall probably never be rid
+  of them. ... At bottom they are about nothing less than
+  man's place in the universe.  But I am professionally trained only in
+  computer science, which is to say (in all seriousness) that I am
+  extremely poorly educated; I can mount neither the competence, nor the
+  courage, nor even the chutzpah, to write on the grand scale actually
+  demanded.  I therefore grapple with questions that couple more directly
+  to the questions I have expressed, and hope that their larger implications
+  will emerge spontaneously."
+
+  *Incomprensible Programs*, p. 236, pps. 239-240
+
+  "Our society's growing reliance on computer systems that were initially
+  intended to 'help' people make analyses and decisions, but which have
+  long since both surpassed the understanding of their users and become
+  indispensable to them, is a very serious development. ... decisions are
+  made with the aid of, and sometimes entirely by, computers whose programs
+  no one anymore knows explicitly or understands.  Hence no one can know
+  the criteria or the rules on which such decisions are based. ...
+
+  ... no human at all is responsible for the computer's output.  The
+  enormous computer systems ...
+  in our culture have, in a very real sense, no authors.
+  Thus they do not admit of any questions of right or wrong, of justice,
+  or of any theory with which one can agree or disagree. ...
+
+- <https://dl.acm.org/doi/10.1145/365153.365168> - 
+  Joseph Weizenbaum, ELIZA -- A Computer Program For the Study of Natural
+  Language Communication Between Man and Machine, *Communications of the ACM*,
+  9(1), January 1966, 36 - 45.
+
+  "It is said that to explain is to explain away.  This maxim is nowhere so
+  well fulfilled as in the area of computer programming, especially in what is
+  called heuristic programming and artificial intelligence. For in those
+  realms machines are made to behave in wondrous ways, often sufficient to
+  dazzle even the most experienced observer. But once a particular program is
+  unmasked, once its inner workings are explained in language sufficiently
+  plain to induce understanding, its magic crumbles away; it stands revealed
+  as a mere collection of procedures, each quite comprehensible. The observer
+  says to himself "I could have written that". With that thought he moves the
+  program in question from the shelf marked "intelligent",
+  to that reserved for curios, fit to be discussed only with people less
+  enlightened than he.
+
+  The object of this paper is to cause just such a re-evaluation of the program
+  about to be "explained". Few programs ever needed it more. ..."
+
+  Many pages of detailed technical explanation follow, then this discussion:
+
+  "(The dialog) has a crucial psychological utility in that it serves the
+  speaker to maintain his sense of of being heard and understood.
+  The speaker further defends his impression ... by attributing to his
+  conversational partner all sorts of background knowledge, insights, and
+  reasoning ability.  But again, these are the (human) *speaker's*
+  contribution to the conversation.  They manifest themselves inferentially
+  in the *interpretations* he makes of the offered responses. ...
+
+  The whole issue of the credibility (to humans) of machine output demands
+  investigation. Important decisions increasingly tend to be made in
+  response to computer output. The ultimately responsible human interpreter
+  of "What the machine says" is, not unlike the correspondent with ELIZA,
+  constantly faced with the need to make credibility judgments. ELIZA shows,
+  if nothing else, how easy it is to create and maintain the illusion of
+  understanding, hence perhaps of judgment deserving of credibility.
+  A certain danger lurks there. ...
+
+  A large part of whatever elegance may be credited to ELIZA lies in the
+  fact that ELIZA maintains the illusion of understanding with so little
+  machinery. But there are bounds on the extendability of ELIZA's
+  "understanding" ...
+  The crucial test of understanding, as every teacher should know, is not
+  the subject's ability to continue a conversation, but to draw valid
+  conclusions from what he is being told. ...
+
+  ELIZA in its use so far has had as one of its principal objectives the
+  *concealment* of its lack of understanding. But to encourage its
+  conversational partner to offer inputs from which it can select remedial
+  information, it must *reveal* its misunderstanding. A switch of objectives
+  from the concealment to the revelation of misunderstanding is seen as a
+  precondition to making an ELIZA-like program the basis for an effective
+  natural language man machine communication system. ..."
+
+- <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai> - 
+  Weizenbaum's nightmares: how the inventor of the first chatbot
+  turned against AI
+
+  Long article in *The Guardian* about Joseph Weizenbaum including a
+  biography, a summary of *Computer Power and Human Reason*, reactions
+  to that book, and what came after.
+
+10 Jul 2023,  <a name="10-Jul-2023"></a>
+ 1 Feb 2024,  <a name="1-Feb-2024"></a>
+14 Feb 2025,  <a name="14-Feb-2025"></a>
+27 May 2023,  <a name="27-May-2023"></a>
+28 Jun 2023  <a name="28-Jun-2023"></a>
+
+- <https://www.theatlantic.com/ideas/archive/2023/07/godel-escher-bach-geb-ai/674589/>
+  also at <https://archive.is/SPRZ3> -
+  Godel, Escher, Bach, and AI by Douglas Hofstadter
+
+  "... (a reader) of my 1979 book, *Godel, Escher,
+  Bach: an Eternal Golden Braid*, ...  (asked the) large language
+  model GPT-4 to compose ... a one-page essay with the title “Why Did
+  I Write GEB?”
+
+  The AI system obliged ... by instantly producing a statement written
+  in the first person (thus impersonating me, the book’s author) ...
+  I have reproduced GPT-4’s output verbatim below. ...
+
+  I would say that that text, in sharp contrast to what I myself wrote
+  in the book’s 20th-anniversary preface, consists only in generic
+  platitudes and fluffy handwaving.  The prose has virtually nothing
+  in common with my writing style and what it says does not agree at
+  all with the actual story that underlies the book’s
+  genesis. Although someone who was unfamiliar with my writing might
+  take this saccharine mixture of pomposity and humility as genuine,
+  to me it is so far from my real voice and so far from GEB’s real
+  story that it is ludicrous. ...
+
+  I am profoundly troubled by today’s large language models, such as
+  GPT-4. I find them repellent and threatening to humanity, partly
+  because they are inundating the world with fakery, as is exemplified
+  by the piece of text produced by the ersatz Hofstadter. ...
+
+  ... the issues that this bizarre episode raises continue to trouble
+  me enormously.  I frankly am baffled by the allure, for so many
+  unquestionably insightful people (including many friends of mine),
+  of letting opaque computational systems perform intellectual tasks
+  for them. Of course it makes sense to let a computer do obviously
+  mechanical tasks, such as computations, but when it comes to using
+  language in a sensitive manner and talking about real-life
+  situations where the distinction between truth and falsity and
+  between genuineness and fakeness is absolutely crucial, to me it
+  makes no sense whatsoever to let the artificial voice of a chatbot,
+  chatting randomly away at dazzling speed, replace the far slower but
+  authentic and reflective voice of a *thinking, living human being*.
+
+  To fall for the illusion that computational systems “who” have never
+  had a single experience in the real world outside of text are
+  nevertheless perfectly reliable authorities about the world at large
+  is a deep mistake, and, if that mistake is repeated sufficiently
+  often and comes to be widely accepted, it will undermine the very
+  nature of truth on which our society—and I mean all of human
+  society—is based."
+
+- Tech Babble: AI Meets Dostoevsky's Grand Inquisitor,
+  Eric Naiman, *TLS*, Jan 26 2024, p. 7 (no link):
+
+  "In thirty years of teaching at Berkeley, I have read thousands of
+  undergraduate essays, but until recently, I don't think any of my
+  students had ever used the word 'delve'.  As I read their compositions on
+  *The Brothers Karamazov*, I saw that things had changed.  (Several
+  excerpts all including the word 'delve'.)   There were other suddenly
+  prominent words.  Dostoevsky is an *intricate* and *complex* writer,
+  certainly, but I never knew he was so *multifaceted*.
+
+  The villain, of course, was ChatGPT, an easy-to-access AI system
+  released in 2022.  Of thirty-six students taking my upper-level course
+  on Dostoevsky, eight made such extensive use of the technology that it
+  was easy to spot.  You don't need an AI detection program.  As Justice
+  Poetter Stewart of the United States Supreme Court said about something
+  else, 'I know it when I see it.' ...
+
+  ChatGPT essays now rarely make factual errors, as they had the previous
+  semester ... Now, while they rarely muddle the details of a plot, and
+  while they continue to be grammatically perfect, these essays still say
+  almost nothing.  In many cases the key word in the title -- hysteria,
+  masculinity, time -- could be replaced by any other.   And there are
+  giveaway vocabulary items. ... ChatGPT 'weaves' and 'unravels' a lot
+  of fabrics.   It loves to talk about 'complexities', 'intricacies',
+  and 'intricate webs'. ... It is infatuated with 'multifaceted' and nuts
+  about 'nuanced'.  ,,.  And
+  strangely enough, it adores 'delve'.  In this year's iteration, that is
+  the word that jumps up and down and says: 'Look at me, I am AI.'
+
+  To be fair, some students seem to be using ChatGPT not to write an
+  entire essay, but to draw up an outline, to write the introduction,
+  to 'judge' and improve paragraphs, or just to see what their essay
+  'should be like'. ... The result, though, is nearly as deleterious,
+  because the structure of the paper is that of a list, the ideas are
+  banal and the AI language seeps in nonetheless.  Eventually the students
+  who work with ChatGPT may become so adept at understanding what
+  'good writing' looks like that they will not even need to use it:
+  they themselves will become artificially intelligent.  That won't be an
+  improvement, because an essay that sounds as though it were written by
+  a computer is not better than an essay actually written by one. ..."
+
+- Chatbottery, Regina Rini, *TLS*, Jan 3 2025, p. 27 (no link):
+
+  "Will 2025 be the year we give up the teaching of writing? ...
+  Every professor I know wasted countless hours of 2024 in the
+  prevention or detection of AI-powered cheating.  It is a miserable
+  war of attrition that seems doomed to defeat.  Perhaps the time has
+  come, then, to declare a strategic withdrawal from writing as pedagogy?
+
+  The problem is double-barelled; writing has simultaneously become
+  less valuable and much harder to teach.  Start with the value proposition:
+  few students will need to compose essays after leaving school. ...
+  Now try to pursuade the arriving generation of college students ... that
+  writing is a skill they must internalize for future success.  Brace
+  for eyeroll-impact.  An ever-increasing share of adults will regard
+  AI writing tools as just more productivity apps on their phone,
+  no more sensible to abjure than calculators.
+
+  As for the other side -- the terrible cost for educators struggling
+  to hold the line against AI cheating -- at stake is the personal
+  indignity of seeing one's time treated as worthless. ... A pedagogical
+  future of thousands of hours analysing the semantic output of
+  uneducable robots sounds like a particularly sadistic existential
+  hell ..."
+
+- <https://cs.stanford.edu/~knuth/chatGPT20.txt> -
+  Don Knuth plays with ChatGPT
+
+  "Since one of today's popular recreations is to play with chatGPT, I
+  decided on 07 April 2023 to try my own little experiment, as part of a
+  correspondence with Stephen Wolfram. ... I thought of 20 questions that
+  would be interesting to pose to chatGPT. ..."
+
+  Then follow Knuth's 20 questions and ChatGPT's answers.  Knuth comments
+  on each answer. Here are some excerpts and his conclusion:
+
+  "... Answer #10 reads as though it's the best answer yet. But it's
+  almost totally wrong! ... It's amazing how the confident tone lends
+  credibility to all of that made-up nonsense. Almost impossible for
+  anybody without knowledge of the book to believe that those "facts"
+  aren't authorititative and well researched. ... How does one train an
+  AI to make up such convincing lies? ...
+
+  Well this has been interesting indeed. Studying the task of how to fake it
+  certainly leads to insightful subproblems galore. ...
+
+  I myself shall certainly continue to leave such research to others, and to
+  devote my time to developing concepts that are authentic and trustworthy.
+  And I hope you do the same."
+
+- A.I.D.E.: Artificial Intelligence Dedicated to Empathy,
+  by Seattle Design Nerds, at *Seattle: City of the Future*,
+  art exhibit/multimedia installation, June 2023
+
+  "Despite, or perhaps because of, its complete lack of understanding
+  A.I.D.E. has long become bored with humanity.
+  It sits on its throne confidently issuing (mostly incorrect) proclamations
+  while being completely unaware of the invisible confines and biases
+  of its digital kingdom."
+
+ 8 Aug 2022, 3 Oct 2023  <a name="8-Aug-2022"></a>
+
+- <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/> - 
+  Notes on Nationalism by George Orwell (1945, written during World War II)
+
+  "By ‘nationalism’ I mean the ... habit of identifying oneself with a
+  single nation or other unit, placing it beyond good and evil and
+  recognizing no other duty than that of advancing its interests.
+
+  *Nationalism is not to be confused with patriotism.* ...
+  By ‘patriotism’ I mean devotion to a particular place and a particular
+  way of life, which one believes to be the best in the world but has no
+  wish to force on other people. Patriotism is of its nature defensive,
+  both militarily and culturally. Nationalism, on the other hand, is
+  inseparable from the desire for power. The abiding purpose of every
+  nationalist is to secure more power and more prestige, *not* for himself
+  but for the nation or other unit in which he has chosen to sink his own
+  individuality.
+
+  Nationalism, in the extended sense in which I am using the word ...
+  does not necessarily mean loyalty to a government or a country ... and
+  it is not even strictly necessary that the units in which it deals
+  should actually exist. To name a few obvious examples, Jewry, Islam,
+  Christendom, the Proletariat and the White Race are all of them objects
+  of passionate nationalistic feeling: but their existence can be
+  seriously questioned, and there is no definition of any one of them that
+  would be universally accepted."
+
+  (What Orwell calls 'nationalism' here, we might call 'partisanship',
+  because it can exist among parties and factions in domestic politics.)
+
+  "... The principal characteristics of nationalistic thought (include) ...
+  *indifference to reality.*   All nationalists have the power of    not
+  seeing resemblances between similar sets of facts. A British Tory will
+  defend self-determination in Europe and oppose it in India with no
+  feeling of inconsistency. Actions are held to be good or bad, not on
+  their own merits, but according to who does them, and there is almost no
+  kind of outrage – torture, the use of hostages, forced labour, mass
+  deportations, imprisonment without trial, forgery, assassination, the
+  bombing of civilians – which does not change its moral colour when it is
+  committed by ‘our’ side.
+
+  The nationalist not only does not disapprove of atrocities committed
+  by   his own side, but he has a remarkable capacity for not even hearing
+  about them. For quite six years the English admirers of Hitler contrived
+  not to learn of the existence of Dachau and Buchenwald.   And those who
+  are loudest in denouncing the German concentration camps are often quite
+  unaware, or only very dimly aware, that there are also concentration
+  camps in Russia. ... In   nationalist thought there are facts which are
+  both true and untrue,   known and unknown. A known fact may be so
+  unbearable that it is   habitually pushed aside and not allowed to enter
+  into logical processes,   or on the other hand it may enter into every
+  calculation and yet never   be admitted as a fact, even in one’s own
+  mind.
+
+  Indifference to objective truth is encouraged by the sealing-off of
+  one part of the world from another, which makes it harder and harder to
+  discover what is actually happening. There can often be a genuine doubt
+  about the most enormous events. For example, it is impossible to
+  calculate within millions, perhaps even tens of millions, the number of
+  deaths caused by the present war. The calamities that are constantly
+  being reported – battles, massacres, famines, revolutions – tend to
+  inspire in the average person a feeling of unreality. One has no way of
+  verifying the facts, one is not even fully certain that they have
+  happened, and one is always presented with totally different
+  interpretations from different sources.  ...
+
+  Probably the truth is discoverable, but the facts will be so dishonestly
+  set forth in almost any newspaper that the ordinary reader can be
+  forgiven either for swallowing lies or failing to form an opinion. The
+  general uncertainty as to what is really happening makes it easier to
+  cling to lunatic beliefs. Since nothing is ever quite proved or
+  disproved, the most unmistakable fact can be impudently denied.  ..."
+
+- <https://www.bradeast.org/blog/2019/10/sorting-nationalism-and-patriotism-with.html> - 
+  *Democracy and Populism: Fear and Hatred* by John Lukacs, 2005,
+  pp. 35-36, 71-73
+
+  "Patriotism is the love of a particular land, with its particular
+  traditions; nationalism is the love of something less tangible, of the
+  myth of a 'people,' justifying many things, a political and ideological
+  substitute for religion. ...
+  Hitler knew that: I have, more than once, cited his sentence from Mein
+  Kampf recalling his youth: 'I was a nationalist; but I was not a
+  patriot.'
+
+  Patriotism is less racist than is populism. A patriot will not exclude a
+  person of another nationality from a community where they have lived
+  side by side and whom he has known for many years; but a populist will
+  always be suspicious of someone who does not seem to belong to his
+  tribe.
+
+  The love for one's people is natural, but it is also categorical; it is
+  less charitable and less deeply human than the love for one's country ...
+  Nationalism is both self-centered and selfish because human love
+  is not the love of oneself; it is the love of another. (A convinced
+  nationalist is suspicious not only of people he sees as aliens; he may
+  be even more suspicious of people of his own ilk and ready to denounce
+  them as 'traitors' -- that is, people who disagree with his nationalist
+  beliefs.) Patriotism is always more than merely biological -- because
+  charitable love is human and not merely 'natural.' Nature has, and
+  shows, no charity."
+
+  John Lukacs was an historian born in 1924 who survived World War II in
+  Hungary, emigrated to the United States in 1946, and died in 2019.
+  These excerpts appear in the linked blog post by Brad East, Sorting
+  nationalism and patriotism with John Lukacs.
+
+  I recall another essay by Lukacs (reference now lost) where he wrote
+  that nationalist political movements always consider some group within
+  their own country as enemies, and persecute them if they can.
+
+
+- <https://classicprose.com/csguide.html#CORCYRA> -
+  The Civil War in Corcyra, 427 BCE -
+  From Thucydides,  *The Peloponnessian War*. Translated by Rex Warner.
+  Harmondsworth, England: Penguin, 1980 [1954], pages 241-244.
+
+    "To fit in with the change of events, words, too, had to change their
+    usual meanings. What used to be described as a thoughtless act of
+    aggression was now regarded as the courage one would expect to find in a
+    party member; to think of the future and wait was merely another way of
+    saying one was a coward; any idea of moderation was just an attempt to
+    disguise one's unmanly character; ability to understand a question from
+    all sides meant that one was totally unfitted for action. Fanatical
+    enthusiasm was the mark of a real man, and to plot against an enemy behind
+    his back was perfectly legitimate self-defense. Anyone who held violent
+    opinions could always be trusted, and anyone who objected to them became a
+    suspect. To plot successfully was a sign of intelligence, but it was still
+    cleverer to see that a plot was hatching. If one attempted to provide
+    against having to do either, one was disrupting the unity of the party and
+    acting out of the fear of the opposition. In short, it was equally
+    praiseworthy to get one's blow in first against someone who was going to
+    do wrong, and to denounce someone who had no intention of doing any wrong
+    at all. Family relations were a weaker tie than party membership, since
+    party members were more ready to go to any extreme for any reason
+    whatever. These parties were not formed to enjoy the benefits of the
+    established laws, but to acquire power by overthrowing the existing
+    regime; and the members of these parties felt confidence in each other not
+    because of any fellowship in a religious communion, but because they were
+    partners in crime. If an opponent made a reasonable speech, the party in
+    power, so far from giving it a generous reception, took every precaution
+    to see that it had no practical effect. ...
+
+    Love of power, operating through greed and through personal ambition, was
+    the cause of all these evils. To this must be added the violent fanaticism
+    which came into play once the struggle had broken out. ...
+
+    As a result of these revolutions, there was a general deterioration of
+    character throughout the Greek world. The simple way of looking at things,
+    which is so much the mark of a noble nature, was regarded as a ridiculous
+    quality and soon ceased to exist. Society had become divided into two
+    ideologically hostile camps, and each side viewed the other with
+    suspicion. As for ending this state of affairs, no guarantee could be
+    given that would be trusted, no oath sworn that people would fear to
+    break; everyone had come to the conclusion that it was hopeless to expect
+    a permanent settlement and so, instead of being able to feel confident in
+    others, they devoted their energies to providing against being injured
+    themselves. As a rule those who were least remarkable for intelligence
+    showed the greater powers of survival. Such people recognized their own
+    deficiencies and the superior intelligence of their opponents; fearing
+    that they might lose a debate or find themselves out-manoeuvred in
+    intrigue by their quick-witted enemies, they boldly launched straight into
+    action; while their opponents, over-confident in the belief that they
+    would see what was happening in advance, and not thinking it necessary to
+    seize by force what they could secure by policy, were the more easily
+    destroyed because they were off their guard."
+
+11 Mar 2022  <a name="11-Mar-2022"></a>
+
+- <https://news.ycombinator.com/item?id=30598600> -
+  comments on 'Russian invasion of Ukraine in our modern world
+  should give us pause for thought'
+
+  *nonrandomstring* writes: "Use of the phrase 'in our modern world'
+  should always give pause for thought.  It is the very essence of
+  'parochialism of the present' that blinds us."
+
+19 Feb 2022  <a name="19-Feb-2022"></a>
+
+- What Happened That Night On The Acropolis? by Robert Cloffi, review of
+  *Demetrius the Besieger* by Pat Wheatley and Charlotte Dunne in
+  *London Review of Books* 10 Feb 2022 p. 13 - 14 (no link):
+
+  "Demetrius the Besieger, one of the generals who fought to succeed
+  Alexander the Great in the late fourth century and early third century
+  BCE ... was proclaimed a living god ... (by the Athenians)
+  after he had 'restored freedom' to the city.  We can only imagine what
+  effect being worshipped as a god had on his psychology -- Plutarch
+  writes that it 'further corrupted someone who was otherwise not well in
+  his mind' -- but in short order Demetrius came to dominate almost every
+  aspect of Athenian life ... an altar was erected  at the site where he
+  alighted from his chariot; his every utterance was treated as oracular ...
+  Around 290 the Athenians composed a hymn to Demetrius ...:
+
+  - Other gods keep far away, or they do not have ears, or they do
+    not exist, or they do not pay attention to us, but we see that you
+    are present, not made of wood or stone, but real.  So we pray to you,
+    first make peace, dearest one, for you are powerful. ...
+
+  Yet he suffered staggering defeats, too. ... By the early 280s, Demetrius
+  had lost his kingdom, regained it, and lost it again.  Eventually ...
+  abandoned by his men and dissuaded from taking his own life, he
+  surrendered to (rival Alexandrian general) Seleucus in the early days
+  of 285.  He spent his remaining years as a captive."
+
+25 Jan 2022  <a name="25-Jan-2022"></a>
+
+- Book review by Benjamin Markovits,
+  in *TLS* Jan 21 2022, pps. 8 - 9 (no link):
+
+  "(In the author's new novel, a main character) has invited a handful of
+  old friends to hunker down with him on his country estate ...  It is
+  never quite clear why any of these people ... has decided to show up ...
+  not just for a weekend but for several months.  ...  The result is that
+  the set-up feels more like a novelist's conceit  and less like a genuine
+  occasion.  And, once he has got his characters on site, (the author)
+  doesn't really know what to do  with them.  The plot is an answer to the
+  question, 'how can I make things happen to these people?' instead of the
+  question, 'what would happen to  these people?'  This is most likely
+  because, in reality, the answer would be 'not much'. ...
+
+  There is plenty of action ... Yet, for all the drama, the book feels
+  uneventful.  There is a comic energy to the prose that doesn't often
+  break into humour and instead creates a kind of low-gravity zone for the
+  characters to operate in.  None of their actions carries real weight. ...
+  You get the sense that (the author) keeps having to make up stuff for
+  his characters to talk about because they don't have enough depth to their
+  lives to keep a conversation going. ... And almost all their thoughts
+  are either explanations of the plot or designed to make it happen. ...
+
+  (A central plot point), when it comes, has been heavily foreshadowed.
+  Yet, this doesn't save the chain of events that leads up to it from
+  feeling implausible ... Perhaps strangest of all about this novel is the
+  way (the author) seems to lose interest in his own (main character) ...
+  who initiates the whole retreat, (but) plays less and less of a role as
+  the plot wears on. ...
+
+  All of this is first draft stuff, signs of the haste in which the book
+  was dashed off and then published.  (The author) can certainly write,
+  and there are many great lines, sharp insights, both funny and serious,
+  which deserve a better book to live in ..."
+
+  *TLS* is one of the few journals that occasionally publishes unfavorable
+  reviews, that consider whether a novel's plot, characters, and dialog
+  are convincing, and whether the language and tone match the subject matter.
+
+ 5 Oct 2021  <a name="5-Oct-2021"></a>
+
+- Do Us All a Favour by Emily Bernhard Jackson, review of *Sweet Dreams:
+  The Story of the New Romantics* by Dylan Jones, in *TLS*, Sep 24, 2021,
+  p. 22 - 23 (no link):
+
+  "... in describing the growth of New Romanticism *Sweet Dreams* evokes
+  an infinitely more stimulating world than the one we live in now.  The
+  speakers remember a life in which even the smallest towns had clubs where
+  the outcasts and weirdos (for which read the artistic and clever) could
+  congregate, before diving into a London full of squats and affordable
+  nightlife and young people being foolishly but unabashedly, joyously
+  creative. 'I was wearing ballet slippers, white socks, wraparound Iranian
+  cossack-type trousers ... a silk shirt with Greek imprints, make-up and
+  a headband', recalls Spandau Ballet's former lead singer Tony Hadley of
+  dressing for a train journey in 1980. 'And that was only going to see my
+  mum and dad in Pontins.'"
+
+- Under Their Bikinis by Keith Miller, review of *Afterlife* by Sean O'Brien,
+  in *TLS*, Jul 31, 2009 (no link):
+
+  "Its actual subject is what Sean O'Brien poignantly calls 'the long
+  aferlife of adulthood'.  The middle part of the novel is an emotionally
+  intense and finely wrought (at times a shade overwrought) chamber piece
+  about an octet of hippies, lately graduated, seducing and betraying
+  each other in an enchanted Welsh wood during the parched  summer of
+  1976.  Taken as a whole, however, it is also a keen political allegory
+  about  the day the music died for the generation who came of age between
+  the  summer of love and the winter of discontent, and who soon
+  afterwards  found themselves facing down the ultimate bummer: curdled
+  idealism, loss of promise, acid flashbacks, punk rock and nearly two
+  decades of  tetragonocracy, the rule of the squares. ..."
+
+ 5 Oct 2021  <a name="5-Oct-2021"></a>
+
+- The Marxist and the Messiah by Terry Eagleton, review of *The Benjamin
+  Files* by Fredric Jameson in *London Review of Books*, Sep. 9 2021, p. 27
+  (no link):
+
+  "... Walter Benjamin never wrote a book ... Instead, he lived a hand to
+  mouth existence in his native Berlin as a cultural journalist,
+  eventually leaving his fascist homeland in 1933 for Paris, where he
+  stayed for the  most part until his death in 1940. ... The 'Theses on
+  the Philosophy of History' can best be read as the jottings of a  Jewish
+  communist who will shortly swallow a massive dose of morphine rather
+  than fall into the hands of the Nazis.  The fragmentary structure of the
+  text reflects the ruined history from which it arises. ... Benjamin was
+  driven towards Marxism by the rise of fascism ...
+
+  Benjamin was a modernist theorist rather than simply a theorist of
+  modernism.  His writing is part of that cultural experiment, not just a
+  commentary on it.   ... he was an anti-philosopher who felt the need to
+  write differently to say what he meant ... Academic works are meant to
+  be reasonably lucid, mostly conceptual in content, and written from a
+  specific point of view. A good deal of modernist art, by contrast,
+  prefers multiple viewpoints and discontinuous narratives.  Artists may
+  opt for obscurity rather than lucidity, or prefer the image to the
+  concept.  ...
+
+  In modern art, obscurity can be a conscious strategy.  It is one of the
+  ways in which the artwork can avoid being consumed too easily.  Poems
+  need to thicken their textures and scramble their syntax if they are not
+  to slip down too easily, which is the fate of the commodity.  Everyday
+  language is no longer a medium of truth.  It has grown stale and
+  threadbare, and only by wreaking violence on it can you force it to
+  yield something of value. ...
+
+  Everyday language unfolds in a linear way, and the general view is
+  that history does too.  We think of the past as finished and the present
+  as open-ended, but this is not Benjamin's opinion.  In his 'Theses on the
+  Philosophy of History' it is the past that is incomplete, and the present
+  that has a chance to bring it to fruition.  What happens, happens, and
+  does so irretrievably; but the meaning of such events is in the
+  custodianship of the living ... We can ensure that those in the past
+  who were defeated in their fight for justice and friendship did not
+  die in vain -- that in Benjamin's phrase, the names of those anonymous
+  men and women will be mentioned in dispatches on Judgment Day.  The dead
+  cannot literally be compensated for their suffering, but that suffering
+  can be invested with new significance by our actions in the present ...
+
+  The Messiah, he argues, will not arrive as the fulfillment of history
+  but will reveal a constellation of moments woven into historical time,
+  periods of political emergency in which there is a chance for justice
+  for those whom the ruling powers hope to erase from the historical
+  record.  This montage of moments represents the history of the oppressed,
+  which is as diffuse and discontinuous as a modernist work of art.
+  Only with the coming of the Messiah can this history be recounted as a
+  coherent narrative, as the secret affinities between particular acts of
+  resistance are laid bare.   What seemed futile and meaningless at the time
+  will then become readable, like an encrypted text we can finally decipher."
+
+18 Aug 2021  <a name="18-Aug-2021"></a>
+
+- The Ballad of Jimmy Garrison by Geoff Dyer, in *White Sands* (2016)
+  p. 201 - 202 (no link):
+
+  "It is so difficult to know whether you are giving up on a book because
+  it really is unwritable or if you are just begin lazy, if you have
+  rationalized the idea of its being unwriteable because you lack the
+  stamina to stick  at it, to keep grinding it out.  Even if you have been
+  writing for a long time -- *especially* if you have been writing for
+  a long time -- it is almost impossible to work through the layers of
+  subterfuge, the self-deceptions and self-exonerations that lead you to
+  abandoning a book and to forgive yourself for having done so.
+
+  Once you have made the decision to abandon ship, it requires a certain
+  amount of will-power to persist with the abandonmnet, not to lapse back
+  into sneaked looks at the manuscript, to learn to ignore the little
+  glimmers of hope, to not to gnaw away at it until the 'it' becomes that
+  which has been abandoned and that which is in the exhausted process of
+  being revived.
+
+  At some point complete withdrawal is the only solution.  After which, it
+  is possible that some parts of what was abandoned and discarded can be
+  used in an entirely different way, in the creation of something new."
+
+16 Aug 2021  <a name="16-Aug-2021"></a>
+
+- <https://pages.gseis.ucla.edu/faculty/agre/notes/00-7-12.html> - 
+  Phil Agre, Critical Thinking, in Notes and Recommendations 12 July 2000.
+
+  "... I finally comprehended the difference between critical thinking and
+  its opposite.  Technical people are not dumb, quite the contrary, but
+  technical curricula rarely include critical thinking in the sense I have
+  in mind.
+
+  Critical thinking means that you can, so to speak, see your glasses.
+  You can look at the world, or you can back up and look at the framework
+  of concepts and assumptions and practices through which you look at the
+  world.  Every such framework edits the world in some way; every such
+  framework has its biases.  And no matter how carefully you think you
+  define your words, most of your framework of concepts and assumptions
+  and practices for looking at the world will be inherited from a long
+  disciplinary and cultural tradition.
+
+  If you can't see your glasses then you will have tunnel vision your
+  whole life.  Yet you probably won't even notice, because your ways of
+  looking at the world also define what counts as success, as progress, as
+  a research result, and so on.  Not that critical thinking makes you
+  omniscient: you're still wearing glasses even when you're looking at
+  your glasses.  This (and not any sort of silly idealism) is what Derrida
+  means when he says that a text has no outside.  But through scholarship
+  and analysis you can do a lot better than just stumbling along with the
+  glasses you got in school."
+
+- <https://pages.gseis.ucla.edu/faculty/agre/notes/96-11-8.html> - 
+  Phil Agre, Authoritarian Culture, in Notes and Recommendations 8 Nov 1996.
+
+  "A while back, I came across an op-ed column addressed to teen-agers
+  which purported to explain certain points about life.  The first of
+  these points was, and I quote,
+
+  - Life's not fair.  Get used to it.
+
+  All of the points were like this: each of them presupposed that their
+  reader held a putatively naive or self-serving opinion about life, and
+  they proposed to set the reader straight in a remarkably nasty and
+  disrespectful way.
+
+  I view this article as part of a larger and very depressing trend: the
+  return of authoritarian culture.  The purpose of authoritarian culture
+  is to instil a mindless obedience to authority.  It employs two basic
+  methods.  The first of these methods is stereotype: one's normal human
+  tendencies to think critically and resist oppression are caricatured and
+  ridiculed; endless stories are adduced to portray people who employ
+  these innate faculties in a bad light; and labels such as "whining" and
+  "complaining" and "victim" are liberally applied.
+
+  The second method of authoritarian culture is the attempt to
+  naturalize authority by hiding it behind large abstractions.  In this
+  case, the abstraction in question is "life".  Having established that
+  "life" is unfair, it becomes possible to label any protest against
+  unfairness as a demand that the whole world conform to one's own
+  immature whims.  These teenagers are counseled to "get used to it" and
+  to reconcile themselves to a life of being treated unfairly.  No liberal
+  nostrums about self-esteem here: this columnist's message was that
+  nobody deserves to be treated with respect, and that it's arrogant to
+  think otherwise. ...
+
+  It is not surprising when people in authority employ such language.
+  But authoritarian culture requires more: it requires that people
+  internalize this language, applying it to themselves and dissociating
+  all desire for justice and fair treatment.  We all have our failings,
+  but we we cannot have a decent society unless everyone is treated with
+  respect and judged with a reasonable regard for proportionality and due
+  process.  Healthy people don't just "get used to" injustice.  Quite the
+  contrary, genuine maturity begins with the skill and discipline of
+  helping people organize to identify and overcome injustice.  Shame and
+  ridicule are the least violent of the tools that have historically been
+  employed to condemn people to passivity.  But they are also the most
+  basic and, in the end, the most destructive."
+
+- <https://pages.gseis.ucla.edu/faculty/agre/notes.html> - 
+  Archived *Notes and recommendations* pages by Phil Agre
+
+10 Aug 2021  <a name="10-Aug-2021"></a>
+
+- *A Friend of the Earth* by T. C. Boyle (2000), p. 183-4 (no link):
+
+  "There it is, the sun, angry and blistered in a sky the color of
+  a bleached robin's egg, steam rising, catfish wriggling, eighty-seven
+  degrees already and it's only eight in the morning. ...  Anyway, I was
+  up at six, the astonishing wallop of the meteorlogical change registering
+  insistently in my back and hip joints, the pillow gummy with sweat,
+  my glasses misted over the minute I clapped them on the bridge of my nose.
+
+  Global warming.  I remember the time when people debated not only the
+  fact of it but the consequence.  It didn't sound so bad, on the face of it,
+  to someone from Winnipeg, Grand Forks or Sakhalin Island.  The greenhouse
+  effect, they called it.  And what are greenhouses but pleasant, warm,
+  nurturing places, where you can grow sago palms and hyroponic tomatoes
+  during the deep freeze of the winter?  But that's not how it is at all.
+  No, it's like leaving your car in the sun all day with the windows rolled
+  up and then climbing in and discovering they've been sealed shut -- and the
+  doors too.   The hotter it is, the more evaporation; the more evaporation,
+  the hotter it gets, because the biggest greenhouse gas, by far and away,
+  is water vapor.  That's how it is, and that's why for the next six months
+  it's going to get so hot the Pulchris River will evaporate and rise back up
+  into the sky like a ghost in a long trailing shroud and all this muck will
+  be baked to the texture of concrete.  Global warming.  It's a fact."
+
+  This novel was published in 2000; it is set in the years 2025-26.  I
+  thought of this passage during the "once-in-a-millenium heat dome"
+  in June when temperatures in the Pacific Northwest exceeded 100 F,
+  the highest ever recorded here.  Another heat wave is expected later
+  this week.
+
+22 Jul 2021  <a name="22-Jul-2021"></a>
+
+- The Empire Writes Back by William Dalrymple, review of *The Autobiography
+  of an Unknown Indian* by Nirad C. Chaudhuri in *TLS* Jul 23 1999, p. 11
+  (no link):
+
+  "The high point of the book ... is the opening section describing
+  Chaudhuri's upbringing in remote rural Bengal at the turn of the century
+  ...  Here Chaudhuri writes with startling clarity about his physical
+  surroundings: ... a green Eden of monsoon rain, thatched huts, and
+  rotting vegetation ... It is in these descriptions of his own life, his
+  own sensations and memories, that Chaudhuri is at his most mesmerizing ...
+
+  Yet Chaudhuri is not content to merely describe the private, and
+  ambitiously aims to give "more of a national than a personal history".
+  ... These digressions are invariably a mistake. ... For Chaudhuri's
+  historical and teleological digressions are almost always lecturesome
+  and often pedantic and plain tiresome; the reader's heart sinks ...
+
+  In his capacity for terminally self-indulgent meandering (if in no other),
+  Chauduri's work bears an unexpected resemblance to that of a later and
+  equally difficult Indian genius: Salman Rushdie.  With both, one has the
+  feeling that one is reading something that is important and improving as
+  it is unquestionably unpalatable -- like drinking literary cod liver oil.
+  These two very different writers also share a tendency to show off their
+  learning and erudition in the most wearisome way.
+
+  Yet if Chaudhuri can be hard work, then he is, like Rushdie, usually
+  worth the effort.  Part of it is the sheer obstinate integrity and near-
+  heroic defiance of convention that Chaudhuri represents.  Partly it is
+  the testament this book gives to the long years of lonely isolation
+  undergone by this strange maverick; the hectoring and preening of the
+  historical digressions speak powerfully of a man unused to conversation,
+  of someone starved of sympathetic intellectual company, or any sort of
+  receptive audience.
+
+  Partly also it is the sheer oddity of the now lost hybrid culture
+  Chaudhuri represents ... (he was) a figure who could read and enjoy
+  Shakespeare and Milton in the morning, then, in the evening, to the
+  sound of "the beating of drums, cymbals, and gongs, and the frenzied
+  shouts of spectators", piously attend a bloody goat sacrifice ...
+
+  Either way, for all his failings and idiosyncrasies, Chaudhuri is
+  a unique and intermittenly profound voice ..."
+
+14 Jul 2021  <a name="14-Jul-2021"></a>
+
+- <https://600transformer.blogspot.com/2012/10/professor-grumpys-historical-manifesto.html> -
+  Professor Grumpy's Historical Manifesto by Guy Halsall (2012) -
+
+  "What do people mean when they say that history is relevant? It's,  let's
+  face it, usually a justification for modern history. To understand  the
+  modern world, the argument runs, we have to understand its history.  So,
+  to understand the problems, say, of Iraq, Afghanistan, or Ireland,  or
+  the Balkans, we need to know the history of those regions. Sounds
+  reasonable, but actually we don't. It's no more use to study the modern
+  history of those regions than it is to study the end of the Roman
+  world.
+
+  Why? Well, let's look at the problem more closely. Let's take, for
+  example, a modern Ulster Unionist or Irish Republican, or a Serbian
+  nationalist (or a nationalist from any other area  including Scotland).
+  Does a knowledge of the history of Serbia or Ireland help us understand
+  his actions ... ? No it doesn't. For one thing,
+  we'll  soon discover that the history that he uses to justify his case
+  or  actions is cock-eyed and wrong. Does it help just to know the events
+  he  makes reference to, that he keeps harping on about -- the Battle of
+  Kosovo Pole or the Battle of Boyne, say? Does it help to know (the
+  disillusioning facts about these events)?  No. It might get you  punched
+  in the face but it won't help you understand why.
+
+  Our modern nationalists aren't operating under compulsion from the Past.
+  The past has no power; it's dead and gone. It can't make you do
+  anything.  These people are choosing events from their understanding of
+  the past  to justify what they are doing or what they want to do in the
+  present.
+
+  Another key point concerns the idea that history *had* to be like that,
+  that it had to have particular outcomes, that the world we know was the
+  natural outcome of all that. But nothing is 'just like that'. It
+  doesn't have to be that way. To understand change you have to see all
+  the other possibilities that were open and that could have come about.
+
+  Many of the things we think of as natural ways of classifying the
+  world aren't natural at all: like race and sexuality. If studying late
+  antiquity does have an advantage it is in making that very clear. Late
+  antique people didnt see colour as the basis for their way of
+  organising the peoples of the world; they didn't have concepts of
+  homosexuality or heterosexuality. Their ideas of sexuality were quite
+  different.
+
+  Clio, the muse of history ... will make you rethink everything you think
+  you know ... She's not there to bring succour to your view of your
+  country, or smooth over the bad stuff that it did ... She's there to
+  stop you from falling victim to her evil twin, Myth. ... I want to free
+  you from   feeling like the past controls us; that we have to base our
+  identities   in the present upon myths. That means we don't have to feel
+  guilty or apologise, either --- just to be aware; to understand."
+
+7 Jun 2021  <a name="7-Jun-2021"></a>
+
+- *My Past and Thoughts* by Alexander Herzen (1885), translated
+  by Constance Garnett (1968). Excerpted as 'A Russian Thinker in Exile'
+  in *The Oxford Book of London* ed. Paul Bailey (1995), p. 108 - 109 (no
+  link):
+
+  "... There is no town in the world which is more adapted to training
+  one away from people and training one into solitude than London. ...
+  One who knows how to live alone has nothing to fear from the tedium
+  of London.  The life here, like the air here, is bad for the weak, for
+  the frail, for one who seeks a prop outside himself, for one who seeks
+  welcome, sympathy, attention; the moral lungs here must be as strong
+  as the physical lungs, whose task it is to separate oxygen from the
+  smokey fog. ...
+
+  In the evening, when my son had gone to bed, I usually went out for
+  a walk ... One city, full-fed, went to sleep: the other, hungry, was
+  not yet awake ... where every night a hundred thousand men know not
+  where they will lay their heads, and the police often find women and
+  children dead of hunger beside hotels where one cannot dine for less than
+  two pounds. ...
+
+  ... Though I had made up my mind to work, for a long time I did nothing,
+  or did not do what I wanted to do.   The idea with which I had come
+  to London, to seek the tribunal of my own people, was a sound and right
+  one. ... To whom, in fact, are we to appeal for judgment, for the
+  re-establishment of truth, for the unmasking of falsehood?  It is not
+  for us to litigate in the court of our enemies, who judge by other
+  principles, by laws which we do not recognize.
+
+  ... To take the law in one's own hands is to snatch back by force what
+  has been taken by force, and so restore the balance; vengeance is just
+  as sound and simple a human feeling as gratitude; but neither revenge nor
+  taking the law into one's own hands explains anything.  It may happen that
+  a clear explanation is what matters most to a man.  The re-establishment
+  of truth may be dearer to him than revenge. ..."
+
+ 1 Jun 2021, 5 Jun 2021, 19 Dec 2021  <a name="1-Jun-2021"></a>
+
+- <http://www.tomandmaria.com/Tom/Writing/CACMInnovatorsAssemble.pdf> - 
+  Innovators Assemble: Ada Lovelace, Walter Isaacson, and the
+  Superheroines of Computing, by Thomas Haigh and Mark Priestley in
+  *Communications of the ACM*, Sep 2015, vol 58, no 9, pps. 20 -- 27.
+
+  "The   fastest-selling   history   of  computing  book  ever  published
+  is  Walter  Isaacson's  *The  Innovators:  How  a Group of Hackers,
+  Geniuses, and Geeks Created  the  Digital  Revolution.* ...
+  (A) distinctive feature of Isaacsons  book  is  his  stress  on
+  the  contribution  of  women  to  innovation  in  computing.  He
+  foregrounds  a  trio  of  coding superwomen, and centered the
+  promotional campaign for the book on the claim that he was avenging
+  brilliant but  defenseless  women  who  had  been  unjustly   erased
+  from   history. ...
+  According   to   Isaacson,   men   were   good   at   hardware,   but
+  only   women   were  smart  enough  to  appreciate  the  need for
+  software. ...
+
+  *Ada Lovelace*
+
+  ... Lovelace  is  remembered  for  her  collaboration    with    Charles
+  Babbage    to    publicize  the  mechanical  calculators  he  designed
+  and  attempted  to  build  from  the  1820s  onward. ...
+  (Lovelace wrote) a detailed  discussion of how to use (Babbage's) Analytical
+  Engine to calculate the Bernoulli numbers. This work,  summarized  in  a
+  large  table  describing  the  calculation,  has  long  been
+  understood    as    a    computer    program    *avant la lettre*. That
+  made Lovelace "the first  programmer" ...
+
+  Lovelace   has   been   celebrated   as   much  for  her  visionary
+  asides  as  her  mathematical accomplishments. She imagined  a  version
+  of  the  Analytical  Engine  that  would  allow  mechanical
+  representation    of    "the    fundamental   relations   of   pitched
+  sounds   in   the  science  of  harmony"  and  "compose  elaborate  and
+  scientific  pieces  of  music."  These  remarks  carry  an  undeniable
+  frisson    of    prescience,    leading  science  writer  and
+  television  presenter Steven Johnson to the idea that  Lovelace  was  a
+  time  travelling  inventor who, like Leonardo da Vinci and  Charles
+  Darwin,  somehow  existed  outside  her  own  time.
+  In  a  promotional  interview  for  the  fashion  section  of  the
+  *New  York  Times*,  Isaacson  claimed   "Ada   Lovelace   defined   the
+  digital age", arguing with a wave that seemed  to  "encompass  all  of
+  Silicon  Valley  and  the  techies  sitting  around  us" that "If it wasn't
+  for Ada Lovelace, theres   a   chance   that   none   of   this   would
+  even   exist."   This   hand   waving  is  not  untypical,  as  is  the
+  failure  to    distinguish    between    imagining    something  and
+  causing  that  thing  to  come about.
+
+  What does it mean for Isaacson to call Lovelace  an  essential
+  precondition  to  the   existence   of   today's   tech   world?
+  Logically,  it  means  those  who  created  later technologies drew
+  directly on her work  with  Babbage,  and  indeed  that  without  them
+  nobody  would  ever  have  thought  of  programming  a  computer. ...
+  However, expert historians  have  been  unable  to  find  any
+  substantial  influence  of  Babbage  on  the  designers of early computers.
+
+  Turning      to      the      specifics      of      Lovelace's
+  notes,       we       challenge       the     common
+  characterization     of     Lovelaces tabular presentation of the
+  Bernoulli  calculation  as  a  "program."
+  Babbage  intended  his  computer  to  read  and  execute  instructions
+  one  at  a  time  from  a  deck  of    "operation    cards."    The
+  famous    table  is  not  a  specification  for  a  card  deck  to
+  compute  the  Bernoulli  numbers.  Instead,  as  Lovelace  explained,
+  it  "presents  a  complete  simultaneous  view of all the successive
+  changes the various storage units of the Analytical Engine would pass
+  through" in computing  the  specific  number  B7. ...
+  In    modern    terminology,    the    table    might  best  be
+  described  as  a  trace  of  the machine's expected operation. ...
+  In  fact  the  idea  of  a  program  as  we  now  understand it did not
+  yet exist. ...
+
+  Lovelace  was  part  of  her  own  time,  not  a  visitor  from  the
+  future  or  a  lone  superhero    who    invented    programming  and
+  created  the  modern  world. ...
+  Her  instincts,  and  her  tragic  personal  story,  were  similarly
+  emblematic   of   their   time.   She  was  Romantic  with  a  capital
+  "R,"  befitting  her  status  as  a  daughter  of  Byron  and  echoing
+  the  era's  belief  in  centrality  of  tortured  genius  and  creative
+  passion to greatness in both arts and natural science.
+
+  *Grace Hopper*
+
+  ... On  page  117  Isaacson  credits  Hopper  as  the  technical   lead   in
+  coordinating   the   creation   of   COBOL,   a   hugely   important
+  standard  language  for  business  programming ...
+
+  (Isaacson) slights several women who, unlike  Hopper,  were  on  the
+  technical  committee  in  question.  Among
+  them is Jean Sammett, who made the largest single contribution to the
+  design  of  COBOL.  Sammet  has  stated  that  Hopper  was  not  the
+  mother,  creator,  or  developer  of  COBOL,  an  idea  Hopper
+  reportedly  endorsed  by  calling  herself  the  grandmother  of  COBOL
+  rather than its creator.
+
+  This is an example of what sociologist of science Robert K. Merton
+  called the   Matthew   Effect,   the   tendency   for  the  most  famous
+  person  involved  in  any  collaborative  project,  however
+  peripherally,   to   be   remembered   by   the  public  as  the  key
+  contributor. ...
+  Over time the famous become more famous, while the moderately   well
+  known   are   forgotten. ...
+  This is particularly true of those holding  distinctions  where  the
+  supply  is  deliberately limited, such as ...
+  the  winners  of  the  Nobel  Prize.  It  seems  to  us  that  a
+  process  of  natural  selection,  in  which  a  large  pool  of
+  eligible  pioneers compete for a handful of positions as female role
+  models, is creating a similar dynamic.
+
+  *The Women of ENIAC*
+
+  Isaacson   writes   at   length   on   The   Women   of   ENIAC,   and
+  excerpted   this  part  of  *The  Innovators*  in *Fortune* magazine  as
+  part  of  his  launch  campaign.
+  ENIAC,    the    Electronic    Numerical  Integrator  and  Computer,
+  is  remembered by historians as the first general-purpose     electronic
+  digital     computer. ...
+  In   recent   years, however, (ENIAC) has   been  best  known  as  a
+  computer  programmed   by   women. ...
+
+  Isaacson's  retelling  of  their  story  is sourced primarily from (Jean)
+  Bartik's engaging  memoir,  *Pioneer  Programmer* and  from  a  number
+  of  oral  history  interviews.  He  observed  that  while  "the   boys
+  with   their   toys   thought   that   assembling   the   hardware   was
+  the  most  important  task,  and  thus  a  man's  job"  in  fact  "all  the
+  programmers  who  created  the  first  general-purpose    computer were
+  women."
+
+  One  startling  fact  was  overlooked  by    Isaacson    and    almost
+  everyone    else   who   has   written   about   ENIAC.   The  cliche
+  that  the  machine  was  assembled   by   men   but   programmed   by
+  women  is  just  not  true.  Dozens  of  women,  employed  as  "wiremen",
+  "assemblers",  and  "technicians"  worked  shifts    through    1944    and
+  1945    to    build  ENIAC,  threading  miles  of  wire  through   the
+  machine   and   soldering   approximately   half   a   million   joints.
+  Other   women   drew   blueprints   and   helped    with
+  administration.    While    Bartik  and  her  colleagues  were  given
+  belated  recognition  for  their  work  on  ENIAC,  more  than  50
+  women  worked  on  the  machine  in  1944  alone.  Their  names  are
+  preserved  only  in  the  project's  accounting  records  and  personnel
+  forms. They are truly forgotten.
+
+  We   also   believe   the   word   "programming" does not do a good job
+  of capturing  the  actual  work  of  Bartik  and  her  colleagues.  When
+  programming  developed  as  a  distinct  job,  in  the  mid-1950s,  it
+  was  generally  separated  from  the  work  of  operating  the
+  computer  or  any  ancillary  punched  card   units.   Programmers   sat
+  with   pencils  and  coding  pads,  writing  instructions. These were
+  punched onto cards  by  keypunch  women,  the  data  entry  clerks  of
+  their  day.  Operators  tended to the machine itself, preparing  the
+  computer  and  its  peripherals for a job, loading the appropriate card
+  and  tape  media,  and  extracting  printed output. The  women  of
+  ENIAC  combined  elements  of  all  three  roles,  but  operations
+  work   was   what   they   were   hired  to  do  and  it  occupied  most
+  of  their  time  with  the  computer. ...
+
+  The  initial  cohort  of  six  operators  had to understand how ENIAC
+  worked, so  they  could  set  it  up  for  a  new  job,
+  which  involved  many  hours  of  plugging  cables  and  setting
+  switches,  and  monitor  its  progress.  Because  of  this  expertise
+  they  also  played  an  important  preparatory  role  in  many  of  the
+  applications  run  on  ENIAC,  partnering  with  scientific  and
+  mathematical  users to figure out the set-up needed to  configure  the
+  machine  to  carry  out  the  appropriate  series  of  mathematical
+  operations.  These  set-ups  implemented   loops,   subroutines,   and
+  the   other  elements  we  now  associate  with  programs    (although
+  they    were    recorded  visually,  as  a  schematic  of  the  switch
+  and  wiring  settings  needed  on  ENIACs  various  units,  rather  than
+  as  textual instruction codes). It  is  this  preparatory  work  that
+  has  caused   them   to   be   remembered   as   programmers ...
+
+  Our   intent   is   not   to   belittle   the   very  real
+  contributions  of  the  ENIAC  operators  to  computing  history,  but
+  to  argue  that  forcing  them  into  the  role of the "first
+  programmers," as is commonly  done,  hides  most  of  the  reality  of
+  their  actual  work.  Operating ENIAC, and its ancillary punched card
+  machines,   was   highly   skilled   work  that  was  absolutely  vital
+  to  the  machines  success.  To  this  day  programming accounts for a
+  fairly small proportion of overall IT work, and the demand    for
+  system    administrators,    network   technicians,   facilities
+  management  staff,  and  other  hands-on  IT  practitioners  is  greater
+  than  ever.  By  the  1960s,  however,  computer  operations work was
+  seen as a lower paid and lower  skilled  occupation -- blue-collar  shift
+  work against the white-collar work of  programming.  Perhaps
+  celebrating  hands-on operations work would mislead  impressionable
+  young  women.  As  Wendy  Hui  Kyong  Chun  has  noted,  "reclaiming
+  these  women  as  the  first  programmers... glosses  over  the
+  hierarchies... among   operators,   coders, and analysts."  Remembering
+  the ENIAC   operators   only   as   programmers  implies  gender
+  matters  to  history but social class does not.
+
+  *Conclusion*
+
+  A great deal is at stake here. Women are conspicuous  by  their  absence
+  in  computer  science  classrooms  and  in  the  programming teams,
+  data centers, and computing  research  labs  of  America. ...
+
+  History  is  playing  an  increasingly  visible  role  in  this
+  struggle. ...
+  One  widely  held  concern  is  that  girls  are  not exposed to images
+  of female programmers   or   information   technology  professionals. ...
+  They have little reason to assume that software development is work
+  they would find interesting or be good at.
+
+  The past has therefore been mined in  search  of  women  who  might
+  provide   girls   with   inspiring   counter-examples.   The   goal
+  of   convincing   women   to   enter   computing   might   sometimes
+  seem   at   odds   with   the   responsibility   of   historians   to
+  provide  accurate  and  nuanced  stories.  In such a battle the force
+  of numbers would   not   be   with   the   historians,   who  find
+  intrinsic  value  in  the  past  of a field that is relentlessly focused
+  on the future. ...
+
+  We believe good history is not just important  to  specialists,  and
+  that  it  will  ultimately  prove  more  inspiring  and   more relevant
+  than   superhero   stories (like) Isaacson's book ...
+  Stories  of  this  kind  inflate  their  own  importance,  by
+  pretending  a  certain  idea,  person,  or  invention  has  direct  and
+  singular  responsibility  for  some  hugely  complex  chain  of  later
+  events  that   leads   to   our   modern digital   world.  Their
+  authors  are  fixated  on  firsts and origins, and glorify flashes of
+  abstract  insight  over  slow  and  incremental technological change
+  driven by the needs of users.
+
+  The  conception  of  history  as  the  deeds of a few great men has
+  problems that are too fundamental to correct  simply  by  elevating  a
+  few  great  women to the pantheon. Indeed, this strategy devalues many
+  of the contributions made by women. Nobody has
+  chosen  to  celebrate  "The  Key  Punch  Operators  Who  Invented  the
+  Digital  Universe"   or  "The   Lone   Computer   Assembler   Who   Built
+  the   Modern   Computer".  The  obsession  with  discovering the first
+  coders, intended to empower  women,  has  obscured  the  importance  of
+  other  kinds  of  computer-related  labor  that  was  carried  out by
+  women for decades. The quest for "girls who code" is erasing the history
+  of "women who operate". One of the  reasons  such  work  was  seen  as
+  low status and unimportant is that it was carried out by women, and any
+  attempt  to  challenge  historical  sexism  should dispute that
+  assumption rather  than  tacitly  endorsing  it. ...
+
+  Stories   about   superheroes   make   great entertainment ...
+  The superhero narrative is not,  however,  the  best  way
+  to  understand   history.  Isaacson's  celebration  of  Ada  Lovelace,
+  Grace Hopper,  and  the Women of ENIAC as the creators of  computer
+  programming  is  part  of  a  much  broader  movement  to  make  these
+  women into recruiting sergeants for   computer   science.   The colorful
+  feats  sometimes  attributed  to  these  women  can overshadow  their
+  actual  historical  contributions,  which  were rather  more  nuanced
+  and  rather  less  dependent on superpowers. In particular,  the
+  concept  of  programming  has been awkwardly projected back in time, in
+  a way that misrepresents their accomplishments and squanders the  chance
+  to  celebrate  a  broad  range  of  computer-related occupations    such
+  as  mathematical  analysis,  operations  work, and management.
+
+  More  generally,  we  run  the  risk  of  hiding  a complex  historical
+  tapestry,  full of thousands of little figures carrying   out  many
+  vital  tasks,  behind  a  gaudy  poster  depicting  a small  team  of
+  superheroes.   The   quest   for   genius devalues the vital
+  contributions of  millions  who  are  merely  creative, intelligent,
+  hard-working,  and  lucky  enough to be in the right place at the right
+  time. Superhero stories have little time for ordinary humans, who exist
+  only to be endangered or rescued. Reducing the story of women in
+  computing  to  the  heroics  of  a  handful  of  magical individuals
+  draws  attention  away   from   real   human   experience and,
+  counterproductively,    suggests    that   only   those   with
+  superhuman   abilities need apply."
+
+  Many other articles by these authors about computing history at
+  <http://www.tomandmaria.com/Tom/Home>
+
+- *London Lights: The Minds that Moved the City that Shook the World,
+  1805 - 1851* by James Hamilton (2007), from chapter 5, A Mutton-Chop
+  at 5 O'Clock, pps. 110 - 111, 114 - 115 (no link):
+
+  "Babbage's parties were large affairs, designed to entertain friends
+  and influence reluctant politicians in his efforts to raise capital
+  to develop his Difference Engine, the most complex piece of mechanical
+  equipment yet made. ... a calculating engine ... the size of a large
+  garden shed.
+
+  There were dozens of people at each of Babbages's events. (Geologist)
+  Charles Lyell confided to Charles Darwin, 'Babbage's parties are the
+  best in the way of literary people in London -- and ... there is
+  a good mixture of pretty women.'  The rooms in his house (contained) a
+  working section of the Difference Engine in polished brass in one of the
+  rooms, and, after 1834 when he bought her at auction ... a shining silver
+  clockwork woman in the other.  'The figure moved her arms and head most
+  gracefully, and even moved her eyes, and almost smiled, as if she was
+  aumused with your astonishment.' Most guests preferred the dancing woman
+  to the Difference Engine: on one evening only two foreign visitors admired
+  the Engine, while everyone else crowded to watch the dancer.  'In that room
+  -- Enland,' Babbage remarked.  'Look again at this -- two foreigners.'"
+
+  "Ada must have first attended a Babbage soiree in March 1834 ...
+  Ada (b. Dec. 1815) and Babbage (b. 1791) became close friends, and by
+  November Babbage, having recognized Ada's mathematical dexterity,
+  lent his printed and illustrated account of the Difference Engine for
+  her to study ...
+
+  Ada Byron began to make a habit of going to Babbage's with the Somervilles
+  (mathematician and popular science author Mary and her husband William).
+  Ada Byron was intense by nature.  A highly articulate, overwrought
+  mathematical genius from a high social background, she attended lectures
+  at the Royal Institute, routs in glittering ballrooms, soirees at Babbage's,
+  and, aged seventeen in 1833, was presented to the King and Queen at court.
+  Her natural brilliance in the abstract language of mathematics that few
+  understood, her disturbed upbringing as Byron's daughter, and the elevated
+  position in society it was her lot to display and maintain created a
+  confused and uncertain young woman.  'You know I am a d--d odd animal!'
+  she wrote to Mary Somerville's son ... 'But if you knew one-half of the *harum-scarum*
+  extraordinary things I do, you would certainly incline to the idea that
+  I have a spell of *some* sorts about me.  I am positive that no other
+  *she* creature of *my years could* possibly attempt many of my everyday
+  performances with any impunity.' It was the rare piece of real good
+  fortune for Ada, however, that she had the sensible and structured example
+  of Mary and William Somerville's family life to balance her self-absorption,
+  the insistence of her many suitors, and Charles Babbage's frantic
+  self-certainty. ..."
+
+- <https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher> -
+  *Passages from the Life of a Philosopher* by Charles Babbage,
+  via comments at <https://news.ycombinator.com/item?id=29603913> 
+
+  *mwfunk* writes: "Babbage's eccentricities and loopier thoughts were
+  always more interesting to me than his writing about the things he's
+  better known for. I read this many years ago but for some reason the
+  part that stuck with me the most was a surprisingly long stretch
+  articulating all the different ways in which organ grinder monkeys were
+  public menaces. His loathing of street musicians was comical but the
+  degree of spite specifically reserved for organ grinder monkeys took it
+  to the next level.
+
+  It's been a while since I read it, but I definitely got the sense that
+  that was very much how he felt and he wasn't playing it up for comedy.
+  He wasn't the most likable or relatable guy but he certainly was
+  passionate."
+
+ 7 May 2021  <a name="7-May-2021"></a>
+
+- *The Waning of the Middle Ages* by Johan Huizinga (1919), translated by
+  Frederick Hopman (1924).  From Chapter 1, The Violent Tenor of Life,
+  p. 9 - 31 (no link):
+
+  "To the world when it was half a thousand years younger, the outlines
+  of all things seemed more clearly marked than to us.  The contrast
+  between suffering and joy, between adversity and happiness, appeared
+  more striking.  All experience had yet to the minds of men the directness
+  and absoluteness of the pleasure and pain of child-life. ...
+
+  Calamities and indigence were more afflicting than at present; it was
+  more difficult to guard against them, and to find solace.  Illness and
+  health presented a more striking contrast; the cold and darkness of winter
+  were more real evils.  Honors and riches were relished with greater avidity
+  and contrasted more vividly with the surrounding misery.  We, at the present
+  day, can hardly understand the keenness with which a fur coat, a good fire
+  on the hearth, a soft bed, a glass of wine, were formerly enjoyed.
+
+  Then, again, all things of life were of a proud or cruel publicity.
+  Lepers sounded their rattles and went about in processions, beggars
+  exhibited their deformity and their misery in churches. ... Executions
+  and other public acts of justice, hawking, marriages and funerals, were
+  all announced by cries and processions, songs and music. ...
+
+  A medieval town did not lose itself in extensive suburbs of factories
+  and villas; girded by its walls, it stood out as a compact whole, bristling
+  with innumerable turrets.  However threatening and tall the houses of
+  noblemen and merchants might be, in the aspect of the town the lofty mass
+  of the churches always remained dominant.
+
+  The contrast between silence and sound, darkness and light, like that
+  between summer and winter, was more strongly marked than it is in our lives.
+  The modern town hardly knows silence or darkness in their purity, nor the
+  effect of a solitary light or a single distant cry.
+
+  All things presenting themselves to the mind in violent contrasts and
+  impressive forms, lent a tone of excitement and passion to everyday life
+  and tended to produce that perpetual oscillation between despair and
+  distracted joy, between cruelty and pious tenderness which characterize
+  life in the middle ages.
+
+  The frequent processions, too, were a continual source of pious
+  agitation, When the times were evil, as often they were, processions
+  were seen winding along, day after day, for weeks on end. ... All
+  went barefooted and fasting. ... A great many small children were
+  always among them. ...
+
+  Then there were the entries of princes, arranged with all the
+  resources of art and luxury belonging to the age.  And lastly, most
+  frequent of all, one might almost say, uninterrupted, the
+  executions.  The cruel excitement and coarse compassion raised by an
+  execution formed an important item in the spiritual food of the
+  common people.  They were spectacular plays with a moral.  For
+  horrible crimes the law invented atrocious punishments ... When the
+  criminals were great lords, the common people had the satisfaction
+  of seeing rigid justice done, and at the same time finding the
+  inconstancy of fortune exemplified more strikingly than in any
+  sermon or picture. ...
+
+  Rarer than processions or executions were the sermons of itinerant
+  preachers, coming to shake people by their eloquence.  The modern reader
+  of newspapers can no longer conceive the violence of impression caused
+  by the spoken word on an ignorant mind lacking mental food. ...
+  Thinking that (a renowned friar) would preach once more at Saint Denis
+  on Sunday, the people flocked thither on Saturday evening, and passed the
+  night in the open, to secure good seats.
+
+  The diatribes of the preachers against dissoluteness and luxury produced
+  violent excitement which was translated into action. ... At the summons of
+  a famous preacher, men and women would hasten to bring cards, dice, finery,
+  ornaments, and burn them with great pomp. ...
+
+  All this general facility of emotions, of tears and spiritual upheavals,
+  must be borne in mind in order to conceive how fully how violent and
+  high strung was life at that period. ... In more than one respect life
+  still had the colors of a fairy-story, that is to say, it assumed those
+  colors in the eyes of contemporaries.  The court chroniclers were men of
+  culture, and they observed the princes, whose deeds they recorded, at
+  close quarters, yet even they give these records a somewhat archaic,
+  hieratic air. ...
+
+  Although in reality the mechanism of government had already assumed rather
+  complicated forms, the popular mind pictures it in simple and fixed figures.
+  The current political ideas are those of the Old Testament, of the romaunt
+  and the ballad.  The kings of the time are reduced to a certain number of
+  types, every one of which corresponds, more or less, to a literary motif.
+  There is the wise and just prince, the prince deceived by evil counsellors,
+  the prince who avenges the dishonour of his family, the unfortunate prince
+  to whom his servants remain faithful.  In the mind of the people political
+  questions are reduced to stories of adventure. ...
+
+  A present day reader, studying the history of the Middle Ages based on
+  official documents, will never sufficiently realize the extreme excitability
+  of the medieval soul. ... There can be no doubt that no other political
+  motive could be better understood by the people than the primitive motives
+  of hatred and vengeance. ... The desire to discover economic causes is to
+  some degree a craze with us, and sometimes leads us to forget a much simpler
+  psychological explanation of the facts.
+
+  Every page of medieval history proves the spontaneous and passionate
+  character of the sentiments of loyalty and devotion to the prince. ...
+  It might be thought that the schism, which had no dogmatic cause, could
+  hardly awaken religious passions in countries distant from Avignon and
+  of Rome, in which the two popes were known only by name.  Yet in fact
+  it immediately engendered a fanatical hatred, such as exists between
+  the faithful and infidels. ...  a French political agent, arriving at
+  Utrecht (in Holland) about Easter, could not find a priest there willing
+  to admit him to the communion service, "because they said I was a schismatic
+  and believed in Benedict the anti-pope."
+
+  The emotional character of party sentiments and of fidelity was
+  further heightened by the powerfully suggestive effect of all the
+  outward signs of these divergences: liveries, colors, badges, party
+  cries. ...  Even priests, women and children wore distinctive
+  signs. ...
+
+  In the blind passion with which people followed their lord or their party,
+  the unshakable sentiment of right, characteristic of the Middle Ages,
+  is trying to find expression.  Man at that time is convinced that right
+  is absolutely fixed and certain.  Justice should prosecute the unjust
+  everywhere and to the end.  Reparaton and retribution have to be extreme,
+  and assume the character of revenge.  In this exagerrated need of justice,
+  primitive barbarism, pagan at bottom, blends with the Christian conception
+  of society.  The Church ... in adding to the primitive need of retribution
+  the horror of sin, had to a certain extent, stimulated the sentiment of
+  justice.  And sin, to violent and impulsive spirits, was only too frequently
+  another name for what their enemies did.  The barbarous idea of retaliation
+  was reinforced by fanaticism.  The chronic insecurity made the greatest
+  possible severity on the part of the public authorities desirable. ... Thus
+  it was natural that the Middle Ages should become the special period of
+  judicial cruelty.  That the criminal deserved his punishment was not
+  doubted for a moment.  The popular sense of justice always sanctioned the
+  most rigorous penalties.  ...
+
+  What strikes us in this judicial cruelty  and the joy the the people
+  felt at it, is rather brutality than perversity. Torture and executions
+  are enjoyed by the spectators like an entertainment at a fair. ...
+
+  The Middle Ages knew nothing of all those ideas which have rendered our
+  sentiment of justice timid and hesitating: doubts as to the criminal's
+  responsibility; the conviction that society is, to a certain extent, the
+  accomplice of the individual; the desire to reform instead of inflicting
+  pain; and, we many even add, the fear of judicial errors. Or rather these
+  ideas were implied, unconsciously, in the very strong and direct feeling
+  of pity and forgiveness which alternated with extreme severity. Instead
+  of lenient penalties, inflicted with hesitation, the Middle Ages knew
+  two extremes: the fulness of cruel punishment, and mercy.  When the
+  condemned criminal is pardoned, the question whether he deserves it for
+  any special reasons is hardly asked; for mercy has to be gratuitous, like
+  the mercy of God. ...
+
+  The contrast of cruelty and of pity return at every turn in the manners
+  and customs of the Middle Ages.  On the one hand, the sick, the poor, the
+  insane, are objects of a deeply moved pity, born of a feeling of fraternity
+  ... on the other hand, they are treated with incredible hardness or cruelly
+  mocked. ...
+
+  In the harshness of those times there is something ingenuous which almost
+  forbids us to condemn it.  ... So violent and motley was life, that it bore
+  the mixed smell of blood and roses.  The men of that time always oscillate
+  between the fear of hell and the most naive joy, between cruelty and
+  tenderness, between harsh asceticism and insane attachment to the delights
+  of this world, between hatred and goodness, always running to extremes."
+
+  "Between hellish oppression and the most childish amusements, between
+  horrible hard-heartedness and tearful tenderness, the populace staggers
+  like a giant with a child's head ... the people lived in extremes."
+
+  That last paragraph with "like a giant" is quoted from another
+  translation in Wheel of Fortune by David Horspool in *TLS*, Apr 30,
+  2021, p. 10. The following article on p. 11-12, Love and Death by
+  Alexander Murray, is a review of the new translaton by Diane Webb,
+  called *Autumntide of the Middle Ages*.  Murray writes:
+
+  "(*Autumntide*) is all but bare of references to contemporary academics --
+  which may be one reason it escaped their obsolesence.  Instead, Huizinga
+  lived day and night with his medieval witnesses, and wrote what they told
+  him as it struck his own mind and heart. ..."
+
+- From *Ordalie* to Ordure by Paul Freedman, review of *The Axe and the
+  Oath: Ordinary Life in the Middle Ages* by Robert Fossier (2010) in *TLS*,
+  date and page lost (no link):
+
+  "Opposing the mainstream tendency of both popular and academic
+  depictions, Fossier emphasizes the similarity between people now and
+  those who lived during the European Middle Ages.  Despite our
+  arrogant assumption of superiority, our lives are hemmed in by the
+  same worries, unpredictability, limitations and even diversions as
+  those experienced by medieval Europeans.  ...
+
+  As anyone who has taught the subject knows, students are all too
+  willing to hear that people in the distant past wanted to be like us
+  and are to be pitied because they weren't.  For Fossier, it is not
+  so much that medieval life was as rich and diverting as our own, but
+  that our world is more wretched than we are willing to admit. ...
+  *The Axe and the Oath* conveys a sense of the tragedies, or at least
+  the discomforts, of medieval life, but it does not consign them
+  safely to the past.  Instead Robert Fossier offers a suggestive and
+  gamely pessimistic view of the basic facts of human frailty."
+
+12 Apr 2021  <a name="12-Apr-2021"></a>
+
+- *99 Novels: The Best in English Since 1939* by Anthony Burgess (1985),
+  *Introduction*, p. 18-20 (no link):
+
+  "George Orwell ... said that, with any author he found sympathetic,
+  a portrait of the author seemed to rise from the page -- not necessarily
+  like the author as he really was but more the author as he ought to be.
+  ... The implication here is that the personaility of the novelist is
+  important to us -- the personality as revealed in his work and not in his
+  private life (the private lives of many artists do not bear looking at).
+  ... Some novelists, like Gustave Flaubert and James Joyce, have tried to
+  obliterate themselves entirely from their fictions, seeking the anonymity
+  of the divine creator, but they reveal themselves in style and imagery and
+  cannot altogether hide their attitudes toward their characters.  It is clear
+  that Joyce is on the side of Bloom, though he never intrudes to make
+  a comment, as Thackeray and Dickens always did. ...
+
+  We do not demand of an author that he be an intellectual ... but we
+  have a right to intelligence, a knowledge of the human soul, a certain
+  decency -- quite apart from professional skill.  Probably this imputation
+  of decency is important: all great novels have been about people trying
+  to be kinder, more tolerant. ...  This does not mean that authors have to
+  be nice to their characters. ... But the way of tragedy is the way of
+  arousing not only terror but pity.  Some characters have to suffer to
+  demonstrate the horror of life, but the author takes only a technical
+  pleasure in delineating those sufferings.  Novels are about the human
+  condition, which is not easy, and how, if possible, to cope with it.
+  The author is concerned about this, and he is concerned that you, the
+  reader, be concerned.
+
+  It is very hard indeed to devise universal parameters for the novel.
+  ... But I do know that we carry a scale of values whereby we know
+  that *Anna Karenina* is a great novel and *The Carpetbaggers* an inferior
+  one, and that our standards have something to do with the management of
+  language and concern with the human personality.  Sometimes the management
+  of language will be so remarkable that we will be prepared to forgive the
+  lack of human interest; sometimes character interest will condone verbal
+  and structural incompetence.  Judging a novel is a rule-of-thumb matter;
+  we cannot appeal to any aesthetic tribunal which will lay down universal
+  laws.
+
+  Anyway, all of the novelists listed here have added something to our
+  knowledge of the human condition (sleeping or waking), have managed
+  language well, have clarified the motivations of action, and have
+  sometimes expanded the bounds of imagination.  And they entertain, or
+  divert, which means to turn our faces away from the repetitive patterns
+  of daily life and look at humanity and the world with a new interest and
+  even joy. ... We want to entertain, surprise, and present the preoccupations
+  of real human beings through invented ones."
+
+ 9 Feb 2021  <a name="9-Feb-2021"></a>
+
+- *War and Peace* by Leo Tolstoy (1869), translated by Louise and Aylmer
+  Maude (1923), Book III, Chapter VII (no link):
+
+  "... (Boris) asked him to tell them how and where he got his wound.
+  This pleased Rostov and he began talking about it, and as he went on
+  became more and more animated.  He told them of his Schon Grabern affair
+  just as those who have taken part in a battle generally do describe it,
+  that is, as they would like it to have been, as they have heard it described
+  by others, and as sounds well, but not at all as it really was.  Rostov was
+  a truthful young man and would on no account have told a deliberate lie.
+  He began his story meaning to tell everything just as it happened, but
+  imperceptibly, involuntarily, and inevitably he lapsed into falsehood.
+  If he had told the truth to his hearers -- who like himself had often heard
+  stories of attacks and had formed a definite idea of what an attack was and
+  were expecting to hear just such a story -- they would either not have
+  believed him or, still worse, would have thought that Rostov was himself to
+  blame since what generally happens to narrators of cavalry attacks had not
+  happened to him.  He could not tell them simply that every one went at a trot,
+  and that he fell off his horse and sprained his arm and then ran as hard as
+  he could from a Frenchman into the wood.  Besides, to tell everything as it
+  really happened it would have been necessary to make an effort of will to
+  tell only what happened.  It is very difficult to tell the truth, and young
+  people are rarely capable of it.  His hearers expected a story of how beside
+  himself and all aflame from excitement, he had flown like a storm at the
+  square, cut himself in, slashed right and left, how his sabre had tasted
+  flesh, and he had fallen exhausted, and so on.  And so he told them all
+  that."
+
+28 Dec 2020  <a name="28-Dec-2020"></a>
+
+- *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), (no link):
+
+  *Introduction* p. 1:
+
+  "Words are witnesses which often speak louder than documents.  Let us consider
+  a few English words which were invented, or gained their modern meanings,
+  substantially in the sixty years with which this volume deals. They are such
+  words as 'industry', 'industrial', 'factory', 'middle class', 'working class',
+  'capitalism' and 'socialism'.  They include 'aristocracy' as well as 'railway',
+  'liberal' and 'conservative' as political terms, 'nationality, 'scientist' and
+  'engineer', 'proletariat' and (economic) 'crisis'.  'Utilitarian' and
+  'statistics', 'sociology' and several other names of modern sciences,
+  'journalism' and 'ideology', are all coinages or adaptations of this period.
+  So is 'strike' and 'pauperism'.
+
+  To imagine the modern world without these words (i.e. without the things and
+  concepts for which they provide names) is to measure the profundity of the
+  revolution which broke out between 1789 and 1848 (the French Revolution of
+  1789 and the contemporaneous (British) Industrial Revolution) ..."
+
+  Chapter 2, *The Industrial Revolution*, p. 27 - 29, 36, 38, 41, 46, 48:
+
+  - *From this foul drain the greatest stream of human industry flows out to
+    fertilize the whole world.  From this filthy sewer pure gold flows.
+    Here humanity attains its most complete development and its most brutish,
+    here civilization works its miracles and civilized man is turned almost
+    into a savage.* - A. de Toqueville on Manchester in 1835.
+
+  Let us begin with the industrial revolution. ... some time in the 1780s,
+  and for the first time in human history, the shackles were taken off the
+  productive power of human societies, which henceforth became capable of
+  the constant, rapid and up to the present limitless multiplication of
+  men, goods, and services. ... By any reckoning this was probably the
+  most important event in world  history, at any rate since the invention
+  of agriculture and cities. ...
+
+  ... The expansion of industry produced fantastic rates of profit.
+  'It was not five per cent or ten per cent', a later English politician
+  was to say, with justice, 'but hundreds per cent and thousands per cent
+  that made the fortunes of Lancashire.' ...
+
+  Its most serious consequences were social.  The transition to the new
+  economy created misery and discontent. ... (Wages) could be compressed
+  by direct wage-cutting, by the substitution of cheaper machine-tenders
+  for dearer skilled workers, and by the competition of the machine.
+  ... And indeed money wages fell steadily ... But there was a physiological
+  limit to such reductions, unless the laborers were actually to starve,
+  as of course the 500,000 handloom weavers did. ... Virtually untaxed,
+  the middle classes continued to accumulate among the hungry populace,
+  whose hunger was the counterpart to their accumulation.  ...
+
+  In terms of economic productivity this social transformation was an
+  immense success, in terms of human suffering, a tragedy ..."
+
+  Chapter 10, *The Career Open to Talent*, p. 185 - 186, 189, 198:
+
+  "... the iron plough of industrialization multiplied its hardfaced crops of
+  businessmen under the rainy clouds of the North.  ... The new men from
+  the provinces were a formidable army ... organized against both
+  proletariat and landlords. ... They were self-made men, or at least
+  men of modest origins who owed little to birth, family or formal
+  higher education ... They were rich and getting richer by the year.
+  They were above all imbued with the ferocious and dynamic self-confidence
+  of those whose careers prove to them that divine providence, science and
+  history have combined to present the earth to them on a platter.
+
+  The crucial achievement of the two revolutions was thus that they
+  opened careers to talent, or at any rate to energy, shrewdness,
+  hard work and greed. ... how extraordinary were the opportunities,
+  how remote from the nineteenth century the static hierarchical ideal
+  of the past!
+
+  The massive contempt of the 'civilized' for the 'barbarians' (who
+  included the bulk of the laboring poor at home) rested on this feeling
+  of demonstrated superiority.  The middle-class world was freely open to
+  all.  Those who failed to enter its gates therefore demonstrated a lack
+  of personal intelligence, moral force or energy which automatically
+  condemned them; or at best a historical or racial heritage which must
+  permanently cripple them, or else they would have already made use of
+  their opportunities.  The period which culiminated about the middle of
+  the century was therefore one of unexampled callousness, not merely
+  because the poverty which surrounded middle class respectability was
+  so shocking that the native rich learned not to see it ... but because
+  the poor, like the outer barbarians, were talked of as if they were
+  not properly human at all. ..."
+
+  Chapter 13, *Ideology: Secular*, p. 234 - 245:
+
+  "Here we shall concentrate on ... the nature of society and the way it
+  was going or ought to go. ... On this question there were two major
+  divisions of opinion: ... those who believed in progress and the others.
+  (The first group believed in) the triumphant, rationalist, humanist
+  'Enlightenment' of the eighteenth century.  Its champions believed
+  firmly (and correctly) that human history was an ascent ... On these
+  points bourgeois liberals and revolutionary proletarian socialists were
+  at one.
+
+  ... It was a narrow, lucid, and sharp-edged philosophy ... It was rigorously
+  rationalist and secular ... convinced of the ability of men in principle to
+  understand all and solve all questions by the use of reason ...
+
+  In brief, for classical liberalism, the human world consisted of
+  self-contained individual atoms with certain built-in passions and drives,
+  each seeking above all to maximize his satisfactions and minimize his
+  dissatisfactions, equal in this to all others, and 'naturally' recognizing
+  no limits or rights of interference with his urges. ... In the course
+  of pursuing this self-interest, each individual in this anarchy of equal
+  competitors, found it advantageous or unavoidable to enter into certain
+  relations with other individuals, and this complex of useful relationships
+  ... constituted society and social or political groups. ... Social aims
+  were therefore the arithmetical sum of individual aims.  Happiness ... was
+  each individual's supreme object; the greatest happiness of the greatest
+  number, was plainly the aim of society.
+
+  In fact, pure *utilitarianism*, which franky reduced *all* human relations
+  entirely to the pattern just sketched, was confined to very tactless
+  philosophers like the great Thomas Hobbes in the seventeenth century or
+  very confident champions of the middle class like ... Jeremy Bentham
+  (1748-1832), James Mill (1773-1836), and above all the classic political
+  economists. ... Benthamites themselves championed bureaucratic state
+  management when they thought it secured the greatest happiness of the
+  greatest number ... Consequently those seeking to safeguard private
+  property, enterprise and individual freedom often preferred to give it
+  the metphysical sanction of a 'natural right' rather than the vulnerable
+  one of 'utility'.  Moreover, a philosophy which so completely eliminated
+  morality and duty by reducing them to rational calculation, might well
+  weaken that sense of the eternal fitness of things among the ignorant
+  poor on which social stability rested.
+
+  Utilitarianism, for reasons such as these, therefore never monopolized
+  middle class liberal ideology.  It provided the sharpest radical axes
+  with which to chop down traditional institutions ... But it was strong
+  enough neither to inspire a revolution nor to safeguard against one ...
+
+  In its political thought classical liberalism thus swerved from the
+  daring and rigour which made it so powerful a revolutionary force. In
+  its economic thought, however, it was less inhibited. ... Consequently
+  classical political economy forms the most impressive intellectual
+  monument to liberal ideology.  ... The publication of Adam Smith's
+  (1723-90) *Wealth of Nations* in 1776 marks its beginning, that of David
+  Ricardo's *Principles of Political Economy* in 1817 its peak ...
+
+  The social argument of Adam Smith's political economy was both elegant
+  and comforting.  It is true that humanity consisted essentially of
+  sovereign individuals ... pursuing their self-interest in competition
+  with one another.   But it could be shown that these activities ...
+  produced ... the most rapid possible increase in 'the wealth of nations',
+  i.e. the comfort and wellbeing, and therefore the happiness, of all men.
+  The basis of this natural order was the social division of labour.  It
+  could be scientifically *proved* that the existence of a class of
+  capitalists owning the means of production benefited all, including the
+  class of labourers ... Morever, the economically very unequal society which
+  resulted inevitably from the operations of human nature, was not
+  incompatible with the natural equality of all men or with justice. ...
+
+  The power of this Panglossian view ... began to falter ... because the
+  actual economic and social results of capitalism proved to be less
+  happy than forecast. ... Naturally it might still be held that the misery
+  of the poor who were condemned to linger on the verge of starvation ...
+  still constituted the greatest happiness of the greatest number, which
+  merely happened to be much less than one might have hoped.  But such
+  facts ... damped optimism and stimulated critical enquiry, especially
+  into *distribution* as against *production*, which had chiefly preoccupied
+  the generation of Smith.
+
+  In politics ... the liberal ideology was neither as coherent nor as
+  consistent.  ... For if the government really were popular, and the
+  majority really ruled (i.e. if minority interests were sacrificed to it
+  ...) could the actual majority -- 'the most numerous and poorest
+  classes' -- be  relied upon to safeguard freedom and to carry out ...
+  the programme of middle class liberals?
+
+  The social discontents, revolutionary movements and socialist ideologies
+  of the post-Napoleonic period intensified the dilemma ... Liberalism and
+  democracy appeared to be adversaries rather than allies; the triple slogan
+  of the French Revolution, liberty, equality, fraternity to express a
+  contradiction rather than a combination. ...
+
+  While the liberal ideology thus lost its original confident swoop ...
+  a new ideology, socialism, reformulated the old eighteenth century
+  verities ... the very arguments of classical liberalism were turned
+  against the capitalist society which they had helped to build. ...
+  nothing was easier than to observe that the greatest happiness for the
+  greatest number, which was clearly not begin achieved, was that of the
+  labouring poor. ...
+
+  More to the point, classical political economy in its Ricardian form
+  could be turned against capitalism. ... If, as  political economy
+  argued, labour was the source of all value, then why did the bulk of its
+  producers live on the edge of destitution?  Because, as Ricardo showed
+  ... the capitalist appropriated in the form of profit the surplus which
+  the worker produced over and above what he received  in wages.  In fact,
+  the capitalist exploited the worker.   It only  remained to do without
+  capitalists and thus abolish exploitation. ...
+
+  So far the new socialists merely made their case by pushing the arguments
+  of classical Franco-British liberalism beyond the point where bourgeois
+  liberals were prepared to go. ... What distinguishes the various members
+  of the ideological family descended from humanism and the Enlightenment,
+  liberal, socialist, communist or anarchist, is not the gentle anarchy
+  which is the utopia of all of them, but the methods of achieving it.
+  At this point, however, socialism parted company with the classical
+  liberal tradition.
+
+  In the first place it broke radically with the liberal assumption that
+  society was a mere aggregate or combination of individual atoms, and that
+  their motive force was their self-interest and competition.  In doing so
+  the socialists returned to the oldest of all human ideological traditions,
+  the belief that man is naturally a communal being.  Men naturally live
+  together and help one another.  Society was not a necessary but regrettable
+  diminution of man's unlimited natural right to do as he liked, but the
+  setting of his life, happiness and individuality.  The Smithian idea that
+  the exchange of equivalents in the market somehow assured social justice,
+  struck them as either incomprehensible or immoral.  The bulk of the common
+  people held this view even when they could not express it. ...
+
+  In the second place socialism adopted a form of argument which, if not
+  outside the range of the classical liberal tradition, had not been greatly
+  stressed within it; the evolutionary and historical.  ... There was an
+  element of historic evolution in the classical rationalist case for the
+  good society; for an ideology of progress implies one of evolution ...
+  But it was not until Karl Marx (1818-83) transferred the centre of gravity
+  of the argument for socialism from its rationality or desirablity to its
+  historic inevitability that socialism acquired its most formidable
+  intellectual weapon ...
+
+  For Marx human society had inevitably broken primitive communism into
+  classes; inevitably evolved through a succession of class societies,
+  each in spite of its injustices in its time 'progressive', each
+  containing the 'internal contradictions' which at a certain point made
+  it an obstacle to further progress and generating the forces for its
+  supercession.  Capitalism was the last of these, and Marx, so far from
+  merely attacking it, used all his world-shaking eloquence to trumpet forth
+  its historic achievements.  But capitalism ... would plunge into a crisis
+  from which it could not emerge.  Capitalism, moreover, .. inevitably created
+  its own gravediggers, the proletariat whose numbers and discontent would
+  grow while the concentration of economic power in fewer and fewer hands
+  made it more vulnerable to overthrow.  Proletarian revolution must
+  therefore inevitably overthrow it. ..."
+
+  For more excerpts from *The Age of Revolution*, see at [18 Nov 2020](#18-Nov-2020), below.
+
+13 Jul 2021 (but it fits best here, after *The Age of Revolution*)  <a name="13-Jul-2021"></a>
+
+- Repression's Rewards by Bob Harris, review of *The Savage Storm:
+  Britain on the Brink in the Age of Napoleon* by David Andress in *TLS*,
+  May 17, 2013 p. 11 (no link):
+
+  "Andress argues that, domestically in this period, Britain was a
+  starkly divided society, afflicted by growing and intermittently intense
+  social, political and economic tensions. ... Only ruthless displays of
+  military and legal repression by the authorities kept the lid on these
+  pressures, and kept the threat of revolution simply a threat. ...
+  The Luddite disturbances of 1811-12 are discussed at some length ...
+  highlighting, again, the ruthless side of the British ruling elite,
+  and its willingness to disregard its own language of freedom, if this
+  stood in the way of stamping out any threat to its interests, imagined
+  or real."
+
+11 Jul 2021, 2 Jan 2022  <a name="11-Jul-2021"></a>
+   (but it fits best here, after *The Age of Revolution* and
+   *The Savage Storm*)
+
+- *What is History?* by E. H. Carr (1961), from Ch 3 *History, Science,
+  and Morality*, p. 80 -- 81 (no link):
+
+  "Let us take the story of the industrialization of Great Britain
+  between, say, about 1780 and 1870.  Virtually every historian will treat
+  the  industrial revolution, probably without discussion, as a great and
+  progressive achievement.  He will also describe the driving of the
+  peasantry off the land, the herding of workers into unhealthy factories
+  and unsanitary dwellings, the exploitation of child labor.  He will
+  probably say that abuses occurred in the working of the system, and that
+  some employers were more ruthless than others, and will dwell with some
+  unction on the gradual growth of a humanitarian conscience once the
+  system had become established.  But he will assume, again probably
+  without saying it, that measures of coercian and exploitation, at any
+  rate in the first stages, were an unavoidable part of the cost of
+  industrialization. Nor have I ever heard of a historian who said that,
+  in view of the cost, it would have been better to stay the hand of
+  progress and not industrialize; if any such exists, he ... will -- quite
+  properly -- not be taken  seriously by serious historians. ...
+
+  Unfortunately it was not (the ones who suffered) who have survived
+  to enjoy whatever glory or profit may have accrued ...  Those who pay the
+  cost are rarely those who reap the benefits. ...
+
+  We are born into society, we are born into history.  No moment occurs
+  when we are offered a ticket of admission with the option to accept or
+  reject it. The historian has no more conclusive answer than the
+  theologian to the  problem of suffering.  He, too, falls back on the
+  thesis of the lesser  evil and the greater good."
+
+  Chapter 2, *Society and the Individual*, p. 35 - 36, 43 - 44 and Chapter 3
+  *History, Science, and Morality*, p. 83 - 84 (no link):
+
+  "We sometimes speak of history as a 'moving procession'.  The metaphor
+  is fair enough, provided it does not tempt the historian to think of
+  himself as an eagle surveying the scene from a lonely crag, or a V.I.P.
+  at the saluting base.  Nothing of the kind!  The historian is just another
+  dim figure trudging along in another part of the procession. ... The
+  thought of historians, as of other human beings, is moulded by the
+  environment of the time and place. ...
+
+  But the only point I wish to make at the moment is the impossibility of
+  erecting an abstract and super-historical standard by which historical
+  actions can be judged. ... whether that standard derives from some
+  divine authority postulated by theologians, or from a static Reason or
+  Nature postulated by the philosophers of the Enlightenment. ... (The
+  error of doing that is not due to) defects in the standard itself. It is
+  that the attempt to erect such a standard is unhistorical and
+  contradicts the very essence of history.  It provides a dogmatic answer
+  to questions which the historian is bound by his vocation incessantly to
+  ask. ... Moreover, when we examine these supposedly absolute and extra-
+  historical values, we find that they too are rooted to history. ... The
+  beliefs which we hold and the standards of judgment which we set up are
+  part of history, and are as much subject to historical investigation as
+  any other aspect of human behavior. ..."
+
+  Chapter 2, *Society and the Individual*, p. 42 - 43 and Chapter 4
+  *Causation in History* p. 99 - 108 (no link):
+
+  "In nineteenth century, British historians with scarcely an exception
+  regarded the course of history as a demonstration of the principle of
+  progress ... History was full of meaning for British historians, as long
+  as it was going our way; now that is has taken a wrong turning, belief
+  in the meaning of history has become a heresy. ... British historians
+  have for the most part been content to throw in their hands and declare
+  that there is no general pattern to history at all. ... There is no more
+  significant pointer to the character of a society than the kind of history
+  it writes or fails to write. ...
+
+  We may pause here for a moment to notice the origin of this recent
+  widespread insistence on the role of chance in history.  ... Gibbon was
+  quick to unmask the reason.  'The Greeks', observed Gibbon, 'after their
+  country had been reduced to a province, imputed the triumphs of Rome not
+  to the merit, but to the fortune, of the republic.' ... (Now there is)
+  the rise in France of a school of philosophers who preach that existence
+  -- I quote Sartre -- 'has neither cause nor reason nor necessity.'  In
+  Germany, the veteran historian Meinecke ... after the Second World War
+  attributed the national disasters of the past forty years to a series of
+  accidents -- the bankruptcy of a great historian's mind under the
+  stress of the misfortunes of his country.  In a group or a  nation which
+  is riding in the trough, not on the crest, of historical  events,
+  theories that stress the role of chance or accident in history will be
+  found to prevail. ...
+
+  The role of accident in history is nowadays seriously exaggerated ...
+  To describe something as a mischance is a favourite way of exempting
+  oneself from the tiresome obligation to investigate its cause; and,
+  when someone tells me history is a chapter of accidents, I tend to suspect
+  him of intellectual laziness or low intellectual vitality.  It is common
+  practice with serious historians to point out that something hitherto
+  treated as accidental was not an accident at all, but can be rationally
+  explained and significantly fitted into the broader pattern of events. ...
+
+  History is a process of selection in terms of historical significance.
+  Just as from the infinite ocean of facts the historian selects those
+  which are significant for his purpose, so from the multiplicity of
+  sequences of cause and effect he extracts those, and only those, which
+  are historically significant; and the standard of historical significance
+  is his ability to fit them into his pattern of rational explanation
+  and interpretation.  Other sequences of cause and effect have to be rejected
+  as accidental ... because the sequence itself is irrelevant.  The historian
+  can do nothing with it; it is not amenable to rational interpretation,
+  and has no meaning either for the past or the present.
+
+  The shape of Cleopatra's nose, Bajazet's attack of gout, the monkey bite
+  that killed King Alexander, the (unexpectedly early) death of Lenin --
+  these were accidents that modified the course of history.  It is futile to
+  attempt to spirit them away, or to pretend that in some way or other they
+  had no effect.  On the other hand ... they do not enter into any rational
+  interpretation of history, or into the historian's heirarchy of significant
+  causes.  ... it makes no sense as a general proposition to say that
+  generals lose battles because they are infatuated with beautiful queens,
+  or that wars occur because kings keep pet monkeys ... Accidental causes
+  cannot be generalized; and, since they are ... unique, they teach no
+  lessons and lead to no conclusions.
+
+  It is precisely this notion of an end in view that provides the key to
+  our treatment of causation in history; and this necessariy involves
+  value judgments.  Interpretation in history is always bound up with value
+  judgments, and causality is bound up with interpretation. ... This recalls
+  the dual and reciprocal function of history -- to promote our understanding
+  of the past in the light of the present and of the present in the light of
+  the past.  Anything which, like Antony's infatuation with Cleopatra's nose,
+  fails to contribute to this dual purpose is from the point of view of
+  the historian dead and barren."
+
+  Chapter 4, *Causation as History*, p. 108 (no link):
+
+  I have hitherto consistently used the conventional phrase 'past and
+  present'.  But, as we all know, the present has no more than a notional
+  existence as an imaginary dividing line between the past and the future.
+  In speaking of the present, I have already smuggled another time dimension
+  into the argument.  ... since past and future are part of the same
+  time-span, interest in the past and interest in the future are
+  interconnected. ... Good historians, I suspect, ... have the future in
+  their bones.  Besides the question 'Why?' the historian also asks the
+  question 'Whither?'
+
+  Chapter 5, *History as Progress*, p. 125, 121, 124-125 (no link):
+
+  For the past 200 years historians have not only assumed a direction in
+  which history is moving, but have consciously or unconsciously  believed
+  that the direction on the whole was the right direction, that mankind
+  was moving from the worse to the better, from the lower to the higher.
+  ... For 200 years it could have been described without much exaggeration
+  as the accepted and implicit answer to the question  'What is history?'
+  The reaction against it has come with the current mood of apprehension
+  and pessimism, which has left the field clear for theologians who seek
+  the meaning of history outside history, and for the skeptics who find no
+  meaning in history at all. ...
+
+  Modern historiography has grown up over the past two centuries in this
+  ... belief in progress, and cannot survive without it, since it is this
+  belief which provides it with its standard of significance, its touchstone
+  for distinguishing the real from the accidental. ...
+  It is this sense of direction in history which alone enables us to order
+  and interpret the events of the past ...
+
+  Nobody is obliged to believe either in the future of history or the
+  future of society.   It is possible that our society may be destroyed or
+  may perish from slow decay, and that history may relapse into  theology
+  -- that is to say, a study not of human achievement, but of divine
+  purpose -- or into literature -- that is to say, a telling of stories
+  and legends without purpose or significance.  But this will not be
+  history in the sense in which we have known it in the last 200 years."
+
+ 4 Jan 2022  <a name="4-Jan-2022"></a>
+
+- <https://news.ycombinator.com/item?id=25939161> -
+  Comments on Let's Not Dumb Down the History of Computer Science
+
+  *dkarl* writes: "People don't want to look back ... because we want to
+  believe ... we only have to embrace the obvious ... (and) the future will
+  bring nothing more than a higher perfection of the ideas we embrace now.
+
+  It's intellectual millennialism. We want to think that the new ideas we
+  receive at the beginning of our career are the final piece of the
+  puzzle, that there's no point in generations beyond us. Our ideas give
+  us special powers to accomplish things that no previous generation could
+  accomplish, and no subsequent generation will accomplish much more, or
+  the same things much easier, than we did. We are standing at the end of
+  history. We are the generation that left the desert and entered the
+  promised land.
+
+  History upsets all that. History teaches us that the future will stand
+  in relation to us as we stand in relation to the past, whereas we want
+  to believe that we are equals with the future and superior to the past."
+
+  This was a comment about people who don't see value in learning the
+  history of computing, but it goes for history in general.   I put this
+  entry here, not at the top of the page in date order, because it
+  complements the excerpts from  Hobsbawm, Carr, and other historians.
+
+18 Dec 2020  <a name="18-Dec-2020"></a>
+
+- *Going To Extremes* by Joe McGinnis (1980), p. 222 (no link):
+
+  "You know," John Seiberling said, "one man's freedom is the freedom to
+  mess up another man's freedom.  And the only way you can protect and
+  have a rational society is to put some rules down ..."
+
+  John Seiberling, congressman from Ohio, in hearings in Anchorage on an
+  Alaska wilderness preservation bill.
+
+- *The Best Minds of My Generation: A Literary History of the Beats* by Allen
+  Ginserg, edited by Bill Morgan.  Grove Press, NY. 2017. p. 245-246 (no link):
+
+  "There are moments of intimacy between men and women and men and men,
+  soul to soul.  ...  It is not well known and not much written about
+  except in Whitman, but I think it is probably universal.
+
+  It's a staple of the American character, but it isn't very often
+  presented.  Whitman thought it was the salvation of the nation and that
+  unless the nation were made up of comrades democracy couldn't work.  A
+  bunch of macho competitors all hating each other, or indifferent to each
+  other, or scared of each other emotionally, would leave no possibility
+  of a cooperative, democratic, functioning political system.   Only with
+  basic friendliness would it be possible for a nation to create a
+  political world that was livable. ..."
+
+- Lord of Misrule by Rory Stewart, review of *Boris Johnson: The Gambler*
+  by Tom Bower in *TLS*, Nov 6 2020, p. 4-5 (no link):
+
+  "(Bower) minimizes Johnson's misdemeanors -- not by omitting them, but rather
+  by listing so many that they lose their power to shock. ... Bower concludes
+  therefore, that those who criticize him -- as I am about to do -- are
+  narrow-minded, prudish, inadequate, or envious.
+
+  Johnson is after all the most accomplished liar in public life --
+  perhaps the best liar ever to serve as prime minister.  ...  This lack
+  of moral conviction is not a secret.  Rather than fooling everyone, he
+  has in a sense never fooled anyone.  Siblings, parents, teachers,
+  bosses, subordinates, colleagues and friends have always seen through
+  him. ...
+
+  And the public are fully aware of this.  Nevertheless, millions voted for him
+  to be prime minister -- some with great enthusiasm.  Is this because many
+  assume that no politician could actually be diligent, competent or sincerely
+  dedicated to public service?  And that if someone -- a Theresa May or Keir
+  Starmer, for examples -- claims to be one of these things, they must be
+  deceiving us?  Johnson believes so, and this frames his political approach.
+  ... he explains, "(It is) all about understanding that basically people regard
+  politicians as a bunch of shysters." ...
+
+  Why is this so particularly appealing?  Is it that voters want him to confirm
+  their distrust of all elites and high-minded stories?  Or to vaidate some
+  conviction that there can be no true moral or political purpose, no sincere
+  vision of self or country? ...
+
+  Johnson may have a bust of Pericles on his desk.  But he is not, as he pretends,
+  a man suffering from akrasia -- someone who struggles, with shame, to live up
+  to the ideals of a complex classical civilization.  Rather, he is an amoral
+  figure operating in a much bleaker and coarser culture.  And it is in his
+  interest -- and that of other similar politicians around the world -- to
+  make that culture ever coarser. ..."
+
+28 Nov 2020  <a name="28-Nov-2020"></a>
+
+- *Let's Talk About Love: A Journey to the End of Taste* by Carl Wilson
+  (2007), p. 122, 123 (no link):
+
+  "For a century or more, sentimentality has been the cardinal aesthetic
+  sin. ... To be  sentimental is to be kitsch, phony, exaggerated,
+  manipulative, self-indulgent, hypocritical, cheap and cliched. ...  As
+  kitsch, (sentimentality) is likened to Nazi or Stalinist propaganda by
+  (many prominent critics).  The German novelist Hermann Broch (1886-1951,
+  refugee from the Nazis) wrote,
+
+  - "The producer of kitsch does not produce 'bad' art ... It is quite
+    impossible to assess him according to aesthetic criteria; rather he should
+    be judged as an ethically base being, a malefactor who profoundly
+    desires evil."
+
+  "Is the problem that kitsch sentimentality ... takes everyday
+  hopes and affections and inflates them into life-or-death melodramas?
+  Consider Zen scholar R. H. Blyth's elegant definition,
+
+  - "We are being sentimental when we give to a thing more tenderness than
+    God gives to it."
+
+  ... If I believed in God, I might imagine this is what He created humans
+  for, to give things more tenderness than He granted them, amid nature's
+  unblinking harshness and the cruelty of fate ..."
+
+22 Nov 2020  <a name="22-Nov-2020"></a>
+
+- Oh Brother: An Interview with David Eggers by Kevin Sampsell in
+  *The Stranger* (Seattle alt weekly), Feb 17 2000, p. 29 - 31 (no link):
+
+  "Hatred of writers: odd concept. ... What makes us so angry towards these
+  people?  Completing books is so arduous and bewildering and near-impossible
+  that I have to say that when you complete a book yourself, your respect for
+  anyone who has also reached the end of the mine-riddled trek increases
+  exponentially.
+
+  There was a time, at *Might* (Eggers' magazine) when we hated a lot of
+  people, and scorned this writer and that actor and those bands because
+  the products of their labors didn't appeal to us.  But the problem wasn't
+  so much that these people were incredible frauds, or evil-born, or
+  deserved to be run out of their chosen media, but that we, the critics,
+  were bitter. ... But really, in the end, anger towards any creator or product
+  of creativity says a good deal more about the angry person than it does
+  about the creator of the work, or the work itself.
+
+  Did Ethan Hawke (the movie actor), for example, write a good book when
+  he wrote *The Hottest State*?  He did.  First of all, he did write it,
+  and he did complete it, and it makes sense, and has a beginning and a
+  middle and an end.  All impressive feats.  And it was his first book.
+  Surely we have the right not to like the book, but only the dark-hearted
+  or confused will dismiss it out of hand, or resent him for doing it."
+
+20 Nov 2020  <a name="20-Nov-2020"></a>
+
+- A Reader Responds to Workshops from Hell by Belle Randall in *Wordscape*
+  (short-lived Seattle literary magazine) October 1999, p. 6 (no link):
+
+  "Regarding ... a UW class in which a student reading aloud a Grace Paley
+  poem was overcome with tears only to meet with David Wagoner's "Grace
+  Paley wasn't a very good poet" -- the story is told as if Wagoner's error
+  was self-evident.  ... The students remain firm in the conviction that
+  raw emotion is the stuff of poetry -- or at least the stuff that poetry
+  is trying to get *at*; it is privileged even *above* poetry in their minds
+  and deserves to be treated with more compassion than this.
+
+  But *isn't* there something bullying in claiming to be too moved by a
+  poem to tolerate criticism?  ... To treat her as if she were an
+  overwrought girl who must be allowed her misconceptions ... would be
+  *less* respectful than to continue to give her an accurate report in
+  matters of poetry, which is what Wagoner does.  This is his job.
+
+  (This incident) demonstrates the clarity with which Wagoner sees badness in
+  poetry as an observable fact, like the poem's shape on the page, whereas
+  the students, confused on this point, consider it to be subjective."
+
+- Tones of Day by Philip French, review of *Film and Attraction* by Andre
+  Guadreault and two other books in *TLS*, Nov 25 2011, p. 22-23 (no link).
+  This from another critic, Roger Odin, quoted in Gaudreault's book:
+
+  "... teaching cinema has come to mean shaping students' tastes.  ...
+  But universities and criticism are two different things.  If critics want
+  to try to get people to share their tastes, fine.  But teaching taste
+  at university?  ... We can accept that university professors place
+  themselves above students in terms of skills, but in terms of taste?
+  By what right?"
+
+- Untitled review by Simon Coppick of *No Particular Place To Go* by Hugo
+  Williams in *TLS*, Oct 18 2002, In Brief page (no link):
+
+  "Asked at one reading if he considers himself a craftsman, Williams
+  replies that writing a poem is "more like gambling than carpentry.
+  You keep thinking you're just about to hit on the winning system,
+  the right system of mistakes." ..."
+
+19 Nov 2020  <a name="19-Nov-2020"></a>
+
+- <https://news.ycombinator.com/item?id=25093230> - 
+  What is your best native song that is unknown due to language barrier?
+
+  "Sometimes I wished more people could know some of my amazing childhood
+  songs which are unknown due to the language they are sang at and the
+  country in which they became popular. I wonder are there songs like that
+  in your country. Here are some of my personal favorites: ...
+  (three links to recordings on YouTube)"
+
+  Then follow 45 responses about many different languages, most with
+  several more links.
+
+- I'm Glad You Asked That Question by Lindsay Duguid, review of
+  *Dialogues* by Naim Attallah in *TLS*, Dec 8 2000, p. 31 (no link):
+
+  "... Only a few of the sixteen people interviewed make any
+  conversational effort or try to be sharp or amusing ... there is little
+  sense of personality or of an actual life lived and relished ...
+
+  Reading the whole book has a depressing effect.  Very soon you realize
+  that it is possible to be well educated, well connected, articulate,
+  distinguished, to have led an interesting life, and still be a bore."
+
+18 Nov 2020, also 22 Dec 2020  <a name="18-Nov-2020"></a>
+
+- Making A Figure by Daniel Hitchens, review of three books about Edmund
+  Burke in *TLS*, May 24 2013, p. 7 (no link):
+
+  "... (Burke's) masterpiece *Reflections on the Revolution in France*
+  (1790), has been celebrated for its somber premonitions of the decade
+  after the fall of the Bastille. ... Burke predicted executions, social
+  chaos, terrifying inhumanity, and the eventual rise of a figure who sounds
+  remarkably like Napoleon.
+
+  To a social conservative, the lesson is clear: Burke has percieved that if
+  you sweep away existing hierarchies, ignore custom and ceremony, despise
+  orthodox religion, and show no respect for the traditions you have received,
+  then you will leave nothing but the will to power, which all these things
+  were meant to mediate, and which can now only be reined in by despotism.
+
+  One standard response is: but what if the revolution degenerated not
+  thanks to some inner logic of violence, but because of massive political
+  and military hostility from the rest of Europe?  And what if that hostility
+  was whipped up in no small part by the author of the internationally
+  bestselling *Reflections on the Revolution in France*?  You do not need
+  to take sides to see what a tangled issue it soon becomes."
+
+- *The Age of Revolution 1789 - 1848* by Eric Hobsbawm (1962), p. 91-92,
+  268 (no link):
+
+  "It was now known that revolution in a single country could be a
+  European phenomenon; that its doctrines could spread across frontiers,
+  and, what was worse, its crusading armies could blow away the political
+  systems of a  continent.  It was now known that social revolution was
+  possible; that nations existed as something independent of states,
+  peoples as something independent of their rulers, and even that the poor
+  existed as something independent of the ruling classes. The French
+  Revolution ... was a universal event.  No country was immune from it.
+  ... as the governments knew, and as the peoples themselves were soon to
+  know also. A Greek bandit and patriot expressed their feelings
+  completely:
+
+  - 'According to my judgment', said Kolokotrones, 'the French Revolution and the
+    doings of Napoleon opened the eyes of the world.  The nations knew nothing
+    before, and the people thought that kings were gods upon the earth and that
+    they were bound to say that whatever they did was well done.  Through the
+    present change it is more difficult to rule the people.'
+
+  "By the later years of the Napoleonic wars new generations of young men began
+  to grow up for whom the great liberating flame of the Revolution was visible
+  across the years, the ashes of its excesses and corruptions having dropped out
+  of sight ... And as Europe advanced year by year more deeply into the low
+  featureless plains of reaction, censorship and mediocrity and the pestilential
+  swamps of poverty, unhappiness and oppression, the image of the revolution
+  became ever more luminous."
+
+- Backwards Into The Future by David Hawkes, review of *The Silence of Animals:
+  On Progress and Other Modern Myths* by John Gray in *TLS*, Aug 30 2013, p. 7
+  (no link):
+
+  "*The Silence of Animals* continues (Gray's) extended critique of
+  "meliorism": the belief that the moral and material condition of
+  humanity will improve over time ...  Gray notes that this myth is far
+  more fundamental,  consistent, and tenacious than its seminal
+  manifestation in the salvation and apocalyptic myths of Christianity.
+  In the guises of Enlightenment rationalism, Romantic individualism,
+  liberal humanism, nationalism, Marxism and neo-liberal capitalism, the
+  spectre of progress continues to haunt an ostensibly secularized
+  humanity ...
+
+  To lose faith in progress is to lose the ability to see meaning in life.
+  It is to abandon the notion, central to rationalism and religion alike,
+  that empirical appearances conceal substantial essences. ... It assumes
+  ... that signs do not refer to an external reality, but create their own
+  referents.  To lose faith in progress is to view the world as a
+  depthless simulacrum with no  underlying significance.
+
+  ... If we no longer see essence beneath appearance, referent behind sign,
+  or subject behind object, that must reflect a development in human history,
+  not the discovery on an eternal verity about the world.  The world can only
+  have meaning conferred upon it, or be deprived of it, by human beings.
+
+  There is surely no great difficulty in tracing the power of symbols to
+  its source today, when the spiraling abstractions of finance bestow
+  uprecedented practical power on ... signs.  Gray never considers that it
+  may be the performative power of ... fictional financial figures, that has
+  stopped people from perceiving meaning behind the signs of history.  He
+  has little to say about the influence of money on the mind, which is an
+  eloquent  absence from any twenty-first century philosophy with
+  aspirations to social relevance.
+
+  ... History happens, and change takes place, whether or not we choose to
+  give it meaning.  ... If the Western intelligentsia no longer acknowledges
+  any significance to life, that does not mean that we have discovered a
+  timeless truth that had been hidden from Aristotle, Plato, and the
+  prophets of monotheism.  It means that we can no longer see meaning where
+  others once did."
+
+
+- Texts For Our Times by David Hawkes, review of *Fiction Sets You Free:
+  Literature, Liberty, and Western Culture* by Russell A. Berman in *TLS*
+  Oct 24 2008, p 24-25 (no link):
+
+  "It is paradoxical for an advocate of the Western cultural tradition
+  to laud market capitalism. ... There have been many societies in which
+  large numbers of people dedicated their lives to the pursuit of economic
+  self-interest through the market.   But there have been no societies in
+  which the pursuit of economic self-interest through the market was held to
+  be an admirable way to spend one's life.  Our society is unique in having
+  produced that philosophy.  One of the reasons to read the literature of the
+  past is to learn how anomalous our society is in its self-interested
+  single-mindedness. ..."
+
+17 Nov 2020  <a name="17-Nov-2020"></a>
+
+- Presence in the Past by Michael Bentley, review of *History Man: The Life of
+  R. G. Collingwood* in *TLS* Sep 25 2009, p. 18 (no link):
+
+  "The stories of thinkers are normally short because they tend not to do
+  very much.  R. G. Collingwood's is soon told, at one level. ...
+
+  That is one, "public", story.  But Inglis wants to place alongside it a
+  second that illuminates the private person, and also supplies what he
+  considers a key to the life of the mind ... in which philosophy, art,
+  and mind commingled.  No matter how "technical" or "abstract" the thought
+  might become in Collingwood's philosophical writing, it has its basis for
+  Inglis in a longing to communicate a connected vision.
+
+  However, because Collingwood was a philosopher and because Inglis isn't,
+  there are bound to be problems at those points where technical philosophical
+  knowledge, and an understanding of its apparatus criticus, are necessary for
+  clear exposition.
+
+  The feeling recurs that Inglis, elsewhere a tough-minded man, does not
+  get going when the going gets tough.  Rather, he reassures the reader
+  that the tough parts of the texts are needlessly technical, too abstract
+  by half. ... But wherever they sail, whomever they love and be they
+  surrounded by never so many bees, what philosophers do is philosophize
+  and when writing about them one has to analyze the philosophy.  What
+  Inglis does at critical moments is to uncomplicate it when the
+  complication is, to use an Inglis word,  constitutive. ..."
+
+- What Philosophers Should Do, review by Edouard Machery of two philosophy
+  books by a single author in *TLS*, June 21 2013, p. 8 (no link):
+
+  "Philosophy is not work, says (the author) in (the first book): it is
+  intrinsically valuable, and it is a form of play.  Reading (the first book)
+  and (even more so) (the second book) did not feel like playing at all.
+  It felt more like work, in fact. ..."
+
+- I'm Not Myself by Charlie Huenemann, review of *The Ego Trick: What Does It
+  Mean To Be You?* by Julian Baggini in *TLS*, Oct 21 2011, p. 25 (no link):
+
+  "There is no shortage of philosophers, from antiquity to today, arguing
+  for this view of the self as an illusion sponsored by a dynamic bundle of
+  elements.  But Baggini's book is set apart by ... his interest in thinking
+  through the practical consequences.  For it is one thing to say, "The self
+  is an illusion", and quite another to confess, "I am an illusion". ..."
+
+13 Nov 2020  <a name="13-Nov-2020"></a>
+
+- <https://sites.lsa.umich.edu/gordonkane/wp-content/uploads/sites/117/2014/07/THE-FUTURE-OF-THE-University.pdf> - 
+  The Future of The/Our Research University by Gordon Kane (1999):
+
+  "Four centuries ago no aspect of the natural world was understood. Today
+  we know that the natural universe is governed by a few very general laws
+  of nature that we can understand, that lightning and earth-quakes are
+  not punishment for our sins, that the sun will rise tomorrow whether we
+  pray for it to rise or not, that inanimate objects and the stars are
+  made of the same atoms we are, that the laws of nature are the same
+  throughout the observed universe, that all we can see is made of just
+  three elementary particles, that everything that happens in the natural
+  world is a manifestation of one of the four forces (gravitational,
+  electromagnetic, weak, and strong), that the universe began as a hot gas of
+  particles about twelve billion years ago and has been expanding since,
+  that all living things on earth share the same genetic building blocks,
+  that life on earth began with simple self-replicating forms and evolved
+  to the forms we see today, that diseases are caused by bacteria,
+  viruses, and breakdown of genes, that most life on earth occurs in
+  complicated ecosystems, that our landscape and mountains and oceans and
+  climate are steadily changing and have been for billions of years.
+
+  All these things we know have been learned using the method of science,
+  which is basically the effort to understand the natural world by making
+  informed guesses about how it works, and then testing these guesses by
+  observation and experiment, discarding what does not work.
+
+  All students should have a course in which they learn how science has
+  helped us understand the natural world and led us to the above knowledge
+  (and much more) ...  They need to know those things because many want
+  to, because every educated person should, because to be effective
+  citizens in the modern world an understanding of how science works and
+  the knowledge resulting from doing science are very helpful, and because
+  possessing scientific literacy is important for many people for their
+  careers ... Most important, all students should understand these things
+  because learning them has been one of the great achievements of humans."
+
+- <https://www.theparisreview.org/interviews/3605/the-art-of-fiction-no-64-kurt-vonnegut> -
+  Kurt Vonnegut, The Art of Fiction No. 64 in *The Paris Review* issue 69,
+  Spring 1977:
+
+  *Vonnegut*: ... All the great story lines are great practical jokes that
+  people fall for over and over again.
+
+  *Interviewer*: Can you give an example?
+
+  *Vonnegut*: The Gothic novel. Dozens of the things are published every
+  year, and they all sell. My friend Borden Deal recently wrote a Gothic
+  novel for the fun of it, and I asked him what the plot was, and he said,
+  A young woman takes a job in an old house and gets the pants scared off
+  her.
+
+  *Interviewer*: Some more examples?
+
+  *Vonnegut*: The others aren't that much fun to describe: somebody gets
+  into trouble, and then gets out again; somebody loses something and gets
+  it back; somebody is wronged and gets revenge; Cinderella; somebody hits
+  the skids and just goes down, down, down; people fall in love with each
+  other, and a lot of other people get in the way; a virtuous person is
+  falsely accused of sin; a sinful person is believed to be virtuous; a
+  person faces a challenge bravely, and succeeds or fails; a person lies,
+  a person steals, a person kills, a person commits fornication.
+
+  *Interviewer*: If you will pardon my saying so, these are very old-
+  fashioned plots.
+
+  *Vonnegut*: I guarantee you that no modern story scheme, even
+  plotlessness, will give a reader genuine satisfaction, unless one of
+  those old-fashioned plots is smuggled in somewhere. I don't praise plots
+  as accurate representations of life, but as ways to keep readers
+  reading.
+
+  When I used to teach creative writing, I would tell the students to make
+  their characters want something right away -- even if it's only a glass
+  of water. Characters paralyzed by the meaninglessness of modern life
+  still have to drink water from time to time. ... When you exclude plot,
+  when you exclude anyone's wanting anything, you exclude the reader, which
+  is a mean-spirited thing to do. ... And you can put him to sleep by
+  never having characters confront each other. ... It's the writers job to
+  stage confrontations, so the characters will say surprising and
+  revealing things, and educate and entertain us all. If a writer can't or
+  won't do that, he should withdraw from the trade."
+
+12 Nov 2020  <a name="12-Nov-2020"></a>
+
+- On Receiving the National Book Award for *JR* (1975) by William Gaddis,
+  in *The Rush for Second Place: Essays and Occasional Writings* (2002),
+  p. 122 (no link):
+
+  "... I feel like part of the vanishing breed that thinks a writer should
+  be read and not heard, let alone seen.  I think that this is because
+  there seems so often today to be a tendency to put the person in the
+  place of his or her work, to turn the creative artist into a performing
+  one, to find what a writer says about writing somehow more valid, or
+  more real, than the writing itself.
+
+  ... it seems to me the only way to keep writers writing well, or trying
+  to write well, is to read what we write."
+
+ 9 Nov 2020  <a name="9-Nov-2020"></a>
+
+- *As Of This Writing: Essential Essays 1968 - 2002* by Clive James (2003),
+  pages 95, 100 (no link):
+
+  "(This poet) proved, like the visitor to Brigadoon who wished the village
+  into existence on a day it was not scheduled to appear, that if you want
+  something deeply enough anything is possible.  What he wanted to be was
+  a great artist, and by the end of his career there were one or two really
+  great artists (certainly Auden) who were willing to concede that (he) was
+  of their company.
+
+  But just as often as they are right in such judgments, real artists are
+  wrong.  Like anybody else, they tend to admire sincerity, dedication,
+  industry, openness, intellectual generosity, a sense of fun -- and like
+  anybody else they have trouble, once they know him, in getting the man
+  who possesses these attributes separated from his work.  Which is as
+  far as I want to pontificate along this particular line, except to say
+  that it seems probable that in (his) case the general critical view has
+  followed the lead of his fellow poets, who simply liked him  ...
+
+  ... what is now needed is some healthy skepticism, even at the cost of
+  seeming harsh. ... here a sharp nose ought to smell pastiche. A straight
+  read through (his) *Collected Poems* should convince even the moderately
+  informed reader that (his) incipient individualism was  successively
+  broken down by a series of strong influences ... Estimations of (his)
+  poetry which do not confront this problem can't really be of  much use,
+  since the question of originality, if it arises at all, can  never be
+  peripheral: orginality is more than a requirement of good poetry, it is
+  a description of it. ...
+
+  ... (He) waited a long time to be accepted as a poet, and when he had been
+  could never accept that it had happened: he was always waiting for the
+  final reassurance -- a common trait in people uncertain of their work.
+  No amount of Pulitzers, or even Nobels, can satisfy a need like that."
+  -- *TLS, 1972*
+
+  *Postscript, 1992*:  "... these two pieces now look like a single dance
+  on a lonely grave.  Certainly the vocabulary was too harsh ...  and just
+  because he was dead was of course no good reason for speaking as if he
+  couldn't hear.  ...  If poetry and and the criticism of it had agreed
+  standards there would be less bitchery. ..."
+
+ 8 Nov 2020  <a name="8-Nov-2020"></a>
+
+- A Joke Too Far by Colin Burrow, review of *Sir John Harrington and the
+  Book as Gift* by Jason Scott-Warren, in *TLS* 22 Aug 2002, p. 10 - 11
+  (no link):
+
+  "... It is not clear why anyone whose prime aim in life is to get on
+  should ever make jokes; too ofen they misfire.  True, the best jokes
+  require a judgment about who they are intended for, and so call on a
+  politic canniness, but the chief characteristic of a really good joke
+  is that having made this judgment you then go a little beyond what you
+  know your audience expects.
+
+  ... But if Harrington was so sensitive to privy meanings, why did his
+  public career fail to take off? ... If Harrington's works were so
+  carefully placed and were intended to advance their author, why did he
+  never land a juicy job?
+
+  The traditional explanation for this would be that Harrington just could
+  not resist a joke, and with a post-theoretical tweak or two I think this
+  remains the best explanation.  Harrington's jokes try to build up a
+  persona of a man who could speak frankly, a 'plaine fellow' (as Harrington
+  describes himself) who could offer advice on how to clean up the privy
+  of Elizabethan politics with a blast of plain-speaking.  ... But his
+  jokes go so far beyond anything his audience would have been comfortable
+  hearing that one has to conclude he was exceptionally bad at judging
+  the tone of voice required to get on, or that in his writing and conduct
+  the need to get on was regularly overshadowed by a suplus of almost
+  uncontrollable mockery.
+
+  Harrington's humour never seems to have done him any good. ... while
+  Harrington may have tried to fashion a career for himself through the
+  giving of books and manuscripts, he was also a man who could not stop himself
+  from teasing people even if it was not in his interests.  This is one of
+  his most admirable features, and it is of a piece with what is good in the
+  things that we wrote.  But he would always press a joke too far.
+
+  The reason Harrington has struck so many biographers as a real person
+  one can identify with is ... he was a person (who like all real people
+  had both a sense of humor and a dog) whose desire for a joke at any cost
+  made him repeatedly break out from, and sometimes make a catastrophic mess
+  of, his desire to charge his works with worldly purposes.
+
+  And that's why ... I would still rather spend an evening with Sir John
+  Harington than with any other Elizabethan.  He was someone who would never
+  quite do what was expected of him, which is why he wrote poems about dogs
+  and mothers-in-law and composed Rabelasian prose fantasies about water closets
+  rather than ever getting a proper job.  Literature from this period is
+  chiefly a product of material failure, and is written by men (mostly) who
+  failed to get on. ... writers whose works fail to achieve the worldly purposes
+  they intended have a better chance of being fun to read now than the works
+  by people who wrote simply to get what they wanted from the world."
+
+- Signature on a post in the Usenet *sci.logic* newsgroup, Oct 1999:
+
+  *It is better to suffer wrong than to do it, and happier to be
+  sometimes cheated than not to trust.*  -- Samuel Johnson
+
+ 5 Nov 2020  <a name="5-Nov-2020"></a>
+
+- *Uncommon People: The Rise and Fall of the Rock Stars*, David
+  Hepworth (2017), pages 6, 2, 8 (no link):
+
+  Now, like the cowboy, the cavalier, the wandering minstrel, the
+  chorus girl, the burglar in the striped sweater, the top-hatted banker,
+  the painter with his beret, and the writer in his smoking jacket,  the
+  rock star must finally be consigned to the wardrobe of anachronistic
+  stereotypes. ... His power has been destroyed by the disappearance  of
+  the record industry, his magic fleeting before the twenty-four hour
+  daylight of social media.
+
+  Rock stars were the product of an age when music was hard to access
+  and was treasured accordingly.  ... Their products now compete on a
+  level playing field with everything from virtual reality games to
+  streaming movies.  What was once hard to find is now impossible to
+  escape.  Music no longer belongs to a category of otherness.  It is now
+  just another branch of the distraction business ...
+
+  Rock stars were uncommon people.  They came from the masses and got to
+  the top without the help of education, training, family ties, money, or
+  other conventional ladders.  They came from ordinary lives and had no
+  reason to expect that they would ever be special. At the same time they
+  refused to accept that they would ever be anything but exceptional.
+  Most surprising of all, a lot of them had careers that lasted far longer
+  than they had any right to expect, because long after the hits stopped
+  coming their legends continued to endure."
+
+  Other excerpts from *Uncommon People* appear at [6 Oct 2018](#6-Oct-2018), below.
+
+ 4 Nov 2020  <a name="4-Nov-2020"></a>
+
+- *Revolution in the Head: The Beatles' Records and the Sixties*
+  by Ian MacDonald, third edition (1994, 1997, 2005), pages 297-298,
+  385 - 391, 1 (no link):
+
+  "The 'heavy metal' idiom of the Seventies originated in the mid-Sixties
+  switch from the low-volume standard pop four-piece to the vastly
+  amplified rock 'power trio' ... Yet the loss of the craft of the rhythm
+  guitarist was soon felt in a degradation of texture and a decline in
+  overall musical subtlety. Rhythm guitarists were usually songwriters,
+  and the variety of  articulation and accenting techniques they used also
+  shaped their compositions. The average power trio, lacking such a
+  musical brain, was in effect an  excuse to replace songs with riffs and
+  discard nuance for noise. ...
+
+  The Beatles' interest in musical developments around them was keen and
+  usually productive, but their attempts at emulating the heavy style were
+  without exception embarrassing.  The quintessential Sixties four-piece,
+  their natural inclinations were for balance, form, and attention to detail,
+  and in straining to transcend these obsolete values in *Helter Skelter*
+  they comically overreached themselves, reproducing the requisite bulldozer
+  design but on a Dinky Toy scale. ..."
+
+  "The following pages provide ... a monthly selection of records popular
+  in the UK between 1960 and 1970. ... In whatever genre and of whatever
+  artistic standard, the singles of the Sixties were as a rule more
+  memorable, inventive, and affecting than those of today.  Why this is so
+  would take longer to  cover than can be afforded here, yet one or two
+  simple points are worth making.
+
+  In the sixties, music was generally recorded live, its arrangements blocked
+  out in advance.  This method necessarily combined real urgency, a high level
+  of empathic expertise from the players, and great ingenuity on the part of
+  producers ... Modern records, rather than embodying a *performance*, are
+  usually built up as they go along by using a layering principle ...  The
+  result of all this has been the gradual replacement of expressive skills
+  by technical ones -- the decline of subtlety in songwriting and instrumental
+  finesse mirrored by a monstrous efflorescence of boffin expertise in sound
+  manufacture and studio-craft.
+
+  ... At its simplest this means that songs are now written from the rhythm
+  track upwards, rather than from a melodic/harmonic idea, as was the case with
+  almost all Sixties music ... Within such an ethos, melody is as likely to
+  flourish as a rose in concrete, whilst sensitivity to harmonic nuance
+  inevitably withers. ...  What is less obvious is that the absence of
+  rhythmic mechanization in Sixties music released the natural effervescence
+  of the ensemble studio performance, as the subtle acceleration in tracks
+  like *I Want To Tell You* and *Fixing a Hole* demonstrates.
+
+  The differences between Sixties pop and what came after it are epitomized
+  by the loss of one vital element: the unexpected. ... the lack of
+  melodic/harmonic surprise in Nineties music is numbing. ...  By contrast,
+  when Sixties listeners heard a new Beatles song -- or good ones by
+  Holland-Dozier-Holland, Jagger-Richard, Brian Wilson, Ray Davies,
+  Bacharach-David, Syd Barret, Smokey Robinson, Pete Townshend, etc., etc. --
+  they never knew from bar to bar what was coming next.  Sometimes this was
+  because these songwriters were musically aware enough to make unusual
+  moves on purpose, but mostly it reflected the quintessential quality
+  of the sixties: self-determined openness. ... Originality in pop culture
+  then became -- for a while -- uniquely prized, creative unexpectedness
+  stemming almost as much from attitude as from talent ...
+
+  There is a great deal more to be said about the catastrophic decline
+  of pop (and rock criticism) -- but not here.  All that matters is that,
+  when examining the following Chronology of Sixties pop, readers are aware
+  that they are looking at something on a higher scale of achievement than
+  today's -- music which no contemporary artist can claim to match in feeling,
+  variety, formal invention, and sheer out-of-the-blue inspiration.  That
+  the same can be said of other musical forms -- most obviously classical
+  and jazz -- confirms that something in the soul of Western culture began
+  to die in the late Sixties.  Arguably pop music, as measured by the singles
+  charts, peaked in 1966, thereafter beginning a shallow decline in overall
+  quality which was already steepening by 1970.   While some may date this
+  tail-off to a little later, only the soulless or tone-deaf will refuse to
+  admit any decline at all.  Those with ears to hear, let them hear."
+
+  *If you want to know about the Sixties, play the music of the Beatles.*
+  -- Aaron Copland
+
+ 3 Nov 2020  <a name="3-Nov-2020"></a>
+
+- In Draft Form by Allen Shawn, review of *The Selected Correspondence
+  of Aaron Copland* in *TLS*, Nov 10 2006, p. 8 (no link):
+
+  "... After his initial composition lessons with Rubin Goldmark as a teenager,
+  Copland left Brooklyn and sought European training. ... There he discovered
+  a charismatic young teacher with whom he bonded, someone who, as he later
+  wrote to his parents, "understands the kind of modern music I like to write".
+  "Now be prepared for a surprise", his letter continues, "My teacher is not
+  -- as you suppose -- a man -- but a woman."
+
+  Copland's studies with Nadia Boulanger continued for the following three
+  years ... Boulanger helped him learn and absorb the "Western" tradition,
+  while also drawing out of him his first ambitious works in a new kind of
+  idiom: long-lined, transparent, unencumbered; a bracing music of
+  gleaming modernity, directness, power, and character, unashamed to
+  declare its Americanness or to make use of native jazz or folk sources.
+  Copland returned from Europe not only more trained, but also more
+  American than when he left. ...
+
+  Copland's music smells of outdoors.  ... It conveys an America of
+  possibilities, but also an America whose openness can be bleak, rootless,
+  and lonely.  His optimistic outlook was coupled to a kind of stoicism,
+  and a distinctly American sense of isolation and solitude, akin to that
+  found in Hopper's paintings and Frost's poetry.   While superficial aspects
+  of Copland's more folksy side have been mimicked in a thousand film and
+  television scores, the orginals have an inventiveness and precision
+  -- a hardness, in fact -- that is inimitable. ... his music -- lean,
+  stripped of all excess, finely focused -- retains its brilliant
+  effectiveness.  When sunny or lyrical, it radiates an honest, unsentimental
+  warmth that is never gooey.
+
+  ... If (Copland) pondered any of the ironies implicit in his story, he
+  did so privately.  Among them are that a Jewish, Brooklyn-born homosexual,
+  the son of Lithuanian immigrants, ... should -- in his ballet and film
+  scores -- create the musical sound forever associated in the public mind
+  with the American Midwest and with the American cowboy.
+
+  ... Copland describes his meeting with his teacher Nadia Boulanger as
+  the most important encounter of his life, and his letters to her show
+  unswerving loyalty and gratitude, and deep personal connection ... while
+  also maintaining a crucial degree of independence and distance from her. ...
+
+  (In the letters to Leonard Bernstein) there is no mistaking the
+  symbiotic bond ... in which the older Copland at first plays the role of
+  playful and sensible mentor, but eventually becomes a grateful and
+  admiring colleague. ... Bernstein later wrote of Copland's early
+  compositional  advice as focused on stripping things down to a kind of
+  radiant plainness, on teaching him to recognize freshness or its absence
+  ("that  note is not fresh because you've just used it here"). ...
+
+  ... excellent writer though he was, (Copland) revealed himself more in
+  his music and behavior than in his words.  The value of this "new"
+  collection lies in the way it makes clear the private consistency of
+  his nature and views, his imperviousness to corrupting influences, and
+  the degree to which he was not deflected from his artistic aims by success.
+  If there is a mystery in the degree to which the man was formed, once and
+  for all, at such an early age -- already, it would appear, at the age of
+  twenty sailing towards the future with a rare kind of artistic and personal
+  fearlessness and optimism, a sense of adventure, a strength suggestive of
+  self-knowledge -- it is not a mystery likely to be elucidated by Copland
+  himself.
+
+  Yet while these charming and circumspect letters do not dwell on intellectual
+  matters and seldom betray any personal or artistic secrets, this is still
+  a book that artists, in particular, should read.  It shows very movingly that
+  it is possible to be committed to what one is doing while being generous
+  to others and a citizen of the world; that is is not necessary to be
+  especially neurotic to be a great artist; that strong convictions need not
+  preclude diplomatic civility; that it is possible to produce important work
+  and remain unpretentious."
+
+- Conversations on the Journey by Richard Sennett, review of *On Creativity*
+  by John Tusa and *Parallels and Paradoxes* by Daniel Barenboim and Edward
+  W. Said, in *TLS* June 20 2003, p. 36 (no link):
+
+  "... What Tusa discovers in these interviews is the artists' worry about
+  getting things right; "inspiration" is a word which arouses an ironic
+  shrug. ... But for all Tusa's artists, the creative process stands for
+  the journey from subjective feeling to objective expression; art happens
+  only when they arrive at that destination.
+
+  ... both books reveal people obsessed with getting things right, with
+  arriving at form.  In both books, working artists avoid equating
+  creativity with errant subjectivity; even when contemplating the
+  relation between  silence and sound -- a subject which preoccupies
+  Barenboim -- the goal is a material result: the sound of a  particular
+  crescendo, the length of a particular silence. ..."
+
+30 Oct 2020  <a name="30-Oct-2020"></a>
+
+- *I Married a Communist* by Philip Roth (1998), p. 199 (no link):
+
+  "And so the talk continued, an amiable, quiet conversation with a
+  little laughter ...  I couldn't remember ever having been so unagitated
+  myself in Ira's company.  Nor had I ever seen him so serious about
+  something that wasn't world affairs or American politics or the failings
+  of the human race. ...
+
+  There was something so winning about those two men's good humored
+  absorption in each other ... that I had to wonder afterward if this
+  person who didn't  have to get all stirred up and go through all that
+  Ira-ish emotion to have a conversation wasn't perhaps the real, if
+  unseen, inactive Ira, and the other, the furious radical, an
+  impersonation, an imitation of something ...
+
+  The respect and fondness that Ira had for Horace Bixton suggested even to
+  me, a boy, that there was a very simple world of simple people and simple
+  satisfactions into which Ira might have drifted, where all his vibrating
+  passions, where all that equipped him (and ill equipped him) for society's
+  onslaught might have been remade and even pacified.
+
+  ... And then again, maybe not.  Maybe to be, like Horace, without a great
+  enemy would have made life even more impossible for Ira than it already was."
+
+- Bonfire Night at Powys Terrace by Rosemary Hill, review of *The Ossie Clark
+  Diaries* in *TLS*, Dec 11 1998, p. 26 (no link):
+
+  "Reading Ossie Clark's diaries is like staying sober through a long, terrible
+  party.  At the beginning everyone's there -- David Hockney, Celia, Mick,
+  Bianca -- but most of them have gone home long before the end.  There are
+  some ugly scenes, and you finish up stuck in the kitchen with a maudlin
+  drunk who used to be somebody. ...
+
+  If, as Henrietta Rous suggests in her introduction, something "decent and
+  humble" gradually emerges from all this, it is not Ossie.  It is the friends
+  who offer him chance after chance, most of which he squanders and all of
+  which he resents. ...
+
+  One thing Ossie never lost was the capacity to take offence. ...
+  By the end there is something impressive about this kind of grumbling,
+  a kind of heroic tetchiness, which enables him, in the face of real disaster,
+  to find fault with trivialities.  Reduced to Salvation Army handouts,
+  he complains about the "hidden fat" in the cheese pasties.
+
+  ... In manipulating surfaces and pattern he was an artist, but fashion
+  is an applied art and application was one of the many things
+  Ossie Clark lacked."
+
+14 Oct 2020  <a name="14-Oct-2020"></a>
+
+- King of the Road by J. R. Moehringer, review of *Riding Toward Everywhere*
+  by William T. Vollman in *The New York Times Book Review*, Jan 27 2008,
+  p. 9 (no link):
+
+  "I'd love to take William T. Vollman out for a beer.  I'd ask him about
+  his adventures in Afghanistan, Bosnia, Iraq and Congo and at the
+  North Pole.  I'd ... tell him that for years I've been a fan of his
+  journalism, novels, and essays.  Then, when the moment felt right, I'd
+  lean in, look Vollman square in the eye and say: *Pal, what the hell's
+  wrong with you?*
+
+  ... At 47, despite a wife and young daughter, ... despite a staggering
+  talent and closet full of literary prizes, one of our finest writers gets
+  his kicks breaking into rail yards and hopping frieght trains.  Why Amtrack,
+  or Vollman's agent, or someone with a butterfly net, hasn't stopped him is
+  one of the great mysteries of our time.
+
+  Vollmann doesn't care where the trains go. ... He has no ticket, no credit
+  card, and frankly no real purpose, which is ultimately the fatal flaw in
+  'Riding Toward Everywhere', his earnest, diverting, and baffling new book
+  about life on the rails.
+
+  ... Vollmann is an avid student of squalor ... thus this book also features
+  an ensemble of demented waysiders ... He encounters his anonymous inamorata
+  near some tracks, "very high ... dancing alone by her campfire," an
+  umbrella poking out of her grocery cart -- what guy wouldn't be turned on?
+  He kisses her, and kisses her some more.  The episode is so freaky, so
+  out there, you later wonder if you actually read it or nodded off and
+  dreamed it.
+
+  Clearly Vollmann is writing from his heart.  He longs in earnest to get
+  away from, or back to, America, and such longing lies at the core of our
+  national literature.  But unlike the literary road warriors he reveres,
+  Vollmann never manages to make his getaway sound urgent or fun. ... his
+  material never rises to the level of his bravery or his genius.  With no
+  purpose, no destination, no *story*, his epic journey to Everywhere becomes
+  a round trip to nowhere ..."
+
+29 Sep 2020  <a name="29-Sep-2020"></a>
+
+- Book review by Sheena Joughin in *TLS*, Oct 3, 2003, p. 30 (no link):
+
+  "The memoirist's relationship to his or her central character is
+  inevitably more fraught than the novelist's.  (This author) seems not to
+  know what to make of herself, or what the purpose of her memoir is,
+  which is fatal to the emotional rhythm of her tale and the pace of the
+  writing itself. ...
+
+  (The author) knows a lot she doesn't tell us, or cannot allow herself
+  to make explicit. ... (This) is a disingenuous book. ..."
+
+28 Sep 2020  <a name="28-Sep-2020"></a>
+
+- The Firepower and the Glory by Roz Kaveny, review of *REAMDE* by Neal
+  Stephenson in *TLS*, Oct 28 2011, p. 20 (no link):
+
+  "As far as (Stephenson) is concerned, most problems can be resolved
+  by intelligence and pragmatism ... Most of the conflicts in the world
+  can be ended by negotiation ... If there is a weakness to his position,
+  it is that he does not accept imaginatively that a lot of intelligent
+  people are selfish past the point of reason, and that the list of things
+  on which some people will not negotiate is far more extensive than he
+  believes. ..."
+
+- Book review by Sheena Joughin in *TLS*, Aug 2, 2013, p. 21 (no link):
+
+  "(This novel) is an exhausting book, with no shape, no development,
+  and very little plot.  ... the whole has a woozy touch-screen feel ...
+  we begin to feel the numbed indifference that comes with a slideshow
+  of a stranger's wedding. ..."
+
+27 Sep 2020  <a name="27-Sep-2020"></a>
+
+- Out of Suburbia by Roz Kaveny, review of *The Inner Man: The Life of
+  J. G. Ballard* by John Baxter in *TLS*, Nov 18, 2011, p. 5 (no link):
+
+  "From a comparatively early stage in his career, Ballard had a clear
+  and consistent view of how the world was and how he wanted us to see it.
+  It was a Hobbesian view, in which gentleness is only a passive-aggressive
+  strategy and to be selfish is simply to be human; it is a view in which
+  things decline toward entropy ...
+
+  One of the reasons why Ballard continued to be engaged with science
+  fiction long after his career had become considerably more mainstream
+  was that he wanted to show those American optimists who thought that the
+  Space Age was an epoch of exploration that it had been a fad that was
+  already over.
+
+  Where a number of earlier British SF writers -- John Wyndham, for example --
+  had played around with catastrophe, they had done so largely in a mode
+  that explored universal blindness and deadly ambulant vegetables as tests
+  of character and morale.  Ballard's novels in this vein -- *The Drowned
+  World* (1962), *The Crystal World* (1966) -- return to an older tradition
+  that sees the destruction of civilization by nature as the righteous return
+  of the repressed; his heroes do not retreat to places of safety in an
+  unkind world, but rather strike on, into wilderness, despair, and death.
+
+  The satiric strain in SF -- what his friend Brian W. Aldiss called its
+  "comic infernos" -- was part of what drew Ballard to it.  The fragmentary
+  "condensed novels" of *The Atrocity Exhibition* (1970) would have had a
+  problem finding their audience outside SF magazines whose readers were
+  prepared to put up with a great deal of weirdness with only minimal
+  complaint. ...
+
+  Ballard claimed in what was almost certainly an apocryphal story,
+  that (his novel) *Crash* (1973) had been shown to a publisher's
+  psychiatrist wife, who said that it indicated a derangement beyond help.
+  Ballard, as a young man, had abandoned the study of psychiatry himself;
+  that diagnosis of derangement beyond help might usefully be seen as his
+  final judgment on the world in which he had to live, and which he rightly
+  convinced, against the odds, that he was an important writer."
+
+- His Twists and Turns, On Paper and in Life by Dwight Garner, review
+  of *Miracles of Life: An Autobiography* by J. G. Ballard in *The New
+  York Times*, Feb 6, 2013, p. C6 (no link):
+
+  "In the *New York Times Book Review*, D. Keith Mano didn't just review
+  it (*Crash*); he reacted as if someone had thrown a severed head in his
+  lap. ... Mr. Mano called the novel "the most repulsive book I've yet
+  to come across."  He couldn't help adding, "*Crash* is well written:
+  credit given where due."
+
+  It took the world time to catch up with Ballard (1930 -- 2009).  His
+  name has been fashioned into a useful adjective.  To call something
+  Ballardian is to suggest dystopian landscapes pockmarked by the
+  recurring images from his novels ...
+
+  What's largely new, and savage, in this memoir is the level of
+  disillusionment Ballard came to feel during the war, about both
+  England and his own distant parents.  "The dream of empire died when
+  Shanghai surrendered without a fight," he writes. "Even at the age
+  of 11 or 12 I knew that no amount of patriotic newsreels would put the
+  Union Jack jigsaw together again.  From then on I was slightly suspicious
+  of all British adults."
+
+  The cozy England he loved, he discovers, "was a complete fantasy."  He
+  takes aim at the country's class system, calling it "an instrument of
+  political control."  ...
+
+  I'm not sure I've read a more comprehensive takedown of the postwar
+  British psyche than Ballard's observation that the country's social
+  codes -- "show respect for one's elders, never be too keen, take it on
+  the chin," etc. -- were calculated to create a sense of overpowering
+  deference, and certainly not the qualities that had made Shanghai great,
+  or, for that matter, won the Battle of Britain."  What these things
+  inculcated, he suggests, was "second-rateness and low expectations."
+
+  In his own novels and stories, he says, "I've treated England as if it
+  were a strange fiction."  His early work bent toward science fiction
+  because so-called serious writing was too insular. ..."
+
+26 Sep 2020  <a name="26-Sep-2020"></a>
+
+- Without Tears In My Heart by Graham Robb, review of *Correspondance* by
+  Balzac in *TLS*, Mar 16 2012, p. 7 (no link):
+
+  "What does a novelist need? Balzac's letters suggest the following:
+  a peaceful place to work; a home full of beautiful, expensive objects
+  'to create happiness and a sense of intellectual freedom'; coffee strong
+  enough to maintain the flow of inspiration for two months; debts and
+  publishers' contracts with draconian penalty clauses to reinforce
+  self-discipline and compulsion; several aliases and hiding places to
+  prevent the creditors' bailiffs from confiscating the expensive objects;
+  and a constant state of romantic excitation without the time-consuming
+  consquences of love.
+
+  The main task Balzac had set himself was to create a complete panorama
+  of French society in a monumental series of novels and studies to be
+  published under the title *La Comedie Humaine*.  Strange to say, the other
+  projects were a form of avoidance, and, as any procrastinator knows,
+  procrastination can be very hard work."
+
+25 Sep 2020  <a name="25-Sep-2020"></a>
+
+- Too Sane for Surbiton by Gerard Woodward, review of *Waking up in Toytown*
+  by John Burnside in *TLS*, Mar 5 2010, p. 24 (no link):
+
+  "... this is the story of a man who, after years of depression, decline,
+  and DeQuincyesque excess, finds that he desires, more than anything else,
+  normality. 'A normal life. Sober. Drug-free.  Dreamless.  In gainful
+  employment.  A householder.  A taxpayer.  A name on the electoral role.'
+  Perhaps it is a measure of anyone's madness that they should yearn for
+  these things, and the quest is double-edged; what Burnside is really after
+  is a sense of stability, safety and continuity, and this book is an eloquent
+  demonstration that, once actively pursued, the concept of normality mutates,
+  bifurcates, and dissolves.
+
+  ... one of the delights of this book is that, although Burnside takes up
+  residence in the heart of the land of the normal, his fellow suburbanites
+  turn out to be anything but.  ... He ... strikes up a friendship ... only
+  to find himself embroiled in a *Strangers on a Train*-style murder swapping
+  plot.  Burnside has to disappoint his friend by saying there isn't
+  anyone he wants doing in. ...
+
+  Nearly always, Burnside is the more moderate, sane voice among the people
+  he meets ... All the while he grows more dispirited with the type of
+  normality he has found for himself. ...
+
+  There is an urgent, restlessly explicating tone to the writing that
+  can sometimes overshadow the more subtle ironies, so that one can't
+  be sure if Burnside is being funny when, in the middle of all the
+  self-analysis, he comes up with a sentence like, 'It was a Saturday
+  afternoon and I was trawling around Guildford looking for a new toaster'.
+  ... "
+
+24 Sep 2020  <a name="24-Sep-2020"></a>
+
+- Rock Bottom by Anna Vaux, review of *Wonderful Today* by Pattie Boyd
+  and *Eric Clapton* by Eric Clapton in *TLS*, Apr 11 2008, p. 10-11 (no link):
+
+  "Marriage is hard, but Marriage to a rock star is really hard.  Everyone
+  knows that -- except perhaps the people who do it, like Pattie Boyd, who
+  did it twice, first to George Harrison ... and then to Eric Clapton ...
+
+  Indeed, the irony -- or is it the pity? -- is that it was precisely
+  because marriage to a rock star was so not wonderful that she found
+  herself seeking solace in the arms of another one; and once she'd married
+  the other one, it was so not wonderful all over again that she regretted
+  she'd left the first one.  If anything could be worse than marriage to
+  George -- who by the late days of their relationship was spending long
+  hours chanting in a temple he had built at the top of their house ...
+  it was marriage to Eric, who even in the early days of their
+  relationship was ... getting through a couple of bottles of brandy a day
+  plus 'copious amounts of Special Brew ...' ...
+
+  Alas, Pattie doesn't seem to have had much left in the way of personal
+  volition by this time to rally herself to the realization that she'd made
+  a mistake.  ... Modeling was not much of a preparation for anything.
+  'You need to be told what to do and how to look', she explains when
+  describing what her job entailed. ... Her increasing and then total
+  uselessness was part of what was so problematic in her marriages.  So if
+  her book is instructive in any way, it is as a cautionary tale, on a kind
+  of feminist model. ... she has no money of her own.  She wanders through her
+  pages in an agony of redundancy, taking up knitting, flying, art classes,
+  chanting ... George doesn't even need her for sex. ... (Eric) confesses
+  that once he'd got her home he didn't want her any longer. ...
+
+  *Eric Clapton* is the story of an alcoholic before it is the story of
+  a musician ... His relationship with drink is the principal relationship
+  of his life: however much he thought he wanted Pattie, the only thing
+  he couldn't live without was alcohol.  Pattie made the same mistake in
+  believing she was marrying a rock star, when in fact she was marrying
+  someone closer to the derelicts Clapton brought home on his way back
+  from the pub.
+
+  But one can hardly blame her for not working it out, since Clapton
+  himself is confused, unable to decide from the start if he's special or
+  just like everyone else ... Clapton wonders if his confusion has
+  something to do with the famous graffito on the wall of the Underground
+  station declaring  'Clapton is God' ... But you cannot read this book
+  and not notice how often he says he wanted to step back, to blend into
+  the band or just to play rhythm. ... (Unlike) playing with Cream, where
+  you can hear his discomfort in the way he sings, and whose show-off
+  personalities were so difficult for him to manage that he panicked at
+  the thought of ever forming a group again. ...
+
+  It is a defining moment for Clapton when he realizes that he no longer
+  wants or needs to have hits, and yet the hits keep on coming -- a paradox
+  made clear with his 1991 album *Unplugged*, which at last opened the door
+  to his true musical tastes ... and then became the biggest selling album
+  of his career.  However much he thought he was sloughing off the virtuoso
+  image, it seems only to have gone in the opposite direction, bizarrely taking
+  him with it. ...
+
+  But by now everything is tied up with his recovery work (he has set up a
+  rehabilitation clinic ...). Twenty years sober (and sixty-two years old),
+  Clapton is more twelve steps than twelve bars, and narrates his book
+  for the most part with the flattened-out tone of the recovering alcoholic ...
+
+  Pattie Boyd also reports that she writes from a 'healthy perspective' and
+  'position of strength' ... Hers is a recovery story too -- but it is
+  Eric Clapton she had to recover from, to whom she is far more forgiving
+  than the readers of her book will be. ..."
+
+19 Sep 2020  <a name="19-Sep-2020"></a>
+
+- Buckets of Blud by Peter Thoneman, review of *The Oxford Handbook of
+  Warfare in the Classical World*, *Roman Seige Warfare*,  and several other
+  books in *TLS*,   May 9, 2014, p. 7-8 (no link):
+
+  "... Livy on Hannibal, Caesar's *Gallic Wars*.  For those of a certain
+  age, memories of O level or School Certificate Latin will be filled with
+  grammar and men killing one another. ...
+
+  Today's GSE Latin is a gentler, less martial world.  *The Cambridge
+  Latin Course* no longer requires you to translate mysterious sentences
+  like 'The camp had been fortified with a palisade so high that the enemy
+  did not try to cross it'.  Hannibal has given way to mildly racy bits of
+  Ovid, and the AQA exam board would no more dare to set Caesar's *Civil
+  Wars* than they would Augustine's *City of God*.
+
+  Still, the old emphasis on camps and cavalry did have one thing to be
+  said for it: it was true to a central element of ordinary life in the ancient
+  world. ... The fall of great cities, the violent death of their menfolk
+  and slavery for their women, was part of the common stock of human
+  experience in antiquity. ... So in a sense the old O level syllabus
+  had it right: starting with Caesar's *Gallic Wars* at least has the
+  merit of forcing us to confront the casual, unreflective militarism
+  of the ancient world.
+
+  ... from Thucydides to Ammianus, there survives a vast ancient literature
+  of surging legionaries, desperate valour, and generals throwing their
+  cavalry thousands of paces over the river.  The trouble is that, as
+  historians have gradually come to recognize, almost all of this stuff
+  is idealizing fantasy, not reportage.  When a particular battle is described
+  by more than one author, more often than not the accounts are wildly
+  contradictory.
+
+  Josh Leviathan's *Roman Seige Warfare* is a fairly typical sample of the
+  surging-legionaries school of military history. ... assaults, sallies,
+  sallies taking the form of assaults,  Gauls attacking ditches with
+  arrows.  Need one emphasize that all this is the purest fiction?
+  Caesar's self-serving 'narrative' of the seige of Alesia is so
+  delibrately bland and stereotyped as to be completely meaningless --
+  indeed, ... it is hard to think of a more systematically dishonest
+  ancient text than Caesar's *Gallic Wars*, the work of a very clever and
+  unscrupulous aristocrat pretending to be a plain-speaking soldier.
+
+  The embedding of military history into the broader cultural history of
+  the ancient world is clearly the best way out of the subject's current
+  intellectual ghetto. ... Thucydides has no particular interest in
+  battles, weapons, or cavalry tactics.  For him, the Peloponnesian War
+  was interesting  because it revealed, in the starkest form, the
+  subterranean tensions and ethical faultlines of Greek *polis*-society.
+  Warfare is always  part of a larger social system.  Or, to paraphrase
+  Molesworth: just what was it about Greek and Roman society than
+  encouraged so many people to spend so much of their time attacking
+  ditches?"
+
+18 Sep 2020  <a name="18-Sep-2020"></a>
+
+- NB by J.C. in *TLS*, Apr 22 2011, p. 32 (no link):
+
+  "Old English.  Who speaks it now?  Just about everyone who speaks English.
+  We do not know how the Anglo-Saxons sounded in the sixth century, but
+  in a recently published book, *How To Read a Word* (OUP), Elizabeth
+  Knowles provides a list of 'Old English words still in use today'.
+  It includes:
+
+  ale, bird, black, blood, bread, bride, calf, child, chin,
+  church, clothes, corn, cow, day, death, deer, drink, eat, eye, fat,
+  father, feather, field, five, fox, glass, good, gold, goose, hammer,
+  hand, harvest, hawk, heaven, hell, ivy, jowl, kettle, key, king, lady,
+  man, meat, mouse, murder, nail, name, night, nose, oak, pound, queen,
+  rain, salt, sea, seven, silk, snake, snow, song, sword, teach, ten,
+  thief, thigh, thumb, thunder, tongue, walk, wife, woman, worm, year, youth."
+
+17 Sep 2020  <a name="17-Sep-2020"></a>
+
+- Our Hand Reaches Far by Patrick McGuinness, review of *Burying the
+  Typewriter: Childhood Under the Eyes of the Secret Police* by Carmen Bugan
+  in *TLS*, Nov 9 2012, p. 10 (no link):
+
+  "Bugan and her family leave Romania in late October 1989 ... We are less than
+  two months from the regime's violent downfall, yet all the structures of
+  repression are still intact.  Totalitarianism, in Romania's case at least,
+  doesn't wear itself away at the edges: it works full throttle until the moment
+  it breaks down, and then it breaks down completely.
+
+  The scenes in Prague or at the Berlin Wall become symbols of the peaceful
+  end of Communism, but the haunting, brutal images of the Romanian
+  revolution and the Ceausescus' grubby trial and execution symbolize
+  something bloodier and darker about Europe's recent history.
+
+  Looking at those images now -- the confused, blinking dictator and his
+  deluded wife being shouted at by lawyers who two days before had been
+  saluting their portraits, and then shot like dogs by soldiers who
+  twenty-four hours earlier had been enforcing their brutal orders -- it
+  is hard not to think that when regimes end, they end the Romanian way:
+  in a chaos of pent-up violence, mixed motives, self-preservation, hypocrisy,
+  side-switching and herd mentality. ..."
+
+- Won to Death by Omer Bartov, review of *Kiev 1941* by David Stahel in *TLS*,
+  July 20 2012 (no link):
+
+  "In 1955 the brilliant German tactician, Field Marshal Erich von Manstein,
+  published his war memoir and apologia under the evocative title *Lost
+  Victories*.  This was the heyday of self-serving accounts by Hitler's former
+  generals. ... There were many others.  Besides their highly esteemed
+  professional skills as soldiers, what these men and many of their ilk had
+  in common was their utter loyalty to Hitler and his regime and their
+  dedication to winning an ideological war of expansion and subjugation at
+  whose core was the goal of genocide and extermination.
+
+  In their memoirs, these generals tried to play down those no longer
+  popular and, for them, incriminating sentiments and ideas. ... Histories
+  of the Second World War described the German army as having fought an
+  honorable, not to say chivalrous war, while the SS and Gestapo carried out
+  their nasty work behind the backs of the fighting troops. It took a new
+  generation of scholars to begin disputing the assertions of the Wehrmacht's
+  so-called purity of arms. Starting in the 1960s, and increasingly since the
+  late 1970s, historians have shown the deep complicity of Hitler's army
+  in war crimes on an unprecedented scale ...
+
+  This recognition of the role played by Hitler's soldiers in implementing
+  what he termed a war of annihilation has not deterred more traditional
+  miltary historians from churning out ever-more meticulous accounts of
+  battles and operations.   Since so many of these already exist, and
+  because it is difficult to come up with any particularly striking thesis
+  that has not already been propounded, such histories tend to narrow their
+  gaze and constrict their horizons, even as they lay claim to new insights
+  which are either not very new or not particularly insightful.
+
+  David Stahel's new book .. provides more information on war crimes
+  committed by the German military than many similar accounts, yet fails
+  to link them in any meaningful manner to the overall conduct of the war
+  ... For what is needed most in the current state of scholarship is to
+  analyze the relationship between war and genocide, rather than to ride
+  once more on one of Guderan's Panzers toward an increasingly predictable
+  lost victory.
+
+  It is this link between mass murder of civilians and brutal modern
+  warfare that is missing from Stahel's book. Instead we read the familiar
+  account of frantic, at times heroic fighting, brilliant, but at times
+  also stupid leadership, lost victories and dreadful defeats. ... it
+  tells us little about the world these soldiers had almost succeeded  in
+  building.   All this vast shedding of blood by Germany and its allies
+  had but one ultimate goal --  the systematic murder of entire
+  populations ..."
+
+14 Sep 2020  <a name="14-Sep-2020"></a>
+
+- Lost in the Funhouse by Edmund White, in *TLS* May 19 2006, p. 15
+  (no link):
+
+  "Autobiographies are more popular, these days, than fiction, even
+  autobiographical fiction.  When I was young and even in my early middle
+  age, only famous people wrote their memoirs. ... I suppose that's one
+  reason why in 1982 I wrote an autobiographical novel ...
+  a proper non-fictional memoir would have seemed presumptuous back then.
+
+  Incidentally, the project of writing a novel gave me a different goal --
+  the need to create interest on the part of the  reader -- whereas a memoir
+  assumes that interest already exits.  Finally, the writer's contract with the
+  reader in a memoir is to tell the truth and nothing but the truth, whereas
+  a novelist has made clear his intention to invent, compress, rearrange,
+  and streamline. ..."
+
+  "... As a true American I do believe in identity politics, I believe that
+  the personal can be political and I believe that, for better or for worse,
+  my sexual identity is crucial to who I am. ...  But I hold this view
+  only because I feel that to grow up in a religious society that oppresses
+  and stigmatizes homosexuals *creates* a gay identity, and that one can only
+  liberate oneself by affirming that identity, by transforming what was despised
+  into what is valued.
+
+  I'm not an essentialist; I don't think that gay men today are like gay men
+  in ancient Rome or even in nineteenth-century England, and I certainly don't
+  think that this essence must be declared or avowed.  I do, however, believe
+  that a definition that has been imposed on the individual must be defended
+  and transcended.
+
+  I write at length abut my sexual experiences and inclinations because for a
+  gay man sexuality is inevitably more formative than for a heterosexual.
+  If a man is gay he belongs to a minority; his entire social status and
+  psychological make-up will be altered by that orientation, as will his
+  habits and and tastes and friendships, even his home address.  Heterosexuality
+  is normative and inclusive ... it imposes no, as it were, extra weight on
+  the individual; it certainly doesn't keep him out of any clubs, except a
+  few gay ones. ..."
+
+12 Sep 2020  <a name="12-Sep-2020"></a>
+
+- Variations on Looney Tunes by Allen H. Nelson, review of *Shakespeare
+  by Another Name: ... Edward De Vere, Earl of Oxford, the man who was
+  Shakespeare* by Mark Anderson in *TLS* Jan 27 2006, p.30 (no link):
+
+  "Anderson's reductionist principle, that an author knows only himself
+  and can tell only his own tale, explains the monomania of the enterprise.
+  For the minute it is conceded that one human being can imagine the internal
+  life of another, the principle loses its explanatory power. ...
+
+  ... Fellow conspiracy-theorists will congratulate him on his totalizing
+  vision, and his practically metaphysical ability to find similarities
+  in things unlike.  Readers with the backbone to demand proof at every step
+  will dismiss Anderson's interminable maundering as mere rubbish."
+
+- Too Rich and Too Thin by Edward St. Aubyn, review of *Riviera*
+  by Jim Ring in *TLS* Aug 6 2004, p. 25 (no link):
+
+  "There is something inherently depressing about rich-people anecdotes.
+  Whatever the details (they drank champagne from a shoe!  They imported
+  rolls of lawn from England!), the stories are essentially about shopping
+  and are doomed to fall into two basic categories: extravagance and
+  meanness.  Either someone likes the soup so much they buy the hotel
+  and then give it to the waiter as a tip, or, despite being the richest
+  person on earth, they make their guests pay for a stamp."
+
+12 Sep 2020  <a name="12-Sep-2020"></a>
+
+- *The Valley of Bones*, a novel by Anthony Powell (1964), p. 233 (no link)
+
+  "I thought of Pennistone and his quotations from Vigny.
+
+  'A French writer who'd been a regular officer said the whole point of
+  soldiering was its bloody boring side.  The glamour, such as it was,
+  was just a bit of exceptional luck if it came your way.'
+
+  'Did he?' said Gwatkin.
+
+  He spoke without a vestige of interest. I was impressed for the ten
+  thousandth time by the fact that literature illuminates life only for
+  those to whom books are a necessity.  Books are unconvertible assets, to
+  be passed on only to those who possess them already."
+
+11 Sep 2020, 9 Dec 2020  <a name="11-Sep-2020"></a>
+
+- <https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do> - 
+  What's a mathematician to do? answer by Bill Thurston:
+
+  "It's not *mathematics* that you need to contribute to. It's deeper than
+  that: how might you contribute to humanity, and even deeper, to the
+  well-being of the world, by pursuing mathematics? ...
+
+  The product of mathematics is clarity and understanding. ...
+  The world does not suffer from an oversupply of clarity and
+  understanding (to put it mildly). How and whether specific mathematics
+  might lead to improving the world (whatever that means) is usually
+  impossible to tease out, but mathematics collectively is extremely
+  important.
+
+  I think of mathematics as having a large component of psychology,
+  because of its strong dependence on human minds. ...
+  Mathematical ideas, even simple ideas, are often hard to transplant from
+  mind to mind. There are many ideas in mathematics that may be hard to
+  get, but are easy once you get them. ...
+  Mathematics is commonly explained and recorded in symbolic and concrete
+  forms that are easy to communicate, rather than in conceptual forms that
+  are easy to understand once communicated. Translation in the direction
+  conceptual -> concrete and symbolic is much easier than translation in
+  the reverse direction, and symbolic forms often replace the conceptual
+  forms of understanding. ...
+
+  .. All of us have clear understanding of a few things and murky concepts of
+  many more. There is no way to run out of ideas in need of clarification. ..."
+
+  (Compare to Eugenia Cheng excerpt at [10 Mar 2019](#10-Mar-2019))
+
+- <https://arxiv.org/abs/math/0503081> - Mathematical Education by Bill Thurston
+
+  "One feature of mathematics which requires special care in education is
+  its height, that is, the extent to which concepts build on previous
+  concepts. Reasoning in mathematics can be very clear and certain, and,
+  once a principle is established, it can be relied on. This means it is
+  possible to build conceptual structures which are at once very tall,
+  very reliable, and extremely powerful.
+
+  The structure is not like a tree, but more like a scaffolding, with
+  many interconnected supports. Once the scaffolding is solidly in
+  place, it is not hard to build it higher, but it is impossible to build
+  a layer before previous layers are in place.
+
+  Difficulties arise because students taking a particular course are in
+  different stages of mastery of the earlier learning. They also tend to
+  be secretive about exactly what they know and what they don't know. ...
+  students feel guilty that they are shaky ... and are slow to admit it
+  and ask how and why ... even to themselves.
+
+  ... It is not so hard, when talking with students individually, to find
+  out what parts of the structure need shoring up and to deal with those
+  parts individually. But it is quite difficult to find a level of
+  teaching which is comprehensible and at the same time interesting to an
+  entire class with heterogeneous background."
+
+  "Mathematics is amazingly compressible: you may struggle a long time,
+  step by step, to work through some process or idea from several
+  approaches. But once you really understand it and have the mental
+  perspective to see it as a whole, there is often a tremendous mental
+  compression. You can file it away, recall it quickly and completely when
+  you need it, and use it as just one step in some other mental process.
+  The insight that goes with this compression is one of the real joys of
+  mathematics.
+
+  After mastering mathematical concepts, even after great effort, it
+  becomes very hard to put oneself back in the frame of mind of someone to
+  whom they are mysterious.
+
+  One of my students wrote about visiting an elementary school and being
+  asked to tutor a child in subtracting fractions. He was startled and
+  sobered to see how much is involved in learning this skill for the first
+  time, a skill which had condensed to a triviality in his mind.
+
+  Mathematics is full of this kind of thing, on all levels. It never stops.
+
+  The hard-earned and powerful tools which are available almost
+  unconsciously to mathematicians, but not to students, make it hard for
+  mathematicians to learn from their students. This puts a psychological
+  barrier in the way of listening fully to students.
+  It is important in teaching mathematics to work hard to overcome this
+  barrier and to get out of the way enough to give students the chance to
+  work things out for themselves."
+
+  "To me, utilitarian goals are important, but secondary.
+  Mathematics has a remarkable beauty, power, and coherence, more than we
+  could have ever expected. It is always changing, as we turn new corners
+  and discover new delights and unexpected connections with old familiar
+  grounds. The changes are rapid, because of the solidity of the kind of
+  reasoning involved in mathematics.
+
+  Mathematics is like a flight of fancy, but one in which the fanciful
+  turns out to be real and to have been present all along. Doing
+  mathematics has the feel of fanciful invention, but it is really a
+  process of sharpening our perception so that we discover patterns that
+  are everywhere around. ...
+
+  My experience as a mathematician has convinced me that the aesthetic
+  goals and the utilitarian goals for mathematics turn out, in the end, to
+  be quite close. Our aesthetic instincts draw us to mathematics of a
+  certain depth and connectivity. The very depth and beauty of the
+  patterns makes them likely to be manifested, in unexpected ways, in
+  other parts of mathematics, science, and the world."
+
+- <https://arxiv.org/abs/math/9404236> - 
+  Proof and Progress in Mathematics by Bill Thurston
+
+  "I have spent a fair amount of effort during periods of my career
+  exploring mathematical questions by computer. In view of that
+  experience, I was astonished to see the statement of (other authors)
+  that mathematics is extremely slow and arduous, and that it is arguably
+  the most disciplined of all human activities. The standard of
+  correctness and completeness necessary to get a computer program to work
+  at all is a couple of orders of magnitude higher than the mathematical
+  community's standard of valid proofs. ...
+
+  I think that mathematics is one of the most intellectually gratifying of
+  human activities. Because we have a high standard for clear and
+  convincing thinking and because we place a high value on listening to
+  and trying to understand each other, we don't engage in interminable
+  arguments and endless redoing of our mathematics. We are prepared to be
+  convinced by others. Intellectually, mathematics moves very quickly.
+  Entire mathematical landscapes change and change again in amazing ways
+  during a single career.
+
+  Mathematics as we practice it is much more formally complete and precise
+  than other sciences, but it is much less formally complete and precise
+  for its content than computer programs. The difference has to do not
+  just with the amount of effort: the kind of effort is qualitatively
+  different. In large computer programs, a tremendous proportion of effort
+  must be spent on myriad compatibility issues: making sure that all
+  definitions are consistent, developing good data structures that have
+  useful but not cumbersome generality, deciding on the right generality
+  for functions, etc. ... Because of compatibility issues that almost
+  inevitably escalate out of hand because the right definitions change as
+  generality and functionality are added, computer programs usually need
+  to be rewritten frequently, often from scratch.
+
+  A very similar kind of effort would have to go into mathematics to make
+  it formally correct and complete. It is not that formal correctness is
+  prohibitively difficult on a small scale --- it's that there are many possible
+  choices of formalization on small scales that translate to huge numbers
+  of interdependent choices in the large. It is quite hard to make these
+  choices compatible; to do so would certainly entail going back and
+  rewriting from scratch all old mathematical papers whose results we
+  depend on. ...
+
+  ... Our system is quite good at producing reliable theorems that
+  can be solidly backed up. It's just that the reliability does not
+  primarily come from mathematicians formally checking formal arguments;
+  it comes from mathematicians thinking carefully and critically about
+  mathematical ideas."
+
+- <https://www.ams.org/journals/notices/202011/rnoti-p1791.pdf> -
+  Proving Theorems with Computers by Kevin Buzzard
+
+  About a project to formalize large parts of mathematics, confronting
+  the difficulties Thurston described above.
+
+  "(In) a course introducing the formal notion of proof ... there   might
+  be a proof that distinct equivalence classes for an equivalence relation
+  are disjoint.  There are many ways that one can attempt to teach this to
+  undergraduates.  Recently I have become fond of  a method where I bring
+  a set of around 100 plastic shapes coloured red, yellow, green, and blue
+  into class. ...  the red shapes form an equivalence class, the blue
+  shapes form another, and so on.  The fact that distinct equivalence
+  classes are disjoint is now obvious. However this is an example, not a
+  proof. The formal proof, which I then  go on to show the students, is a
+  series of elementary steps, each of which follows from the rules of
+  logic or the axioms of an equivalence relation.
+
+  In proofs such as these, we are operating very close to the "machine"
+  which drives formal mathematics -- the machine which tells us that if
+  *P* is true, and if *P* implies *Q*, ,then *Q* is true, and other such
+  logical rules. ... At this stage in the development of mathematics,
+  every proof can be chased right down to the axioms of the system we are
+  considering, and students are expected to learn from such courses that
+  mathematics can be done in this way.  Much (but as we are about to see,
+  not all) undergraduate pure mathematics is of this form.
+
+  After a while it becomes inconvenient to do mathematics in a purely
+  axiomatic fashion.  For example, proving that if we remove a finite set
+  of points from *R2* the resulting topological space is still path
+  connected could of course *in theory* be done from the axioms, but in
+  practice ... one would just draw a picture. ... Over time, students
+  learning mathematics begin to understand our unwritten rules of "what is
+  allowed in practice." ... Arguments in lectures may take place high
+  above the axioms, with technical details being dismissed as obvious or
+  easy to verify, and left to the reader (perhaps with some hints). This
+  is the beginning of what Terry Tao has called the *post-rigorous* stage
+  of mathematics. To borrow a phrase from computer science, students begin
+  to learn the intuitive *front end* of mathematics.
+
+  Those students who convince us that they can steer their mathematical
+  arguments correctly are rewarded by being given PhD places. ...
+  They are allowed access to the mathematical literature, and from now on
+  they can assume any result they like, as long as it is published in a
+  reasonably prestigious journal and their advisor believes it. ...
+  By the time they graduate, a PhD student will typically know many
+  theorem statements concerning the objects they chose to study ...
+  Again to borrow a phrase from computer science, the student knows
+  the *interface* to each object in their area of expertise.  The student is
+  allowed to assume any results in the interface, and might well know how
+  to prove some of them -- but possibly not all of them.
+
+  For example, when I was a PhD student, I had not read the details of the
+  proof of the theorem of Deligne which attached a *p*-adic Galois
+  representation to a modular form, a key result from the interface to the
+  theory of modular forms upon which my entire PhD work was based. In
+  fact, at that time there was only really a sketch proof of the result in
+  the literature. This was not however a problem, because the proof of
+  Deligne's theorem was "known to the experts."  Students are expected to
+  get their own intuition of their area, and after a while should have a
+  feeling about what is accessible given known results, and what requires
+  genuinely new ideas.
+
+  In the rest of this article, I would like to discuss the idea that
+  computers can be taught mathematics in much the same sort of way. ..."
+
+  More about this formalization project:
+  <https://leanprover-community.github.io/papers>
+
+30 Aug 2020  <a name="30-Aug-2020"></a>
+
+- *A Mixture of Frailties*, a novel by Robertson Davies (1958), p. 210 - 211,
+  274 (no link):
+
+  "... What's the good of fighting critics?  Mind you, some of them are
+  very able, particularly when judging performances.  But only a few can
+  form any opinion of a new work.   Most of them are simply on the lookout
+  for novelty.  They hear too much, and they hear it in the wrong way.
+  They get like children who are peevish from having too many toys; they are
+  always tugging at the skirts of music, whining 'Amuse me; give me something
+  new.'  Giles hasn't shown them anything particularly new.  He's not an
+  innovator.  But he has an extraordinary melodic gift.  Now you just watch
+  the critics and see how many of them are able to spot that."
+
+  "... Like many people when they suddenly get their own way, she saw the
+  hand of God in it."
+
+27 Jul -- 2 Aug 2020
+
+- *A History of Histories* by John Burrow (2007) quoting
+  *The Civilization of the Renaissance in Italy* by Jacob Burckhardt (1860),
+  p. 391 - 392 in Burrow (no link):
+
+  - "For an ambitious youth, the fame and brilliant position of the
+    humanists were a perilous temptation. ... He was thus led to plunge
+    into a life of excitement and vicissitude, in which exhausting
+    studies, tutorships, secretaryships, professorships, offices in
+    princely households, mortal enemies and perils, luxury and beggary,
+    boundless admiration and boundless contempt, followed confusedly one
+    upon the other."
+
+  Quoting *The Making of the English Working Class* by E. P. Thompson (1963),
+  p. 469 in Burrow (no link):
+
+  - "I am seeking to rescue the poor stockinger, the Luddite cropper, the
+    'obsolete' hand-loom weaver, the 'utopian' artisan, and even the
+    deluded followers of Joanna Southcott [a millenarian prophet] from the
+    enormous condescension of posterity"
+
+  On *Roll, Jordan, Roll: The World the Slaves Made* by Eugene Genovese (1974),
+  p. 469 in Burrow (no link):
+
+  "Genovese traced the culture the slaves created for themselves, under the
+  most adverse of circumstances, out of the Bible, contact with white society,
+  and African influences, as something new and unique, not merely traditional
+  or imitative. Genovese's is a highly impressive book, which made an
+  important general point. ... It meant seeing as agents and makers groups
+  which had hitherto tended to figure in historical accounts only as
+  sufferers of their grim fates or, for the administrative or governmental
+  mind (reflected in some historians), as problems and even nuisances."
+
+ 7 Jul 2020  <a name="7-Jul-2020"></a>
+
+- *Hellgoing* by Lynn Coady (2013), from the story 'The Natural Elements'
+  p. 142, 149 (no link):
+  "... Big money! Big payoff! To own property that close to the university,
+  was, this past year, like sitting in your backyard and having the ground
+  suddenly start to rumble and spew oil like on *The Beverly Hillbillies*.
+  It was a city of Beverly Hillbillies lately -- everyone cashing in. ...
+  It was like with construction these days -- too much work, too few
+  companies.  There were always bigger, more lucrative jobs.  Workmen tore
+  holes in people's walls, went away, and never returned.
+
+  What was the good of all this money?  If it made no one responsible
+  to anyone else?  If it made life not easier, but in some cases
+  impossible?  He thought of this as he pulled up to the non-existent
+  sidewalk ... buried, like everything, in snow. ..."
+
+ 2 Jun 2020  <a name="2-Jun-2020"></a>
+
+- <https://www.buzzfeednews.com/article/brandontaylor/i-dont-miss-being-a-scientist-except-when-i-do> -
+  Working In Science Was A Brutal Education. That's Why I Left.
+  By Brandon Taylor, author of the novel *Real Life*.
+
+  "*Do you miss being a scientist?* some people ask.
+
+  ... Science was beautiful and it was wild and it was unknowable. Science
+  was spending days and weeks on a single experiment with no way to know
+  if it would work and no real way to tell if it *had* worked. Science was
+  like trying to find your way to a dark forest only to realize that you
+  had always been *inside* of the forest and that the forest is inside of
+  another, greater, darker forest. ... Science was being taught to think.
+  Taught to speak. Science was a finishing school. Science was a brutal
+  education. Science made me ruthless. Science made me understand the vast
+  beauty of the world. ..."
+
+  "*Does science influence your writing?*
+
+   ... People presume that science and writing are quite different. But they
+   are both ways of knowing. They are ways of understanding the greater
+   mystery of the world. They are systems of knowledge and inquiry. I do
+   not understand something until I have written it, or more accurately
+   put, until I have written my way *through* it.
+
+   I think in many ways, the best preparation for a writer is a period of
+   prolonged and rigorous thought about a difficult and complicated
+   question. You learn to assemble your resources. You learn to fight with
+   yourself. You learn to quarrel on the page with your worst ideas and
+   with the ones you hold dearest. You treat your expectations with
+   suspicion. You demand *proof*. You demand *evidence*. You think hard about
+   the alternate hypothesis or other explanations, and you devise
+   strategies to root these out. You learn to live with doubt. You try to
+   prove yourself wrong. You look for places where you have been too soft.
+   Too vague. You eliminate language that contains falsehoods. You
+   eliminate language that can mislead your reader. You ask questions. You
+   pursue answers with all the energy you can muster. You try to put
+   language to what it is you observe. You develop a stamina for
+   iteration. You develop a thick skin. You learn to seek criticism. You
+   treat criticism like kindness. You churn the raw material of life into
+   something that can be understood, and when you fail, you marvel at the
+   mystery of things."
+
+   "*Do you miss science?*
+
+   ... I think if people knew what it was that I left, then they'd know better
+   than to ask. It would be like asking someone if they were sad to have
+   left their home with no prospect of returning. It would be like asking
+   someone if they were sad to have left their faith behind. It would be
+   like asking someone if they were sad to have given up some fundamental
+   idea about who they are. It would be like asking someone if they were
+   sad to have watched their life burn to the ground. It would be like
+   asking someone if they were sad to have left their family and friends. ...
+
+   When people ask if I miss science, the only answer available to me is
+   an incomplete solution to the problem: *Yes. No. Sometimes. It's over
+   now.*"
+
+ 2 May 2020  <a name="2-May-2020"></a>
+
+- *Arithmetic* by Paul Lockhart (2017), pages vii, 93, 151 (no link):
+  "Arithmetic is the skillful arrangement of numerical information
+  for ease of communication and comparison ...
+  Being good at it doesn't make you particularly smart or
+  mathematically inclined ... Similarly, begin unskilled at arithmetic
+  does not mean you are stupid or that you do not have a mathematical
+  mind.  Arithmetic is just like any other craft; you can get good at it if
+  you want to, but it is no big deal either way. ...
+
+  ... let's understand that *7 x 8* is not a question and *56* is not an
+  answer.  Seven times eight is a *number*, and it is capable of being
+  represented a great many ways.  At the moment it is held as seven groups of
+  eight, and a user of an octal system would be quite pleased and would not
+  feel the need to "do" anything to it.  When we ask, "What is seven times
+  eight?" what we are really asking is, "How can seven groups of eight be
+  rearranged into groups of ten for ease of comparison with other numbers that
+  are similarly grouped?"  Numbers couldn't care less what grouping system you
+  happen to use and neither do mathematicians.  Numbers are what they are, and
+  they do what they do; your desire to *compare* is the issue, and your
+  culturally determined choice of representation system is quite secondary.
+  Another thing to notice is that when we say something like "seven times ten
+  is seventy," there is an amusing content-free circularity to such a
+  statement.  After all, the word *seventy* is simply an abbreviated form of
+  seven tens. ...
+
+  So the practical problem of arithmetic has been completely and utterly
+  solved. ... The long historical saga of representation systems and
+  abacuses has come to an end.  So you can take your tabula and your calculus
+  stones, your counting coins and soroban and throw them all away.  Leave the
+  pencil and paper in the drawer.  If you need to do some Hindu-Arabic
+  decimal place-value arithmetic, simply take out your phone and push some
+  buttons.
+
+  There is no cause for weeping and moaning; it is simply the way of all
+  things.  Where is your family spinning wheel? ... you can still do arithmetic
+  by hand if you want to.  Perhaps this may even rekindle your relationship
+  to pencil-and-paper arithmetic, seeing it anew as a quaint, outmoded
+  thirteenth-century folk art.  Whatever.  The point is that the story of
+  arithmetic, at least from a mundane practical point of view, is over.
+  Now we can turn our attention to the more conceptual, theoretical
+  aspects of this beautiful subject.  Our goal is not utility or practicality
+  but intellectual pleasure and understanding."
+
+24 Apr 2020  <a name="24-Apr-2020"></a>
+
+- <https://www.pippinbarr.com/2017/03/03/maybe-its-important-to-hate-what-you-do/> -
+  "Kind of hate (my project) *v r 3*  these days, just so you know. It's not an uncommon
+  experience for me with any project that takes longer than a week or so,
+  and I think it's probably not uncommon for many of us working on any
+  creative project. ...
+  One way I've found helpful for dealing with this, especially for *v r 3*
+  actually, has been forcing myself to kind of fall in love with all the
+  problems by finding them "interesting". ...
+  things are going wrong constantly, but ... that can be seen as a kind of
+  insight into the nature of making a videogame, or the nature of the
+  engine I'm using, ... and so on.
+  That strategy worked very well for quite a long time for what has been a
+  deeply frustrating and humbling project. ...
+  But ... now it just feels like the ground truth here is that I'm a bit of
+  a bumbling incompetent trying to do things that aren't very difficult and
+  failing. ...
+
+  However, some small encouragement came the other day from ... (another artist).
+  ...  he talks about how he always feels at his most unhappy working when
+  he's working on something important. That could just be yet another nice
+  psychological trick, like finding hardship interesting, but it's cheering
+  to think that maybe if you hate what you do it's because what you do is
+  just SO IMPORTANT. Too important to stop doing, for example.
+
+  But then, if we're being brutally honest, you can't stop even if it's not
+  all that important, can you? You're making the stupid thing because at
+  some level that's just what you need to do right now. Throwing it in the
+  trash would be glorious, but you'd just be back a few minutes later
+  fishing it out."
+
+  (Compare to Geoff Dyer's excerpt at [17 Feb 2019](#17-Feb-2019), the last two paragraphs
+  about trying to write his book on D. H. Lawrence.)
+
+29 Mar 2020  <a name="29-Mar-2020"></a>
+
+- *Measurement* by Paul Lockhart (2012), pages 1, 5, 50, 32-33, 36-37, 42-45,
+  125-127, 223-225, 295, 316-317, 320-327, 349-350 (no link):
+  "There are many realities out there.  There is, of course, the physical
+  reality we find ourselves in. ... I want to talk about a different sort of
+  place.  I'm going to call it 'mathematical reality.' ... Mathematical
+  reality ... is imaginary.  I get to have all those perfect things I can't
+  have in real life.  I will never hold a circle in my hand, but I
+  can hold one in my mind.   And I can measure it. ..."
+
+  "What is a math problem? To a mathematician, a problem is a *probe* --
+  a test of mathematical reality to see how it behaves. ...
+  The solution to a math problem is not a number; it's an argument,
+  a proof.  We're trying to create these little poems of pure reason. ..."
+
+  "What is measuring?  ... we are making a comparison. We are comparing the
+  thing we are measuring to the thing we are measuring it with.
+  In other words, *measuring is relative*. ... what sort of units do we
+  want for our imaginary mathematical universe?  For instance, how are we
+  going to measure the lengths of these two sticks?  Let's suppose ...
+  that the first stick is exactly twice as long as the second.
+  Does it really matter
+  how many inches or centimeters they come out to be?  I certainly don't want
+  to subject my beautiful mathematical universe to something mundane
+  and arbitrary like that.  ... One way to think if it
+  is that we simply aren't going to have any units at all, just proportions.
+  Since there isn't a natural choice of unit for measuring length, we won't
+  have one.  ... The other way to go is to say that since the units don't
+  matter, we'll choose whatever unit is convenient. ... a simple
+  example would be the perimeter of a square.  If we choose our unit to be
+  the side of the square, then the perimeter would obviously be 4.  What
+  that really means is that for any square, the perimenter is four times
+  as long as the side. ..."
+
+  "... We need to be clear about the extent to which we have specified our
+  objects so that we can ask well-posed, meaningful questions. ... let's
+  suppose we select a particular length and imagine a square with sides that
+  long.  *Now* is it locked down?  Yes, it is. ... any further demands that
+  we make on it might not be achievable.  For example, if we want our square
+  to have diagonals equal to its sides, well tough luck.  We don't get to have
+  that.  Once a shape (or any structure in mathematics) is specified enough,
+  the 'forces of mathematical nature' then dictate all of its behavior. We can
+  certainly try to find out what is true, but we no longer have any say in the
+  matter. ... the real question about mathematical reality is: How much control
+  do we have? ... How pliable is mathematical reality? ... Where can we push,
+  and where does it push back?"
+
+  "The study of size and shape is called *geometry*.  One of the oldest and
+  most influential problems in geometry is this one: how long is the diagonal
+  of a square? ... Our diagonal to side proportion cannot be expressed as a
+  fraction in any way -- no matter how many pieces we divide our unit into,
+  the diagonal will never come out evenly.   This discovery tends to have a
+  rather unsettling effect on people.  Usually, when we think about measuring
+  something, we imagine it requiring only a finite number of applications of
+  our ruler ... But this is not the case in mathematical reality. ...
+
+  The number we've discovered is called the square root of two ... the only
+  thing we really know about the square root of two is that its square is 2.
+  We have no hope of saying what this number *is* ... though of course
+  we can approximate it. ... the truth seems to be that we can't really
+  measure the diagonal of a square.  This is not to say that the diagonal
+  doesn't exist or that it doesn't have a length.  It does.  The number is out
+  there, we just can't talk about it in the way we want to.  The problem is
+  not with the diagonal, it's with our *language*.   Maybe it's the price we
+  pay for mathematical beauty.  We've created this imaginary universe (the
+  only place where measurement is truly possible) and now we have to face the
+  consequences.  Numbers like this that cannot be expressed as fractions are
+  called *irrational* (meaning 'not a ratio').  They arise naturally in
+  geometry, and we just have to somehow get comfortable with that. ..."
+
+  "... This is our generalized Pythagorean theorem relating the third side of
+  a triangle to the other two sides and the angle between them.  ... We seem
+  to have three separate cases (with three separate formulas) depending on
+  whether the angle is less than, equal to, or greater than a right angle.
+  This kind of thing is always a bit galling. ... Shouldn't there be one nice,
+  simple pattern?  One way to proceed is simply to be clever with our
+  definition.  Since *cos C* (at present) only has meaning when *C* is less
+  than a right angle, we are free to give any meaning we wish when *C* is
+  larger.  The idea is to do this in such a way that our Pythagorean relation
+  remains valid in all three cases.  That is, *we let the pattern determine
+  our choice of meaning*.  This is a major theme throughout mathematics; it
+  could even be said that this is the essence of the art ...  What we have
+  done here is to *expand the meaning of cosine*. ... With this choice of
+  meaning for cosine, we get a single Pythagorean relation valid for all
+  angles."
+
+  "... A shape has a shape, but a motion is a *relationship*.  How can we
+  'see' a relationship?  One idea, of course is to make a graph.  In the case
+  of a point moving on a line, we could imagine a chart with say, time as
+  the horizontal and position as the vertical. ... what we end up making is
+  a curve. ... The point itself is traveling within a one-dimensional space,
+  whereas the curve here, this graph of the motion, is sitting in a
+  two-dimensional space.  ... This environment is called *space-time*. ...
+  In this way, all motions can be thought of statically -- a motion in space
+  is the same thing as a curve in space-time, and this curve does not move.
+  ... Rather than asking how things move in our universe, a physicist ...
+  can reprhase the question as, what curves in space-time are possible?"
+
+  "... The idea is to subsume the study of shape and motion into the larger,
+  more abstract world of numerical variables and relationships.  This
+  viewpoint not only has the benefit of simplicity (there are no units to
+  worry about and we don't need to visualize anything) but also tremendous
+  flexibility and generality."
+
+  "A symbolic computation system ... is called a *calculus*. ... Thus we
+  have the *multiplicative calculus* of elementary arithmetic, which includes
+  a few procedures such as carrying and shifting, as well as the infamous
+  times tables.
+  The amazing power of this system is that it allows us to quickly and easily
+  perform calculations that would otherwise be very time consuming and
+  laborious.  To multiply 1876 by 316 ... nobody has to do the backbreaking
+  work of laying out 1876 rows of 316 rocks and then counting the whole
+  mess by hand.  A calculus is a fantastic thing to have.
+
+  It is also a very rare thing to have.  Most problems in mathematics do not
+  afford such systematic treatment.  In fact, most ... have required
+  tremendous ingenuity and specific individual treatment.  Every once in a
+  great while, a class of problems comes along for which a calculus can be
+  developed, and it is always a major achievement.
+  So it is a cause of great celebration that we have a differential calculus
+  -- a systematic procedure for calculating differentials that does not require
+  'pushing rocks together'; that is, it spares us from having to apply the
+  method of exhaustion from scratch.  ..."
+
+  "... I was telling you about Archimedes's measurement (of the area) of the
+  parabola. ...  Archimedes proved this using the method of exhaustion,
+  chopping the parabolic region up into triangles and rearranging them
+  cleverly.   It is a masterpiece of classical technique, and the
+  details are fairly intricate.  Now I want to show you a different
+  way ... (using differentials)
+
+  ... So now we have a purely technical question about differentials.
+  What must (the area) *A* be so that *dA = 4x^2dx* ?  Instead of asking how to
+  *d* (differentiate) something, we're asking how to un-*d* something!
+  This is a major theme in mathematics.  Anything interesting enough to do
+  is almost always interesting enought to undo. ...
+  It turns out, contrary to the case of *d* itself, that there is no
+  calculus for this.  That is, there does not (and cannot) exist a systematic,
+  step-by-step procedure for determining the solution to a differential
+  equation.  Which is not to say that there aren't many cases (including our
+  present one) where we *can* succeed, just that there is no universal
+  formula for success. ...
+
+  Luckily ... We can in fact solve the differential equation *dA = 4x^2dx*.
+  ... Not only that, but I can even offer a general methodology for solving
+  differential equations -- not one that will always (or even often) be
+  successful, to be sure -- but here it is: *guessing*.  Not random,
+  out-of-the-blue guessing, but intelligent, conscientious guessing,
+  informed by experience and sensitivity to pattern. ..."
+  (He then shows how he chooses an initial guess, then modifies it and checks
+  it to get the solution *A = (4/3)x^3*)
+
+  "... The big idea here is that geometry -- study of size and shape -- can be
+  subsumed into the study of variables (also called *analysis*). ... The curious
+  thing is why history went the way it did, and why the modern approach has
+  been so much more successful. ... Why, if these two viewpoints are equivalent,
+  should one of them be so much more powerful and convenient?  There is no question
+  that as visual animals we prefer a picture. ... But I know that when push comes to
+  shove, the truth is in the details, and the details are in the number pattern.
+  Of course, any analytic argument could be painstakingly translated into purely
+  geometric terms.  This tends, however, to produce very contorted and
+  artificial explanations in place of concise, almost too-simple-to-believe
+  analytic arguments.
+
+  I suppose what I'm really talking about here is modernism.  The exact
+  same issues -- abstraction, the study of pattern for its own sake,
+  and (sadly) the resulting alienation of the layperson -- are all present
+  in modern art, music, and literature.  I would even venture to say that we
+  mathematicians have gone the furthest in this direction ... Mathematics
+  is the only true abstract art.
+
+  For me, the psychological fact of the matter is that however aesthetically
+  and emotionally satisfying the geometric view may be, the analytic
+  approach is, in the end, far more elegant and powerful."
+
+10 Mar 2020  <a name="10-Mar-2020"></a>
+
+- *Mathematics: A Very Short Introduction* by Timothy Gowers (2002), preface,
+  pages 14-16, 18-24, 86-103, 118-121, 124, 132-133 (no link):
+  "(Some readers find) the square root of minus one, the
+  twenty-sixth dimension, and curved space (to be) disturbingly
+  paradoxical.  It is possible to become comfortable with these ideas
+  without immersing oneself in technicalities ... one should learn to
+  think abstractly, because by doing so many philosophical
+  difficulties simply disappear."
+
+  "Suppose that you are designing a map ... You would like to use as
+  few colors as possible, but do not wish to give two adjacent regions
+  the same color.  Now suppose that you are drawing up the timetable
+  for a university course.  Tne number of possible times for lectures
+  is limited, so some modules will have to clash. ... (you) would like
+  to choose the times in such a way that two modules clash only when
+  there is nobody taking both.
+
+  These two problems appear to be quite different, but an appropriate choice
+  of model shows that from the mathematical point of view they are the same.
+  In both cases there are some objects (countries, modules) to which something
+  must be assigned (colors, times).  Some pairs of objects are incompatible
+  (neighboring countries, modules that must not clash) in the sense that they
+  are not allowed to receive the same assignment.  In neither problem do we
+  really care what the objects are ... so we may as well just represent them
+  as points.  To show which pairs of points are incompatible we can link
+  them with lines.  A collection of points, some of which are linked by lines,
+  is a mathematical structure known as a graph. ... Once we have represented
+  the problem in this way, our task in both cases is to divide the vertices
+  into a small number of groups in such a way that no group contains two vertices
+  linked by an edge. ... This illustrates another good reason for making models
+  as simple as possible: If you are lucky, the same model can be used to study
+  many different phenomena at once."
+
+  "The abstract method in mathematics ... can be encapsulated by the following
+  slogan: a mathematical object *is* what it *does*.  ... (The natural) numbers
+  1,2,3,4,... are among the most basic of mathematical objects, but they do not
+  seem to encourage us to think abstractly.  What, after all, could a number like
+  5 be said to *do*? ... it seems to have an intrinsic nature, a sort of pure
+  fiveness we immediately grasp ... (But) numbers do not have to be very large
+  before we stop thinking of them as isolated objects and start to understand
+  them through their properties, through how they relate to other numbers,
+  through their role in a *number system*.  This is what I mean by what a
+  number 'does'.
+
+  ... without some idea of arithmetic one could have only the vaguest grasp of
+  a number like 1,000,017.  A number system is not just a collection of numbers
+  but a collection of numbers together with rules for how to do arithmetic.
+  Another way to summarize the abstract approach is to think about the rules
+  rather than the numbers themselves.  The numbers, from this point of view,
+  are tokens in a sort of game ... To get some idea of what the rules are ...
+  let me now list a few ... that we commonly use when adding and multiplying.
+  The commutative law for addition: *a + b = b + a* ... (and several others).
+
+  ... the idea of the number zero ... has seemed to many people to be a
+  mysterious and paradoxical concept, inspiring questions such as: 'How can
+  something exist and yet be nothing?'  From the abstract point of view,
+  however, zero is very straightforward -- it is just a new token introduced
+  into our number system with the following special property: *0 + a = a* "
+
+  "Euclid ... was the first author to make systematic use of the axiomatic
+  method, beginning his book with five axioms and deducing from them
+  a large body of geometry theorems. ... The fifth axiom is equivalent to the
+  so-called 'parallel postulate' which asserts that, given any line *L* and
+  any point *x* not lying on *L*, there is exactly one line *M* that goes
+  through *x* and never meets *L*.  ... Historically, the axiom that caused
+  the most suspicion, or at least uneasiness, was the parallel postulate.
+  It is more complicated than the other axioms, and involves the infinite in
+  a fundamental way. ... What (mathematicians) most wanted to do was deduce
+  it from the other four axioms, thus showing that one could dispense with it.
+  However, nobody managed to do so.
+
+  You might wonder how one could ever hope to show that the parallel postulate
+  does not follow from the rest of Euclid's axioms, if indeed it doesn't. ...
+  This question has a beautiful answer ... Euclid's first four axioms were
+  devised to describe the geometry of an infinite, flat, two-dimensional space,
+  but we are not obliged to interpret them that way, unless, of course, this
+  flatness actually follows from the axioms.  If we could somehow reinterpret
+  (one might almost say 'misinterpret') the axioms by giving new meaning to
+  phrases such as 'line segment' ... and if when we had done so we found that
+  the first four axioms were true but the parallel postulate was false, then we
+  would have shown that the parallel postulate does not follow from the other
+  axioms.
+
+  Why do we not just use spherical geometry as our reinterpretation?  ...
+  unfortuately, not all of the first four of Euclid's axioms are true in the
+  sphere.  ... Therefore, I shall turn to another reinterpretation, called
+  hyperbolic geometry ... hyperbolic geometry
+  satisfies the first four of Euclid's axioms. As for the parallel postulate,
+  it is false for hyperbolic geometry, just as we had hoped.  ... in hyperbolic
+  geometry we have exactly the alternative interpretation of the Euclidean
+  axioms that we were looking for in order to show that the parallel postulate
+  was not a consequence of the other four axioms."
+
+  "A prime number is a whole number greater than one that is divisible
+  by no other whole numbers ...  The (initial) prime numbers ... are
+  2, 3, 5, 7, 11, 13, 17, 19, 23, ... they appear to be somewhat randomly
+  distributed but not completely so. ... Given the sporadic, random-like
+  quality of the primes, it is quite surprising how much can be proved
+  about them.  Interestingly, theorems about the primes are usually
+  proved by *exploiting* this seeming randomness.
+
+  For example, ... Vinogradov proved ... that every large enough odd number
+  can be written as the sum of three prime numbers.  I cannot explain in this
+  book how he proved this, but what he did not do is find a *method* for
+  expressing odd numbers as sums of three primes.
+  Instead, ... he argued roughly as follows.   If you were to choose a
+  genuinely random sequence of numbers of about the same density as the
+  primes, then some elementary probability theory shows that you would
+  almost certainly be able to write all large enough numbers as the sum of
+  three members of your sequence. ...
+
+  Much research on prime numbers has this sort of flavor. ... It is interesting
+  that the probabilistic model is a model not of a physical phenomenon,
+  but of another piece of mathematics.  Although the prime numbers are
+  rigidly determined, they somehow feel like experimental data."
+
+  "I well remember my shock when I first heard a mathematician declare
+  that the exact value of a certain quantity would never be known.  Now
+  I am used to the fact that this is the rule rather than the exception.
+  ... Instead, therefore, one tries to find upper and lower bounds. ..."
+
+  "I implicitly drew a contrast between being technically fluent and
+  understanding difficult concepts, but it seems that almost everyone who
+  is good at one is good at the other.  And indeed, if understanding a
+  mathematical object is largely a question of learning the rules it obeys
+  rather than grasping its essence, then this is exactly what one would
+  expect -- the distinction between technical fluency and mathematical
+  understanding is less clear-cut than one might imagine.
+
+  How should this observation influence classroom practice? ...
+  For example, suppose that a pupil makes the common mistake of
+  thinking that *x^(a+b) = x^a + x^b*.   A teacher who has emphasized
+  the intrinsic meaning of expressions such as *x^a*
+  will point out that *x^(a+b)*
+  means *a + b* *xs* all multiplied together.  Unfortunately, many
+  children find this argument too complicated to take in, and anyhow
+  it ceases to be valid if *a* and *b* are not positive integers.
+
+  Such children might benefit from a more abstract approach. ...
+  everything one needs to know about the powers can be deduced from
+  a very few simple rules, of which the most important is
+  *x^(a+b) = x^a x^b*.   If this rule has been emphasized, then not
+  only is the above mistake less likely ... it is also easier to correct.
+  ... Of course, it is important to be familiar with basic facts
+  such as that *x^3* means *x* times *x* times *x*, but these can be
+  presented as consequences of the rules rather than as justifications
+  for them."
+
+  This book is not online but the author has some related essays here:
+  <https://www.dpmms.cam.ac.uk/~wtg10/vsipage.html>
+
+22 Feb 2020  <a name="22-Feb-2020"></a>
+
+- *Cosmic Profit* by Raymond Mungo (1980), pages 6 - 7 (no link): After describing
+  his brief experience working for a scam rental agency in Seattle in
+  the early 1970s: "Five months later, the agency disappeared, leaving
+  its employees owed several weeks' back pay and its customers in the
+  lurch.  Operations of its kind still exist in some United States cities.
+  They are perfect examples to us that crime does pay if you're mean
+  and stupid enough to victimize other people who trust you.
+  The owners were paranoid, competitive, apparently miserable.
+  They lived in hotel rooms out of suitcases, had no friends or families.
+  They paid for their misdeeds in the extreme povery of their lives.
+  They were the kind of guys who spend Christmas Day in a barroom.
+  And they proved that some people try to get rich selling absolutely
+  nothing at all."
+
+22 Feb 2020  <a name="22-Feb-2020"></a>
+
+- *Essays: One* by Lydia Davis (2019), pages 171, 173-174, 188, 238,
+  253 (no link): From Revising One Sentence:
+  "So there are many ways to justify writing in a notebook, a sentence
+  that you may never use. ...  I follow my impulses in writing (in the
+  notebook) without asking whether what I am doing is sensible, efficient,
+  even moral, etc.  I do it because I like to or want to -- which is where
+  everything in writing should begin anyway. (As for the question of
+  morality -- I won't *publish* something if it seems to me morally
+  wrong to publish it, but the act of exploration that is writing is
+  very different from the finality and public-ness of publishing.
+  Writing is still private until it is made public.)"
+
+  "Speaking of not being afraid when you write, ... I have evolved ...
+  two habits that make me not afraid.  One is the habit of starting
+  every story in the notebook, where it is under no pressure to be a
+  story; the other is ... I sit in front of the typed pages of a story
+  that is nearly finished ... and instead of working on it, I begin
+  another story in my notebook ...  It is easier to do that -- to begin
+  a story -- when it is not what I had planned to do. ... (I am) very
+  relaxed and comfortable because there is a clear-cut task to go back
+  to when I have nothing more to add, for the moment, to the new story.
+  Meanwhile the typed story just sits there. ...  Sometimes I have
+  four or five, or more, stories in progress at once.  It is nice to feel
+  that there is too much to work on rather than nothing at all --
+  the blank page. ..."
+
+  From Found Material, Syntax, Brevity ...: "This opening sentence
+  is more than ten lines long ... to be exact and economical does
+  not necessarily mean to be brief. ..."
+
+  From Thirty Recommendations for Good Writing Habits:
+  " ... Read the best writers from all different periods; keep your
+  reading of contemporaries in proportion -- you do not want a steady
+  diet of contemporary literature.  You already belong to your time."
+
+  "Cutting can be effective ... But this does not mean that  everything
+  has to be short.  You can write three thousand pages (as Proust did in
+  *In Search of Lost Time*) and still be economical.  In this case,
+  being economical simply means not saying more than you need to."
+
+12 Oct 2019  <a name="12-Oct-2019"></a>
+
+- Tales of Lost London by Laura Thompson, reviews of *The Memoirs of
+  Ironfoot Jack* and *London Made Us* in *TLS*, Oct 4 2019, p. 25 (no link):
+  "Do bohemians still exist? ... what defines the true bohemian is an attitude
+  to money: a willingness to laugh in the face of that all-powerful god.
+  Is this actually possible today?  In today's London it can seem as though the
+  tiniest space, the most casual activity, has been seized and monetized, and
+  the freedoms that breeze through Ironfoot's narrative have been squeezed to
+  near-death.  This is the underlying theme of ... *London Made Us*, a book
+  infused by the angry fear that money -- London's lifeblood -- has become
+  more like a poison in its veins.
+
+  ... (the author) adores Soho, or what Soho was. ... "Soho isn't a village",
+  he rightly says, "it's an Alamo, a fortress under seige from the forces of
+  conformity".  In fact the fight is probably lost, and the merry
+  non-conformists "gone with the wind", in Ironfoot's phrase. ..."
+
+2 Sep 2019  <a name="2-Sep-2019"></a>
+
+- <http://thirdcoastpercussion.com//downloads/2015/04/Terry-Riley-In-C-concert2.pdf>
+  *In C* by Terry Riley, score and playing instructions.  Via
+  <https://www.metafilter.com/182890/Drums-Marimbas-Glockenspiel-Piccalo-Singing-Whistling-Drumming>
+  on *Drumming* by Steve Reich.
+
+ 6 Aug 2019  <a name="6-Aug-2019"></a>
+
+- <https://www.youtube.com/watch?v=HT6MWtZLHe4> Moondog: Voices of Spring,
+  arranged by Joanna MacGregor for the Britten Sifonia with Andy Sheppard
+  (sax) Kuljit Bhamra (tabla/percussion) and others.
+  <https://www.youtube.com/watch?v=2xzR5Zk4T0c> - Rabbit Hop
+  <https://www.youtube.com/watch?v=3Xvk5cuHpbs> Heath on the Heather.
+  And any other tracks from this album.
+
+- <https://www.youtube.com/watch?v=CG-GLkHG4C0> - Nancarrow: Study #21
+  for Player Piano (Canon X)
+
+ 7 Jul 2019  <a name="7-Jul-2019"></a>
+
+- <https://ask.metafilter.com/335596/Marriage-without-in-sickness#4824828>
+  Marriage, without "in sickness"?
+
+  *"I am looking for ethical advice about what happens when a marriage
+  encounters really serious health problems. ..."*
+
+  "What I hear at the base of this question is a desire to avoid suffering,
+  which, unfortunately, is not something you can do. You will age, get
+  sick, suffer and die, along with everyone else you know. Creating a
+  marriage with an escape clause will not exempt you from this terrible
+  truth.
+
+  The trick we all need to work on is to root ourselves somewhere deeper
+  than 'happiness' -- to devote ourselves to a life-meaning which doesn't
+  completely dissolve in the face of suffering. For some people this is
+  devotion to family, for others it is a life's work, especially one which
+  serves the community/culture/biosphere, perhaps in a
+  political/artistic/religious way. Basically, if you don't want to be
+  absolutely slayed by suffering, you have to invest your personal
+  treasure in something bigger than your own happiness.
+
+  One way people have historically done this is through devotion to
+  partner and family. Having children, for instance, is in many ways
+  objectively unpleasant, in the sense that nobody in their right mind
+  would want to put their bodies through pregnancy and birth, let alone be
+  woken up constantly for months to years, and get food thrown at them and
+  etc. But people do it over and over again, because for many people,
+  though it really harshes ones pleasure/hedonia quotient, it also greatly
+  increases your life-meaning/eudaimonia quotient.
+
+  (I think a lot about people whose lives had a great deal of meaning and
+  also unusually large helpings of suffering, stress, illness, misfortune
+  and discord -- Martin Luther King, Malcolm X, FDR, Frida Kahlo and Diego
+  Rivera, Joan of Arc, Mother Theresa, Silvia Rivera, Oscar Romero, as
+  well as all the unacknowledged forest protectors, animal rescuers,
+  mothers, fathers, foster parents.)
+
+  Of course, you can negotiate marital escape clauses, be polyamorous, or
+  anything that suits both you and your partner(s), but still -- you won't be
+  young and hot forever. You will eventually experience the suffering of
+  having those happinesses taken away from you, whether through aging,
+  divorce, illness or death. It sounds like right now you feel a lot of
+  terror about not being able to cope with that loss, which is perfectly
+  understandable. But it's also a diagnostic telling you that your life may
+  be imbalanced -- that your way of living, and conceptualizing your life,
+  may be over focused on happiness/pleasure and underfocused on life-
+  meaning/community/devotion.
+
+  In short: spring is beautiful, but winter is inevitable -- get a warm
+  coat."
+
+15 Jun 2019, 3 May 2022  <a name="15-Jun-2019"></a>
+
+- Hauntings by Tom Graham, review of K-PUNK by Mark Fisher, *TLS*,
+  May 24, 2019, p. 32 (no link): " ... it is hard to shake the feelihg that
+  we are currently gripped by a retromania that stands in stark contrast to,
+  say, the dynamic futurism of the 1960s or the early twentieth century.  ...
+  Fisher contends that a principle reason for this imaginative decline is the
+  "time poverty" engendered by late capitalism ... to the detriment of
+  innovation, boredom itself has been has been radically transformed by the
+  advent of digital media.  Today the slightest hint of restlessness or
+  pocket of spare time tends to have us reaching for our smartphones --
+  and yet the possiblity of real boredom, and the urgent desire to escape it,
+  has historically acted as an important cultural catalyst. For punks in the
+  1970s, the "dreary void of Sundays, the night hours after television stopped
+  broadcasting, even the endless dragging minutes spent waiting in queues or
+  for public transport" were viewed as a "challenge, an injunction and an
+  opportunity".  Nowadays, "in the intensive 24/7 environment of capitalist
+  cyberspace, the brain is no longer allowed any time to idle; instead, it is
+  inundated with a seamless flow of low-level stimulus".  In compulsively
+  engaging with frivolous online content that we recognize -- even
+  celebrate -- as tedious, we sorely limit ourselves.  We have arrived at a
+  situation in which "no one is bored, everything is boring" ..."
+
+  <http://k-punk.abstractdynamics.org/> - Archived *K-Punk* blog by Mark Fisher
+
+- <https://www.nplusonemag.com/online-only/book-review/lingering/> -
+  Lingering by Benjamin Kunkel, review of several books in *n+1*, May 31 2009 -
+  "... The truth is that we are often bored to death by what we find
+  online -- but this is boredom on the installment plan, one click a time, and
+  therefore imperceptible. ..."
+
+- <https://news.ycombinator.com/item?id=31216377> (2022) - 
+  Taking the internet off the hook  -
+  *verisimi* writes: "We can say we live in a world of endless distractions
+  that keep us from more worthy causes, but we are also choosing to spend
+  our time being distracted. This is stating the obvious, but we must want
+  to be endlessly distracted, otherwise we wouldn't do it."
+
+  *nonrandomstring* responds: "In my research I picked up on very little
+  joy or excitement. This is a notable contrast to my own experience of
+  technology as a young person. Being a geek, when I was 20 or 30 my
+  passion for all things new was raging, and it still is at 50. But for
+  people I spoke to in 2020, even quite nerdy types, there's a definite
+  sense around technology of misery interspersed with moments of
+  satisfaction/relief.
+
+  Psychologically, and based on experiences with seeing addiction destroy
+  lives, it seems quite consistent with dependency and lack of control.
+  ..."
+
+23 May 2019  <a name="23-May-2019"></a>
+
+- <https://www.youtube.com/watch?v=62tIvfP9A2w> - The Most Feared Song in Jazz, Explained -
+  "Making sense of John Coltrane's 'Giant Steps' ... It's known across the jazz world
+  as one of the most challenging compositions to improvise over for two reasons -
+  it's fast and it's in three keys. ... (here is)
+  a crash course in music theory to help (us) understand this notoriously difficult song ..."
+
+- <https://www.youtube.com/watch?v=KNgA7dDs90E> - The Greatest Album Covers of Jazz -
+  "... bold typography, two tone photography, and minimal graphic design ...
+  Blue Note captured the refined sophistication of jazz during the early 60s,
+  particularly during the hard bop era, and gave it a definitive visual identity
+  through album covers. ..."
+
+- <https://www.youtube.com/watch?v=iUr97kAtuAc> - Jazz 625 At The BBC Live Concert Video -
+  "... recorded in 1964 and '65, featuring the giants of the jazz scene, from Dizzy Gillespie
+  to the Modern Jazz Quartet. This (YT video) is a good sampler of music from the show,
+  but a few whole episodes are available online, and I've put links to the ones I found (here):"
+  <https://www.metafilter.com/180812/They-looked-so-great-when-they-played-Charlie-Watts>
+  for example <https://www.youtube.com/watch?v=3wkhyUl_Vmw> - Bill Evans Trio - and
+  <https://vimeo.com/319508635> - Thelonius Monk
+
+27 Apr 2019  <a name="27-Apr-2019"></a>
+
+- <https://web.cs.ucdavis.edu/~devanbu/belief+evidence.pdf> - Belief and
+  Evidence in Empirical Software Engineering by Prem Devanbu, Thomas
+  Zimmermann, and Christian Bird, *ICSE 16*, 2016: "The project of
+  adapting belief to evidence is as old as science itself ... there is
+  a systematic process by which one’s prior beliefs are integrated
+  with the data; this is the realm of statistical inference.  Two
+  competing statistical inference methods are available: Frequentist
+  and Bayesian.
+
+  Frequentists assert that the probability of correctness of a theory
+  should be indirectly (but exclusively) inferred from the frequency
+  with which the consequents of the theory are observed in experiments
+  ... This view is empirical, and entirely grounded on observation,
+  and data, leaving no room for prior belief.  ... This way, of
+  ignoring prior belief, and taking a neutral belief stance, is
+  epistemically symmetric: all beliefs are considered equiprobable
+  ... with all possible related hypotheses being considered equally
+  likely before the experiment begins; and after the experiment is
+  done, and the data is gathered, you can calculate the probability
+  (p-value) of the observation, under each (a priori equiprobable)
+  hypothesis, and reject the null hypothesis if it renders the data
+  observation sufficiently improbable.
+
+  In the Bayesian world-view, the prior belief regarding the
+  hypothesis must be considered.  In an experimental setting, we
+  ... interpret the data in the context of our prior belief, and then
+  combine the prior belief with experimental data to yield an updated
+  posterior belief.  Bayesians argue that is a more realistic view of
+  how people actually react to evidence: we are more doubtful of
+  outlandish claims, and ask for stronger evidence. ...
+
+  The use of the frequentist p-value has recently come under attack,
+  most prominently by (authors) with the publication of
+  the alarmingly titled paper “Why most published scientific results
+  are wrong”.  The paper notes that quite a number of very prominently
+  reported scientific results turn out to be wrong, and are
+  subsequently retracted. ...
+
+  At the outset, we note that many of the (Bayseian) arguments are
+  applicable in settings where experimental power (*viz*, the
+  *unlikelihood* of a false negative finding) is limited by practical
+  considerations, such as cost, effort, or the need for human
+  subjects.  In ... “big data” settings ... sample sizes in the
+  thousands ... afford formidable experimental power (even for effects
+  that are statistically small) and also yield very low p-values
+  (false positive rates).  This power allows experimental p-values to
+  take a dominant role, and attenuate the effect of prior beliefs. ...
+
+  (Bayesians) ... have argued that frequentist p-values are only one
+  component of a rational approach to scientific knowledge.  ...  if
+  one assumes that the prior probabilities of a hypothesis being true
+  or false are not equal, and that the hypothesis is actually false,
+  then simple experimental error (false positive rate, as well as
+  false negative rate) leads to a higher rate of erroneous alternative
+  hypothesis confirmation ("false discovery"), as given by (this formula).
+  More concretely, if you give a hypothesis a 25% prior chance of
+  being true, and even your false negative rate is vanishingly small,
+  then with a p−value of 0.05, there is an almost 13% risk of false
+  discovery.  This can be viewed as a Bayesian account of the popular
+  adage "extraordinary claims require extraordinary evidence"; the
+  more extraordinary the claim, the lower the prior belief ..."
+
+  via <https://ask.metafilter.com/333495/Software-engineering-where-is-the-data> -
+  "I'm a programmer (and long-ago scientist) looking into software
+  engineering best practices. As a field of scientific study, it
+  seems... well, let's say, lean. ... What resources are there to
+  catch up on what's going on in the field?"  Many answers follow with
+  other links to empirical studies of software engineering.
+
+
+27 Apr 2019  <a name="27-Apr-2019"></a>
+
+- <https://sourcebooks.fordham.edu/basis/gregory-hist.asp#book2> - 
+  *History of the Franks* by Gregory of Tours, translated by
+  Ernest Brehaut.  Written before 594, about the invasions that ended
+  Roman rule in Gaul and the Frankish kingdoms that replaced it.
+  I think any reader would call this a dark age.  Book II begins:
+
+  "Following the order of time we shall mingle together in our tale
+  the miraculous doings of the saints and the slaughters of the
+  nations.  I do not think that we shall be condemned thoughtlessly if
+  we tell of the happy lives of the blessed together with the deaths
+  of the wretched, since it is not the skill of the writer but the
+  succession of times that has furnished this arrangement. ..."
+
+  See also *The Ruin of Britain* by Gildas,
+  <https://blogs.bl.uk/digitisedmanuscripts/2019/06/gildas.html>
+
+31 Mar 2019  <a name="31-Mar-2019"></a>
+
+- *The Autobiography of Malcolm X* as told to Alex Haley (1965),
+  Chapter 11, Saved, pages 174-176, 183 (no link):
+  "It had really begun, back in the Charlestown Prison, when Bimbi made me
+  feel envy for his stock of knowledge. ... But any book I picked up had few
+  sentences which didn't contain one to nearly all of the words that might
+  have been in Chinese.  When I just skipped those words, of course, I really
+  ended up with little idea of what the book said. ...
+  I saw that the best thing I could do was get hold
+  of a dictionary.  ... that moved me to request a dictionary along with some
+  tablets and pencils from the Norfolk Prison Colony school
+
+  I'd never realized how many words existed! I didn't know *which* words I needed to learn.
+  Finally, just to start
+  some kind of activity, I began copying.  In my slow, painstaking, ragged
+  handwriting, I copied into that tablet everything printed on that first page ...
+  I believe it took me a day.  ...  Then, aloud, I read back to myself, everything
+  I'd written on the  tablet.  Over and over, aloud, to myself ...
+  I woke up the next morning, thinking about those words -- immensely proud
+  to realize not only that I had written so much at one time, but I'd written words
+  that I never knew were in the world.  Moreover ... I could remember what many
+  of these words meant. ...
+
+  I was so fascinated that I went on -- I copied the dictionary's next page.
+  ... With every succeedeing page, I also learned of people and places and events
+  from history.  ... Finally the dictionary's A section had filled a whole tablet --
+  and I went on into the B's.  That was the way I started copying what eventually
+  became the entire dictionary. ... during the rest of my time in prison I would
+  guess I wrote a million words.
+
+  ... as my word-base broadened, I could for the first time pick up a book and
+  read and now begin to understand what the book was saying.  Anyone who has
+  read a great deal can imagine the new world that opened. ... from then until
+  I left that prison, in every free moment I had, if I was not reading in the
+  library, I was reading on my bunk. ... months passed without my even thinking
+  about being imprisoned.  In fact, up to then, I had never been so truly free
+  in my life.
+
+  ... No university would ask any student to devour literature as I did when
+  this new world opened up to me. ...
+  I don't think anyone got more out of going to
+  prison than I did.  In fact, prison enabled me to study far more
+  intensively than I would have if my life had gone differently and I
+  had attended some college. ... Where else but in a prison could I have
+  attacked my ignorance by being able to study intensely sometimes as much
+  as fifteen hours a day?"
+
+  (Compare to Anthony Burgess and John McPhee below on reading the dictionary.)
+
+20 Mar 2019  <a name="20-Mar-2019"></a>
+
+- *But Beautiful: A Book About Jazz* by Geoff Dyer (1991), pages 184-186, 188-189,
+  192-193, 194-197, 197-198 (no link):
+  personal, imaginative retellings of incidents from
+  the lives of musicians: Lester Young, Thelonious Monk and others.
+  From the much different omniscient Afterword:
+
+  "... From the beginning (jazz) developed through the shared participation
+  of a community of audiences and performers ... every time (a musician)
+  picks up his horn, he cannot avoid commenting, automatically and implicitly
+  ... on the tradition that has laid the music at his feet.  ...
+  Ideally, a new version of an
+  old song is virtually a recomposition and this labile relation between
+  composition and improvisation is one of the sources of jazz's ability to
+  constantly replenish itself. ...
+
+  There are two apparently contradictory ways in which the antecedent's voice
+  makes itself heard.
+  Some musical personalities are so strong .. that they colonize
+  a whole area of expression, and others can encroach on it only at the
+  price of surrendering their individuality. ... It is now almost impossible
+  for a trumpeter to play a ballad with a Harmon mute and not sound as if
+  he is imitating Miles Davis.  Alternatively, there are
+  rare instances of musicians assimilating their predominant influences to
+  such an extent that they seem at times, as Harold Bloom has said of some
+  poets, to "achieve a style that captures and oddly retains priority over
+  their precursors ... and one can believe for startled moments, that they
+  are being *imitated by their ancestors*." ... Lester Young frequently sounds
+  as if he is indebted to those like Stan Getz who in fact owe their sound
+  entirely to him.   At times early Keith Jarrett makes us wonder if
+  Bill Evans does not sound too much like Jarrett.
+
+  ... hand in hand with jazz's capacity to absorb its surrounding
+  history goes its capacity to raise to the level of genius those who would
+  otherwise have lacked a medium to express themselves. ... In what other
+  art form could a man like Art Pepper have achieved the beauty he did?"
+
+  Anyone who becomes interested in jazz is struck very early on by
+  the high casualty rate among its practitioners. ... Virtually all
+  black musicians were subject to racial discrimination and abuse. ...
+  While (some) who dominated jazz in the 1930s ended up as alcoholics,
+  the generation of musicians who forged the bebop revolution in the 1940s
+  and consolidated its development in the 1950s fell victim to a virtual
+  epidemic of heroin addiction.  Drug addiction led directly (in the cases
+  of (some)) and indirectly (in the cases of (others)) to jail.  The routes
+  to the psychiatric wards of hospitals, while a good deal more tortuous,
+  was just as well trodden. ... (These) -- so many of the leading figures
+  of the 1940s and 1950s suffered some kind of breakdown that it is only
+  a slight exagerration of perspective to say that Bellevue has an almost
+  equal claim to Birdland as being the home of modern jazz.
+
+  Students of literature routinely find the early deaths of Shelley and Keats
+  ... as fulfilling the doomed caveat of the Romantic agony. ...
+  the suggestion is that premature death is a condition of creativity ...
+  For jazz musicians of the bebop era making it into middle age begins to
+  seem like a dream of longevity.  John Coltrane died at forty, Charlie
+  Parker at thirty-four ... In a few cases their talent was so prodigious
+  that at the time of their deaths some musicians had already produced an
+  important body of work -- but even this consolidated achievement painfully
+  emphasizes how much might have been accomplished in the years to come.
+  Clifford Brown had already established himself as one of the greatest
+  trumpeters of all time when he was killed in a car crash at age twenty-five
+  ... when you consider that if Miles Davis had died at a similar age we would
+  have nothing beyond *The Birth of the Cool*, some sense of the scale of the
+  loss appears.
+
+  If at first it seems melodromatic to suggest that there is something
+  inherently dangerous in the form, a little consideration is likely
+  leave us wondering how it could be otherwise.
+  ... from the 1940s onward jazz advanced with the power and ferocity of a
+  fire sweeping through a forest.   How could an art form have developed so
+  rapidly and at such a pitch of excitement without exacting a huge human toll?
+  If jazz has a vital connection with "the universal struggle of modern man"
+  how could the men who create it not bear the scars of that struggle?"
+
+10 Mar 2019  <a name="10-Mar-2019"></a>
+
+- <http://www.cheng.staff.shef.ac.uk/morality/morality.pdf> -
+  Mathematics, Morally by Eugenia Cheng - "... The key characteristic
+  about proof is not its infallibility, not its ability to convince
+  but its *transferrability*. Proof is the best medium for
+  communicating my argument to X in a way which will not be in danger
+  of ambiguity, misunderstanding, or defeat. Proof is the pivot for
+  getting from one person to another, but some translation is needed
+  on both sides.
+
+  So when I read an article, I always hope that the author will have
+  included a reason and not just a proof, in case I can convince
+  myself of the result without having to go to all the trouble of
+  reading the fiddly proof. When this does happen, the benefits are
+  very great. But is it always possible? ..."
+
+10 Mar 2019  <a name="10-Mar-2019"></a>
+
+- Ghosts and Psychic Dreams: The Dizzying Fiction of Anthony Burgess, by
+  Margaret Drabble, *TLS*, Feb 22 2018, p. 3 (no link): "... Burgess suffered
+  from ... an excessive love of words and language ... he cheerfully recommends
+  "ransacking the dictionary" when in need of an inspirational boost.  Rejecting
+  a critic who praised Shakespeare's dying delerium in his novel *Nothing Like the
+  Sun* (1964) as "wrting of the highest order', he confesses, "Not quite so, really.
+  I had taught myself the trick of contriving a satisfactory coda
+  by what, in music, is termed aleatory means: I flicked through the dictionary
+  and took whatever words leapt from the page.  I did this again at the end of my
+  Napoleon novel: the effect is surrealistic, oceanic, and easily achieved".  This is
+  a very odd mode of composition.  Laura Sage nailed it in a review ... "Better the
+  collective unwisdom of the verbal stew, he would say, than any tyrannous signature".
+  ..."
+
+17 Feb 2019  <a name="17-Feb-2019"></a>
+
+- *Out of Sheer Rage: Wrestling with D. H. Lawrence* by Geoff Dyer (1997),
+  pages 90, 137-138, 149, 152-153, 229, 231-232 (no link):
+  "All the work of (Lawrence's) maturity was built on his
+  relationship with Frieda. 'Fidelity to oneself means fidelity single and
+  unchanging, to one other one.'  His adult life begins with the unalterable
+  fact of his marriage. ...
+
+  Films and books urge us to think that there will come certain moments in our
+  lives when, if we can make some grand, once-in-a-lifetime gesture ...
+  then we will be liberated, free.  Moments --
+  crises -- like these are crucial to the cinema or theatre where psychological
+  turmoil has to be externalized and compressed.  Dramatically speaking what
+  happens after moments like these is unimportant even though the drama continues
+  afterwards, with the consequences of these sudden lurches beyond the
+  quotidian. ... Unless, like Thelma and Louise, you plunge off the side of a
+  canyon, there is no escaping the everyday.  What Lawrence's life demonstrates
+  so powerfully is that it actually takes a daily effort to be free.  To be free
+  is not the result of a moment's decisive action but a project to be constantly
+  renewed.  More than anything else, freedom requires tenaciousness.  There are
+  intervals of repose but there will never come a state of definitive rest where
+  you can give up because you have turned freedom into a permanent condition.
+  Freedom is always precarious. ...
+
+  What is surprising is to find that the parts of the correspondence of a great
+  writer I most like are those which would be edited out if any kind of selection
+  were made, i.e. those having nothing to do with his genius and everything to
+  do with his ordinariness, with the ordinariness he claimed to loathe. The fact
+  that Lawrence wrote *Lady Chatterly's Lover* means next to nothing to me; what
+  matters is that he paid his way, settled his debts, made nice jam and
+  marmalade, and put up shelves.
+
+  You see I've decided to butch it out, to go in the opposite direction
+  to that suggested by yoga and meditation.  The yoga-meditation-zen path leads
+  to peace with the world and oneness with the infinite.  Petty annoyances fade
+  into insignificance, the ego dissolves, and you are left in a state of unruffled
+  serenity and calm.  Or so I gather.  It's never worked for me.  Faced with the
+  thousands of petty annoyances and grievances encountered in the course of a
+  week ... (I'm) shaking my fist at the world.  I won't let even the smallest
+  grievance escape me.  I'm going to seize on the most insignificant
+  inconvenience, annoyance, hindrance, set-back, disappointment and am going
+  to focus all my rage, anger, bitterness, and frustration on it. ...
+
+  ... the alternatives to giving in and giving up are never as simple as they
+  seem.  Believe me, I know.  I've devoted more of my life to thoughts of
+  giving up than anyone else I can think of.  Nietzsche wrote that the thought
+  of suicide had gotten him through many a bad night, and thinking of giving
+  up is probably the one thing that's kept me going.  I think about it on a daily
+  basis but always come up with the problem of what to do when I've given up.
+  Give up one thing and you're immediately obliged to do something else.  The
+  only way to give up totally is to kill yourself but that one act requires an
+  assertion of will equal to the total amount that would be expended in the rest
+  of a normal lifetime.  Killing yourself is not giving up, it's more like a
+  catastrophic fast-forwarding. ...
+
+  And there you have it.  One way or another we all have to write our studies
+  of D. H. Lawrence.  Even if they will never be published, even if we will
+  never complete them, even if all we are left with after years and years of
+  effort is an unfinished, unfinishable record of how we failed to live up to
+  our own earlier ambitions, still we all have to try to make some progress with
+  our books about D. H. Lawrence.  The world over, from Taos to Taormina, from
+  the places we have visited to countries we will never set foot in, the best
+  we can do is to try to make some progress with our studies of D. H. Lawrence."
+
+ 9 Feb 2019  <a name="9-Feb-2019"></a>
+
+- <http://jazz-quotes.com/> - "... I've begun collecting quotes from different books
+  I have and from across the internet. ..."  For example:
+
+  <http://jazz-quotes.com/artist/miles-davis/>  Miles Davis:
+
+  "... you can't play everything at once!"
+
+  "Sometimes you have to play a long time to be able to play like yourself."
+
+  <http://jazz-quotes.com/artist/thelonious-monk/>  Thelonious Monk:
+
+  "Just because you're not a drummer doesn't mean you don't have to keep time."
+
+ 4 Feb 2019  <a name="4-Feb-2019"></a>
+
+- *How to Write a Thesis* by Umberto Eco (1977), pages x, xxvi, 5-7, 9-10,
+  110-111, 125, 142-144, 145, 149-150, 221 (no link). From the forward
+  by Francesco Erspamer: "Umberto Eco takes us back to the original
+  purpose of theses and dissertations ... They are not a test or exam,
+  nor should they be.  They are not meant to show that the student did
+  his or her homework.  Rather, they prove that students can *make*
+  something out of their education."
+
+  Eco: "... I became aware that many times over the course of my
+  readings, I had attributed to others ideas that they had merely
+  inspired me to look for; and many other times I remained convinced
+  that an idea was mine until, after revisiting some books read many
+  years before, I discovered that the idea, or its core, had come to
+  me from a certain author. ... research is a mysterious adventure
+  that inspires passion and holds many surprises.  Not just an
+  individual but also an entire culture participates, as ideas
+  sometimes travel freely, migrate, disappear, and reappear.  In this
+  sense, ideas are similar to jokes that become better as each person
+  tells them.
+
+  As we shall see, the rigor of a thesis is more important that its
+  scope.  One can even collect soccer trading cards with rigor
+  ... There will always be a difference between his collection and the
+  Louvre, but it is better to build a serious trading card collection
+  ... than to create a cursory art collection.
+
+  Writing a thesis requires a student to organize ideas and data, to
+  work methodically, and to build an "object" that in principle will
+  serve others.  ... If a student works rigorously, no topic is truly
+  foolish, and the student can draw useful conclusions even from a
+  remote or peripheral topic.
+
+  In 1957 the great contemporary Italian critic Gianfranco Contini
+  published a survey ... Had the survey been a thesis, it would have
+  earned a failing grade ... Contini dedicated entire chapters to
+  so-called "minor" authors and relegated certain "major" authors to
+  mentions in short footnotes or omitted them altogether.  The
+  committee would have attributed these choices to carelessness or
+  ignorance.  Naturally, since Contini is a scholar of recognized
+  historical knowledge and critical acumen, readers understood that
+  the omissions and disproportions were intentional, and the absence
+  of a particular author was a more eloquent expression of Contini's
+  disfavor than a hostile review.  But if a student in his twenties
+  plays the same trick, who guarantees that there is shrewdness behind
+  his silence?  Do the omissions replace criticism that the student
+  has written elsewhere, or that he *would be capable* of writing?
+
+  The purpose of this fictitious introduction (fictitous, because you
+  will rewrite it many times ...) is to allow you to give your ideas a
+  primary direction that will not change ... If you cannot write the
+  introduction, it means that you do not yet have clear ideas on how
+  to begin. ... And it is precisely on the basis of this suspicion
+  that you must write your introduction, as if it were a review of the
+  already completed work. ... The goal of a good final introduction is
+  to so satisfy and enlighten the reader that he does not need to read
+  any further.  This is a paradox, but often a good introduction
+  ... provides a reviewer with the right ideas, and prompts him to
+  speak about the book as the author wished.
+
+  Photocopies are indispensable instruments. ... But a set of
+  photocopies can become an alibi.  A student makes hundreds of pages
+  of photocopies and takes them home, and the manual labor he
+  exercises in doing so gives him the impression that he possesses the
+  work.  Owning the photocopies exempts the student from actually
+  reading them.  This sort of vertigo of accumulation, a neocapitalism
+  of information, happens to many.  Defend yourself from this trap: as
+  soon as you have the photocopy, read and annotate it immediately.
+  ... do not photocopy something new until you *own* (that is, before
+  you have read and annotated) the previous set of photocopies.  There
+  are many things that I *do not know* because I photocopied a text
+  and then relaxed as if I had read it.
+
+  ... *the best ideas may not come from the major authors.* This is
+  academic humility: the knowledge that anyone can teach us something.
+  ... The point is that we must listen with respect to anyone, without
+  this exempting us from pronouncing our value judgments; or from the
+  knowledge that the author's opinion is very different from ours, and
+  that he is ideologically very distant from us.  But even the
+  sternest opponent can suggest some ideas to us. ... I learned
+  ... that if I wanted to do research, as a matter of principle I
+  should not exclude any source.  This is what I call academic
+  humility. ...
+
+  ... it is a common belief that a popular work, where the topic is
+  explained so that anyone can understand it, requires less skill than
+  a specialized scientific report ... This is not completely
+  true. ... usually works that do not explain the terms they use
+  ... reveal authors who are more insecure than those who make every
+  reference and every step explicit.  If you read the great scientists
+  or the great critics, you will see that ... they are quite clear and
+  are not ashamed of explaining things well.
+
+  *You are not e. e. cummings.* ... he did all the things that an
+  avant-garde poet can and should do.  But you are not an avant-garde
+  poet.  Not even if your thesis is on avant-garde poetry. ... the
+  language of the thesis is a *metalanguage*, that is, a language that
+  speaks of other languages. ... From Dante to Eliot and from Eliot to
+  Sanguineti, when an avant-garde poet wanted to talk about their
+  poetry, they wrote in clear prose.  ... Are you a poet?  Then do not
+  pursue a university degree.
+
+  ... writing a thesis is like cooking a pig: nothing goes to waste.
+
+ 9-14 Jan 2019
+
+- *Clear and Simple as the Truth: Writing Classical Prose* by
+   Francis-Noel Thomas and Mark Turner (1994), pages 3 - 6, 13 - 14, 63, 81 -
+   87 (no link): "The teaching of writing in America is almost
+   entirely controlled by the view that teaching writing is teaching
+   verbal skills ... Our answer is that writing is an intellectual
+   activity, not a bundle of skills. ... any attempt to teach writing
+   by teaching writing skills detached from underlying conceptual
+   issues is doomed.
+
+   But it is possible to learn to write by learning a style of
+   writing.  We think conceptual stands are the basis of writing since
+   they define styles. ... verbal artifacts -- like plumage -- help
+   identify a style.  Nevertheless, in general, a style cannot be
+   defined, analyzed, or learned as a matter of verbal choices.
+
+   Writing is defined conceptually and leads to skills. ... But in no
+   case is the activity constituted by the skills.  Great painters are
+   often less skillful than mediocre painters; it is their concept of
+   painting, not their skills, that defines their activity ...
+   Intellectual activities generate skills, but skills do not generate
+   intellectual activities.  The relationship is not symmetric.
+
+   A style is defined by its conceptual stand on truth, presentation,
+   writer, reader, thought, language, and their relationships.
+   Classic style ... adopts the stance that its purpose is
+   presentation; its motive, disinterested truth.  Successful
+   presentation consists of aligning language with truth, and the test
+   of this alignment is clarity and simplicity.  The idea that
+   presentation is successful when language is aligned with truth
+   implies that truth can be known; truth needs no argument but only
+   accurate presentation; the reader is competent to recognize truth;
+   the symmetry between writer and reader allows the presentation to
+   follow the model of conversation; a natural language is sufficient
+   to express truth; and the writer knows the truth before he puts it
+   into language.
+
+   ... Once adapted, the classic stand offers a general style of
+   presentation suitable to any subject whatever. ... The style does
+   not limit the writer's subject matter or efface his individuality,
+   but the writer's individuality will be expressed principally by his
+   knowledge of his subject.
+
+   ... We coach our readers in the conceptual stand that might turn
+   them into classical writers, and contrast the classic stand with
+   some others: reflexive, practical, plain, contemplative, romantic,
+   prophetic, oratorical."
+
+   "Classic style is focused and assured.  Its virtues ... are its
+   vices.  It declines to acknowledge ambiguities, unessential
+   qualifications, doubts, or other styles ... writing in this style
+   requires no commitment to a set of beliefs, only a willingness to
+   adopt a role for a limited time and a specific purpose.  The role
+   is severely limited because ... The human condition does not, in
+   general, allow the degree of autonomy and certainty that the
+   classic writer pretends to have.  ... The insousiance required to
+   ignore what everyone knows and to carry the reader along in this
+   style cannot be maintained for very long, and the masters of the
+   style always know its limits.  The classic distance is a sprint."
+
+   "Abstractions can be clear and exact.  From the classic viewpoint,
+   the distinction between abstract and concrete has no consequence.
+   ... What matters is not the ontological category of the subject but
+   rather the style in which it is conceived. ... in classic style,
+   the human soul can be conceived as clearly and exactly as the tree
+   in front of your face. ..."
+
+   "Classical style is not practical style.  In the model scene behind
+   the practical style, the reader has a problem to solve ... a job to
+   do. ... in this scene, writing is an instrument for delivering
+   information with the maximum efficiency and in such a way as to
+   place the smallest possible burden on the reader ...  The best
+   known teachers of practical style are Strunk and White, in their
+   ubiquitous *Elements of Style*.  The best teachers of practical
+   style are Joseph Williams and Gregory Colomb, in Williams's *Style:
+   Toward Clarity and Grace* ... (that book) is missing only one thing: namely,
+   an explicit acknowledgment of its fundamental stand, and
+   acknowledgment that its fundamental stand is one of many
+   alternatives. ... In the model scene of practical style, readers
+   and writers hold standard job slots in existing institutions.
+   ... practical style serves the purpose of keeping the information
+   flowing efficiently through institutions. ...  There is a surface
+   mark of practical style ... (it) permits skimming ... you can
+   simply glance through and extract what you want.  If you try to
+   skim classic writing in this way, you run the risk of missing
+   indispensable nuances or refinements. ..."
+
+12 Nov 2018  <a name="12-Nov-2018"></a>
+
+- *Draft No. 4: John McPhee On the Writing Process* (2017), pages
+   19-20, 158-160, 162 (no link): "It doesn't matter that something
+   you've done before worked out well.  Your last piece is never going
+   to write your next one for you.  Square 1 does not become Square 2,
+   just Square 1 squared and cubed."
+
+   "You can build a structure in a such a way that it causes people to
+   to want to keep turning pages.  A compelling structure in
+   nonfiction can have an attracting effect analogous to a story line
+   in fiction."
+
+   "If your prose seems stillborn and you completely lack confidence,
+   you might be a writer.  ... if you tell people "you just love to
+   write," you may be delusional. ...  First drafts are slow and
+   develop clumsily ... That four-to-one ratio in writing time --
+   first draft versus all the other drafts combined -- has for me been
+   consistent in projects of any length ... The hardest part comes
+   first, getting something -- anything -- out in front of
+   me. ... With that, you have achieved a sort of nucleus ... you may
+   be actually writing only two or three hours a day, but your mind
+   ... is working on it twenty-four hours a day ... but only if some
+   sort of draft or earlier version aleady exists.  Until it exists,
+   writing has not really begun."
+
+   "You draw a box around not only around any word that does not seem
+   quite right but also around words that fulfill their assignment but
+   seem to present an opportunity.  ... If there's a box around
+   "sensitive" ... try "susceptible".  Why "susceptible?  Because you
+   looked up "sensitive" in the dictionary and it said "highly
+   susceptible."  With dictionaries, I spend a great deal more time
+   looking up words I know than words I have never heard of -- at
+   least ninety-nine to one.  The dictionary definitions of words you
+   are trying to replace are far more likely to help out than a
+   scattershot wad from a thesaurus."
+
+10 Nov 2018  <a name="10-Nov-2018"></a>
+
+- <https://www.metafilter.com/177575/Violin-Sonatas-etc> - Links to more
+  than fifty performances of sonatas for violin, viola, cello, and
+  double bass, listed in chronological order from Mozart to Philip
+  Glass.  With even more links from commenters, including some earlier
+  baroque pieces.
+
+27 Oct 2018  <a name="27-Oct-2018"></a>
+
+- <http://thequietus.com/articles/25409-richard-thompson-interview-favourite-albums?page=4> - 
+  Thompson talks about 13 favorite records including ... Moby Grape
+  !?  "They were the most interesting band that came out of the San
+  Francisco scene in the late 60s. They seemed less out of it, more
+  focused, and less noodly than some of the others. It's a record that
+  gets forgotten a bit, this one, but it's full of fantastic songs and
+  really well played, with a great guitarist in Jerry Miller. ..."
+
+- <https://jjon.github.io/Old-GooglePlus-Posts/> - Recommendations from
+  an eclectic musician, with links to recordings etc.  No-nonsense
+  list he recently rescued from the discontinued
+  <https://plus.google.com/u/0/collection/0T0sDB>
+
+19 Oct 2018  <a name="19-Oct-2018"></a>
+
+- <http://calculusmadeeasy.org/> - *Calculus Made Easy* by Silvanus
+  P. Thompson (1910) - "The text is based on the PDF version from
+  Project Gutenberg converted to html by hand." That is,
+  <http://www.gutenberg.org/ebooks/33283>
+
+ 6 Oct 2018  <a name="6-Oct-2018"></a>
+
+- *Uncommon People: The Rise and Fall of the Rock Stars*, David
+  Hepworth (2017), pages 2, 69, 280, 281 (no link): "Rock stars were
+  the product of an age when music was hard to access and was
+  treasured accordingly. ... This was in the days when any records,
+  but particularly imported American blues records, were such objects
+  of desire that enthusiasts would ofen embark on inconvenient
+  cross-town trips involving changing buses to visit somebody's house
+  where there was rumored to be a copy of some particular gem; once
+  there, they would play both sides again and again, staring
+  hypnotized at the spinning labels until both sight and sound had
+  been seared into memory. ...
+
+  (The rock star) made his name in the vanished world of records you could
+  hold in your hand. ... which we had secured by using all our available
+  cash in one particular week, a record that would, for a while at least,
+  be the most precious thing we owned.  ...
+
+  We now live in a world of unlimited supply and exhausted demand.  Music
+  can be every bit as good now as it used to be.  However, it can never be
+  as precious as it used to be.  It doesn't have our undivided attention
+  any longer. ... Now that we have easy access to everything, the
+  individual atoms that make up that everything are less significant in
+  themselves.  The same applies to the people associated with those atoms.
+  That's why we don't have rock stars anymore."
+
+30 Sep 2018  <a name="30-Sep-2018"></a>
+
+- *The Art of Fiction* by John Gardner (1983), Ch 6 Technique, p.
+  127 (no link) - "Writing an exercise, the beginning writer is doing
+  exactly what the professional does most of the time.  Much of what
+  goes into a real story or novel goes in not because the writer
+  desperately wants it there but because he needs it: The scene
+  justifies some later action, shows some basis of motivation, or
+  reveals some aspect of character without which the projected climax
+  of the action would not seem credible. ..."  According to the book,
+  this is the one way in which creative writing is like programming.
+  In every other way it is completely different.
+
+16 Sep 2018  <a name="16-Sep-2018"></a>
+
+- <https://arxiv.org/abs/1809.01639> - Making Better Sense of Quantum
+  Mechanics by N. David Mermin - "It once made sense to exclude the
+  scientist from scientific explanations of the physical world. This
+  warded off superstitious, animistic, or religious explanations. But
+  ... today it makes sense to insist that the scientist should not be
+  excluded from a philosophical understanding of the nature of
+  scientific explanation. ... the historic exclusion of the user,
+  while it may have helped get science off the ground, is today
+  responsible not only for the confusion at the foundations of quantum
+  mechanics, but also for a broader misunderstanding of the nature of
+  science in general."
+
+  In addition to this argument, much of the value here is in the review of
+  the opinions of many physicists and others, expressed in their own words
+  (via quotations).  But this paper didn't resolve any quantum mysteries
+  for me.
+
+ 9 Sep 2018  <a name="9-Sep-2018"></a>
+
+- <https://www.theatlantic.com/entertainment/archive/2018/07/a-writers-fixation-on-sound/565904/> - R. O. Kwon on Writing *The Incendiaries* - "I worked for 10 years
+  on my first book. ... I couldn’t feel done with my novel until I
+  could pick it up, read a line, and not desperately want to change
+  all the words.  ...  I spent two whole years just reworking the
+  first 20 pages over and over again. By the end, I had the most
+  reworked, totally inert pages I’ve ever seen in my life. It was just
+  going nowhere. ... (Lauren Groff suggested) The idea is to get
+  through early drafts as quickly as possible. ... I wrote whole
+  drafts by hand. Then I wrote using a program that acts just like a
+  typewriter: You can backspace once, but can’t cut and paste full
+  paragraphs, and can only move forward. Then, in Word, I wrote a
+  draft in which, every time I finished a paragraph, I turned the font
+  white so I couldn’t see it and mess with it anymore. ... There’s no
+  reason to do all that careful line-edit work when I’m still making
+  basic character and structural changes. ... As I continue, and start
+  to focus more on sound ... I do a lot of reading out loud to help me
+  determine whether the sound is working. ... When I’m finding joy in
+  a paragraph, there’s really no sentence where I’m getting bored."
+
+  "I keep a giant, running document of bits and pieces from books I
+  love. ... When I feel confused and lost ... I just go back to the
+  document and start reading.  ... I think there’s never been a time
+  when that hasn’t sparked something in me, and given me an idea or a
+  thought that can bring me back to my own writing ..."
+
+- <https://www.metafilter.com/176413/Time-for-some-classical-music> -
+  Eclectic suggestions by many ordinary music lovers, with links,
+  responding to these recommendations from nineteen composers,
+  musicians, and critics:
+  <https://www.nytimes.com/2018/09/06/arts/music/5-minutes-that-will-make-you-love-classical-music.html>
+  Also,
+  <https://ask.metafilter.com/326239/Please-recommend-me-many-requiems-music-books-movies-anything>
+
+26 Aug 2018, 31 Aug 2024  <a name="26-Aug-2018"></a>
+
+- <https://arxiv.org/abs/1807.08416> - Some Fundamental Theorems in
+  Mathematics by Oliver Knill - Linked PDF is a survey of modern math
+  in 133 pages, in the form of the "fundamental" theorem in each of
+  135 areas, all in the first 62 pages!  Followed by a rationale and
+  an explanation of "fundamental", by thirteen two-page lecture
+  summaries on key topics, by Twitter math: forty-two 140-character
+  statements of theorems with proof summaries, and more. "Teaching a
+  course called “Math from a historical perspective” at the Harvard
+  extension school led me to write up the present document. ... I’m
+  reporting on many of these theorems as a tourist and not as a
+  local."
+
+  <https://arxiv.org/pdf/1807.08416> - Full pdf, updated through Feb 2022.
+  This document is now 217 pages long.
+
+ 7 Aug 2018  <a name="7-Aug-2018"></a>
+
+- <https://believermag.com/broken-time/> - Broken Time: “Nardis” and the
+  Curious History of a Jazz Obsession - "Though superb versions of
+  “Nardis” have been recorded by everyone ... no one embodied its
+  melodic potential more than Bill Evans. ..." much about Evans, some
+  about Ralph Towner and Richard Beirach, bits about Miles Davis and
+  several more. Via <https://www.metafilter.com/175776/Broken-Time>
+  which also links to <https://www.jmeshel.com/124-bill-evans-nardis/>
+  with 19 different recordings by Bill Evans, and also via
+  <https://news.ycombinator.com/item?id=17684477> with links to more
+  performances by Evans, Towner, and guitarist Antoine Boyer.
+  Evans talks about music between playing with the trio at this house
+  concert in Helsinki in 1970: <https://www.youtube.com/watch?v=C0AcvMBPuZI>
+
+16 Jul 2018  <a name="16-Jul-2018"></a>
+
+- <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1012.html> -
+  "Roughly speaking, there are two ways in which people try to reason
+  about programs; I shall distinguish them as “the postulational
+  method” and “the operational method”. ... The tragedy of today's
+  world of programming is that, to the extent that it reasons about
+  programs at all, it does so almost exclusively operationally. ..."
+  Don't miss the version in Dijkstra's handwriting at
+  <https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1012.PDF> See also
+  <https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1073.html>
+  (or .pdf) for some short examples of mathematics in the form he
+  advocates.  See
+  <https://www.cs.utexas.edu/~EWD/transcriptions/EWD13xx/EWD1300.html>
+  for a lengthy rationale for this form.  Much much more at
+  <https://www.cs.utexas.edu/~EWD/welcome.html>
+
+- <http://www.ams.org/notices/201201/rtx120100031p.pdf> - A Revolution
+  in Mathematics? by Frank Quinn.  Similar argument to EWD1012 above,
+  but from a mathematician, not a computer scientist. "The physical
+  sciences all went through 'revolutions': wrenching transitions in
+  which methods changed radically and became much more powerful.  It
+  is not widely realized, but there was a similar transition in
+  mathematics between about 1890 and 1930. ... The strangest
+  difference is that the scientific revolutions were highly visible,
+  while the significance of the mathematical event is essentially
+  unrecognized. ..."
+
+22 May 2018  <a name="22-May-2018"></a>
+
+- <https://www.metafilter.com/174248/A-plethora-of-Sun-Ras-four-decades-of-baffling-dazzling-mystical-jazz>
+  Long annotated discography and links to performances at YouTube and
+  Bandcamp.  Defies description or summarization.
+
+- <http://www.ubuweb.com/> UbuWeb.  "All avant-garde.  All the time."
+  One of many many pages is <http://www.ubu.com/emr/> Electronic Music
+  Resources: "We've taken the filing cabinet as our model, rather
+  than the museum, and our focus is on historical and rare material
+  rather than recent developments."  Interesting austere page design.
+
+ 9 May 2018  <a name="9-May-2018"></a>
+
+- <https://www.metafilter.com/174029/Sextets-septets-octets-nonets>
+  "Stepping beyond the more familiar three-, four- and five-piece
+  line-ups, there is a wealth of classical music out there composed
+  for slightly bigger bands. ... a small selection of which can be
+  found via the links within..."  Also links to:
+  <https://www.metafilter.com/166863/Piano-violin-and-cello>
+  <https://www.metafilter.com/163338/String-Quartets>
+  <https://www.metafilter.com/170478/Piano-Quintets>
+1
+6 Apr 2018  <a name="6-Apr-2018"></a>
+
+- <http://www.vulture.com/article/100-most-influential-pages-comic-book-history.html> - "We have set out to trace the evolution of American comics by
+  looking at 100 pages that altered the course of the field’s
+  history." From 1929 to 2014.
+
+15 Apr 2018  <a name="15-Apr-2018"></a>
+
+- <https://www.metafilter.com/173509/Take-me-for-a-walk-in-the-morning-dew-my-honey> - "Morning Dew is a post-nuclear protest song, written in 1961 by
+  Canadian Bonnie Dobson ... the power of the song is evidenced by
+  the vast number of covers over the years."  History,
+  recollections, links to many versions.
+
+22 Mar 2018  <a name="22-Mar-2018"></a>
+
+- <http://invislib.blogspot.com/2008/08/t.html> - "The Invisible Library
+  ... catalog of books that exist only within other books", including
+  "TRAPNEL, X. (Frances Xavier): Bin Ends, Camel Ride to the Tomb,
+  Dogs Have No Uncles, Profiles in String  —from Anthony Powell's A
+  Dance to the Music of Time"
+
+- <http://www.bachrewrite.com/en/> - "Bach played on electric pianos ...
+  the point was the combination of a period-instrument orchestra with
+  the sound of the Wurlitzer and Rhodes, which – perversely – should
+  now also be treated as historical instruments."  Interesting
+  black-and-white page design and photography.
+
+16 Mar 2018  <a name="16-Mar-2018"></a>
+
+- <https://standardebooks.org/about/> - "The Standard Ebooks project
+  differs from those etext projects (Gutenberg, Archive) in that we
+  aim to make free public domain ebooks that are carefully typeset,
+  cleaned of ancient and irrelevant ephemera, take full advantage of
+  modern ereading technology, are formatted according to a detailed
+  style guide, and that are each held to a standard of quality and
+  internal consistency."
+
+ 7 Mar 2018  <a name="7-Mar-2018"></a>
+
+- <https://ask.metafilter.com/319841/Classical-music-desert-island-playlistfor-the-Isle-of-the-Dead>
+  "I am on a hunt for little or lesser-known classical music that
+  invokes disquiet or suspense in the listener."  Many many responses.
+  "These are fabulous suggestions! I have slowly been working my way
+  through this list..."
+
+ 4 Mar 2018  <a name="4-Mar-2018"></a>
+
+- <https://ask.metafilter.com/319733/Classical-Music-looking-for-contrasting-performances-of-the-same-piece>
+  "recommendations from some classical music heads of two or more
+  performances of the same piece, both which differ from each other
+  and are good (or great) versions of the composition they're
+  representing."  Soon followed by this, "inspired by a Mefi comment":
+  <https://ask.metafilter.com/319738/Music-that-gives-you-chills>
+  "... music that has a real emotional and physiological effect like
+  this, that makes your heart go faster and catches your breath. ...
+  music that give you chills down your spine and bring tears to your
+  eyes. Music that leaves you breathless."
+
+ 8 Jan 2018  <a name="8-Jan-2018"></a>
+
+- <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4522609/> "Fifty
+  psychological and psychiatric terms to avoid: a list of inaccurate,
+  misleading, misused, ambiguous, and logically confused words and
+  phrases" "a provisional list of 50 commonly used terms in
+  psychology, psychiatry, and allied fields that should be avoided, or
+  at most used sparingly and with explicit caveats. We provide
+  corrective information for students, instructors, and researchers"
+
+22 Dec 2017  <a name="22-Dec-2017"></a>
+
+- <https://www.metafilter.com/171362/All-I-want-for-Christmas-is-a-crapton-of-jazz>
+  links to jazz Christmas music
+
+20 Dec 2017  <a name="20-Dec-2017"></a>
+
+- <https://www.metafilter.com/171286/Well-you-neednt-listen-But-you-should>
+  Links about Thelonious Monk, links to his music by himself and others.
+
+- <https://www.metafilter.com/142742/Nica> - Links about Kathleen Annie
+  Pannonica Rothschild, patroness of jazz, especially Monk.  Also
+  links to Monk's music.
+
+17 Dec 2017  <a name="17-Dec-2017"></a>
+
+- http://www.inbflat.net/ <http://www.inbflat.net/faq.html>
+  In Bb, a collaborative music and spoken word project,
+  partly inspired by Terry Riley's In C.
+  <https://news.ycombinator.com/item?id=15941838>
+
+13 Nov 2017  <a name="13-Nov-2017"></a>
+
+- <https://vimeo.com/89837165> - John Coltrane 'A Love Supreme' only
+   live performance July 26, 1965 - only 14 minutes.  via
+   <http://www.metafilter.com/170480/July-26-1965-A-Love-Supreme-Live>
+
+ 3 Oct 2017  <a name="3-Oct-2017"></a>
+
+- <https://www.newyorker.com/magazine/2013/01/14/structure> - Structure,
+  by John McPhee, on his use of the KEdit editor.
+
+19 Jul 2017  <a name="19-Jul-2017"></a>
+
+- <http://ask.metafilter.com/311380/Other-jazz-standards-like-these-jazz-standards>
+  many heartfelt recommendations for an aspiring pianist, with links
+  to youtube for many many standards
+  (links.html 21 Jul 2017)
+
+11 May 2017  <a name="11-May-2017"></a>
+
+- <http://www.metafilter.com/166863/Piano-violin-and-cello> - many links
+   to YouTube, also a YouTube playlist.
+
+ 9 Dec 2016  <a name="9-Dec-2016"></a>
+
+- www.rle.mit.edu/rgallager/documents/BooleShannon.pdf - Claude
+  Shannon's methods and accomplishments, lecture by Robert Gallager:
+  "Shannon's genius lay in finding the "right way", the "simple way"
+  to look at everyday technical problems" "Searching for simplicity is
+  really searching for intuitive understanding of a simplified version
+  of the problem that doesn't ignore the underlying original issues"
+  "Graduate students often mistake simplicity for triviality .. The
+  misconception is that it takes the best students to solve the most
+  complex problems.  Actually, it takes the best students to *find*
+  the simplest open problems."
+
