@@ -59,8 +59,9 @@ the commit history.
    "Lyoi had asked each of us to read a Borges poem.  I chose "El
    remordimiento" ("Remorse"), a sonnet that my father had cut out of
    the Buenos Aires paper in which it was first published and kept by
-   his bed until the day of his death.  The first line reads: "I have
-   committed the worst of sins: I have not been happy".  ...
+   his bed until the day of his death.  The first line reads:
+
+   - I have committed the worst of sins: I have not been happy.
 
    In 1923, Borges dedicated his first poetry collection to his readers
    ... The dedication reads:
@@ -194,7 +195,7 @@ the commit history.
   debate the matters on which Milton meditates through the abstract concepts
   of philosophy or psychology, but those disciplines employ figures,
   metaphors, and symbols just as surely as Milton's poem does, with its
-  devlis, angels, and talking snakes. ...
+  devlis, angels, and talking snakes.
 
   In *Paradise Lost*, Satan denies the fact that he was created by a power
   beyond himself, instigates the idolatrous worship of signs, transmits his
