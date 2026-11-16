@@ -10,6 +10,16 @@ Companion page on computing:
 Companion page, a commonplace book:
 <https://github.com/jon-jacky/home/blob/gh-pages/commonplace.md>
 
+15 Nov 2026  <a name="15-Nov-2026"></a>
+
+- <https://www.bauhaus-bookshelf.org/bauhaus-original-sources-for-pdf-download> -
+  bauhaus bookshelf
+
+  Scroll down about 20 percent for the section on Paul Klee, with links to
+  his notebooks.
+
+  More about Bauhaus at [29 Jan 2020](#29-Jan-2020)
+
 17 Oct 2026  <a name="17-Oct-2026"></a>
 
 - <https://mediainspiratorium.com/1960-1970/> - 
